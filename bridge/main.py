@@ -21,8 +21,10 @@ CLASS_MAP = {
     "ironclad": PlayerClass.IRONCLAD,
     "silent": PlayerClass.THE_SILENT,
     "defect": PlayerClass.DEFECT,
-    "watcher": PlayerClass.WATCHER,
 }
+# vendor 的 spirecomm（2019）无 WATCHER 枚举；补上 stance 后升级 spirecomm 再启用
+if hasattr(PlayerClass, "WATCHER"):
+    CLASS_MAP["watcher"] = PlayerClass.WATCHER
 
 
 def main():

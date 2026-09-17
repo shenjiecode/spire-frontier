@@ -9,8 +9,9 @@ from datetime import datetime
 from pathlib import Path
 
 from spirecomm.ai.agent import Agent
-from spirecomm.communication.action import StateAction
+from spirecomm.communication.action import CancelAction, ChooseAction, StateAction
 from spirecomm.spire.character import PlayerClass
+from spirecomm.spire.screen import ScreenType
 
 logger = logging.getLogger("rule_agent")
 
@@ -71,14 +72,69 @@ class RuleAgent(Agent):
         return action
 
     def get_screen_action(self):
+        if self.game.screen_type == ScreenType.SHOP_SCREEN:
+            action = self._shop_screen_action()
+            self._log("shop", {"action": str(action.command)})
+            return action
         action = super().get_screen_action()
         self._log("screen_action", {"screen": str(self.game.screen_type), "action": str(action.command)})
         return action
 
+    def _shop_screen_action(self):
+        """复现 CommunicationMod 商店选择列表的构成顺序，用索引购买（避免本地化卡名编码问题）。
+
+        游戏端列表顺序：purge(若可用且买得起) → 买得起的卡(彩色→无色) → 遗物 → 药水。
+        决策策略沿用基类：优先删卡，再买第一张不被跳过的卡，再买第一个遗物，否则取消。
+        """
+        screen, gold = self.game.screen, self.game.gold
+        items = []  # (kind, obj)
+        if screen.purge_available and gold >= screen.purge_cost:
+            items.append(("purge", None))
+        for c in screen.cards:
+            if c.price <= gold:
+                items.append(("card", c))
+        for r in screen.relics:
+            if r.price <= gold:
+                items.append(("relic", r))
+        for p in screen.potions:
+            if p.price <= gold:
+                items.append(("potion", p))
+        if items and items[0][0] == "purge":
+            return ChooseAction(choice_index=0)
+        for i, (kind, obj) in enumerate(items):
+            if kind == "card" and not self.priorities.should_skip(obj):
+                return ChooseAction(choice_index=i)
+        for i, (kind, obj) in enumerate(items):
+            if kind == "relic":
+                return ChooseAction(choice_index=i)
+        return CancelAction()
+
     def get_card_reward_action(self):
-        action = super().get_card_reward_action()
-        self._log("card_reward", {"action": str(action.command)})
-        return action
+        """基类发 choose <卡名>，中文名经 stdin 管道易编码错位被游戏拒绝；改用索引。"""
+        screen = self.game.screen
+        reward_cards = screen.cards
+        if screen.can_skip and not self.game.in_combat:
+            pickable = [
+                card for card in reward_cards
+                if self.priorities.needs_more_copies(
+                    card, sum(1 for c in self.game.deck if c.card_id == card.card_id)
+                )
+            ]
+        else:
+            pickable = reward_cards
+        if len(pickable) > 0:
+            best = self.priorities.get_best_card(pickable)
+            return ChooseAction(choice_index=reward_cards.index(best))
+        elif screen.can_bowl:
+            return ChooseAction(name="bowl")  # ASCII，无编码风险
+        self.skipped_cards = True
+        return CancelAction()
+
+    def get_next_boss_reward_action(self):
+        """同上：Boss 遗物奖励改用索引（列表顺序 = screen.relics 顺序）。"""
+        relics = self.game.screen.relics
+        best = self.priorities.get_best_boss_relic(relics)
+        return ChooseAction(choice_index=relics.index(best))
 
     def get_map_choice_action(self):
         action = super().get_map_choice_action()

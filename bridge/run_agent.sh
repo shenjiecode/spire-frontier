@@ -4,4 +4,7 @@
 set -euo pipefail
 REPO="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$REPO"
+# Steam 沙盒内 LANG 可能未设：强制 Python 侧 UTF-8，与游戏端 stdin 编码对齐
+export PYTHONIOENCODING=utf-8
+export LANG=C.UTF-8 LC_ALL=C.UTF-8
 exec "$REPO/.venv/bin/python" -m bridge.main "$@"

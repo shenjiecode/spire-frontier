@@ -9,8 +9,8 @@ import sys
 import time
 from pathlib import Path
 
-# vendor 优先，避免环境里装了别的 spirecomm 版本
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "vendor"))
+# vendor 优先，避免环境里装了别的 spirecomm 版本（注意：指向 vendor 内的项目根，包在其下一层）
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "vendor" / "spirecomm"))
 
 from spirecomm.communication.coordinator import Coordinator  # noqa: E402
 from spirecomm.spire.character import PlayerClass  # noqa: E402

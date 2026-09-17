@@ -6,7 +6,7 @@ import json
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "vendor"))
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "vendor" / "spirecomm"))
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from spirecomm.spire.game import Game  # noqa: E402

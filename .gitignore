@@ -27,3 +27,6 @@ logs/
 # 系统
 .DS_Store
 Thumbs.db
+
+# mod jar 与游戏侧文件
+game-mods/

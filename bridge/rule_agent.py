@@ -9,6 +9,7 @@ from datetime import datetime
 from pathlib import Path
 
 from spirecomm.ai.agent import Agent
+from spirecomm.communication.action import StateAction
 from spirecomm.spire.character import PlayerClass
 
 logger = logging.getLogger("rule_agent")
@@ -33,11 +34,19 @@ class RuleAgent(Agent):
             "event": event,
             "floor": getattr(self.game, "floor", None),
             "act": getattr(self.game, "act", None),
-            "hp": getattr(getattr(self.game, "player", None), "current_hp", None),
+            "hp": getattr(self.game, "current_hp", None),
             "payload": payload,
         }
         with self.log_path.open("a", encoding="utf-8") as f:
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+    def handle_error(self, error):
+        """命令被游戏拒绝（如商店动画期间命令竞争）时：记日志、刷新状态、继续玩。
+
+        spirecomm 基类默认直接 raise，会杀死 bridge 进程导致游戏永久等待。"""
+        logger.warning("命令被拒，刷新状态重试: %s", error)
+        self._log("command_error", {"error": str(error)})
+        return StateAction()
 
     # ---------- 基类钩子：决策全部交给基类实现，只记日志 ----------
 

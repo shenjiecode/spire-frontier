@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# 环境与密钥
+.env
+*.key
+
+# 媒体与大文件（视频/记忆库不入库，走本地目录或 LFS）
+*.mp4
+*.flv
+*.m4s
+*.memory/
+clips/
+downloads/
+
+# 日志与临时
+logs/
+*.log
+.cynos/
+
+# 系统
+.DS_Store
+Thumbs.db

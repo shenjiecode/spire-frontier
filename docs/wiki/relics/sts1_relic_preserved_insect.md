@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Enemies in Elite combats have 25% less HP.The insect seems to create a shrinking aura that targets particularly large enemies.", "flavor": "The insect seems to create a shrinking aura that targets particularly large enemies."} |
+| `effect_json` | {"description_en": "Enemies in Elite combats have 25% less HP.The insect seems to create a shrinking aura that targets particularly large enemies.", "description_zh": "精英战中的敌人生命减少 #b% 。", "flavor": "The insect seems to create a shrinking aura that targets particularly large enemies.", "flavor_en": "The insect seems to create a shrinking aura that targets particularly large enemies.", "flavor_zh": "这只昆虫似乎会对尤其巨大的敌人们散发出虚弱的光环。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 昆虫标本 | `single_source` | [昆虫标本](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492300&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Preserved Insect<br>|Image       = PreservedInsect.png<br>|Rarity      = Common<br>|Description = Enemies in Elite combats have 25% less HP.<br>|Flavor      = The insect seems to create a shrinking aura that targets particularly large enemies.<br>}}<br>{{R|Preserved Insect}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. It reduces the HP of enemies in [[Elite]] encounters by 25%. The Max HP of the elite enemies are unaffected by the HP penalty; in... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

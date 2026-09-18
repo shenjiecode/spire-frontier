@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Healing is 50% more effective during combat.A flower long thought extinct, somehow preserved in perfect condition.", "flavor": "A flower long thought extinct, somehow preserved in perfect condition."} |
+| `effect_json` | {"description_en": "Healing is 50% more effective during combat.A flower long thought extinct, somehow preserved in perfect condition.", "description_zh": "战斗中的回复效果提升 #b50% 。", "flavor": "A flower long thought extinct, somehow preserved in perfect condition.", "flavor_en": "A flower long thought extinct, somehow preserved in perfect condition.", "flavor_zh": "被认为是早已绝种的一朵花，竟被完美地保存了下来。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 魔法花 | `single_source` | [魔法花](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515926&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Magic Flower<br>|Image       = MagicFlower.png<br>|Rarity      = Rare<br>|Character   = Ironclad<br>|Description = Healing is 50% more effective during combat.<br>|Flavor      = A flower long thought extinct, somehow preserved in perfect condition.<br>}}<br>{{R|Magic Flower}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. All healing received during combat is multiplied by x1.5, rounded to the... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

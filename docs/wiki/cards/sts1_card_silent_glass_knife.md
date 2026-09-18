@@ -21,11 +21,11 @@
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
 | `Base` | `1.0` | Deal 8 damage twice. Decrease the damage of this card by 2 this combat. | 造成8点伤害两次。这张牌每被打出一次，在本场战斗中其基础伤害减少2。 玻璃刀刃+  造成12点伤害两次。这张牌每被打出一次，在本场战斗中其基础伤害减少2。 | 未保存 |
-| `Upgraded` | `1.0` | Deal 12 damage twice. Decrease the damage of this card by 2 this combat. | 未采集 | 未保存 |
+| `Upgraded` | `1.0` | Deal 12 damage twice. Decrease the damage of this card by 2 this combat. | 造成8点伤害两次。这张牌每被打出一次，在本场战斗中其基础伤害减少2。 玻璃刀刃+  造成12点伤害两次。这张牌每被打出一次，在本场战斗中其基础伤害减少2。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -58,4 +58,4 @@
 | `source.title_text` | 玻璃刀刃 | `single_source` | [玻璃刀刃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494148&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Glass Knife<br>|Image       = Green-GlassKnife.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Rare<br>|Cost        = 1<br>|Description = Deal (8;12) damage twice. Decrease the damage of this card by 2 this combat.<br>}}<br>{{C|Glass Knife}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card.<br><br>== Interactions ==<br>=== Synergies ===<br>* Be... | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

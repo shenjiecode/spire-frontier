@@ -59,4 +59,4 @@
 | `source.title_text` | 结茧 | `single_source` | [结茧](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536978&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Chrysalis<br>|Image       = Colorless-Chrysalis.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 2<br>|Description = Shuffle (3;5) random Skills into your draw pile. They cost 0 this combat.<br>{{KW|Exhaust}}.<br>|GivesToPlayer = Exhaust<br>}} <br>{{Keyword Infobox|Exhaust}}<br>{{C|Chrysalis}} is a 2 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Ca... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -55,4 +55,4 @@
 | `source.title_text` | 受伤 | `single_source` | [受伤](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537288&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Injury<br>| Image       = Curse-Injury.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>| GivesToPlayer = Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Injury}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card.<br><br>== Obtaining Writhe ==<br>Like most {{QueryLink|Cards|type:Curse|Curses}}, Injury can be ob... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

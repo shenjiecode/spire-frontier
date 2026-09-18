@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "At the start of your turn, Upgrade a random card in your hand for the rest of combat.The cursed tongs emit a strong desire to return to where they were stolen from.", "flavor": "The cursed tongs emit a strong desire to return to where they were stolen from."} |
+| `effect_json` | {"description_en": "At the start of your turn, Upgrade a random card in your hand for the rest of combat.The cursed tongs emit a strong desire to return to where they were stolen from.", "description_zh": "在你的每个回合开始时，随机 #y升级 一张你的手牌（只影响本场战斗）。", "flavor": "The cursed tongs emit a strong desire to return to where they were stolen from.", "flavor_en": "The cursed tongs emit a strong desire to return to where they were stolen from.", "flavor_zh": "这对被偷来的诅咒铁钳上散发着强烈的怨念，它似乎十分想要回到原本的地方。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 弯曲铁钳 | `single_source` | [弯曲铁钳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525854&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Warped Tongs<br>|Image       = WarpedTongs.png<br>|Rarity      = Event<br>|Source      = Ominous Forge<br>|Description = At the start of your turn, {{KW|Upgrade}} a random card in your hand for the rest of combat.<br>|Flavor      = The cursed tongs emit a strong desire to return to where they were stolen from.<br>|GivesToPlayer = Upgrade<br>}}<br>{{Keyword Infobox|Upgrade}}{{R|Warped Tongs}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]].<br><br>== S... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

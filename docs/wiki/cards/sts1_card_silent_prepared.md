@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 早有准备 | `single_source` | [早有准备](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494838&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Prepared<br>|Image       = Green-Prepared.png<br>|Color       = Green<br>|Type        = Skill<br>|Rarity      = Common<br>|Cost        = 0<br>|Description = Draw (1;2) (card;cards).<br>Discard (1;2) (card;cards).<br>|Keywords    = Draw, Discard<br>}}<br>{{C|Prepared}} is a 0 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Skill|Skill}} Card. It draws 1 card (2 ... | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

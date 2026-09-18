@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 弹幕齐射 | `single_source` | [弹幕齐射](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495549&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>|Name        = Barrage<br>|Image       = Blue-Barrage.png<br>|Color       = Blue<br>|Type        = Attack<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Deal (4;6) damage for each {{KW|Channel|Channeled}} Orb.<br>|InteractsWith = Channel<br>}}<br>{{Keyword Infobox|Channel}}<br>{{C|Barrage}} is a 1 {{Icon|BE}} cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Attack|Attack}}... | `single_source` | [P3 wiki.gg API batch: card 12](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Purity|Swift_Strike|Defend_(Silent)|Quick_Slash|Strike_(Ironclad)|Defend_(Ironclad)|Tempest|Infinite_Blades|Adrenaline|Madness|Pain|Eruption|Blade_Dance|Outmaneuver|Static_Discharge|Meteor_Strike|Infernal_Blade|Barrage|Setup|Headbutt&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

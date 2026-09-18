@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 充电 | `single_source` | [充电](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=549928&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>|Name        = Charge Battery<br>|Image       = Blue-ChargeBattery.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Gain (7;10) {{KW|Block}}.<br>Next turn, gain {{Icon|BE}}.<br>|GivesToPlayer = Energized (Defect), Block<br>|PowerGives = Energy<br>}} <br>{{Keyword Infobox|Block}} {{Power Infobox|Energized (Defect)}}<br>{{C|Charge Battery}} is a 1 {{Icon|BE}} cost {{QueryLink|Cards|c... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

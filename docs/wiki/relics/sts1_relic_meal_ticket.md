@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you enter a shop, heal 15 HP.Complimentary meatballs with every visit!", "flavor": "Complimentary meatballs with every visit!"} |
+| `effect_json` | {"description_en": "Whenever you enter a shop, heal 15 HP.Complimentary meatballs with every visit!", "description_zh": "每当你进入商店房间时，回复 #b 点生命。", "flavor": "Complimentary meatballs with every visit!", "flavor_en": "\"Complimentary meatballs with every visit!\"", "flavor_zh": "“这里的肉丸子可是有名的！以后每次来都可以尝尝哦！”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 餐券 | `single_source` | [餐券](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494924&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Meal Ticket<br>|Image       = MealTicket.png<br>|Rarity      = Common<br>|Description = Whenever you enter a shop, heal 15 HP.<br>|Flavor      = Complimentary meatballs with every visit!<br>}}<br>{{R|Meal Ticket}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]]. The player does not need to open the shop's inventory to trigger the healing effect since it happens automatically upon entering the [[Merchant|Shop]] floor. The ... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

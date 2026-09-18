@@ -8,6 +8,8 @@
 - 中文：斋戒
 - English: Fasting
 
+别名/候选：Fasting (`en`, verified_game)
+
 ## 卡牌属性
 
 - 颜色：`Purple`
@@ -25,7 +27,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -48,9 +50,10 @@
 | `card.tags` | ["Dexterity", "Strength"] | `provisional` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Power | `provisional` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | DEPRECATED | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
-| `game.card.description` | DEPRECATED | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
+| `game.card.description` | 获得 !M! 点 力量 。 NL 获得 !M! 敏捷 。 NL 每回合开始时少获得1 [W] 。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
 | `game.localization.name` | DEPRECATED | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
-| `game.localization.name` | DEPRECATED | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
+| `game.localization.name` | 斋戒 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
+| `game.localization_alias` | {"canonical_key": "Fasting2", "deprecated": true, "key": "Fasting", "kind": "card"} | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Fasting", "kind": "card", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `source.article_text` | 斋戒<br>获得3点力量。获得3敏捷。每回合开始时少获得一点能量。<br>斋戒+<br>获得4点力量。获得4敏捷。每回合开始时少获得一点能量。<br>测试画风<br>（图片未提供文字说明） | `single_source` | [斋戒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958994&wiki_id=646570) |
 | `source.image_urls` | {"base": "https://slaythespire.wiki.gg/images/thumb/Purple-Fasting.png/150px-Purple-Fasting.png?d21a38", "upgrade": "https://slaythespire.wiki.gg/images/thumb/Purple-FastingPlus.png/150px-Purple-FastingPlus.png?c56077"} | `single_source` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -59,4 +62,4 @@
 | `source.title_text` | 斋戒 | `single_source` | [斋戒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958994&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Fasting<br>|Image       = Purple-Fasting.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 2<br>|Description = Gain (3;4) {{BD|Strength}}. <br>Gain (3;4) {{BD|Dexterity}}. <br>Gain 1 less {{Icon|PE}} at the start of each turn.<br>}}<br>{{Power Infobox|Fasting}}{{C|Fasting}} is a 2 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Power|Po... | `single_source` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer gain Gold.This blob of slime and energy seems to pulse with life.", "flavor": "This blob of slime and energy seems to pulse with life."} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer gain Gold.This blob of slime and energy seems to pulse with life.", "description_zh": "你不能再获得任何 #y金币 。在回合开始时获得 [E] 。", "flavor": "This blob of slime and energy seems to pulse with life.", "flavor_en": "This blob of slime and energy seems to pulse with life.", "flavor_zh": "这团黏液与能量的混合物微微脉动，仿佛有着生命。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 灵体外质 | `single_source` | [灵体外质](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523663&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Ectoplasm<br>|Image       = Ectoplasm.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. You can no longer gain [[Gold]].<br>|Flavor      = This blob of slime and energy seems to pulse with life.<br>}}<br>{{Keyword Infobox|Energy}}{{R|Ectoplasm}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

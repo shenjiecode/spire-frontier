@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Upon pickup, obtain an additional copy of a card in your deck.I look funny in this.", "flavor": "I look funny in this."} |
+| `effect_json` | {"description_en": "Upon pickup, obtain an additional copy of a card in your deck.I look funny in this.", "description_zh": "拾起时，从你的牌组中选择一张牌进行复制。选择1张牌复制。", "flavor": "I look funny in this.", "flavor_en": "\"I look funny in this.\"", "flavor_zh": "“照出来我的样子怪怪的。”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 多利之镜 | `single_source` | [多利之镜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494896&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Dolly's Mirror<br>|Image       = DollysMirror.png<br>|Rarity      = Shop<br>|Description = Upon pickup, obtain an additional copy of a card in your deck.<br>|Flavor      = I look funny in this.<br>|Keywords    = Deck<br>}}<br>{{R|Dolly's Mirror}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. On pickup, it allows the player to choose any card in their deck to gain an exact duplicate of.<br><br>== Sources ==<br>* Can only be... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

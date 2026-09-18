@@ -59,4 +59,4 @@
 | `source.title_text` | 迅捷打击 | `single_source` | [迅捷打击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536777&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Swift Strike<br>|Image       = Colorless-SwiftStrike.png<br>|Color       = Colorless<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Deal (7;10) damage.<br>}}<br>{{C|Swift Strike}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 7 (10 if upgraded) damage.<br><br>== Obtaining Swift Strike ==<br>{{C|Sw... | `single_source` | [P3 wiki.gg API batch: card 12](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Purity|Swift_Strike|Defend_(Silent)|Quick_Slash|Strike_(Ironclad)|Defend_(Ironclad)|Tempest|Infinite_Blades|Adrenaline|Madness|Pain|Eruption|Blade_Dance|Outmaneuver|Static_Discharge|Meteor_Strike|Infernal_Blade|Barrage|Setup|Headbutt&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

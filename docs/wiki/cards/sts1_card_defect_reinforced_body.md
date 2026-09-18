@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 硬化机体 | `single_source` | [硬化机体](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=550052&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Reinforced Body<br>|Image       = Blue-ReinforcedBody.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = -1<br>|Description = Gain (7;9) {{KW|Block}} X times.<br>}}<br>{{C|Reinforced Body}} is an X {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|SKill}} Card.<br><br>== Interactions ==<br>=== Synergies ===<br>* Benefits '''X''' times fro... | `single_source` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

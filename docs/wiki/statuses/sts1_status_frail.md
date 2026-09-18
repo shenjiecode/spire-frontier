@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `polarity` | neutral |
+| `polarity` | negative |
 
 ## 相关条目
 
@@ -37,5 +37,7 @@
 | `source.image_urls` | ["https://imgheybox.max-c.com/web/bbs/2024/08/19/0f6f32d3453f550301e1f17d6b8dc748.png"] | `single_source` | [脆弱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501539&wiki_id=646570) |
 | `source.title_text` | 脆弱 | `single_source` | [脆弱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501539&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Template:Under Construction}}<br>{{#setmainimage:Intent_Debuff.png|quiet}}<br>{{TOC limit|2}}<br>See also: [[Buffs]]<br><br>== Stack Types ==<br>{{Hatnote|'''Note:''' These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.}}<br>* '''Intensity Debuffs''' are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat e... | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | Gain 25% less Block from cards for X turn(s). | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 在 X 个回合内，从卡牌中获得的 格挡 减少 25% 。 | `single_source` | [脆弱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501539&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

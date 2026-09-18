@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "Enter Divinity.", "flavor": ""} |
+| `effect_json` | {"description_en": "Enter Divinity.", "description_zh": "进入 #y神格 #y姿态 。", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 仙馔密酒 | `single_source` | [仙馔密酒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953452&wiki_id=646570) |
 | `source.wikitext` | {{Potion Infobox<br>| Name        = Ambrosia<br>| Image       = Ambrosia.png<br>| Rarity      = Rare<br>| Character   = Watcher<br>| Description = Enter {{KW|Divinity}}.<br>| GivesToPlayer = Divinity<br>}}<br>{{Keyword Infobox|Divinity}}<br>{{P|Ambrosia}} is a {{QueryLink|Potions|character:Watcher|Watcher-exclusive}} {{QueryLink|Potions|rarity:Rare|Rare}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br><br>=== Synergies ===<br><!-- Include any rele... | `single_source` | [P3 wiki.gg API batch: potion 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Ambrosia|Smoke_Bomb&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

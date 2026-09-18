@@ -12,6 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
+| `definition_json` | {"definition_en": "Upon exiting this #yStance, gain [W] [W] .", "definition_zh": "离开这一 #y姿态 时，获得 [W] [W] 。"} |
 
 ## 相关条目
 
@@ -34,5 +35,6 @@
 | `game.localization.name` | calm | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `game.localization.name` | 平静 | `verified_game` | [Game localization zhs/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/keywords.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "CALM", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
+| `keyword.definition` | {"definition_en": "Upon exiting this #yStance, gain [W] [W] .", "definition_zh": "离开这一 #y姿态 时，获得 [W] [W] 。", "wiki_sections": []} | `single_source` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

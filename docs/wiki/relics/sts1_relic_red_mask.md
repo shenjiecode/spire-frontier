@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "At the start of each combat, apply 1 Weak to ALL enemies.This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?", "flavor": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?"} |
+| `effect_json` | {"description_en": "At the start of each combat, apply 1 Weak to ALL enemies.This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?", "description_zh": "在每场战斗开始时，给予所有敌人 #b 层 #y虚弱 。", "flavor": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?", "flavor_en": "This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?", "flavor_zh": "这副看起来十分帅气的面具属于红面具强盗团的头子，这么说来，现在你应该是他们的老大了？"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 红面具 | `single_source` | [红面具](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525843&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Relic Infobox<br>|Name        = Red Mask<br>|Image       = RedMask.png<br>|Rarity      = Event<br>|Source      = Masked Bandits, Tomb of Lord Red Mas<br>|Description = At the start of each combat, apply 1 {{BD|Weak}} to ALL enemies.<br>|Flavor      = This very stylish looking mask belongs to the leader of the Red Mask Bandits. Technically that makes you the leader now?<br>}}<br>{{Power Infobox|Weak}}<br>{{R|Red Mask}} is an {{QueryLink|Relics|rarity:Event|Event... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

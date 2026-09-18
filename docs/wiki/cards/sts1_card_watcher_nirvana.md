@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 涅槃 | `single_source` | [涅槃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958987&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Nirvana<br>|Image       = Purple-Nirvana.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Whenever you {{KW|Scry}}, gain (3;4) {{KW|Block}}.<br>}}<br>{{Power Infobox|Nirvana}}{{Keyword Infobox|Block}}<br>{{C|Nirvana}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Power|Power}} Card. It gives 3 (4 if upgrade... | `single_source` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

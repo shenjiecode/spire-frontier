@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Whenever you play 3 or less cards during your turn, draw 3 additional cards at the start of your next turn.The hands seem stuck on the 3 o'clock position.", "flavor": "The hands seem stuck on the 3 o'clock position."} |
+| `effect_json` | {"description_en": "Whenever you play 3 or less cards during your turn, draw 3 additional cards at the start of your next turn.The hands seem stuck on the 3 o'clock position.", "description_zh": "若你在某个回合打出的牌少于等于 #b3 张，则在你的下个回合开始时额外抽 #b3 张牌。", "flavor": "The hands seem stuck on the 3 o'clock position.", "flavor_en": "The hands seem stuck on the 3 o'clock position.", "flavor_zh": "指针似乎永远卡在3点的位置。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 怀表 | `single_source` | [怀表](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514630&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Pocketwatch<br>|Image       = Pocketwatch.png<br>|Rarity      = Rare<br>|Description = Whenever you play 3 or less cards during your turn, draw 3 additional cards at the start of your next turn.<br>|Flavor      = The hands seem stuck on the 3 o'clock position.<br>|Keywords    = Draw<br>}}<br>{{R|Pocketwatch}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by b... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

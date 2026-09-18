@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Whenever you play a Power card, heal 2 HP.This urn shows the crow god Mazaleth looking mischievous.", "flavor": "This urn shows the crow god Mazaleth looking mischievous."} |
+| `effect_json` | {"description_en": "Whenever you play a Power card, heal 2 HP.This urn shows the crow god Mazaleth looking mischievous.", "description_zh": "每当你打出一张 #y能力牌 ，回复 #b 点生命。", "flavor": "This urn shows the crow god Mazaleth looking mischievous.", "flavor_en": "This urn shows the crow god Mazaleth looking mischievous.", "flavor_zh": "这个瓮上雕着乌鸦之神Mazaleth嘲弄的样貌。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 鸟面瓮 | `single_source` | [鸟面瓮](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515933&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Bird-Faced Urn<br>|Image       = BirdFacedUrn.png<br>|Rarity      = Rare<br>|Description = Whenever you play a {{QueryLink|Cards|type:Power|Power}} card, heal 2 HP.<br>|Flavor      = This urn shows the crow god Mazaleth looking mischievous.<br>}}<br>{{R|Bird-Faced Urn}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Medium Chest]] or [[Larg... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.", "flavor": ""} |
+| `effect_json` | {"description_en": "When you would die, heal to 30% (60%) of your Max HP instead and discard this potion.", "description_zh": "当你要被杀死时，免死并回复到最大生命值的 #b% ，丢弃这瓶药水。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 瓶中精灵 | `single_source` | [瓶中精灵](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953450&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Fairy in a Bottle<br>|Sequel=		1<br>|Image=			FairyinaBottle.png<br>|Rarity=		Rare<br>|Description=	When you would die, heal to (30%;60%) of your Max HP instead and discard this potion.<br>|Keywords    = Heal<br>}}<br>{{P|Fairy in a Bottle}} is a {{QueryLink|Potions|rarity:Rare|Rare}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of ... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

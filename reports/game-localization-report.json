@@ -14,15 +14,15 @@
       "eng",
       "zhs"
     ],
-    "recorded_at": "2026-09-18T03:40:23+00:00",
+    "recorded_at": "2026-09-18T09:40:29+00:00",
     "steam_build_id": "10180494"
   },
   "kinds": {
     "card": {
       "english_entries": 423,
       "localized_claims": 423,
-      "matched_canonical": 373,
-      "new_candidates": 50
+      "matched_canonical": 371,
+      "new_candidates": 52
     },
     "potion": {
       "english_entries": 45,

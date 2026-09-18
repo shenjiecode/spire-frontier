@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "At the end of each turn, you may shuffle 1 of 3 random cards to shuffle into your draw pile.Crafted by the infamous game master himself. Said to expand one's mind.", "flavor": "Crafted by the infamous game master himself. Said to expand one's mind."} |
+| `effect_json` | {"description_en": "At the end of each turn, you may shuffle 1 of 3 random cards to shuffle into your draw pile.Crafted by the infamous game master himself. Said to expand one's mind.", "description_zh": "在每回合结束时，你可以从 #b3 张随机牌中选择 #b1 张，随机洗入你的抽牌堆。", "flavor": "Crafted by the infamous game master himself. Said to expand one's mind.", "flavor_en": "Crafted by the infamous game master himself. Said to expand one's mind.", "flavor_zh": "由臭名昭著的游戏大师本人编制，据说能拓宽人的心智。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 尼利的宝典 | `single_source` | [尼利的宝典](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525848&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Nilry's Codex<br>|Image       = NilrysCodex.png<br>|Rarity      = Event<br>|Source      = Cursed Tome<br>|Description = At the end of each turn, you may shuffle 1 of 3 random cards to shuffle into your draw pile.<br>|Flavor      = Crafted by the infamous game master himself. Said to expand one's mind.<br>}}<br>{{R|Nilry's Codex}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]]. After the player ends their turn, they are presented with 3 cards (similar... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

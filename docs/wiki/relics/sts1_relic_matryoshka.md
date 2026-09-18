@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "The next 2 non-boss chests you open contain 2 Relics.A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.", "flavor": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers."} |
+| `effect_json` | {"description_en": "The next 2 non-boss chests you open contain 2 Relics.A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.", "description_zh": "你接下来打开的 #b2 个宝箱内会有 #b2 件 #y遗物 。 （Boss宝箱除外）你接下来打开的 #b1 个宝箱内会有 #b2 件 #y遗物 。 （Boss宝箱除外）这件遗物的效果已经被用完。", "flavor": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.", "flavor_en": "A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.", "flavor_zh": "一套环环相套的娃娃，上面的图案是一只白眼蓝羽毛的鸟，你不知道这是只什么鸟。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 套娃 | `single_source` | [套娃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493838&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Matryoshka<br>|Image       = Matryoshka.png<br>|Rarity      = Uncommon<br>|Description = The next 2 non-boss chests you open contain 2 Relics.<br>|Flavor      = A stackable set of painted dolls. The paint depicts an unknown bird with white eyes and blue feathers.<br>}}<br>{{R|Matryoshka}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. Each extra relic has a 25% chance of being {{QueryLink|Relics|rarity:Uncommon|Uncommon}} and 75% chance of bei... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

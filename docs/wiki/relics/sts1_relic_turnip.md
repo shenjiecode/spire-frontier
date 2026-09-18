@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "You can no longer become Frail.Best with Ginger.", "flavor": "Best with Ginger."} |
+| `effect_json` | {"description_en": "You can no longer become Frail.Best with Ginger.", "description_zh": "你不会再被 #y脆弱 。", "flavor": "Best with Ginger.", "flavor_en": "Best with Ginger.", "flavor_zh": "与生姜搭配尤为适合。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 萝卜 | `single_source` | [萝卜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515169&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Turnip<br>| Image       = Turnip.png<br>| Rarity      = Rare<br>| Description = You can no longer become {{BD|Frail}}.<br>| Flavor      = Best with Ginger.<br>| InteractsWith = Frail<br>}}<br>{{Power Infobox|Frail}}<br>{{R|Turnip}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Medium Chest]] or [[Large Chest]]. See Chest and non-Chest cha... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

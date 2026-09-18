@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 火焰吐息 | `single_source` | [火焰吐息](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=436760&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Fire Breathing<br>|Image       = Red-FireBreathing.png<br>|Color       = Red<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Whenever you draw a {{QueryLink|Cards|type:Status|Status}} or {{QueryLink|Cards|type:Curse|Curse}} card, deal (6;10) damage to ALL enemies.<br>|GivesToPlayer = Fire Breathing<br>}}<br>{{Power Infobox<br>|Name         = Fire Breathing<br>|Image        = Icon FireBreathing.png<br>|Description  = Whe... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

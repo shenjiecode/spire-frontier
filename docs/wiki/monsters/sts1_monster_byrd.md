@@ -15,15 +15,15 @@
 | `category` | normal |
 | `act` | Act 2 |
 | `hp_min` | 25 |
-| `hp_max` | 25 |
-| `ascension_json` | {"asc_hp": 26} |
+| `hp_max` | 31 |
+| `ascension_json` | {"ascension_max": 33, "ascension_min": 26, "ascension_raw": "26-33", "base_max": 31, "base_min": 25, "base_raw": "25-31"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
 | Swoop | Attack3 | 12 |  | {"text": "Deals (12;14) damage."} |
-| Peck | Attack2 | 1 |  | {"text": "Deals (1×5;1×6) damage"} |
+| Peck | Attack2 | 1 | 5 | {"text": "Deals (1×5;1×6) damage"} |
 | Headbutt | Attack1 | 3 |  | {"text": "Deals 3 damage."} |
 | Caw | Buff |  |  | {"text": "Gains 1 Strength."} |
 | Go Airborne | Unknown |  |  | {"text": "Gains (3;4) Flying."} |
@@ -35,7 +35,8 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [3 只异鸟 / 3 Byrds](../encounters/sts1_encounter_act2_easy_3_byrds.md)
+- `contains_monster` → [被拣选者与异鸟 / Chosen and Byrds](../encounters/sts1_encounter_act2_hard_chosen_and_byrds.md)
 
 ## 来源与核对状态
 
@@ -50,6 +51,7 @@
 | `game.monster.dialog` | ["@嘎！@ NL @哑！@", "击晕……"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 33, "ascension_min": 26, "ascension_raw": "26-33", "base_max": 31, "base_min": 25, "base_raw": "25-31"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Caw` | {"effect": "Gains 1 Strength.", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Go Airborne` | {"effect": "Gains (3;4) Flying.", "intent": "Unknown"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Headbutt` | {"effect": "Deals 3 damage.", "intent": "Attack1"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -62,4 +64,4 @@
 | `source.title_text` | 异鸟 | `single_source` | [异鸟](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436744&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Byrd<br>|Image  = Byrd.png<br>|HP     = 25-31<br>|AscHP  = 26-33<br>|Powers = {{BD|Flying}} 3 ({{Asc|17|4}})<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox<br>|Name         = Flying<br>|Image        = Icon Flying.png<br>|Description  = Takes 50% less attack damage. Cancelled if dealt attack damage X times in one turn. Resets charges at the start of next turn if not fully removed.<br>|Type         = Buff<br>|Stacks       = Intensity<br>|BetweenTurn... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

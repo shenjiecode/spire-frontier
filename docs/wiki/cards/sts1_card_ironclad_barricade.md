@@ -27,7 +27,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -42,11 +42,11 @@
 | `card.color` | Red | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.color (base)` | Red | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
 | `card.color (upgrade)` | Red | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
-| `card.cost (base)` | 3 | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
-| `card.cost (upgrade)` | 2 | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
-| `card.description (base)` | Block is not removed at the start of your turn. | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
+| `card.cost (base)` | 3 | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.cost (upgrade)` | 2 | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Block is not removed at the start of your turn. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Block is not removed at the start of your turn. | `provisional` | [壁垒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=441867&wiki_id=646570) |
-| `card.description (upgrade)` | Block is not removed at the start of your turn. | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
+| `card.description (upgrade)` | Block is not removed at the start of your turn. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (upgrade)` | Block is not removed at the start of your turn. | `provisional` | [壁垒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=441867&wiki_id=646570) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.rarity (base)` | Rare | `provisional` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
@@ -69,4 +69,4 @@
 | `source.title_text` | 壁垒 | `single_source` | [壁垒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=441867&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Barricade<br>| Image       = Red-Barricade.png<br>| Color       = Red<br>| Type        = Power<br>| Rarity      = Rare<br>| Cost        = 3<br>| CostPlus    = 2<br>| Description = {{KW|Block}} is not removed at the start of your turn.<br>| GivesToPlayer = Barricade<br>| PowerGives = Block<br>}}<br>{{Power Infobox<br>| Name         = Barricade<br>| Image        = Icon Barricade.png<br>| Description  = {{KW|Block}} is not removed at... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

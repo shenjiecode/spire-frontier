@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. Whenever you open a non-Boss chest, obtain a Curse.You can feel the malicious energy emanating from the key. Power comes at a price.", "flavor": "You can feel the malicious energy emanating from the key. Power comes at a price."} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. Whenever you open a non-Boss chest, obtain a Curse.You can feel the malicious energy emanating from the key. Power comes at a price.", "description_zh": "你每次打开一个非Boss宝箱，都会获得一张 #r诅咒 。在每回合开始时获得 [E] 。", "flavor": "You can feel the malicious energy emanating from the key. Power comes at a price.", "flavor_en": "You can feel the malicious energy emanating from the key. Power comes at a price.", "flavor_zh": "你能感到这把钥匙上散发出邪恶的能量。力量总是需要付出代价的。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 诅咒钥匙 | `single_source` | [诅咒钥匙](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525837&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Cursed Key<br>|Image       = CursedKey.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. Whenever you open a non-Boss chest, obtain a {{QueryLink|Cards|type:Curse|Curse}}.<br>|Flavor      = You can feel the malicious energy emanating from the key. Power comes at a price.<br>|GivesToPlayer = Energy<br>}}<br>{{Keyword Infobox|Energy}}<br>{{R|Cursed Key}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. It grants 1... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

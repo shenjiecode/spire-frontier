@@ -15,8 +15,8 @@
 | `category` | normal |
 | `act` | Act 2 |
 | `hp_min` | 114 |
-| `hp_max` | 114 |
-| `ascension_json` | {"asc_hp": 120} |
+| `hp_max` | 120 |
+| `ascension_json` | {"ascension_max": 125, "ascension_min": 120, "ascension_raw": "120-125", "base_max": 120, "base_min": 114, "base_raw": "114-120"} |
 
 ### 行动
 
@@ -32,7 +32,7 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [异蛇 / Snecko](../encounters/sts1_encounter_act2_hard_snecko.md)
 
 ## 来源与核对状态
 
@@ -47,6 +47,7 @@
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Perplexing Glare", "Tail Whip", "Bite"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["困惑瞪视", "扫尾", "噬咬"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 125, "ascension_min": 120, "ascension_raw": "120-125", "base_max": 120, "base_min": 114, "base_raw": "114-120"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Bite` | {"effect": "Deals (15;18) damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Perplexing Glare` | {"effect": "Applies Confused.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Tail Whip` | {"effect": "Deals (8;10) damage. Applies 2 Vulnerable(.; and 2 Weak).", "intent": "DebuffAttack2"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -55,4 +56,4 @@
 | `source.title_text` | 异蛇 | `single_source` | [异蛇](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436731&wiki_id=646570) |
 | `source.wikitext` | {{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br><br><br>{{Enemy Infobox<br>|Name   = Snecko<br>|Image  = Snecko.png<br>|HP     = 114-120<br>|AscHP  = 120-125<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox|Confused}}<br>'''Snecko''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Snecko... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

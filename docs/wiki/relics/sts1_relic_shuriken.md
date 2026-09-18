@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Every time you play 3 Attacks in a single turn, gain 1 Strength.Lightweight throwing weapons. Recommend going for the eyes.", "flavor": "Lightweight throwing weapons. Recommend going for the eyes."} |
+| `effect_json` | {"description_en": "Every time you play 3 Attacks in a single turn, gain 1 Strength.Lightweight throwing weapons. Recommend going for the eyes.", "description_zh": "你每在同一回合内打出 #b 张 #y攻击牌 ，获得 #b 点 #y力量 。", "flavor": "Lightweight throwing weapons. Recommend going for the eyes.", "flavor_en": "Lightweight throwing weapons. Recommend going for the eyes.", "flavor_zh": "轻型的投掷武器，尤其推荐对着眼睛扔。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 手里剑 | `single_source` | [手里剑](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493827&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Relic Infobox<br>|Name        = Shuriken<br>|Image       = Shuriken.png<br>|Rarity      = Uncommon<br>|Description = Every time you play 3 {{QueryLink|Cards|type:Attack|Attacks}} in a single turn, gain 1 {{BD|Strength}}.<br>|Flavor      = Lightweight throwing weapons. Recommend going for the eyes.<br>}}<br>{{Power Infobox|Strength}}<br>{{R|Shuriken}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fight... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

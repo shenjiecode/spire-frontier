@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 冰寒 | `single_source` | [冰寒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=545766&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Chill<br>|Image       = Blue-Chill.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = (;{{KW|Innate}}. <br>){{KW|Channel}} 1 {{KW|Frost}} for each enemy in combat.<br>{{KW|Exhaust}}.<br>|GivesToPlayer = Innate, Channel, Frost, Exhaust<br>}}<br>{{Keyword Infobox|Channel}} {{Keyword Infobox|Frost}} {{Keyword Infobox|Exhaust}}<br>{{C|Chill}} is a 0 {{Icon|BE}}-cost {{Que... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

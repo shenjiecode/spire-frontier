@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 虔信 | `single_source` | [虔信](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958988&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Devotion<br>|Image       = Purple-Devotion.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Rare<br>|Cost        = 1<br>|Description = At the start of your turn, gain (2;3) {{BD|Mantra}}.<br>}}<br>{{Power Infobox|Devotion}}{{Power Infobox|Mantra}}{{C|Devotion}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Power|Power}} Card. It gives 2 (3 if upgraded) {{BD|Dev... | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

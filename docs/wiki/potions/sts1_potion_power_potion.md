@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Choose 1 of 3 random Power cards to add (two copies of it) to your hand. It costs (They cost) 0 this turn.", "flavor": ""} |
+| `effect_json` | {"description_en": "Choose 1 of 3 random Power cards to add (two copies of it) to your hand. It costs (They cost) 0 this turn.", "description_zh": "从 #b3 张随机能力牌中选择 #b1 张加入你的手牌。这张牌在本回合耗能变为 #b0 。从 #b3 张随机能力牌中选择 #b1 张，将其加入你的手牌 #b2 次。这两张牌在本回合耗能变为 #b0 。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 能力药水 | `single_source` | [能力药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953426&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Power Potion<br>|Sequel=		1<br>|Image=			PowerPotion.png<br>|Rarity=		Common<br>|Description=	Choose 1 of 3 random {{QueryLink|Cards|type:Power|Power}} cards to add(;two copies of it) to your hand. (It costs;They cost) 0 this turn.<br>}}<br>{{P|Power Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} ... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

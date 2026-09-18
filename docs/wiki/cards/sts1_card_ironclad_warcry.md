@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 战吼 | `single_source` | [战吼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408686&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Warcry<br>| Image       = Red-Warcry.png<br>| Color       = Red<br>| Type        = Skill<br>| Rarity      = Common<br>| Cost        = 0<br>| Description = Draw (1;2) (card;cards).<br>Put a card from your hand onto the top of your draw pile.<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Draw<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Warcry}} is a 0 {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|ty... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

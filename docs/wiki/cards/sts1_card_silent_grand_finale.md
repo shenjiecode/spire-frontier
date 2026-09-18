@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 华丽收场 | `single_source` | [华丽收场](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=8929940&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Grand Finale<br>|Image       = Green-GrandFinale.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Rare<br>|Cost        = 0<br>|Description = Can only be played if there are no cards in your draw pile.<br>Deal (50;60) damage to ALL enemies.<br>}}<br>{{C|Grand Finale}} is a 0 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card. ... | `single_source` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

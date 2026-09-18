@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `1.0` | Your next Attack deals 5 additional damage. | 未采集 | 未保存 |
-| `Upgraded` | `1.0` | Your next Attack deals 8 additional damage. | 未采集 | 未保存 |
+| `Base` | `1.0` | Your next Attack deals 5 additional damage. | 你的下一张攻击牌造成5点额外伤害。 | 未保存 |
+| `Upgraded` | `1.0` | Your next Attack deals 8 additional damage. | 你的下一张攻击牌造成8点额外伤害。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 1 | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 1 | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Your next Attack deals 5 additional damage. | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Your next Attack deals 5 additional damage. | `provisional` | [火焰纹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667104&wiki_id=646570) |
 | `card.description (upgrade)` | Your next Attack deals 8 additional damage. | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Your next Attack deals 8 additional damage. | `provisional` | [火焰纹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667104&wiki_id=646570) |
 | `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Vigor"] | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 火焰纹 | `single_source` | [火焰纹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667104&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Wreath of Flame<br>|Image       = Purple-WreathofFlame.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Your next Attack deals (5;8) additional damage.<br>|Keywords    = Vigor<br>}}<br>{{Power Infobox|Vigor}}<br>{{C|Wreath of Flame}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

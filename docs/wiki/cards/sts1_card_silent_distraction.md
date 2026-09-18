@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 声东击西 | `single_source` | [声东击西](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494844&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Distraction<br>|Image       = Green-Distraction.png<br>|Color       = Green<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = Add a random Skill into your hand.<br>It costs 0 this turn.<br>{{KW|Exhaust}}.<br>|Keywords    = Hand<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Distraction}} is a 1 (0 if upgraded) {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

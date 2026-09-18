@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `2.0` | Deal 10 damage. Shuffle a Through Violence into your draw pile. | 未采集 | 未保存 |
-| `Upgraded` | `2.0` | Deal 15 damage. Shuffle a Through Violence into your draw pile. | 未采集 | 未保存 |
+| `Base` | `2.0` | Deal 10 damage. Shuffle a Through Violence into your draw pile. | 造成10点伤害。在你的抽牌堆中加入1张以暴易暴 | 未保存 |
+| `Upgraded` | `2.0` | Deal 15 damage. Shuffle a Through Violence into your draw pile. | 造成15点伤害。在你的抽牌堆中加入一张以暴易暴。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 2 | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 2 | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Deal 10 damage. Shuffle a Through Violence into your draw pile. | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Deal 10 damage. Shuffle a Through Violence into your draw pile. | `provisional` | [立地升天](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9666185&wiki_id=646570) |
 | `card.description (upgrade)` | Deal 15 damage. Shuffle a Through Violence into your draw pile. | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Deal 15 damage. Shuffle a Through Violence into your draw pile. | `provisional` | [立地升天](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9666185&wiki_id=646570) |
 | `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | [] | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Attack | `provisional` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 立地升天 | `single_source` | [立地升天](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9666185&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Reach Heaven<br>|Image       = Purple-ReachHeaven.png<br>|Color       = Purple<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 2<br>|Description = Deal (10;15) damage. Shuffle a {{C|Through Violence}} into your draw pile.<br>}}<br>{{C|Reach Heaven}} is a 2 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 10 damage (15 when upgraded)... | `single_source` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

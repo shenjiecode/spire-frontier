@@ -15,8 +15,8 @@
 | `category` | elite |
 | `act` | Act 1 |
 | `hp_min` | 109 |
-| `hp_max` | 109 |
-| `ascension_json` | {"asc_hp": 112} |
+| `hp_max` | 111 |
+| `ascension_json` | {"ascension_max": 115, "ascension_min": 112, "ascension_raw": "112-115", "base_max": 111, "base_min": 109, "base_raw": "109-111"} |
 
 ### 行动
 
@@ -48,6 +48,7 @@
 | `game.monster.dialog` | ["击晕！", "… NL ……", "…？ NL ……！？", "@！！！@ NL @！？？？@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Siphon Soul"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["灵魂吸取"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 115, "ascension_min": 112, "ascension_raw": "112-115", "base_max": 111, "base_min": 109, "base_raw": "109-111"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Attack` | {"effect": "Deals (18;20) damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Siphon Soul` | {"effect": "Applies (-1;-2) Dexterity and (-1;-2) Strength.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Sleep` | {"effect": "Does nothing.", "intent": "Sleep"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +58,4 @@
 | `source.title_text` | 乐加维林 | `single_source` | [乐加维林](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421614&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Lagavulin<br>|Image  = LagavulinAwake.png<br>|HP     = 109-111<br>|AscHP  = 112-115<br>|Powers = {{BD|Metallicize}} 8 <br> {{KW|Block}} 8<br>|Debut  = Act 1<br>|Type   = Elite<br>}}<br>{{Power Infobox|Metallicize}}<br>Lagavulin is an [[Elite]] enemy found exclusively in [[Act 1]] or in the {{E|Dead Adventurer}} Event.<br>== Pattern ==<br>{{Intents Table/start|Lagavulin}}<br>{{Intents Table/row<br>|Name   = Sleep<br>|Intent = Sleep<br>|Effect = Does nothing.}}<br>{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

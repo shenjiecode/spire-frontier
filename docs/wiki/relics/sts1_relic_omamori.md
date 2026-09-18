@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Negate the next 2 Curses you obtain.A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.", "flavor": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy."} |
+| `effect_json` | {"description_en": "Negate the next 2 Curses you obtain.A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.", "description_zh": "抵消你下 #b2 次获得的 #r诅咒 。抵消你下一次获得的 #r诅咒 。这件遗物已经耗尽。", "flavor": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.", "flavor_en": "A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.", "flavor_zh": "常见的用来抵御邪灵的护身符，这个护符里似乎有一股神圣的能量。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 御守 | `single_source` | [御守](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492816&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Omamori<br>|Image       = Omamori.png<br>|Rarity      = Common<br>|Description = Negate the next 2 {{QueryLink|Cards|type:Curse|Curses}} you obtain.<br>|Flavor      = A common charm for staving off vile spirits. This one seems to possess a spark of divine energy.<br>}}<br>{{R|Omamori}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Smal... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

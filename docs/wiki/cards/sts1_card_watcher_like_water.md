@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `1.0` | At the end of your turn, if you are in Calm, gain 5 Block. | 未采集 | 未保存 |
-| `Upgraded` | `1.0` | At the end of your turn, if you are in Calm, gain 7 Block. | 未采集 | 未保存 |
+| `Base` | `1.0` | At the end of your turn, if you are in Calm, gain 5 Block. | 在你的回合结束时，如果你处于平静，则获得5点格挡。 | 未保存 |
+| `Upgraded` | `1.0` | At the end of your turn, if you are in Calm, gain 7 Block. | 在你的回合结束时，如果你处于平静，则获得7点格挡。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 1 | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 1 | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | At the end of your turn, if you are in Calm, gain 5 Block. | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | At the end of your turn, if you are in Calm, gain 5 Block. | `provisional` | [如水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667129&wiki_id=646570) |
 | `card.description (upgrade)` | At the end of your turn, if you are in Calm, gain 7 Block. | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | At the end of your turn, if you are in Calm, gain 7 Block. | `provisional` | [如水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667129&wiki_id=646570) |
 | `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Block", "Calm"] | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Power | `provisional` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 如水 | `single_source` | [如水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667129&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Like Water<br>| Image       = Purple-LikeWater.png<br>| Color       = Purple<br>| Type        = Power<br>| Rarity      = Uncommon<br>| Cost        = 1<br>| Description = At the end of your turn, if you are in {{KW|Calm}}, gain (5;7) {{KW|Block}}.<br>| PowerGives = Calm, Block<br>}}<br>{{Power Infobox<br>| Name         = Like Water<br>| Image        = Icon LikeWater.png<br>| Description  = At the end of your turn, if you are in {{KW|Calm}}, gain X {{KW|Block}}... | `single_source` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

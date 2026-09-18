@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You cannot play more than 6 cards per turn.\"Immense power, but too limited.\" - Kublai the Great", "flavor": "\"Immense power, but too limited.\" - Kublai the Great"} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You cannot play more than 6 cards per turn.\"Immense power, but too limited.\" - Kublai the Great", "description_zh": "你每回合不能打出超过 #b 张牌。在每回合开始时获得 [E] 。我只能打出最多 NL #r", "flavor": "\"Immense power, but too limited.\" - Kublai the Great", "flavor_en": "\"Immense power, but too limited.\" - Kublai the Great", "flavor_zh": "“力量巨大，但过于局限。”——忽必烈大帝"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 天鹅绒颈圈 | `single_source` | [天鹅绒颈圈](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523667&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Velvet Choker<br>|Image       = VelvetChoker.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. You cannot play more than 6 cards per turn.<br>|Flavor      = "Immense power, but too limited." - Kublai the Great<br>}}<br>{{Keyword Infobox|Energy}}{{R|Velvet Choker}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

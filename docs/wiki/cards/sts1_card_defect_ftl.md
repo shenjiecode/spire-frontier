@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 超越光速 | `single_source` | [超越光速](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495559&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = FTL<br>|Image       = Blue-FTL.png<br>|Color       = Blue<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Deal (5;6) damage. If you have played less than (3;4) cards this turn, draw 1 card.<br>|Keywords    = Draw<br>}}<br>{{C|FTL}} is a 0 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals ... | `single_source` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

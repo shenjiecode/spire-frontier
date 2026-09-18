@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "Whenever you discard a card during your turn, deal 3 damage to a random enemy.The sound this instrument generates seems to be capable of reverberating to painful levels of volume.", "flavor": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume."} |
+| `effect_json` | {"description_en": "Whenever you discard a card during your turn, deal 3 damage to a random enemy.The sound this instrument generates seems to be capable of reverberating to painful levels of volume.", "description_zh": "你每在你的回合丢弃一张牌，就对一名随机敌人造成 #b 点伤害。", "flavor": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.", "flavor_en": "The sound this instrument generates seems to be capable of reverberating to painful levels of volume.", "flavor_zh": "这件乐器发出的响声似乎能回荡到让人耳朵发痛。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 铜钹 | `single_source` | [铜钹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516123&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Tingsha<br>|Image       = Tingsha.png<br>|Rarity      = Rare<br>|Character   = Silent<br>|Description = Whenever you discard a card during your turn, deal 3 damage to a random enemy.<br>|Flavor      = The sound this instrument generates seems to be capable of reverberating to painful levels of volume.<br>|Keywords    = Discard<br>}}<br>{{R|Tingsha}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rar... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

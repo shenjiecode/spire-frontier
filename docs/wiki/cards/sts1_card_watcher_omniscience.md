@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `4.0` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | 未采集 | 未保存 |
-| `Upgraded` | `3.0` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | 未采集 | 未保存 |
+| `Base` | `4.0` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | 选择你抽牌堆中的1张牌。将这张牌打出2次然后将其消耗。消耗。 | 未保存 |
+| `Upgraded` | `3.0` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | 选择你抽牌堆中的一张牌。 将这张牌打出两次然后将其 消耗。消耗。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 4 | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 3 | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | `provisional` | [通晓万物](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667125&wiki_id=646570) |
 | `card.description (upgrade)` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Choose a card in your draw pile.Play the chosen card twice and Exhaust it.Exhaust. | `provisional` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Exhaust"] | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 通晓万物 | `single_source` | [通晓万物](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667125&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Omniscience<br>|Image       = Purple-Omniscience.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 4<br>|CostPlus    = 3<br>|Description = Choose a card in your draw pile.<br>Play the chosen card twice and {{KW|Exhaust}} it.<br>{{KW|Exhaust}}.<br>}}<br>{{C|Omniscience}} is a 4 (3 if upgraded) {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Sk... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Common |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "While your HP is at or below 50%, you have 3 additional Strength.A small skull covered in ornamental paint.", "flavor": "A small skull covered in ornamental paint."} |
+| `effect_json` | {"description_en": "While your HP is at or below 50%, you have 3 additional Strength.A small skull covered in ornamental paint.", "description_zh": "当你的生命值等于或低于 #b50% 时， 你获得额外 #b 点 #y力量 。", "flavor": "A small skull covered in ornamental paint.", "flavor_en": "A small skull covered in ornamental paint.", "flavor_zh": "一个用装饰性颜料涂红的小小头骨。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 红头骨 | `single_source` | [红头骨](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492283&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Red Skull<br>| Image       = RedSkull.png<br>| Rarity      = Common<br>| Character   = Ironclad<br>| Description = While your HP is at or below 50%, you have 3 additional {{BD|Strength}}.<br>| Flavor      = A small skull covered in ornamental paint.<br>| GivesToPlayer = Strength<br>}}<br>{{Power Infobox|Strength}}<br>{{R|Red Skull}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{QueryLink|Relics|rarity:Common|... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

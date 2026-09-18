@@ -55,4 +55,4 @@
 | `source.title_text` | 伤口 | `single_source` | [伤口](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536405&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Wound<br>|Image       = Colorless-Wound.png<br>|Color       = Colorless<br>|Type        = Status<br>|Rarity      = Status<br>|Cost        = -2<br>|NoUpgrade   = true<br>|Description = {{KW|Unplayable}}.<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Wound}} is an {{KW|Unplayable}} {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Status|Status}} Card.<br><br>== Obtaining W... | `single_source` | [P3 wiki.gg API batch: card 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Malaise|Escape_Plan|Corpse_Explosion|Capacitor|Crippling_Cloud|After_Image|Sneaky_Strike|Blur|Iron_Wave|Wound|Trip|Exhume|Weave|Expertise|Aggregate|Leap|Flash_of_Steel|Whirlwind|Leg_Sweep|Metamorphosis&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

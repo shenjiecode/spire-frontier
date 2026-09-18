@@ -1,0 +1,11 @@
+{
+  "class": "com/megacrit/cardcrawl/characters/AbstractPlayer.class",
+  "field": "potionSlots",
+  "value": 3,
+  "bytecode_pattern_hex": "2a06b50014",
+  "class_byte_offset": 35063,
+  "method": "<init>(String, AbstractPlayer$PlayerClass)",
+  "jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673",
+  "steam_build_id": "10180494",
+  "class_sha256": "5dbefe89175f3e03fdd133d498b653d66073645a8c7fc109f3f4b717d10c266f"
+}

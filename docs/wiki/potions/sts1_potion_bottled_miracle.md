@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Common |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "Add 2 (4) Miracles to your hand.", "flavor": ""} |
+| `effect_json` | {"description_en": "Add 2 (4) Miracles to your hand.", "description_zh": "增加 #b 张 #y奇迹 到你的手牌。", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 瓶装奇迹 | `single_source` | [瓶装奇迹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953414&wiki_id=646570) |
 | `source.wikitext` | {{Potion Infobox<br>|Name=			Bottled Miracle<br>|Sequel=		1<br>|Image=			BottledMiracle.png<br>|Rarity=		Common<br>|Character=		Watcher<br>|Description=	Add (2;4) {{C|Miracle|Miracles}} to your hand.<br>}}<br>{{Small Card Infobox|Miracle}}<br>{{P|Bottled Miracle}} is a {{QueryLink|Potions|character:Watcher|Watcher-exclusive}} {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

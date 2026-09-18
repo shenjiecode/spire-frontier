@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Every 10th Attack you play deals double damage.Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.", "flavor": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history."} |
+| `effect_json` | {"description_en": "Every 10th Attack you play deals double damage.Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.", "description_zh": "你每打出的第 #b10 张 #y攻击牌 将会造成双倍伤害。", "flavor": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.", "flavor_en": "Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.", "flavor_zh": "拿着这支笔尖时，你可以看见所有被笔尖前主人杀死过的人。真是血腥的历史。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 钢笔尖 | `single_source` | [钢笔尖](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492273&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Pen Nib<br>|Image       = PenNib.png<br>|Rarity      = Common<br>|Description = Every 10th {{QueryLink|Cards|type:Attack|Attack}} you play deals double damage.<br>|Flavor      = Holding the nib, you can see everyone ever slain by a previous owner of the pen. A violent history.<br>}}<br>{{Power Infobox|Pen Nib}}{{R|Pen Nib}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. The counter that keeps track of how many {{QueryLi... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -1,0 +1,37 @@
+# 问号房 / Unknown Location
+
+> 稳定 ID：`sts1.mechanic.unknown_location`  
+> 类别：`mechanic`；游戏：`sts1`；映射状态：`confirmed`
+
+## 名称
+
+- 中文：问号房
+- English: Unknown Location
+
+## mechanic 数据
+
+| 字段 | 值 |
+| --- | --- |
+| `definition_json` | {"cross_source_review": {"chinese_source_page_id": null, "english_source_page_id": "source_page.wiki_gg.1b22b1e8bdd90dc3"}, "definition_en": "A map location that can become an Event, Monster, Merchant or Treasure Room. Unseen encounter types gain probability and reset when seen; Deadly Events can add Elites in Custom Mode.", "definition_zh": "问号房可能遭遇事件、小怪、商店或宝箱房；某类型未出现时概率提高，出现后恢复初始值。自定义模式的致命事件还可能加入精英。", "definition_zh_origin": "xiaoheihe_source_summary"} |
+
+## 相关条目
+
+暂无已确认关系。
+
+## 被哪些条目引用
+
+暂无已确认关系。
+
+## 来源与核对状态
+
+字段级证据保留在 SQLite 的 `claims` 表；这里显示已采集的摘要。
+
+| 字段 | 值 | 状态 | 来源 |
+| --- | --- | --- | --- |
+| `mapping.cross_source` | {"chinese_article": "15624135", "english_page": "https://slaythespire.wiki.gg/wiki/Unknown_Location"} | `agreed` | [Unknown Location | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Unknown_Location) |
+| `mechanic.definition` | {"definition_en": "A map location that can become an Event, Monster, Merchant or Treasure Room. Unseen encounter types gain probability and reset when seen; Deadly Events can add Elites in Custom Mode."} | `single_source` | [Unknown Location | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Unknown_Location) |
+| `mechanic.definition.zh` | 问号房可能遭遇事件、小怪、商店或宝箱房；某类型未出现时概率提高，出现后恢复初始值。自定义模式的致命事件还可能加入精英。 | `agreed` | [问号房](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15624135&wiki_id=646570) |
+| `source.article_text` | （图片未提供文字说明）<br>在每个阶段进入的第一个？房间，所遭遇的各种情况分别为：<br>小怪：10%<br>宝箱房：2%<br>商店：3%<br>事件：没触发上面三个就会触发事件<br>对于小怪、宝箱房、商店，每当进入？房间时，触发与当前房间同类型遭遇的概率重置为初始概率，触发与当前房间不同类型遭遇的概率上升。<br>例如：<br>进入一个？房为事件，此时小怪宝箱房商店的概率翻一倍提升为20%、4%、6%；<br>进入第二个？房间为小怪，则小怪概率重置为10%，宝箱房商店概率翻两倍变为6%、9%<br>进入下一层，概率又重置为初始概率<br>*bug：如果在出商店后紧接着进入了？房，sl可能会将？房的结果更改为商店 | `single_source` | [问号房](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15624135&wiki_id=646570) |
+| `source.title_text` | 问号房 | `single_source` | [问号房](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15624135&wiki_id=646570) |
+
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -16,7 +16,7 @@
 | `act` | Act 2 |
 | `hp_min` | 420 |
 | `hp_max` | 420 |
-| `ascension_json` | {"asc_hp": 440} |
+| `ascension_json` | {"ascension_max": 440, "ascension_min": 440, "ascension_raw": "440", "base_max": 420, "base_min": 420, "base_raw": "420"} |
 
 ### 行动
 
@@ -26,7 +26,7 @@
 | Anger | Buff |  |  | {"text": "Removes all Debuffs]. Gains (6;9 ; 12) Strength."} |
 | Taunt | Unknown |  |  | {"text": "Applies 2 Weak and 2 Vulnerable."} |
 | Defensive Stance | DefendBuff |  |  | {"text": "Gains (15;18 ; 20) Block and (5;6 ; 7) Metallicize."} |
-| Execute | Attack7 | 10 |  | {"text": "Deals 10×2 damage."} |
+| Execute | Attack7 | 10 | 2 | {"text": "Deals 10×2 damage."} |
 | Face Slap | DebuffAttack3 | 12 |  | {"text": "Deals (12;14) damage. Applies 2 Frail and 2 Vulnerable"} |
 | Heavy Slash | Attack4 | 16 |  | {"text": "Deals (16;18) damage."} |
 
@@ -51,6 +51,7 @@
 | `game.monster.dialog` | ["你管这叫武器？", "来和我战啊！", "有什么招数尽管上！ NL @哈哈哈！@", "来啊我让你打！ NL 没用的弱者！", "~你惹火我了……~", "@败北？@ NL @不可能的！！@ ", "~去~ ~死~ ~。。。~", "接受我的怒火吧！", "@那是@ NL @我的@ @腰带！！@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Defensive Stance", "Execute", "Face Slap"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["防御态势", "处决", "打脸"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 440, "ascension_min": 440, "ascension_raw": "440", "base_max": 420, "base_min": 420, "base_raw": "420"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Anger` | {"effect": "Removes all Debuffs]. Gains (6;9 ; 12) Strength.", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Defensive Stance` | {"effect": "Gains (15;18 ; 20) Block and (5;6 ; 7) Metallicize.", "intent": "DefendBuff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Execute` | {"effect": "Deals 10×2 damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -64,4 +65,4 @@
 | `source.title_text` | 第一勇士 | `single_source` | [第一勇士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421632&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Champ<br>|Image  = Champ.png<br>|Icon   = Map-Champ.png<br>|HP     = 420<br>|AscHP  = 440<br>|Debut  = Act 2<br>|Type   = Boss<br>}}<br>The Champ is a [[Boss]] found at the end of [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|The Champ}}<br>{{Intents Table/row<br>|Name   = Heavy Slash<br>|Intent = Attack4<br>|Effect = Deals (16;{{Asc|4|18}}) damage.}}<br>{{Intents Table/row<br>|Name   = Face Slap<br>|Intent = DebuffAttack3<br>|Effect = Deals (12;{{A... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

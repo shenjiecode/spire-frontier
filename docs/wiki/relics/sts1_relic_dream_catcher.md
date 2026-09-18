@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you Rest, you may add a card to your deck.The northern tribes would often use dream catchers at night, believing they led to self improvement.", "flavor": "The northern tribes would often use dream catchers at night, believing they led to self improvement."} |
+| `effect_json` | {"description_en": "Whenever you Rest, you may add a card to your deck.The northern tribes would often use dream catchers at night, believing they led to self improvement.", "description_zh": "每当你 #y休息 时，可以增加一张牌到你的牌组。", "flavor": "The northern tribes would often use dream catchers at night, believing they led to self improvement.", "flavor_en": "The northern tribes would often use dream catchers at night, believing they led to self improvement.", "flavor_zh": "北方部落会在入睡时挂上这种网，相信这样做能够实现自我提升。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 捕梦网 | `single_source` | [捕梦网](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492251&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Dream Catcher<br>|Image       = DreamCatcher.png<br>|Rarity      = Common<br>|Description = Whenever you Rest, you may add a card to your deck.<br>|Flavor      = The northern tribes would often use dream catchers at night, believing they led to self improvement.<br>|Keywords    = Deck<br>}}<br>{{R|Dream Catcher}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]]. Whenever the '''Rest''' option is selected at a [[Map Locatio... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

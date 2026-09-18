@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Start each combat with 1 Artifact.So many intricate gears.", "flavor": "So many intricate gears."} |
+| `effect_json` | {"description_en": "Start each combat with 1 Artifact.So many intricate gears.", "description_zh": "每场战斗开始时，获得 #b1 层 #y人工制品 。", "flavor": "So many intricate gears.", "flavor_en": "\"So many intricate gears.\"", "flavor_zh": "“你看里面齿轮这么多，是不是很精巧。”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 工艺机械钟表 | `single_source` | [齿轮工艺品](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494891&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Clockwork Souvenir<br>| Image       = ClockworkSouvenir.png<br>| Rarity      = Shop<br>| Description = Start each combat with 1 {{BD|Artifact}}.<br>| Flavor      = So many intricate gears.<br>| GivesToPlayer = Artifact<br>}}<br>{{Power Infobox|Artifact}}<br>{{R|Clockwork Souvenir}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. For more information on which effects can be prevented by {{R|Clockwork Souvenir}}'s {{BD|Artifact}} (and their sources), see... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

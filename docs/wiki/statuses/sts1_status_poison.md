@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `polarity` | positive |
+| `polarity` | negative |
 | `stacking` | Intensity and Duration |
 
 ## 相关条目
@@ -39,5 +39,6 @@
 | `source.title_text` | 中毒 | `single_source` | [中毒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501550&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Power Infobox<br>| Name         = Poison<br>| Image        = Icon Poison.png<br>| Description  = At the start of its turn, loses X HP, then reduce {{BD|Poison}} by 1.<br>| Type         = Debuff<br>| Stacks       = Intensity and Duration<br>| BetweenTurns = <br>| Cap          = <br>| PowerGives = Poison<br>}}<br>{{BD|Poison}} is a [[Debuff]] that the [[Silent]] can apply to Enemies.<br><br>At the beginning of its turn, an enemy with {{BD|Poison}} will lose HP eq... | `single_source` | [P3 wiki.gg API batch: status 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Poison|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | At the start of its turn, loses X HP, then reduce Poison by 1. | `single_source` | [P3 wiki.gg API batch: status 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Poison|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 在你的回合开始时，减少 X 点生命然后将 中毒 层数减少 1 。 | `single_source` | [中毒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501550&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

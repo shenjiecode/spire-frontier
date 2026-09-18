@@ -59,4 +59,4 @@
 | `source.title_text` | 灵体 | `single_source` | [灵体](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958975&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Apparition<br>| Image       = Colorless-Apparition.png<br>| Color       = Colorless<br>| Type        = Skill<br>| Rarity      = Special<br>| Cost        = 1<br>| Description = ({{KW|Ethereal}}. <br>;)Gain 1 {{BD|Intangible}}. <br>{{KW|Exhaust}}.<br>| GivesToPlayer = Ethereal, Intangible, Exhaust<br>}}<br>{{Keyword Infobox|Ethereal}} {{Power Infobox|Intangible}} {{Keyword Infobox|Exhaust}}<br>{{C|Apparition}} is a 1 {{Icon|CE}}-cos... | `single_source` | [P3 wiki.gg API batch: card 16](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Curse_of_the_Bell|Rebound|Rainbow|Fear_No_Evil|Foresight|Mind_Blast|Doom_and_Gloom|Clash|Apparition|Recursion|Heatsinks|Finisher|Flying_Sleeves|Tantrum|Slice|Phantasmal_Killer|Sands_of_Time|Clumsy|Bane|Brilliance&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

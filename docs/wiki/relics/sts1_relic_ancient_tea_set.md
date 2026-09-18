@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you enter a Rest Site, start the next combat with 2 extra Energy.The key to a refreshing night's rest.", "flavor": "The key to a refreshing night's rest."} |
+| `effect_json` | {"description_en": "Whenever you enter a Rest Site, start the next combat with 2 extra Energy.The key to a refreshing night's rest.", "description_zh": "到达休息处后的下一场战斗开始时获得 [E] [E] 。", "flavor": "The key to a refreshing night's rest.", "flavor_en": "The key to a refreshing night's rest.", "flavor_zh": "能让你神清气爽睡得香。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 古茶具套装 | `single_source` | [古茶具套装](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492280&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Ancient Tea Set|Venerable Tea Set}}<br>{{Relic Infobox<br>| Name        = Ancient Tea Set<br>| Image       = AncientTeaSet.png<br>| Rarity      = Common<br>| Description = Whenever you enter a Rest Site, start the next combat with 2 extra {{KW|Energy}}.<br>| Flavor      = The key to a refreshing night's rest.<br>| GivesToPlayer = Energy<br>}}<br>{{Keyword Infobox|Energy}}<br>{{R|Ancient Tea Set}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

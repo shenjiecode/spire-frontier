@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 幻影杀手 | `single_source` | [幻影杀手](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494884&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Phantasmal Killer<br>|Image       = Green-PhantasmalKiller.png<br>|Color       = Green<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = Next turn, your Attacks deal double damage.<br>}}<br>{{Power Infobox|Phantasmal}}{{Power Infobox|Double Damage}}<br>{{C|Phantasmal Killer}} is a 1 (0) {{Icon|GE}} cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill... | `single_source` | [P3 wiki.gg API batch: card 16](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Curse_of_the_Bell|Rebound|Rainbow|Fear_No_Evil|Foresight|Mind_Blast|Doom_and_Gloom|Clash|Apparition|Recursion|Heatsinks|Finisher|Flying_Sleeves|Tantrum|Slice|Phantasmal_Killer|Sands_of_Time|Clumsy|Bane|Brilliance&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

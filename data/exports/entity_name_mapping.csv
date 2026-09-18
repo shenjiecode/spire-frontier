@@ -10,15 +10,9 @@ sts1.candidate.zh.concept.15722655,concept,每日挑战介绍,,provisional
 sts1.candidate.zh.concept.530545,concept,关于游戏,,provisional
 sts1.candidate.zh.concept.9655623,concept,成就列表一览,,provisional
 sts1.candidate.zh.event.15408927,event,高塔之心,,provisional
-sts1.candidate.zh.mechanic.15440709,mechanic,商人,,provisional
-sts1.candidate.zh.mechanic.15463362,mechanic,宝箱房,,provisional
-sts1.candidate.zh.mechanic.15463366,mechanic,休息处,,provisional
-sts1.candidate.zh.mechanic.15539744,mechanic,怪物介绍,,provisional
-sts1.candidate.zh.mechanic.15624135,mechanic,问号房,,provisional
-sts1.candidate.zh.monster.15436697,monster,百夫长,,provisional
-sts1.candidate.zh.monster.15436699,monster,神秘术士,,provisional
+sts1.candidate.zh.monster.15436697,monster,,,unverified
+sts1.candidate.zh.monster.15436699,monster,,,unverified
 sts1.candidate.zh.status.15448778,status,机器学习（能力）,,provisional
-sts1.candidate.zh.status.15460336,status,以手拒之（能力）,,provisional
 sts1.card.colorless.apotheosis,card,神化,Apotheosis,confirmed
 sts1.card.colorless.apparition,card,灵体,Apparition,confirmed
 sts1.card.colorless.ascender_s_bane,card,进阶之灾,Ascender's Bane,confirmed
@@ -393,6 +387,44 @@ sts1.character.defect,character,故障机器人,Defect,confirmed
 sts1.character.ironclad,character,铁甲战士,Ironclad,confirmed
 sts1.character.silent,character,静默猎手,Silent,confirmed
 sts1.character.watcher,character,观者,Watcher,confirmed
+sts1.encounter.act1.easy.2_louse,encounter,2 只虱虫,2 Louse,provisional
+sts1.encounter.act1.easy.cultist,encounter,邪教徒,Cultist,provisional
+sts1.encounter.act1.easy.jaw_worm,encounter,大颚虫,Jaw Worm,provisional
+sts1.encounter.act1.easy.small_slimes,encounter,小型史莱姆,Small Slimes,provisional
+sts1.encounter.act1.hard.2_fungi_beasts,encounter,2 只真菌兽,2 Fungi Beasts,provisional
+sts1.encounter.act1.hard.3_louse,encounter,3 只虱虫,3 Louse,provisional
+sts1.encounter.act1.hard.blue_slaver,encounter,蓝色奴隶贩子,Blue Slaver,provisional
+sts1.encounter.act1.hard.exordium_thugs,encounter,序幕暴徒,Exordium Thugs,provisional
+sts1.encounter.act1.hard.exordium_wildlife,encounter,序幕野兽,Exordium Wildlife,provisional
+sts1.encounter.act1.hard.gang_of_gremlins,encounter,地精小队,Gang of Gremlins,provisional
+sts1.encounter.act1.hard.large_slime,encounter,大型史莱姆,Large Slime,provisional
+sts1.encounter.act1.hard.looter,encounter,抢劫的,Looter,provisional
+sts1.encounter.act1.hard.red_slaver,encounter,红色奴隶贩子,Red Slaver,provisional
+sts1.encounter.act1.hard.swarm_of_slimes,encounter,史莱姆群,Swarm of Slimes,provisional
+sts1.encounter.act2.easy.2_thieves,encounter,2 名盗贼,2 Thieves,provisional
+sts1.encounter.act2.easy.3_byrds,encounter,3 只异鸟,3 Byrds,provisional
+sts1.encounter.act2.easy.chosen,encounter,被拣选者,Chosen,provisional
+sts1.encounter.act2.easy.shelled_parasite,encounter,带壳寄生怪,Shelled Parasite,provisional
+sts1.encounter.act2.easy.spheric_guardian,encounter,圆球守护者,Spheric Guardian,provisional
+sts1.encounter.act2.hard.3_cultists,encounter,3 名邪教徒,3 Cultists,provisional
+sts1.encounter.act2.hard.centurion_and_mystic,encounter,百夫长与神秘术士,Centurion and Mystic,provisional
+sts1.encounter.act2.hard.chosen_and_byrds,encounter,被拣选者与异鸟,Chosen and Byrds,provisional
+sts1.encounter.act2.hard.cultist_and_chosen,encounter,邪教徒与被拣选者,Cultist and Chosen,provisional
+sts1.encounter.act2.hard.sentry_and_spheric_guardian,encounter,哨卫与圆球守护者,Sentry and Spheric Guardian,provisional
+sts1.encounter.act2.hard.shelled_parasite_and_fungi,encounter,带壳寄生怪与真菌兽,Shelled Parasite and Fungi,provisional
+sts1.encounter.act2.hard.snake_plant,encounter,蛇花,Snake Plant,provisional
+sts1.encounter.act2.hard.snecko,encounter,异蛇,Snecko,provisional
+sts1.encounter.act3.easy.3_darklings,encounter,3 只小黑,3 Darklings,provisional
+sts1.encounter.act3.easy.3_shapes,encounter,3 个三机械,3 Shapes,provisional
+sts1.encounter.act3.easy.orb_walker,encounter,圆球行者,Orb Walker,provisional
+sts1.encounter.act3.hard.3_darklings,encounter,3 只小黑,3 Darklings,provisional
+sts1.encounter.act3.hard.4_shapes,encounter,4 个三机械,4 Shapes,provisional
+sts1.encounter.act3.hard.jaw_worm_horde,encounter,大颚虫群,Jaw Worm Horde,provisional
+sts1.encounter.act3.hard.spheric_guardian_2_shapes,encounter,圆球守护者 + 2 个三机械,Spheric Guardian + 2 Shapes,provisional
+sts1.encounter.act3.hard.spire_growth,encounter,塔内增生组织,Spire Growth,provisional
+sts1.encounter.act3.hard.the_maw,encounter,巨口,The Maw,provisional
+sts1.encounter.act3.hard.transient,encounter,倏忽魔,Transient,provisional
+sts1.encounter.act3.hard.writhing_mass,encounter,扭曲团块,Writhing Mass,provisional
 sts1.encounter.exordium.slime_boss,encounter,第一幕：史莱姆老大,Exordium: Slime Boss,confirmed
 sts1.event.a_note_for_yourself,event,留给自己的讯息,A Note For Yourself,confirmed
 sts1.event.ancient_writing,event,古老文字,Ancient Writing,confirmed
@@ -446,55 +478,55 @@ sts1.event.winding_halls,event,蜿蜒走廊,Winding Halls,confirmed
 sts1.event.wing_statue,event,翅膀雕像,Wing Statue,confirmed
 sts1.event.world_of_goop,event,黏液世界,World of Goop,confirmed
 sts1.game.candidate.card.allocate,card,分配,Allocate,provisional
-sts1.game.candidate.card.awakenedstrike,card,DEPRECATED Awakened Strike,DEPRECATED Awakened Strike,provisional
+sts1.game.candidate.card.awakenedstrike,card,,,provisional
 sts1.game.candidate.card.axe_kick,card,下压踢,Axe Kick,provisional
-sts1.game.candidate.card.bigbrain,card,DEPRECATED Big Brain,DEPRECATED Big Brain,provisional
+sts1.game.candidate.card.bigbrain,card,,,provisional
 sts1.game.candidate.card.blaster,card,爆破射线,Blaster,provisional
-sts1.game.candidate.card.blessed,card,DEPRECATED Blessed,DEPRECATED Blessed,provisional
-sts1.game.candidate.card.brillianceaura,card,DEPRECATED Brilliance Aura,DEPRECATED Brilliance Aura,provisional
+sts1.game.candidate.card.blessed,card,,,provisional
+sts1.game.candidate.card.brillianceaura,card,,,provisional
 sts1.game.candidate.card.calm,card,平静,Calm,provisional
 sts1.game.candidate.card.causality,card,因果始终,Causality,provisional
 sts1.game.candidate.card.clarity,card,明晰,Clarity,provisional
 sts1.game.candidate.card.cleanseevil,card,扫除邪恶,Cleanse Evil,provisional
-sts1.game.candidate.card.crescentkick,card,DEPRECATED Crescent Kick,DEPRECATED Crescent Kick,provisional
-sts1.game.candidate.card.discipline,card,DEPRECATED 戒律,DEPRECATED Discipline,provisional
+sts1.game.candidate.card.crescentkick,card,,,provisional
+sts1.game.candidate.card.discipline,card,,,provisional
 sts1.game.candidate.card.energy_pulse,card,能量波动,Energy Pulse,provisional
-sts1.game.candidate.card.experienced,card,DEPRECATED Experienced,DEPRECATED Experienced,provisional
-sts1.game.candidate.card.flamemastery,card,DEPRECATED Flame Mastery,DEPRECATED Flame Mastery,provisional
-sts1.game.candidate.card.flare,card,DEPRECATED Flare,DEPRECATED Flare,provisional
-sts1.game.candidate.card.flick,card,DEPRECATED 轻弹,DEPRECATED Flick,provisional
-sts1.game.candidate.card.flicker,card,DEPRECATED Flicker,DEPRECATED Flicker,provisional
-sts1.game.candidate.card.flow,card,DEPRECATED Flow,DEPRECATED Flow,provisional
-sts1.game.candidate.card.flowstate,card,DEPRECATED 流转,DEPRECATED Flow State,provisional
+sts1.game.candidate.card.experienced,card,,,provisional
+sts1.game.candidate.card.flamemastery,card,,,provisional
+sts1.game.candidate.card.flare,card,,,provisional
+sts1.game.candidate.card.flick,card,,,provisional
+sts1.game.candidate.card.flicker,card,,,provisional
+sts1.game.candidate.card.flow,card,,,provisional
+sts1.game.candidate.card.flowstate,card,,,provisional
 sts1.game.candidate.card.flux_capacitor,card,通量电容器,Flux Capacitor,provisional
-sts1.game.candidate.card.furyaura,card,DEPRECATED Fury Aura,DEPRECATED Fury Aura,provisional
+sts1.game.candidate.card.furyaura,card,,,provisional
 sts1.game.candidate.card.hide,card,躲藏,Hide,provisional
-sts1.game.candidate.card.letfatedecide,card,DEPRECATED Let Fate Decide,DEPRECATED Let Fate Decide,provisional
+sts1.game.candidate.card.letfatedecide,card,,,provisional
 sts1.game.candidate.card.mastery,card,精通,Mastery,provisional
-sts1.game.candidate.card.metaphysics,card,DEPRECATED,DEPRECATED,provisional
-sts1.game.candidate.card.palmthatrestrains,card,DEPRECATED Restraining Palm,DEPRECATED Restraining Palm,provisional
+sts1.game.candidate.card.metaphysics,card,,,provisional
+sts1.game.candidate.card.palmthatrestrains,card,,,provisional
 sts1.game.candidate.card.peace,card,和睦,Peace,provisional
-sts1.game.candidate.card.perfectedform,card,DEPRECATED Perfected Form,DEPRECATED Perfected Form,provisional
-sts1.game.candidate.card.polymath,card,DEPRECATED Polymath,DEPRECATED Polymath,provisional
-sts1.game.candidate.card.prediction,card,DEPRECATED Prediction,DEPRECATED Prediction,provisional
-sts1.game.candidate.card.punishment,card,DEPRECATED Punishment,DEPRECATED Punishment,provisional
-sts1.game.candidate.card.retreatinghand,card,DEPRECATED Retreating Hand,DEPRECATED Retreating Hand,provisional
-sts1.game.candidate.card.retribution,card,DEPRECATED Retribution,DEPRECATED Retribution,provisional
-sts1.game.candidate.card.serenity,card,DEPRECATED 宁静,DEPRECATED Serenity,provisional
-sts1.game.candidate.card.shield,card,DEPRECATED Shield,DEPRECATED Shield,provisional
-sts1.game.candidate.card.soothingaura,card,DEPRECATED Soothing Aura,DEPRECATED Soothing Aura,provisional
-sts1.game.candidate.card.stepandstrike,card,跨步打击,DEPRECATED Step and Strike,provisional
-sts1.game.candidate.card.sublimeslice,card,DEPRECATED Sublime Slice,DEPRECATED Sublime Slice,provisional
-sts1.game.candidate.card.survey,card,DEPRECATED Survey,DEPRECATED Survey,provisional
-sts1.game.candidate.card.swipe,card,DEPRECATED Swipe,DEPRECATED Swipe,provisional
-sts1.game.candidate.card.thwack,card,DEPRECATED Thwack,DEPRECATED Thwack,provisional
-sts1.game.candidate.card.torrent,card,DEPRECATED Torrent,DEPRECATED Torrent,provisional
+sts1.game.candidate.card.perfectedform,card,,,provisional
+sts1.game.candidate.card.polymath,card,,,provisional
+sts1.game.candidate.card.prediction,card,,,provisional
+sts1.game.candidate.card.punishment,card,,,provisional
+sts1.game.candidate.card.retreatinghand,card,,,provisional
+sts1.game.candidate.card.retribution,card,,,provisional
+sts1.game.candidate.card.serenity,card,,,provisional
+sts1.game.candidate.card.shield,card,,,provisional
+sts1.game.candidate.card.soothingaura,card,,,provisional
+sts1.game.candidate.card.stepandstrike,card,跨步打击,,provisional
+sts1.game.candidate.card.sublimeslice,card,,,provisional
+sts1.game.candidate.card.survey,card,,,provisional
+sts1.game.candidate.card.swipe,card,,,provisional
+sts1.game.candidate.card.thwack,card,,,provisional
+sts1.game.candidate.card.torrent,card,,,provisional
 sts1.game.candidate.card.transcendence,card,超凡脱俗,Transcendence,provisional
 sts1.game.candidate.card.truth,card,真知,Truth,provisional
 sts1.game.candidate.card.unraveling,card,彻悟,Unraveling,provisional
-sts1.game.candidate.card.wardaura,card,DEPRECATED Ward Aura,DEPRECATED Ward Aura,provisional
-sts1.game.candidate.card.waveofthehand2,card,DEPRECATED,DEPRECATED,provisional
-sts1.game.candidate.card.windup,card,DEPRECATED Windup,DEPRECATED Windup,provisional
+sts1.game.candidate.card.wardaura,card,,,provisional
+sts1.game.candidate.card.waveofthehand2,card,,,provisional
+sts1.game.candidate.card.windup,card,,,provisional
 sts1.game.candidate.card.wisdom,card,睿智,Wisdom,provisional
 sts1.game.candidate.card.wrath,card,愤怒,Wrath,provisional
 sts1.game.candidate.event.proceed_screen,event,Proceed Screen,Proceed Screen,provisional
@@ -533,27 +565,33 @@ sts1.game.candidate.keyword.vulnerable,keyword,易伤,vulnerable,provisional
 sts1.game.candidate.keyword.weak,keyword,虚弱,weak,provisional
 sts1.game.candidate.keyword.wound,keyword,伤口,wound,provisional
 sts1.game.candidate.keyword.wrath,keyword,愤怒,wrath,provisional
+sts1.game.candidate.monster.acidslime_l,monster,,,provisional
+sts1.game.candidate.monster.acidslime_m,monster,,,provisional
+sts1.game.candidate.monster.acidslime_s,monster,,,provisional
 sts1.game.candidate.monster.apology_slime,monster,抱歉史莱姆,Apology Slime,provisional
 sts1.game.candidate.monster.banditbear,monster,熊,Bear,provisional
 sts1.game.candidate.monster.banditchild,monster,尖尖,Pointy,provisional
 sts1.game.candidate.monster.banditleader,monster,罗密欧,Romeo,provisional
-sts1.game.candidate.monster.bronzeorb,monster,铜球,Orb,provisional
-sts1.game.candidate.monster.centurion,monster,百夫长,Centurion,provisional
-sts1.game.candidate.monster.dagger,monster,匕首,Dagger,provisional
+sts1.game.candidate.monster.bronzeorb,monster,铜球,Bronze Orb,confirmed
+sts1.game.candidate.monster.centurion,monster,,,provisional
+sts1.game.candidate.monster.dagger,monster,匕首,Dagger,confirmed
 sts1.game.candidate.monster.fireorb,monster,烈焰球,Fire Orb,provisional
 sts1.game.candidate.monster.flamebruiser,monster,烈焰蛮汉,Flame Bruiser,provisional
-sts1.game.candidate.monster.healer,monster,神秘术士,Mystic,provisional
+sts1.game.candidate.monster.healer,monster,,,provisional
 sts1.game.candidate.monster.hexaghostbody,monster,HexaghostBody,HexaghostBody,provisional
 sts1.game.candidate.monster.hexaghostorb,monster,HexaghostOrb,HexaghostOrb,provisional
 sts1.game.candidate.monster.puppeteer,monster,人偶师,Puppeteer,provisional
+sts1.game.candidate.monster.spikeslime_l,monster,,,provisional
+sts1.game.candidate.monster.spikeslime_m,monster,,,provisional
+sts1.game.candidate.monster.spikeslime_s,monster,,,provisional
 sts1.game.candidate.monster.theguardianorb,monster,TheGuardianOrb,TheGuardianOrb,provisional
-sts1.game.candidate.monster.torchhead,monster,火炬头,Torch Head,provisional
+sts1.game.candidate.monster.torchhead,monster,火炬头,Torch Head,confirmed
 sts1.game.candidate.potion.health_potion,potion,生命药水,Health Potion,provisional
 sts1.game.candidate.potion.potion_slot,potion,药水栏,Potion Slot,provisional
 sts1.game.candidate.relic.chameleon_ring,relic,变色龙戒指,Chameleon Ring,provisional
 sts1.game.candidate.relic.derp_rock,relic,Derp Rock,Derp Rock,provisional
 sts1.game.candidate.relic.discerning_monocle,relic,鉴识单片眼镜,Discerning Monocle,provisional
-sts1.game.candidate.relic.dodecahedron,relic,DEPRECATED符文十二面体,DEPRECATED Runic Dodecahedron,provisional
+sts1.game.candidate.relic.dodecahedron,relic,DEPRECATED符文十二面体,,provisional
 sts1.game.candidate.relic.living_blade,relic,活刀刃,Living Blade,provisional
 sts1.game.candidate.relic.nullstone_periapt,relic,Nullstone Periapt,Nullstone Periapt,provisional
 sts1.game.candidate.relic.test_1,relic,测试遗物 1,,provisional
@@ -564,31 +602,31 @@ sts1.game.candidate.relic.test_5,relic,测试遗物 5,,provisional
 sts1.game.candidate.relic.test_6,relic,测试遗物 6,,provisional
 sts1.game.candidate.relic.test_7,relic,测试遗物 7,,provisional
 sts1.game.candidate.relic.test_8,relic,测试遗物 8,,provisional
-sts1.game.candidate.relic.yin,relic,阴,DEPRECATED Yin,provisional
-sts1.game.candidate.status.alwaysmad,status,Always Mad,DEPRECATED Always Mad,provisional
+sts1.game.candidate.relic.yin,relic,阴,,provisional
+sts1.game.candidate.status.alwaysmad,status,Always Mad,,provisional
 sts1.game.candidate.status.angelform,status,永生不死,Live Forever,provisional
 sts1.game.candidate.status.attack_burn,status,攻击烧毁,Attack Burn,provisional
 sts1.game.candidate.status.bullet_time,status,子弹时间,Bullet Time,provisional
 sts1.game.candidate.status.cannotchangestancepower,status,不能改变姿态,Cannot Change Stance,provisional
-sts1.game.candidate.status.condense,status,DEPRECATED Condense,DEPRECATED Condense,provisional
+sts1.game.candidate.status.condense,status,,,provisional
 sts1.game.candidate.status.conserve,status,保留,Conserve,provisional
 sts1.game.candidate.status.dance_puppet,status,跳舞人偶,Dance Puppet,provisional
-sts1.game.candidate.status.disciplinepower,status,DEPRECATED 戒律,DEPRECATED Discipline,provisional
-sts1.game.candidate.status.emotionalturmoilpower,status,DEPRECATED Emotional Turmoil,DEPRECATED Emotional Turmoil,provisional
+sts1.game.candidate.status.disciplinepower,status,,,provisional
+sts1.game.candidate.status.emotionalturmoilpower,status,,,provisional
 sts1.game.candidate.status.extra_cards,status,额外牌数,Extra Cards,provisional
-sts1.game.candidate.status.flickpower,status,DEPRECATED 轻弹,DEPRECATED Flick,provisional
-sts1.game.candidate.status.flowpower,status,DEPRECATED FlowPower,DEPRECATED FlowPower,provisional
-sts1.game.candidate.status.freetoplaypower,status,DEPRECATED Joy,DEPRECATED FreeToPlayPower,provisional
+sts1.game.candidate.status.flickpower,status,,,provisional
+sts1.game.candidate.status.flowpower,status,,,provisional
+sts1.game.candidate.status.freetoplaypower,status,,,provisional
 sts1.game.candidate.status.gambit,status,布局,Gambit,provisional
 sts1.game.candidate.status.generic_strength_up_power,status,Generic Strength Up Power,Generic Strength Up Power,provisional
-sts1.game.candidate.status.grounded,status,DEPRECATED Grounded,DEPRECATED Grounded,provisional
+sts1.game.candidate.status.grounded,status,,,provisional
 sts1.game.candidate.status.growthpower,status,万物生长,Growth,provisional
 sts1.game.candidate.status.hide,status,躲藏,Hide,provisional
-sts1.game.candidate.status.hothot,status,Hot hot,DEPRECATED Hot hot,provisional
+sts1.game.candidate.status.hothot,status,Hot hot,,provisional
 sts1.game.candidate.status.inverted,status,倒转,Inverted,provisional
 sts1.game.candidate.status.knowledge,status,知识,Knowledge,provisional
 sts1.game.candidate.status.machine_learning,status,机器学习,Machine Learning,provisional
-sts1.game.candidate.status.mastery,status,精通,DEPRECATED Mastery,provisional
+sts1.game.candidate.status.mastery,status,精通,,provisional
 sts1.game.candidate.status.no_attack,status,无法攻击,No Attack,provisional
 sts1.game.candidate.status.noskills,status,禁用技能,No Skills,provisional
 sts1.game.candidate.status.nullify_attack,status,无视攻击,Nullify Attack,provisional
@@ -599,9 +637,9 @@ sts1.game.candidate.status.reduce_damage,status,降低伤害,Reduce Damage,provi
 sts1.game.candidate.status.repulse,status,反冲,Repulse,provisional
 sts1.game.candidate.status.retain_cards,status,保留卡牌,Retain Cards,provisional
 sts1.game.candidate.status.retain_hand,status,保留手牌,Retain Hand,provisional
-sts1.game.candidate.status.retribution,status,DEPRECATED Retribution,DEPRECATED Retribution,provisional
+sts1.game.candidate.status.retribution,status,,,provisional
 sts1.game.candidate.status.riposte,status,回刺,Riposte,provisional
-sts1.game.candidate.status.serenity,status,DEPRECATED Serenity,DEPRECATED Serenity,provisional
+sts1.game.candidate.status.serenity,status,,,provisional
 sts1.game.candidate.status.serpentine,status,蛇形,Serpentine,provisional
 sts1.game.candidate.status.shriek_from_beyond,status,深渊尖啸,Shriek From Beyond,provisional
 sts1.game.candidate.status.skill_burn,status,技能烧毁,Skill Burn,provisional
@@ -610,13 +648,13 @@ sts1.game.candidate.status.timemazepower,status,时间迷宫,Time Maze,provision
 sts1.game.candidate.status.unstable,status,不稳,Unstable,provisional
 sts1.game.candidate.status.vault,status,腾跃,Vault,provisional
 sts1.game.candidate.status.venomology,status,毒理研究,Venomology,provisional
-sts1.game.candidate.status.waveofthehandpower2,status,DEPRECATED,DEPRECATED,provisional
+sts1.game.candidate.status.waveofthehandpower2,status,,,provisional
 sts1.keyword.block,keyword,格挡,Block,confirmed
-sts1.keyword.cards,keyword,,Cards,provisional
+sts1.keyword.cards,keyword,卡牌,Cards,confirmed
 sts1.keyword.channel,keyword,生成,Channel,confirmed
 sts1.keyword.dark,keyword,黑暗,Dark,confirmed
-sts1.keyword.discard,keyword,,Discard,provisional
-sts1.keyword.energy,keyword,,Energy,provisional
+sts1.keyword.discard,keyword,弃牌,Discard,confirmed
+sts1.keyword.energy,keyword,能量,Energy,confirmed
 sts1.keyword.ethereal,keyword,虚无,Ethereal,confirmed
 sts1.keyword.evoke,keyword,激发,Evoke,confirmed
 sts1.keyword.exhaust,keyword,消耗,Exhaust,confirmed
@@ -624,71 +662,100 @@ sts1.keyword.focus,keyword,集中,Focus,confirmed
 sts1.keyword.frost,keyword,冰霜,Frost,confirmed
 sts1.keyword.innate,keyword,固有,Innate,confirmed
 sts1.keyword.lightning,keyword,闪电,Lightning,confirmed
-sts1.keyword.orb_types,keyword,,Orb Types,provisional
-sts1.keyword.orbs,keyword,,Orbs,provisional
+sts1.keyword.orb_types,keyword,充能球类型,Orb Types,confirmed
+sts1.keyword.orbs,keyword,充能球,Orbs,confirmed
 sts1.keyword.plasma,keyword,等离子,Plasma,confirmed
 sts1.keyword.retain,keyword,保留,Retain,confirmed
 sts1.keyword.scry,keyword,预见,Scry,confirmed
-sts1.keyword.sources,keyword,,Sources,provisional
+sts1.keyword.sources,keyword,来源,Sources,confirmed
 sts1.keyword.stance,keyword,姿态,Stance,confirmed
-sts1.keyword.triggers,keyword,,Triggers,provisional
+sts1.keyword.triggers,keyword,触发,Triggers,confirmed
 sts1.keyword.unplayable,keyword,不能被打出,Unplayable,confirmed
-sts1.mechanic.acts,mechanic,,Acts,provisional
-sts1.mechanic.ascensions,mechanic,,Ascensions,provisional
+sts1.mechanic.acts,mechanic,幕,Acts,confirmed
+sts1.mechanic.ascensions,mechanic,进阶,Ascensions,confirmed
 sts1.mechanic.block,mechanic,格挡,Block,provisional
-sts1.mechanic.card_piles,mechanic,,Card Piles,provisional
-sts1.mechanic.cards,mechanic,,Cards,provisional
-sts1.mechanic.chests,mechanic,,Chests,provisional
-sts1.mechanic.enemy_turn,mechanic,,Enemy Turn,provisional
+sts1.mechanic.card_piles,mechanic,牌堆,Card Piles,confirmed
+sts1.mechanic.cards,mechanic,卡牌,Cards,confirmed
+sts1.mechanic.chests,mechanic,宝箱,Chests,confirmed
+sts1.mechanic.enemy_turn,mechanic,敌方回合,Enemy Turn,confirmed
 sts1.mechanic.exhaust,mechanic,消耗,Exhaust,provisional
-sts1.mechanic.floors_and_floor_types,mechanic,,Floors and Floor Types,provisional
-sts1.mechanic.gold,mechanic,,Gold,provisional
-sts1.mechanic.hand,mechanic,,Hand,provisional
-sts1.mechanic.hand_size_limit,mechanic,,Hand Size Limit,provisional
-sts1.mechanic.health,mechanic,,Health,provisional
-sts1.mechanic.keys,mechanic,,Keys,provisional
-sts1.mechanic.player_turn,mechanic,,Player Turn,provisional
-sts1.mechanic.potions,mechanic,,Potions,provisional
-sts1.mechanic.relics,mechanic,,Relics,provisional
-sts1.mechanic.transforming,mechanic,,Transforming,provisional
-sts1.mechanic.turns,mechanic,,Turns,provisional
-sts1.mechanic.upgrading,mechanic,,Upgrading,provisional
-sts1.monster.acid_slimes,monster,酸液史莱姆,Acid Slimes,confirmed
+sts1.mechanic.floors_and_floor_types,mechanic,楼层与房间类型,Floors and Floor Types,confirmed
+sts1.mechanic.gold,mechanic,金币,Gold,confirmed
+sts1.mechanic.hand,mechanic,手牌,Hand,confirmed
+sts1.mechanic.hand_size_limit,mechanic,手牌上限,Hand Size Limit,confirmed
+sts1.mechanic.health,mechanic,生命,Health,confirmed
+sts1.mechanic.keys,mechanic,钥匙,Keys,confirmed
+sts1.mechanic.merchant,mechanic,商人,Merchant,confirmed
+sts1.mechanic.monsters,mechanic,怪物介绍,Monsters,confirmed
+sts1.mechanic.player_turn,mechanic,玩家回合,Player Turn,confirmed
+sts1.mechanic.potions,mechanic,药水,Potions,confirmed
+sts1.mechanic.relics,mechanic,遗物,Relics,confirmed
+sts1.mechanic.rest_site,mechanic,休息处,Rest Site,confirmed
+sts1.mechanic.transforming,mechanic,变化,Transforming,confirmed
+sts1.mechanic.treasure_room,mechanic,宝箱房,Treasure Room,confirmed
+sts1.mechanic.turns,mechanic,回合,Turns,confirmed
+sts1.mechanic.unknown_location,mechanic,问号房,Unknown Location,confirmed
+sts1.mechanic.upgrading,mechanic,升级,Upgrading,confirmed
+sts1.monster.acid_slime_l,monster,酸液史莱姆（大）,Acid Slime (L),confirmed
+sts1.monster.acid_slime_m,monster,酸液史莱姆（中）,Acid Slime (M),confirmed
+sts1.monster.acid_slime_s,monster,酸液史莱姆（小）,Acid Slime (S),confirmed
+sts1.monster.acid_slimes,monster,酸液史莱姆,Acid Slimes,provisional
 sts1.monster.awakened_one,monster,觉醒者,Awakened One,confirmed
+sts1.monster.blue_slaver,monster,奴隶贩子,Blue Slaver,confirmed
 sts1.monster.book_of_stabbing,monster,扎人的书,Book of Stabbing,confirmed
 sts1.monster.bronze_automaton,monster,铜制机械人偶,Bronze Automaton,confirmed
 sts1.monster.byrd,monster,异鸟,Byrd,confirmed
-sts1.monster.centurion_and_mystic,monster,,Centurion and Mystic,provisional
+sts1.monster.centurion,monster,百夫长,Centurion,confirmed
+sts1.monster.centurion_and_mystic,monster,百夫长与神秘术士,Centurion and Mystic,provisional
 sts1.monster.chosen,monster,被拣选者,Chosen,confirmed
 sts1.monster.corrupt_heart,monster,腐化之心,Corrupt Heart,confirmed
 sts1.monster.cultist,monster,邪教徒,Cultist,confirmed
 sts1.monster.darkling,monster,小黑,Darkling,confirmed
-sts1.monster.donu_and_deca,monster,八体/甜圈,Donu and Deca,confirmed
+sts1.monster.deca,monster,八体,Deca,confirmed
+sts1.monster.donu,monster,甜圈,Donu,confirmed
+sts1.monster.donu_and_deca,monster,八体/甜圈,Donu and Deca,provisional
+sts1.monster.exploder,monster,爆炸机,Exploder,confirmed
+sts1.monster.fat_gremlin,monster,胖地精,Fat Gremlin,confirmed
 sts1.monster.fungi_beast,monster,真菌兽,Fungi Beast,confirmed
 sts1.monster.giant_head,monster,大脑袋,Giant Head,confirmed
+sts1.monster.green_louse,monster,虱虫,Green Louse,confirmed
 sts1.monster.gremlin_leader,monster,地精首领,Gremlin Leader,confirmed
 sts1.monster.gremlin_nob,monster,地精大块头,Gremlin Nob,confirmed
-sts1.monster.gremlins,monster,地精小队,Gremlins,confirmed
+sts1.monster.gremlin_wizard,monster,地精法师,Gremlin Wizard,confirmed
+sts1.monster.gremlins,monster,地精小队,Gremlins,provisional
 sts1.monster.hexaghost,monster,六火亡魂,Hexaghost,confirmed
 sts1.monster.jaw_worm,monster,大颚虫,Jaw Worm,confirmed
 sts1.monster.lagavulin,monster,乐加维林,Lagavulin,confirmed
 sts1.monster.looter,monster,抢劫的,Looter,confirmed
-sts1.monster.louses,monster,虱虫,Louses,confirmed
+sts1.monster.louses,monster,虱虫,Louses,provisional
+sts1.monster.mad_gremlin,monster,火大地精,Mad Gremlin,confirmed
 sts1.monster.mugger,monster,打劫的,Mugger,confirmed
+sts1.monster.mystic,monster,神秘术士,Mystic,confirmed
 sts1.monster.nemesis,monster,天罚,Nemesis,confirmed
 sts1.monster.orb_walker,monster,圆球行者,Orb Walker,confirmed
+sts1.monster.red_louse,monster,虱虫,Red Louse,confirmed
+sts1.monster.red_slaver,monster,奴隶贩子,Red Slaver,confirmed
 sts1.monster.reptomancer,monster,拜蛇术士,Reptomancer,confirmed
+sts1.monster.repulsor,monster,反冲机,Repulsor,confirmed
 sts1.monster.sentry,monster,哨位(精英),Sentry,confirmed
-sts1.monster.shapes,monster,三机械,Shapes,confirmed
+sts1.monster.shapes,monster,三机械,Shapes,provisional
 sts1.monster.shelled_parasite,monster,带壳寄生怪,Shelled Parasite,confirmed
-sts1.monster.slavers,monster,奴隶主,Slavers,confirmed
+sts1.monster.shield_gremlin,monster,持盾地精,Shield Gremlin,confirmed
+sts1.monster.slavers,monster,奴隶主,Slavers,provisional
 sts1.monster.slime_boss,monster,史莱姆老大,Slime Boss,confirmed
 sts1.monster.snake_plant,monster,蛇花,Snake Plant,confirmed
+sts1.monster.sneaky_gremlin,monster,卑鄙地精,Sneaky Gremlin,confirmed
 sts1.monster.snecko,monster,异蛇,Snecko,confirmed
 sts1.monster.spheric_guardian,monster,圆球守护者,Spheric Guardian,confirmed
-sts1.monster.spike_slimes,monster,尖刺史莱姆,Spike Slimes,confirmed
+sts1.monster.spike_slime_l,monster,尖刺史莱姆（大）,Spike Slime (L),confirmed
+sts1.monster.spike_slime_m,monster,尖刺史莱姆（中）,Spike Slime (M),confirmed
+sts1.monster.spike_slime_s,monster,尖刺史莱姆（小）,Spike Slime (S),confirmed
+sts1.monster.spike_slimes,monster,尖刺史莱姆,Spike Slimes,provisional
+sts1.monster.spiker,monster,钉刺机,Spiker,confirmed
 sts1.monster.spire_growth,monster,塔内增生组织,Spire Growth,confirmed
-sts1.monster.spire_shield_and_spire_spear,monster,高塔之盾/高塔之矛,Spire Shield and Spire Spear,confirmed
+sts1.monster.spire_shield,monster,高塔之盾,Spire Shield,confirmed
+sts1.monster.spire_shield_and_spire_spear,monster,高塔之盾/高塔之矛,Spire Shield and Spire Spear,provisional
+sts1.monster.spire_spear,monster,高塔之矛,Spire Spear,confirmed
 sts1.monster.taskmaster,monster,奴隶头子,Taskmaster,confirmed
 sts1.monster.the_champ,monster,第一勇士,The Champ,confirmed
 sts1.monster.the_collector,monster,收藏家,The Collector,confirmed
@@ -951,8 +1018,8 @@ sts1.status.demon_form,status,恶魔形态（能力）,Demon Form,confirmed
 sts1.status.deva,status,天人,Deva,confirmed
 sts1.status.devotion,status,虔信（能力）,Devotion,confirmed
 sts1.status.dexterity,status,敏捷,Dexterity,confirmed
-sts1.status.dexterity_down,status,敏捷(负),Dexterity Down,confirmed
-sts1.status.dexterity_negative,status,,Dexterity (Negative),provisional
+sts1.status.dexterity_down,status,敏捷下降,Dexterity Down,confirmed
+sts1.status.dexterity_negative,status,敏捷（负面）,Dexterity (Negative),confirmed
 sts1.status.double_damage,status,双倍伤害,Double Damage,confirmed
 sts1.status.double_tap,status,双发（能力）,Double Tap,confirmed
 sts1.status.draw,status,抽牌,Draw,confirmed
@@ -976,7 +1043,7 @@ sts1.status.fire_breathing,status,火焰吐息（能力）,Fire Breathing,confir
 sts1.status.flame_barrier,status,火焰屏障（能力）,Flame Barrier,confirmed
 sts1.status.flying,status,飞行,Flying,confirmed
 sts1.status.focus,status,集中,Focus,confirmed
-sts1.status.focus_negative,status,集中(负),Focus (Negative),confirmed
+sts1.status.focus_negative,status,集中（负面）,Focus (Negative),confirmed
 sts1.status.foresight,status,先见之明（能力）,Foresight,confirmed
 sts1.status.frail,status,脆弱,Frail,confirmed
 sts1.status.free_attack_power,status,免费攻击,Free Attack Power,confirmed
@@ -1035,8 +1102,8 @@ sts1.status.stasis,status,凝滞,Stasis,confirmed
 sts1.status.static_discharge,status,静电释放（能力）,Static Discharge,confirmed
 sts1.status.storm,status,雷暴（能力）,Storm,confirmed
 sts1.status.strength,status,力量,Strength,confirmed
-sts1.status.strength_down,status,活动肌肉（能力）,Strength Down,confirmed
-sts1.status.strength_negative,status,力量（负）,Strength (Negative),confirmed
+sts1.status.strength_down,status,力量下降,Strength Down,confirmed
+sts1.status.strength_negative,status,力量（负面）,Strength (Negative),confirmed
 sts1.status.strength_up,status,力量提升,Strength Up,confirmed
 sts1.status.study,status,研习（能力）,Study,confirmed
 sts1.status.surrounded,status,夹击,Surrounded,confirmed

@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `polarity` | neutral |
+| `polarity` | negative |
 
 ## 相关条目
 
@@ -36,5 +36,7 @@
 | `source.article_text` | 勒脖（能力）<br>Buffs id: Choked<br>（图片未提供文字说明）<br>Buffs信息<br>效果中文描述<br>你这回合你每打出一张牌，其便失去 X 点生命。<br>效果英文描述<br>Whenever you play a card this turn, loses #b HP.<br>类型<br>敌方Debuff<br>可叠加 | `single_source` | [勒脖（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460339&wiki_id=646570) |
 | `source.title_text` | 勒脖（能力） | `single_source` | [勒脖（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460339&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Template:Under Construction}}<br>{{#setmainimage:Intent_Debuff.png|quiet}}<br>{{TOC limit|2}}<br>See also: [[Buffs]]<br><br>== Stack Types ==<br>{{Hatnote|'''Note:''' These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.}}<br>* '''Intensity Debuffs''' are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat e... | `single_source` | [P3 wiki.gg API batch: status 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Dexterity|Strength|Buffs|Buffs|Buffs|Buffs|Debuffs|Debuffs|Buffs|Debuffs|Buffs|Debuffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | Whenever you play a card this turn, loses #b HP. | `single_source` | [P3 wiki.gg API batch: status 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Dexterity|Strength|Buffs|Buffs|Buffs|Buffs|Debuffs|Debuffs|Buffs|Debuffs|Buffs|Debuffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 你这回合你每打出一张牌，其便失去 X 点生命。 | `single_source` | [勒脖（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460339&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

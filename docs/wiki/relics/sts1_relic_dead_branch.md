@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Whenever you Exhaust a card, add a random card to your hand.The branch of a tree from a forgotten era.", "flavor": "The branch of a tree from a forgotten era."} |
+| `effect_json` | {"description_en": "Whenever you Exhaust a card, add a random card to your hand.The branch of a tree from a forgotten era.", "description_zh": "每当你 #y消耗 一张牌，增加一张随机卡牌到你的手牌。", "flavor": "The branch of a tree from a forgotten era.", "flavor_en": "The branch of a tree from a forgotten era.", "flavor_zh": "一个早已被遗忘的时代所遗留下来的树木枝条。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 枯木树枝 | `single_source` | [枯木树枝](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515165&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Dead Branch<br>|Image       = DeadBranch.png<br>|Rarity      = Rare<br>|Description = Whenever you {{KW|Exhaust}} a card, add a random card to your hand.<br>|Flavor      = The branch of a tree from a forgotten era.<br>|InteractsWith = Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}{{R|Dead Branch}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a ... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

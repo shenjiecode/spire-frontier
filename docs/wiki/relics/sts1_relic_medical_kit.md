@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Unplayable Status cards can now be played. Whenever you play a Status card, Exhaust it.\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"", "flavor": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\""} |
+| `effect_json` | {"description_en": "Unplayable Status cards can now be played. Whenever you play a Status card, Exhaust it.\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"", "description_zh": "可以打出原本 不能被打出 的 #y状态牌 。 打出 #y状态牌 会将其 #y消耗 。", "flavor": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"", "flavor_en": "\"Has everything you need! Anti-itch, anti-burn, anti-venom, and more!\"", "flavor_zh": "“什么都有！治痒痒、治烧伤、治中毒，应有尽有！”"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 医药箱 | `single_source` | [医药箱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494871&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Medical Kit<br>|Image       = MedicalKit.png<br>|Rarity      = Shop<br>|Description = {{KW|Unplayable}} {{QueryLink|Cards|type:Status|Status}} cards can now be played. Whenever you play a {{QueryLink|Cards|type:Status|Status}} card, {{KW|Exhaust}} it.<br>|Flavor      = "Has everything you need! Anti-itch, anti-burn, anti-venom, and more!"<br>}}<br>{{Keyword Infobox|Unplayable}}{{Keyword Infobox|Exhaust}}{{R|Medical Kit}} is a {{QueryLink|Relics|rarity:Shop|Sh... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

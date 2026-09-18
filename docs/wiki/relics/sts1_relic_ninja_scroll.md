@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "At the start each combat, add 3 Shivs into your hand.Contains the secrets of assassination.", "flavor": "Contains the secrets of assassination."} |
+| `effect_json` | {"description_en": "At the start each combat, add 3 Shivs into your hand.Contains the secrets of assassination.", "description_zh": "每场战斗开始时，手牌中增加 #b 张 #y小刀 。", "flavor": "Contains the secrets of assassination.", "flavor_en": "Contains the secrets of assassination.", "flavor_zh": "暗杀秘术尽在其中。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 忍术卷轴 | `single_source` | [忍术卷轴](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493823&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Ninja Scroll<br>| Image       = NinjaScroll.png<br>| Rarity      = Uncommon<br>| Character   = Silent<br>| Description = At the start each combat, add 3 {{C|Shiv|Shivs}} into your hand.<br>| Flavor      = Contains the secrets of assassination.<br>}}<br>{{Small Card_Infobox|Shiv}}<br>{{R|Ninja Scroll}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]] that adds thre... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

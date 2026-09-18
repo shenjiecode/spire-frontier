@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Starter |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Lightning.The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.", "flavor": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked."} |
+| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Lightning.The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.", "description_zh": "在每场战斗开始时， #y生成 #b1 个 #y闪电 充能球。", "flavor": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.", "flavor_en": "The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.", "flavor_zh": "高塔中所有自动机器人体内都有的神秘生命力之源，这个似乎已经有一点破损了。"} |
 
 ## 相关条目
 
@@ -22,7 +22,7 @@
 
 ## 被哪些条目引用
 
-- `starts_with_relic` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `starts_with_relic` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 来源与核对状态
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 破损核心 | `single_source` | [破损核心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492825&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Cracked Core<br>| Image       = CrackedCore.png<br>| Rarity      = Starter<br>| Character   = Defect<br>| Description = At the start of each combat, {{KW|Channel}} 1 {{KW|Lightning}}.<br>| Flavor      = The mysterious life force which powers the Automatons within the Spire. It appears to be cracked.<br>| GivesToPlayer = Channel, Lightning<br>}}<br>{{Keyword Infobox|Channel}}{{Keyword Infobox|Lightning}}<br>{{R|Cracked Core}} is t... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

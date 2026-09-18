@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Plasma.Ooooh...", "flavor": "Ooooh..."} |
+| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Plasma.Ooooh...", "description_zh": "在每场战斗开始时， #y生成 #b1 个 #y等离子 充能球。", "flavor": "Ooooh...", "flavor_en": "Ooooh...", "flavor_zh": "哇噢……"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 核能电池 | `single_source` | [核能电池](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523657&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Nuclear Battery<br>|Image       = NuclearBattery.png<br>|Rarity      = Boss<br>|Character   = Defect<br>|Description = At the start of each combat, {{KW|Channel}} 1 {{KW|Plasma}}.<br>|Flavor      = Ooooh...<br>}}<br>{{Keyword Infobox|Channel}} {{Keyword Infobox|Plasma}}<br>{{R|Nuclear Battery}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. <br><br>== Sources ==<br>* Can be obtained from [[Boss Swa... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

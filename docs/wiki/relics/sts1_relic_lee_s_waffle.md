@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 7 and heal all of your HP.\"Tastiest treat you will find in all the Spire! Baked today just for you.\"", "flavor": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\""} |
+| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 7 and heal all of your HP.\"Tastiest treat you will find in all the Spire! Baked today just for you.\"", "description_zh": "拾起时，将你的最大生命值提升 #b 点，并回复所有生命。", "flavor": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"", "flavor_en": "\"Tastiest treat you will find in all the Spire! Baked today just for you.\"", "flavor_zh": "“全高塔你能找到的最好吃的东西！今天特地为你烤的。”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 李家华夫饼 | `single_source` | [李家华夫饼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494851&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Lee's Waffle<br>|Image       = LeesWaffle.png<br>|Rarity      = Shop<br>|Description = Upon pickup, raise your Max HP by 7 and heal all of your HP.<br>|Flavor      = "Tastiest treat you will find in all the Spire! Baked today just for you."<br>}}<br>{{R|Lee's Waffle}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity:Shop|Shop ... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

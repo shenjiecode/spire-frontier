@@ -1,12 +1,12 @@
-# DEPRECATED Joy / DEPRECATED FreeToPlayPower
+# （暂无中文名） / FreeToPlayPower
 
 > 稳定 ID：`sts1.game.candidate.status.freetoplaypower`  
 > 类别：`status`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
-- 中文：DEPRECATED Joy
-- English: DEPRECATED FreeToPlayPower
+- 中文：（暂无中文名）
+- English: FreeToPlayPower
 
 ## status 数据
 
@@ -34,4 +34,4 @@
 | `game.status.descriptions` | ["Ignore energy costs on the next card you play this turn.", "Ignore energy costs on the next #b", " cards you play this turn."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["Ignore energy costs on the next card you play this turn.", "Ignore energy costs on the next #b", " cards you play this turn."] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

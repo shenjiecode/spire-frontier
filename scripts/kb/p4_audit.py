@@ -32,12 +32,20 @@ def count(conn: sqlite3.Connection, sql: str, args: tuple[Any, ...] = ()) -> int
     return int(conn.execute(sql, args).fetchone()[0])
 
 
-def entity_coverage(conn: sqlite3.Connection, table: str, required_sql: str) -> dict[str, Any]:
-    total = count(conn, f"SELECT COUNT(*) FROM {table}")
+def entity_coverage(
+    conn: sqlite3.Connection,
+    table: str,
+    required_sql: str,
+    *,
+    entity_filter: str | None = None,
+) -> dict[str, Any]:
+    where = f" AND ({entity_filter})" if entity_filter else ""
+    total = count(conn, f"SELECT COUNT(*) FROM {table} t JOIN entities e ON e.id=t.entity_id WHERE 1=1{where}")
     rows = conn.execute(
         f"""SELECT e.lifecycle, e.mapping_status, COUNT(*) AS n,
                    SUM(CASE WHEN {required_sql} THEN 1 ELSE 0 END) AS complete
             FROM {table} t JOIN entities e ON e.id=t.entity_id
+            WHERE 1=1{where}
             GROUP BY e.lifecycle, e.mapping_status ORDER BY e.lifecycle,e.mapping_status"""
     ).fetchall()
     return {
@@ -65,6 +73,7 @@ def main() -> int:
             conn,
             "monsters",
             "hp_min IS NOT NULL AND EXISTS (SELECT 1 FROM monster_moves m WHERE m.monster_entity_id=t.entity_id)",
+            entity_filter="e.subtype != 'group_page'",
         ),
         "event": entity_coverage(
             conn,
@@ -93,7 +102,8 @@ def main() -> int:
             """SELECT e.id, e.lifecycle, COALESCE(n.name, e.id) AS name
                FROM monsters m JOIN entities e ON e.id=m.entity_id
                LEFT JOIN names n ON n.entity_id=e.id AND n.language='en' AND n.is_preferred=1
-               WHERE NOT EXISTS (SELECT 1 FROM monster_moves mm WHERE mm.monster_entity_id=m.entity_id)
+               WHERE e.subtype != 'group_page'
+                 AND NOT EXISTS (SELECT 1 FROM monster_moves mm WHERE mm.monster_entity_id=m.entity_id)
                ORDER BY e.id"""
         )],
         "events_without_options": [dict(row) for row in conn.execute(
@@ -136,6 +146,7 @@ def main() -> int:
         "numeric_checks": numeric,
         "notes": [
             "A complete source parse does not mean the bilingual identity or rule field is verified.",
+            "Monster group-page parents are excluded from canonical HP/move coverage; their member entities carry the structured fields.",
             "Missing enemy moves/event options are explicit follow-up items; no placeholder values were inserted.",
             "Energy icon and image-license warnings require visual or licensing review.",
             "The separate mapping-review queue ranks candidates but does not confirm them.",
@@ -146,7 +157,7 @@ def main() -> int:
 
     lines = [
         "# P4 机制与规则核验审计", "", f"生成时间：{report['generated_at']}。状态：`{report['status']}`。", "",
-        "此页只报告字段覆盖和待核验项，不把缺失数据补成 0，也不把候选身份当作双语事实。", "",
+        "此页只报告字段覆盖和待核验项，不把缺失数据补成 0，也不把候选身份当作双语事实。纯合页父记录只保留来源和成员关系，怪物数值按成员页统计。", "",
         "## 字段覆盖", "", "| 类别 | 条目数 | 必备字段齐全 |", "| --- | ---: | ---: |",
     ]
     for kind, value in coverage.items():

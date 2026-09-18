@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. At the start of combat, shuffle 2 Wounds into your draw pile.This brand was used by the northern tribes to signify warriors who had mastered pain in battle.", "flavor": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle."} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. At the start of combat, shuffle 2 Wounds into your draw pile.This brand was used by the northern tribes to signify warriors who had mastered pain in battle.", "description_zh": "每回合开始获得 [R] 。在战斗开始时，将 #b2 张 #r伤口 放入你的抽牌堆。", "flavor": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.", "flavor_en": "This brand was used by the northern tribes to signify warriors who had mastered pain in battle.", "flavor_zh": "北方部落中使用这个工具来给那些在战斗中掌握痛楚的战士们打上烙印。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 痛楚印记 | `single_source` | [痛楚印记](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523669&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Mark of Pain<br>| Image       = MarkofPain.png<br>| Rarity      = Boss<br>| Character   = Ironclad<br>| Description = Gain 1 {{KW|Energy}} at the start of your turn. At the start of combat, shuffle 2 {{C|Wound|Wounds}} into your draw pile.<br>| Flavor      = This brand was used by the northern tribes to signify warriors who had mastered pain in battle.<br>| GivesToPlayer = Energy<br>}}<br>{{Keyword Infobox|Energy}}{{Small Card Infobox|Wound}}{{R|Mark of Pain... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

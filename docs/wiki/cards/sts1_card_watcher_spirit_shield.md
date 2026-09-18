@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `2.0` | Gain 3 Block for each card in your hand. | 未采集 | 未保存 |
-| `Upgraded` | `2.0` | Gain 4 Block for each card in your hand. | 未采集 | 未保存 |
+| `Base` | `2.0` | Gain 3 Block for each card in your hand. | 你每有一张手牌，获得3点格挡。 | 未保存 |
+| `Upgraded` | `2.0` | Gain 4 Block for each card in your hand. | 你每有一张手牌，获得4点格挡。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 2 | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 2 | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Gain 3 Block for each card in your hand. | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Gain 3 Block for each card in your hand. | `provisional` | [精神护盾](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667117&wiki_id=646570) |
 | `card.description (upgrade)` | Gain 4 Block for each card in your hand. | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Gain 4 Block for each card in your hand. | `provisional` | [精神护盾](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667117&wiki_id=646570) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Block", "Hand"] | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 精神护盾 | `single_source` | [精神护盾](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667117&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Spirit Shield<br>|Image       = Purple-SpiritShield.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 2<br>|Description = Gain (3;4) {{KW|Block}} for each card in your hand.<br>|Keywords    = Hand<br>}}<br>{{C|Spirit Shield}} is a 2 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 3 (4 if upgraded) {{KW|Block}} multiplie... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

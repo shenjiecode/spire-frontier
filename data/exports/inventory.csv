@@ -1,4 +1,6 @@
 ﻿id,source_id,source_page_id,entity_kind,language,name,article_id,url,category,subcategory,character,status
+inventory.f5858554efc4f4f90d226ffa,game_local,source_page.game_local.e23639ec88ae1d49,event,en,Spire Heart,,game://desktop-1.0.jar/localization/event/Spire Heart,installed localization,,,parsed
+inventory.e29e95847f2ad0a467a92efc,game_local,source_page.game_local.b7314965d3d0c88f,status,en,Machine Learning,,game://desktop-1.0.jar/localization/status/Machine Learning,installed localization,,,parsed
 inventory.dd9ced8c8f39fa8191f56b53,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,A Thousand Cuts,,https://slaythespire.wiki.gg/wiki/A_Thousand_Cuts,Cards_List,Green,silent,parsed
 inventory.2030a264896640665fbdcdd3,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,Accuracy,,https://slaythespire.wiki.gg/wiki/Accuracy,Cards_List,Green,silent,parsed
 inventory.154c8a8df4181c6dc8af6e7f,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,Acrobatics,,https://slaythespire.wiki.gg/wiki/Acrobatics,Cards_List,Green,silent,parsed
@@ -369,6 +371,10 @@ inventory.6472340d20f91589fc0f9d98,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,
 inventory.10d64148352c426409f5b450,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,Wreath of Flame,,https://slaythespire.wiki.gg/wiki/Wreath_of_Flame,Cards_List,Purple,watcher,parsed
 inventory.f4d5135e057d5459cca236c1,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,Writhe,,https://slaythespire.wiki.gg/wiki/Writhe,Cards_List,Colorless,,parsed
 inventory.afd27634249105a62412d9d9,wiki_gg,source_page.wiki_gg.c7ecbd7a3b1562a9,card,en,Zap,,https://slaythespire.wiki.gg/wiki/Zap,Cards_List,Blue,defect,parsed
+inventory.d0a309169631aa376406867a,wiki_gg,source_page.wiki_gg.e9854da3b49d83de,character,en,Defect,,https://slaythespire.wiki.gg/wiki/Defect,Characters,,,parsed
+inventory.30a9212c53ec478f39d5da4a,wiki_gg,source_page.wiki_gg.1323ca8bc568b68b,character,en,Ironclad,,https://slaythespire.wiki.gg/wiki/Ironclad,Characters,,,parsed
+inventory.c060366b6a03ac9f002723ae,wiki_gg,source_page.wiki_gg.b3b09b6ad6b41d26,character,en,Silent,,https://slaythespire.wiki.gg/wiki/Silent,Characters,,,parsed
+inventory.b26aed4d781e5ff90fd419de,wiki_gg,source_page.wiki_gg.25178ab22762153a,character,en,Watcher,,https://slaythespire.wiki.gg/wiki/Watcher,Characters,,,parsed
 inventory.17d13eff5f17bb2ec2b8a553,wiki_gg,source_page.wiki_gg.33542450d3bd77ab,event,en,A Note For Yourself,,https://slaythespire.wiki.gg/wiki/A_Note_For_Yourself,Events_List,All Acts - Shrine,,parsed
 inventory.31a0021e976064f3aeea38e1,wiki_gg,source_page.wiki_gg.33542450d3bd77ab,event,en,Ancient Writing,,https://slaythespire.wiki.gg/wiki/Ancient_Writing,Events_List,Act 2,,parsed
 inventory.6f31437eaed35b1cd67697e7,wiki_gg,source_page.wiki_gg.33542450d3bd77ab,event,en,Augmenter,,https://slaythespire.wiki.gg/wiki/Augmenter,Events_List,Act 2,,parsed
@@ -445,6 +451,10 @@ inventory.624a0f4271506a47898271ad,wiki_gg,source_page.wiki_gg.b841faadbfa8abe4,
 inventory.a9227f1e2cd12b3a221fe7e0,wiki_gg,source_page.wiki_gg.b841faadbfa8abe4,keyword,en,Stance,,https://slaythespire.wiki.gg/wiki/Keywords#Stance,Keywords,h3,,parsed
 inventory.e2c9b4bf36fa4753455e6746,wiki_gg,source_page.wiki_gg.b841faadbfa8abe4,keyword,en,Triggers,,https://slaythespire.wiki.gg/wiki/Keywords#Triggers,Keywords,h4,,parsed
 inventory.0e20ff840133db816b295b88,wiki_gg,source_page.wiki_gg.b841faadbfa8abe4,keyword,en,Unplayable,,https://slaythespire.wiki.gg/wiki/Keywords#Unplayable,Keywords,h3,,parsed
+inventory.529cf6424e6cd37ae46ffecd,wiki_gg,source_page.wiki_gg.09eb505ff87da438,mechanic,en,Merchant,,https://slaythespire.wiki.gg/wiki/Merchant,Map Locations,,,parsed
+inventory.752085edb09eb37a0bd3e581,wiki_gg,source_page.wiki_gg.be86ea74629763ad,mechanic,en,Rest Site,,https://slaythespire.wiki.gg/wiki/Rest_Site,Map Locations,,,parsed
+inventory.da7290e9746bf7ce61d11fe3,wiki_gg,source_page.wiki_gg.e32e63e7211110d6,mechanic,en,Treasure Room,,https://slaythespire.wiki.gg/wiki/Map_Locations,Map Locations,,,parsed
+inventory.3b3bf62e004a48255f3e9ddf,wiki_gg,source_page.wiki_gg.1b22b1e8bdd90dc3,mechanic,en,Unknown Location,,https://slaythespire.wiki.gg/wiki/Unknown_Location,Map Locations,,,parsed
 inventory.fc4c500a617ae53a12d48de1,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Acts,,https://slaythespire.wiki.gg/wiki/Mechanics#Acts,Mechanics,h3,,parsed
 inventory.21a3c7299c585a4b942ff010,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Ascensions,,https://slaythespire.wiki.gg/wiki/Mechanics#Ascensions,Mechanics,h3,,parsed
 inventory.5c60c7767125b2228e6d7759,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Card Piles,,https://slaythespire.wiki.gg/wiki/Mechanics#Card_Piles,Mechanics,h3,,parsed
@@ -464,6 +474,7 @@ inventory.18297801364f57bdcd087559,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,
 inventory.f77a42450cb7f2ace4d62a4a,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Transforming,,https://slaythespire.wiki.gg/wiki/Mechanics#Transforming,Mechanics,h3,,parsed
 inventory.d12ba8f2ce0f60bceb0f09b2,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Turns,,https://slaythespire.wiki.gg/wiki/Mechanics#Turns,Mechanics,h3,,parsed
 inventory.98ee1e07ad56db4797ef5e4e,wiki_gg,source_page.wiki_gg.2dbdc1896cd0923a,mechanic,en,Upgrading,,https://slaythespire.wiki.gg/wiki/Mechanics#Upgrading,Mechanics,h3,,parsed
+inventory.44e388582a902f5b743d24ea,wiki_gg,source_page.wiki_gg.ce3fa45725aabf96,mechanic,en,Monsters,,https://slaythespire.wiki.gg/wiki/Monsters,Monsters,,,parsed
 inventory.c9267900fb90c722bd76b442,wiki_gg,source_page.wiki_gg.8db928bb7cc8160d,monster,en,Awakened One,,https://slaythespire.wiki.gg/wiki/Awakened_One,Bosses,boss,,parsed
 inventory.885d0f91fd817507e5501e5c,wiki_gg,source_page.wiki_gg.8db928bb7cc8160d,monster,en,Bronze Automaton,,https://slaythespire.wiki.gg/wiki/Bronze_Automaton,Bosses,boss,,parsed
 inventory.0c8c53548b1595d67f247305,wiki_gg,source_page.wiki_gg.8db928bb7cc8160d,monster,en,Corrupt Heart,,https://slaythespire.wiki.gg/wiki/Corrupt_Heart,Bosses,boss,,parsed

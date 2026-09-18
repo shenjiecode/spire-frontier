@@ -59,4 +59,4 @@
 | `source.title_text` | 暴力 | `single_source` | [暴力](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959369&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Violence<br>|Image       = Colorless-Violence.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 0<br>|Description = Put (3;4) random Attacks from your draw pile into your hand.<br>{{KW|Exhaust}}.<br>|Keywords    = Hand<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Violence}} is a 0 {{Icon|CE}} cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Skill}}... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

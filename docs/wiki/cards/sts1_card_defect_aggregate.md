@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 汇集 | `single_source` | [汇集](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=549937&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Aggregate<br>| Image       = Blue-Aggregate.png<br>| Color       = Blue<br>| Type        = Skill<br>| Rarity      = Uncommon<br>| Cost        = 1<br>| Description = Gain {{Icon|BE}} for every (4;3) cards in your draw pile.<br>| GivesToPlayer = Energy<br>}}<br>{{C|Aggregate}} is a 1 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 1 {{Icon|BE}} '''Energy''' f... | `single_source` | [P3 wiki.gg API batch: card 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Malaise|Escape_Plan|Corpse_Explosion|Capacitor|Crippling_Cloud|After_Image|Sneaky_Strike|Blur|Iron_Wave|Wound|Trip|Exhume|Weave|Expertise|Aggregate|Leap|Flash_of_Steel|Whirlwind|Leg_Sweep|Metamorphosis&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Every 3 turns, gain 1 Energy.This unceasingly joyous plant is a popular novelty item among nobles.", "flavor": "This unceasingly joyous plant is a popular novelty item among nobles."} |
+| `effect_json` | {"description_en": "Every 3 turns, gain 1 Energy.This unceasingly joyous plant is a popular novelty item among nobles.", "description_zh": "每 #b 个回合，获得 [E] 。", "flavor": "This unceasingly joyous plant is a popular novelty item among nobles.", "flavor_en": "This unceasingly joyous plant is a popular novelty item among nobles.", "flavor_zh": "这朵一直面带笑容的花是贵族间流行的小礼物。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 开心小花 | `single_source` | [开心小花](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492299&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Happy Flower<br>|Image       = HappyFlower.png<br>|Rarity      = Common<br>|Description = Every 3 turns, gain 1 {{KW|Energy}}.<br>|Flavor      = This unceasingly joyous plant is a popular novelty item among nobles.<br>}}<br>{{Keyword Infobox|Energy}}{{R|Happy Flower}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. The counter that keeps track of how many turns have passed is not reset between combats, and it's increment... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

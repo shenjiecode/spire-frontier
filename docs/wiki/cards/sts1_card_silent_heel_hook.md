@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 足跟勾 | `single_source` | [足跟勾](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494130&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Heel Hook<br>|Image       = Green-HeelHook.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Deal (5;8) damage. <br>If the enemy has {{BD|Weak}}, <br>gain {{Icon|GE}} and draw 1 card.<br>|Keywords    = Draw, Energy<br>}}<br>{{C|Heel Hook}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack}} Card. It ... | `single_source` | [P3 wiki.gg API batch: card 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bullseye|Corruption|Expunger|Wave_of_the_Hand|Panic_Button|Scrape|Indignation|Cut_Through_Fate|Hemokinesis|Deflect|Sadistic_Nature|Evaluate|Buffer|Tools_of_the_Trade|Wallop|Blasphemy|Ball_Lightning|Bite|Heel_Hook|Die_Die_Die&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

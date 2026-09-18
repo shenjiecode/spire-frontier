@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 操控现实 | `single_source` | [操控现实](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958986&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Master Reality<br>| Image       = Purple-MasterReality.png<br>| Color       = Purple<br>| Type        = Power<br>| Rarity      = Rare<br>| Cost        = 1<br>| CostPlus    = 0<br>| Description = Whenever a card is created during combat, {{KW|Upgrade}} it.<br>| GivesToPlayer = Upgrade<br>}}<br>{{Power Infobox|Master Reality}}{{Keyword Infobox|Upgrade}}<br>{{C|Master Reality}} is a 1 (0 if upgraded) {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{Qu... | `single_source` | [P3 wiki.gg API batch: card 15](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sunder|Neutralize|Envenom|Predator|Go_for_the_Eyes|Follow-Up|Metallicize|Force_Field|Master_Reality|Dualcast|Chaos|Fission|Boot_Sequence|Dagger_Spray|Lesson_Learned|Claw|Darkness|Battle_Trance|Dropkick|Magnetism&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

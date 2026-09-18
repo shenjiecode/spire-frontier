@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Elites now drop an additional relic when defeated.Originally discovered in the town of the serpent, aside a solitary candle.", "flavor": "Originally discovered in the town of the serpent, aside a solitary candle."} |
+| `effect_json` | {"description_en": "Elites now drop an additional relic when defeated.Originally discovered in the town of the serpent, aside a solitary candle.", "description_zh": "#y精英 敌人在被打败时多掉落一件 #y遗物 。", "flavor": "Originally discovered in the town of the serpent, aside a solitary candle.", "flavor_en": "Originally discovered in the town of the serpent, beside a solitary candle.", "flavor_zh": "最初在蛇镇上发现的遗物，当时被放在一根蜡烛旁边。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 黑星 | `single_source` | [黑星](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523659&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Black Star<br>|Image       = BlackStar.png<br>|Rarity      = Boss<br>|Description = Elites now drop an additional relic when defeated.<br>|Flavor      = Originally discovered in the town of the serpent, aside a solitary candle.<br>}}<br>{{R|Black Star}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Black Star}} can be offered ... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

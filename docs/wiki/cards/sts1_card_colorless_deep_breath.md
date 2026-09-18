@@ -59,4 +59,4 @@
 | `source.title_text` | 深呼吸 | `single_source` | [深呼吸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536758&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Deep Breath<br>|Image       = Colorless-DeepBreath.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Shuffle your discard pile into your draw pile.<br>Draw (1 card;2 cards).<br>|Keywords    = Draw<br>}}<br>{{C|Deep Breath}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It shuffles... | `single_source` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

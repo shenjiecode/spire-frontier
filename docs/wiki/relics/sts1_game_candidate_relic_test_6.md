@@ -1,4 +1,4 @@
-# 测试遗物 6 / Unnamed
+# 测试遗物 6 / Test 6
 
 > 稳定 ID：`sts1.game.candidate.relic.test_6`  
 > 类别：`relic`；游戏：`sts1`；映射状态：`provisional`
@@ -6,7 +6,7 @@
 ## 名称
 
 - 中文：测试遗物 6
-- English: Unnamed
+- English: Test 6
 
 ## 相关条目
 
@@ -28,4 +28,4 @@
 | `game.relic.descriptions` | ["在每回合结束时，你获得额外 #y格挡 。每 #b", " 点 #y格挡 需要你拥有 #b", " #y金币 。"] | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 | `game.relic.flavor` | Beta版的测试遗物。如果你喜欢它，请告诉开发组。 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "At the start of your 2nd turn, gain 14 Block.Pleasant to hold in the hand. What was it for?", "flavor": "Pleasant to hold in the hand. What was it for?"} |
+| `effect_json` | {"description_en": "At the start of your 2nd turn, gain 14 Block.Pleasant to hold in the hand. What was it for?", "description_zh": "在你的第二回合开始时，获得 #b 点 #y格挡 。", "flavor": "Pleasant to hold in the hand. What was it for?", "flavor_en": "Pleasant to hold in the hand. What was it for?", "flavor_zh": "拿在手里有一种莫名的愉悦感，这是什么东西呢？"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 船夹板 | `single_source` | [船夹板](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959085&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Horn Cleat<br>|Image       = HornCleat.png<br>|Rarity      = Uncommon<br>|Description = At the start of your 2nd turn, gain 14 {{KW|Block}}.<br>|Flavor      = Pleasant to hold in the hand. What was it for?<br>}}<br>{{Keyword Infobox|Block}}{{R|Horn Cleat}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

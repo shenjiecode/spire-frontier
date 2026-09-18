@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "The next non-Boss chest you open is empty.You feel hungry.", "flavor": "You feel hungry."} |
+| `effect_json` | {"description_en": "The next non-Boss chest you open is empty.You feel hungry.", "description_zh": "你打开的下一个非Boss宝箱将是空的。", "flavor": "You feel hungry.", "flavor_en": "You feel hungry.", "flavor_zh": "你觉得好饿。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 恩洛斯的饥饿的脸 | `single_source` | [恩洛斯的饥饿的脸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525840&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = N'loth's Hungry Face<br>|Image       = NlothsMask.png<br>|Rarity      = Event<br>|Source      = N'loth<br>|Description = The next non-Boss chest you open is empty.<br>|Flavor      = You feel hungry.<br>}}<br>{{R|N'loth's Hungry Face}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]]. The next non-Boss [[Chest]] that the player opens will contain no [[Gold]] and no [[Relic]].<br><br>== Sources ==<br>Can only be obtained from {{E|Face Trader}} by selecti... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

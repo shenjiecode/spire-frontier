@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "At the start of each combat, gain 1 Strength.An ornamental relic given to warriors displaying glory in battle.", "flavor": "An ornamental relic given to warriors displaying glory in battle."} |
+| `effect_json` | {"description_en": "At the start of each combat, gain 1 Strength.An ornamental relic given to warriors displaying glory in battle.", "description_zh": "在每场战斗开始时，获得 #b 点 #y力量 。", "flavor": "An ornamental relic given to warriors displaying glory in battle.", "flavor_en": "An ornamental relic given to warriors displaying glory in battle.", "flavor_zh": "一件交给在战斗中展示了荣耀的战士们的装饰性遗物。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 金刚杵 | `single_source` | [金刚杵](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492285&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Vajra<br>|Image       = Vajra.png<br>|Rarity      = Common<br>|Description = At the start of each combat, gain 1 {{BD|Strength}}.<br>|Flavor      = An ornamental relic given to warriors displaying glory in battle.<br>}}<br>{{Power Infobox|Strength}}{{R|Vajra}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[S... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

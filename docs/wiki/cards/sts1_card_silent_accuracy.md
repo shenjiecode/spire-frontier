@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 精准 | `single_source` | [精准](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495062&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Card Infobox<br>|Name        = Accuracy<br>|Image       = Green-Accuracy.png<br>|Color       = Green<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = {{C|Shiv|Shivs}} deal (4;6) additional damage.<br>}}<br>{{Power Infobox<br>|Name         = Accuracy<br>|Image        = Icon Accuracy.png<br>|Description  = {{C|Shiv|Shivs}} deal X additional damage.<br>|Type         = Buff<br>|Stacks       = Intensity<br>|BetweenTurns = <br>|Cap... | `single_source` | [P3 wiki.gg API batch: card 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shame|Perfected_Strike|Pommel_Strike|Alchemize|Shockwave|Overclock|Accuracy|Alpha|Ritual_Dagger|Carve_Reality|Slimed|Bullet_Time|Poisoned_Stab|Inner_Peace|Pride|Thunderclap|Mental_Fortress|Sweeping_Beam|Searing_Blow|Flame_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

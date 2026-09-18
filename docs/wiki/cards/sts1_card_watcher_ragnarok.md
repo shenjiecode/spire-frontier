@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 诸神之黄昏 | `single_source` | [诸神之黄昏](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9666205&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Ragnarok<br>|Image       = Purple-Ragnarok.png<br>|Color       = Purple<br>|Type        = Attack<br>|Rarity      = Rare<br>|Cost        = 3<br>|Description = Deal (5;6) damage to a random enemy (5;6) times.<br>}}<br>{{C|Ragnarok}} is a 3 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 5 (6 if upgraded) damage 5 (6 if upgraded) times.<br><br>== Interactions ==<b... | `single_source` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

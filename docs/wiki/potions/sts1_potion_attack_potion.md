@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Choose 1 of 3 random Attack cards to add (two copies of it) to your hand. It costs (They cost) 0 this turn.", "flavor": ""} |
+| `effect_json` | {"description_en": "Choose 1 of 3 random Attack cards to add (two copies of it) to your hand. It costs (They cost) 0 this turn.", "description_zh": "稀有度：普通 角色：通用 ​​从3张随机攻击牌中选择1张加入你的手牌。 这张牌在本回合耗能变为0。", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 攻击药水 | `single_source` | [攻击药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496847&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Attack Potion<br>|Sequel=		1<br>|Image=			AttackPotion.png<br>|Rarity=		Common<br>|Description=	Choose 1 of 3 random {{QueryLink|Cards|type:Attack|Attack}} cards to add(;two copies of it) to your hand. (It costs;They cost) 0 this turn.<br>}}<br>{{P|Attack Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Ba... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

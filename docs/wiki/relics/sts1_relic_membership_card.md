@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "50% discount on all products!\"Bonus membership offer for my most valuable customers!\"", "flavor": "\"Bonus membership offer for my most valuable customers!\""} |
+| `effect_json` | {"description_en": "50% discount on all products!\"Bonus membership offer for my most valuable customers!\"", "description_zh": "所有商品打折 #b50% ！", "flavor": "\"Bonus membership offer for my most valuable customers!\"", "flavor_en": "\"Bonus membership offer for my most valuable customers!\"", "flavor_zh": "“会员资格！只有本店最尊贵的客人，才有机会获得哦！”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 会员卡 | `single_source` | [会员卡](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494856&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Membership Card<br>|Image       = MembershipCard.png<br>|Rarity      = Shop<br>|Description = 50% discount on all products!<br>|Flavor      = "Bonus membership offer for my most valuable customers!"<br>}}<br>{{R|Membership Card}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. It reduces the price of all items in the [[Shop]] by 50%, rounded to the nearest whole number (and rounding up on results ending in <code>.5</code>)<r... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

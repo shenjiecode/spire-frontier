@@ -16,7 +16,7 @@
 | `act` | Act 3 |
 | `hp_min` | 170 |
 | `hp_max` | 170 |
-| `ascension_json` | {"asc_hp": 190} |
+| `ascension_json` | {"ascension_max": 190, "ascension_min": 190, "ascension_raw": "190", "base_max": 170, "base_min": 170, "base_raw": "170"} |
 
 ### 行动
 
@@ -32,7 +32,7 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [塔内增生组织 / Spire Growth](../encounters/sts1_encounter_act3_hard_spire_growth.md)
 
 ## 来源与核对状态
 
@@ -47,6 +47,7 @@
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 190, "ascension_min": 190, "ascension_raw": "190", "base_max": 170, "base_min": 170, "base_raw": "170"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Constrict` | {"effect": "Applies (10;12) Constricted.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Quick Tackle` | {"effect": "Deals (16;18) damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Smash` | {"effect": "Deals (22;25) damage.", "intent": "Attack5"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -55,4 +56,4 @@
 | `source.title_text` | 塔内增生组织 | `single_source` | [塔内增生组织](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438539&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Spire Growth<br>|Image  = SpireGrowth.png<br>|HP     = 170<br>|AscHP  = 190<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Constricted}}<br>Spire Growth is a normal [[Monsters|Enemy]] found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Spire Growth}}<br>{{Intents Table/row<br>|Name   = Constrict<br>|Intent = DebuffStrong<br>|Effect = Applies (10;{{Asc|2|12}}) {{BD|Constricted}}.}}<br>{{Intents Table/row<br>|Name   = Quick... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

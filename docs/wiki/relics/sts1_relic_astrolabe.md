@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Upon pickup, Transform 3 cards, then Upgrade them.A tool to glean invaluable knowledge from the stars.", "flavor": "A tool to glean invaluable knowledge from the stars."} |
+| `effect_json` | {"description_en": "Upon pickup, Transform 3 cards, then Upgrade them.A tool to glean invaluable knowledge from the stars.", "description_zh": "拾起时，选择 #b3 张牌进行 #y变化 ，然后将这些牌 #y升级 。选择3张牌", "flavor": "A tool to glean invaluable knowledge from the stars.", "flavor_en": "A tool to glean invaluable knowledge from the stars.", "flavor_zh": "可以从星星中探知宝贵知识的工具。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 星盘 | `single_source` | [星盘](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525825&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Astrolabe<br>|Image       = Astrolabe.png<br>|Rarity      = Boss<br>|Description = Upon pickup, {{KW|Transform}} 3 cards, then {{KW|Upgrade}} them.<br>|Flavor      = A tool to glean invaluable knowledge from the stars.<br>|GivesToPlayer = Transform, Upgrade<br>}}<br>{{Keyword Infobox|Transform}}{{Keyword Infobox|Upgrade}}{{R|Astrolabe}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 缴械 | `single_source` | [缴械](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408905&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Disarm<br>|Image       = Red-Disarm.png<br>|Color       = Red<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Enemy loses (2;3) {{BD|Strength}}.<br>{{KW|Exhaust}}.<br>|GivesToEnemy = Strength (Negative)<br>}} <br>{{Power Infobox|Strength}} <br>{{Keyword Infobox|Exhaust}}<br>{{C|Disarm}} is a 1 {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skil... | `single_source` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

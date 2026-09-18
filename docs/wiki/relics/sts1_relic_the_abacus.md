@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Whenever you shuffle your draw pile, gain 6 Block.One...Two...Three...", "flavor": "One...Two...Three..."} |
+| `effect_json` | {"description_en": "Whenever you shuffle your draw pile, gain 6 Block.One...Two...Three...", "description_zh": "算盘\n稀有度\n商店\n作用\n你每次将抽牌堆洗牌时，获得6点格挡。\n说明\n一......二......三......", "flavor": "One...Two...Three...", "flavor_en": "\"One...Two...Three...\"", "flavor_zh": "“一……二……三……”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 算盘 | `single_source` | [算盘](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494920&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = The Abacus<br>|Image       = TheAbacus.png<br>|Rarity      = Shop<br>|Description = Whenever you shuffle your draw pile, gain 6 {{KW|Block}}.<br>|Flavor      = One...Two...Three...<br>}}<br>{{Keyword Infobox|Block}}{{R|The Abacus}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity:Shop|Shop Relic}} is available per [[Shop]], ev... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

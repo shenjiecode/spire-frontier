@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `2.0` | Gain 8 Block. The next Attack you play costs 0. | 未采集 | 未保存 |
-| `Upgraded` | `2.0` | Gain 11 Block. The next Attack you play costs 0. | 未采集 | 未保存 |
+| `Base` | `2.0` | Gain 8 Block. The next Attack you play costs 0. | 获得8点格挡。你打出的下一张攻击牌耗能变为0。 | 未保存 |
+| `Upgraded` | `2.0` | Gain 11 Block. The next Attack you play costs 0. | 获得11点格挡。你打出的下一张攻击牌耗能变为0. | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 2 | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 2 | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Gain 8 Block. The next Attack you play costs 0. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Gain 8 Block. The next Attack you play costs 0. | `provisional` | [旋身](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667100&wiki_id=646570) |
 | `card.description (upgrade)` | Gain 11 Block. The next Attack you play costs 0. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Gain 11 Block. The next Attack you play costs 0. | `provisional` | [旋身](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667100&wiki_id=646570) |
 | `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Block"] | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 旋身 | `single_source` | [旋身](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667100&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Swivel<br>|Image       = Purple-Swivel.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 2<br>|Description = Gain (8;11) {{KW|Block}}. <br>The next Attack you play costs 0.<br>}}<br>{{Power Infobox|Free Attack Power}}{{Keyword Infobox|Block}}<br>{{C|Swivel}} is a 2 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It g... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Regular enemy combats are no longer encountered in ? rooms.A ward against the unknown.", "flavor": "A ward against the unknown."} |
+| `effect_json` | {"description_en": "Regular enemy combats are no longer encountered in ? rooms.A ward against the unknown.", "description_zh": "你在 #y? 房间中不会再遭遇常规战斗。", "flavor": "A ward against the unknown.", "flavor_en": "A ward against the unknown.", "flavor_zh": "抵御未知危险的护身道具。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 佛珠手链 | `single_source` | [佛珠手链](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492269&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Juzu Bracelet<br>|Image       = JuzuBracelet.png<br>|Rarity      = Common<br>|Description = Regular enemy combats are no longer encountered in ? rooms.<br>|Flavor      = A ward against the unknown.<br>}}<br>{{R|Juzu Bracelet}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. See also [[Unknown Location]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Smal... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

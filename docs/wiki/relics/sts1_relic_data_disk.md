@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Common |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "Start each combat with 1 Focus.This disk contains precious data on birds and snakes.", "flavor": "This disk contains precious data on birds and snakes."} |
+| `effect_json` | {"description_en": "Start each combat with 1 Focus.This disk contains precious data on birds and snakes.", "description_zh": "在每场战斗开始时，获得 #b 点 #y集中 。", "flavor": "This disk contains precious data on birds and snakes.", "flavor_en": "This disk contains precious data on birds and snakes.", "flavor_zh": "这张磁盘里记录了关于鸟类和蛇类的珍贵数据。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 数据磁盘 | `single_source` | [数据磁盘](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492303&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Data Disk<br>| Image       = DataDisk.png<br>| Rarity      = Common<br>| Character   = Defect<br>| Description = Start each combat with 1 {{BD|Focus}}.<br>| Flavor      = This disk contains precious data on birds and snakes.<br>| GivesToPlayer = Focus<br>}}<br>{{Power Infobox|Focus}}{{R|Data Disk}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

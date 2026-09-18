@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you Rest, heal an additional 15 HP.Now you can get a proper night's rest.", "flavor": "Now you can get a proper night's rest."} |
+| `effect_json` | {"description_en": "Whenever you Rest, heal an additional 15 HP.Now you can get a proper night's rest.", "description_zh": "在 #y休息 时额外回复 #b 点生命。", "flavor": "Now you can get a proper night's rest.", "flavor_en": "Now you can get a proper night's rest.", "flavor_zh": "这下能好好睡一觉了。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 皇家枕头 | `single_source` | [皇家枕头](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492284&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Regal Pillow<br>|Image       = RegalPillow.png<br>|Rarity      = Common<br>|Description = Whenever you Rest, heal an additional 15 HP.<br>|Flavor      = Now you can get a proper night's rest.<br>}}<br>{{R|Regal Pillow}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Small Chest]] or [[Medium Chest]]. See Che... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

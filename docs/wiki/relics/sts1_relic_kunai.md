@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Every time you play 3 Attacks in a single turn, gain 1 DexterityA blade favored by assassins for its lethality at range.", "flavor": "A blade favored by assassins for its lethality at range."} |
+| `effect_json` | {"description_en": "Every time you play 3 Attacks in a single turn, gain 1 DexterityA blade favored by assassins for its lethality at range.", "description_zh": "你每在同一回合内打出 #b 张 #y攻击牌 ，获得 #b 点 #y敏捷 。", "flavor": "A blade favored by assassins for its lethality at range.", "flavor_en": "A blade favored by assassins for its lethality at range.", "flavor_zh": "受到刺客喜爱的远距离利刃。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 苦无 | `single_source` | [苦无](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493804&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Kunai<br>|Image       = Kunai.png<br>|Rarity      = Uncommon<br>|Description = Every time you play 3 {{QueryLink|Cards|type:Attack|Attacks}} in a single turn, gain 1 {{BD|Dexterity}}<br>|Flavor      = A blade favored by assassins for its lethality at range.<br>}}<br>{{Power Infobox|Dexterity}}{{R|Kunai}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], ... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

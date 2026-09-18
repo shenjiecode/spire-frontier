@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "Replaces Ring of the Snake. At the start of your turn, draw 1 additional card.Your ring has morphed and changed forms.", "flavor": "Your ring has morphed and changed forms."} |
+| `effect_json` | {"description_en": "Replaces Ring of the Snake. At the start of your turn, draw 1 additional card.Your ring has morphed and changed forms.", "description_zh": "替换 #g蛇之戒指 。在你的每个回合开始时，额外抽 #b1 张牌。", "flavor": "Your ring has morphed and changed forms.", "flavor_en": "Your ring has morphed and changed forms.", "flavor_zh": "你的戒指改变了形态，焕然一新。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 长蛇戒指 | `single_source` | [长蛇戒指](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525831&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Ring of the Serpent<br>| Image       = RingoftheSerpent.png<br>| Rarity      = Boss<br>| Character   = Silent<br>| Description = Replaces {{R|Ring of the Snake}}. At the start of your turn, draw 1 additional card.<br>| Flavor      = Your ring has morphed and changed forms.<br>| GivesToPlayer = Draw<br>}}<br>{{R|Ring of the Serpent}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. It's the upgraded ... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

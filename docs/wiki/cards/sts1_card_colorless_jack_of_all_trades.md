@@ -59,4 +59,4 @@
 | `source.title_text` | 花样百出 | `single_source` | [花样百出](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536774&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Jack of All Trades<br>|Image       = Colorless-JackofAllTrades.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Add (1;2) random Colorless (card;cards) into your hand.<br>{{KW|Exhaust}}.<br>|Keywords    = Hand<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Jack of All Trades}} is a 0 {{Icon|CE}} cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

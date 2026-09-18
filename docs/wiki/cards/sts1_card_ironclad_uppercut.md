@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 上勾拳 | `single_source` | [上勾拳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408631&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Uppercut<br>| Image       = Red-Uppercut.png<br>| Color       = Red<br>| Type        = Attack<br>| Rarity      = Uncommon<br>| Cost        = 2<br>| Description = Deal 13 damage.<br>Apply (1;2) {{BD|Weak}}.<br>Apply (1;2) {{BD|Vulnerable}}.<br>| GivesToEnemy = Weak, Vulnerable<br>}}<br>{{Power Infobox|Weak}}{{Power Infobox|Vulnerable}}{{C|Uppercut}} is a 2 {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|ra... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

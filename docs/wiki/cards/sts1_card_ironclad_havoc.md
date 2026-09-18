@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 破灭 | `single_source` | [破灭](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408689&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Havoc<br>| Image       = Red-Havoc.png<br>| Color       = Red<br>| Type        = Skill<br>| Rarity      = Common<br>| Cost        = 1<br>| CostPlus    = 0<br>| Description = Play the top card of your draw pile and {{KW|Exhaust}} it.<br>| GivesToPlayer = Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Havoc}} is a 1 (0 if upgraded) {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|rarity:Common|Common}} ... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

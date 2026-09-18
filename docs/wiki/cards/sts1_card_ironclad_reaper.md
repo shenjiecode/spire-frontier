@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 死亡收割 | `single_source` | [死亡收割](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408646&wiki_id=646570) |
 | `source.wikitext` |  {{Card Infobox<br>| Name        = Reaper<br>| Image       = Red-Reaper.png<br>| Color       = Red<br>| Type        = Attack<br>| Rarity      = Rare<br>| Cost        = 2<br>| Description = Deal (4;5) damage to ALL enemies. Heal HP equal to unblocked damage.<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Heal, Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Reaper}} is a 2 {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|At... | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

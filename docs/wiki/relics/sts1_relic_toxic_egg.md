@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Whenever you add a Skill card to your deck, Upgrade it.\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid", "flavor": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid"} |
+| `effect_json` | {"description_en": "Whenever you add a Skill card to your deck, Upgrade it.\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid", "description_zh": "每当你获得 #y技能牌 时，将其 #y升级 。", "flavor": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid", "flavor_en": "\"What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?\" - Ranwid", "flavor_zh": "“真是了不起的发现！这似乎是某种魔法生物已经不起作用了的蛋，究竟是谁或什么制造了这东西呢？”——兰伟德"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 毒素之蛋 | `single_source` | [毒素之蛋](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493637&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Toxic Egg<br>|Image       = ToxicEgg2.png<br>|Rarity      = Uncommon<br>|Description = Whenever you add a {{QueryLink|Cards|type:Skill|Skill}} card to your deck, {{KW|Upgrade}} it.<br>|Flavor      = "What a marvelous discovery! This appears to be the inert egg of some magical creature. Who or what created this?" - Ranwid<br>|Keywords    = Deck<br>}}<br>{{Keyword Infobox|Upgrade}}{{R|Toxic Egg}} is an {{QueryLink|Relics|rarity:Unco... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

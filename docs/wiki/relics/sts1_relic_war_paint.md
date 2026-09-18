@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Upon pick up, Upgrade 2 random Skills.In the past, Ironclads would create wards using enchanted war paint before charging into battle.", "flavor": "In the past, Ironclads would create wards using enchanted war paint before charging into battle."} |
+| `effect_json` | {"description_en": "Upon pick up, Upgrade 2 random Skills.In the past, Ironclads would create wards using enchanted war paint before charging into battle.", "description_zh": "拾起时，随机 #y升级 #b 张 #y技能牌 。", "flavor": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.", "flavor_en": "In the past, Ironclads would create wards using enchanted war paint before charging into battle.", "flavor_zh": "在过去，铁甲军团的士兵们会在战斗前使用带有魔力的涂料来绘制保护性的战纹。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 战纹涂料 | `single_source` | [战纹涂料](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492818&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = War Paint<br>|Image       = WarPaint.png<br>|Rarity      = Common<br>|Description = Upon pick up, {{KW|Upgrade}} 2 random {{QueryLink|Cards|type:Skill|Skills}}.<br>|Flavor      = In the past, Ironclads would create wards using enchanted war paint before charging into battle.<br>}}<br>{{Keyword Infobox|Upgrade}}{{R|War Paint}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by figh... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

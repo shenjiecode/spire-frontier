@@ -16,15 +16,15 @@
 | `act` | Act 3 |
 | `hp_min` | 300 |
 | `hp_max` | 300 |
-| `ascension_json` | {"asc_hp": 320} |
+| `ascension_json` | {"ascension_max": 320, "ascension_min": 320, "ascension_raw": "320", "base_max": 300, "base_min": 300, "base_raw": "300"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Tackle | Attack7 | 10 |  | {"text": "Deals 10×3 damage."} |
+| Tackle | Attack7 | 10 | 3 | {"text": "Deals 10×3 damage."} |
 | Rebirth | Unknown |  |  | {"text": "Heals to full HP. Removes all Debuffs]. Loses Curiosity."} |
-| Soul Strike | Attack5 | 6 |  | {"text": "Deals 6×4 damage."} |
+| Soul Strike | Attack5 | 6 | 4 | {"text": "Deals 6×4 damage."} |
 | Slash | Attack5 | 20 |  | {"text": "Deals 20 damage."} |
 | Sludge | DebuffAttack4 | 18 |  | {"text": "Deals 18 damage. Adds a Void into your draw pile."} |
 | Dark Echo | Attack7 | 40 |  | {"text": "Deals 40 damage."} |
@@ -50,6 +50,7 @@
 | `game.monster.dialog` | ["~咕嗷。。。~", "~不。。。不。。~ NL ~。。不。。。~"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Soul Strike", "Dark Echo", "Cleanse", "Sludge"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["灵魂攻击", "黑暗回音", "净化", "污泥"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 320, "ascension_min": 320, "ascension_raw": "320", "base_max": 300, "base_min": 300, "base_raw": "300"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Dark Echo` | {"effect": "Deals 40 damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Rebirth` | {"effect": "Heals to full HP. Removes all Debuffs]. Loses Curiosity.", "intent": "Unknown"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Slash` | {"effect": "Deals 20 damage.", "intent": "Attack5"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -62,4 +63,4 @@
 | `source.title_text` | 觉醒者 | `single_source` | [觉醒者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9957006&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Awakened One<br>|Image  = AwakenedOne.png<br>|Icon   = Map-Awakened.png<br>|HP     = 300<br>|AscHP  = 320<br>|Powers = {{BD|Regenerate}} 10 ({{Asc|19|15}}) <br> {{BD|Curiosity}} 1 ({{Asc|19|2}}) <br> ({{BD|Strength}} 2 {{Asc|4}})<br>|Debut  = Act 3<br>|Type   = Boss<br>}} {{Power Infobox|Curiosity}} {{Power Infobox|Regenerate}} {{Power Infobox|Unawakened}}<br>The Awakened One is a [[Boss]] found at the end of [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/star... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

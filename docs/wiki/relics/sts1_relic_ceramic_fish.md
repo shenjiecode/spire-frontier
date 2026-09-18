@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you add a card to your deck, gain 9 Gold.Meticulously painted, these fish were revered to bring great fortune.", "flavor": "Meticulously painted, these fish were revered to bring great fortune."} |
+| `effect_json` | {"description_en": "Whenever you add a card to your deck, gain 9 Gold.Meticulously painted, these fish were revered to bring great fortune.", "description_zh": "每次你往自己的牌组中加入一张卡牌时，获得 #b #y金币 。", "flavor": "Meticulously painted, these fish were revered to bring great fortune.", "flavor_en": "Meticulously painted, these fish were revered to bring great fortune.", "flavor_zh": "这些被精心上色的鱼儿被认为可以带来滚滚财源。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 陶瓷小鱼 | `single_source` | [陶瓷小鱼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959081&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Ceramic Fish|Lucky Fysh}}<br>{{Relic Infobox<br>|Name        = Ceramic Fish<br>|Image       = CeramicFish.png<br>|Rarity      = Common<br>|Description = Whenever you add a card to your deck, gain 9 [[Gold]].<br>|Flavor      = Meticulously painted, these fish were revered to bring great fortune.<br>|GivesToPlayer = Gold<br>}}<br>{{R|Ceramic Fish}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. Whenever a card is added to the player's deck, they also gain 9 [[Gold]]. ... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

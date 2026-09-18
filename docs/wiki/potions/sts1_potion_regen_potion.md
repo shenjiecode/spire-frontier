@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Gain 5 (10) Regen.", "flavor": ""} |
+| `effect_json` | {"description_en": "Gain 5 (10) Regen.", "description_zh": "获得 #b 层 #y再生 。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 再生药水 | `single_source` | [再生药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953433&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Regen Potion<br>|Sequel=		1<br>|Image=			RegenPotion.png<br>|Rarity=		Uncommon<br>|Description=	Gain (5;10) {{BD|Regen}}.<br>}}<br>{{Power Infobox<br>|Name         = Regen<br>|Image        = Icon Regen.png<br>|Description  = Regen heals X HP at the end of your turn. <br>Each turn, {{BD|Regen}} is reduced by 1.<br>|Type         = Buff<br>|Stacks       = Intensity and Duration<br>|BetweenTurns = <br>|Cap          = <br>|Keywords    = Heal<b... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

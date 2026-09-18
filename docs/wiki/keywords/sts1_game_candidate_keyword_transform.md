@@ -12,6 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
+| `definition_json` | {"definition_en": "Transformed cards become a random card of any rarity.", "definition_zh": "被变化的牌会变成随机稀有度的随机牌。"} |
 
 ## 相关条目
 
@@ -34,5 +35,6 @@
 | `game.localization.name` | transform | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `game.localization.name` | 变化 | `verified_game` | [Game localization zhs/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/keywords.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "TRANSFORM", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
+| `keyword.definition` | {"definition_en": "Transformed cards become a random card of any rarity.", "definition_zh": "被变化的牌会变成随机稀有度的随机牌。", "wiki_sections": []} | `single_source` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

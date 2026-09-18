@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "At the start of each combat, heal 2 HP.A vial containing the blood of a pure and elder vampire.", "flavor": "A vial containing the blood of a pure and elder vampire."} |
+| `effect_json` | {"description_en": "At the start of each combat, heal 2 HP.A vial containing the blood of a pure and elder vampire.", "description_zh": "在每场战斗开始时，回复 #b 点生命。", "flavor": "A vial containing the blood of a pure and elder vampire.", "flavor_en": "A vial containing the blood of a pure and elder vampire.", "flavor_zh": "装着纯种年长吸血鬼血液的一个小瓶。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 小血瓶 | `single_source` | [小血瓶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492811&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Blood Vial<br>|Image       = BloodVial.png<br>|Rarity      = Common<br>|Description = At the start of each combat, heal 2 HP.<br>|Flavor      = A vial containing the blood of a pure and elder vampire.<br>}}<br>{{R|Blood Vial}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Small Chest]] or [[Medium Chest]]. ... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

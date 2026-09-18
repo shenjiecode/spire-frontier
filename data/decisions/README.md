@@ -2,7 +2,7 @@
 
 `mapping-review.csv` 是自动生成的候选排序，不能直接当作事实。人工对照两站原文后，把确认的行复制到 `mapping-decisions.csv`（字段见 `mapping-decisions.template.csv`）。本机游戏包导入器生成 `mapping-decisions.game-local.csv`（卡牌/遗物/药水）和 `mapping-decisions.game-extended.csv`（事件/怪物/状态等）：只有英文目录名、简体中文目录名、类别/角色和游戏本地化条目同时精确对应的行才会进入这些文件，证据中保留 JAR SHA-256、Steam Build ID 和本地化 JSON 页面 ID。
 
-`mapping-decisions.game-extended-status.csv` 和 `mapping-decisions.status-manual.csv` 记录状态名称的显式校正；`mapping-decisions.monster-manual.csv` 记录来源粒度和图片/正文范围均核对过的怪物映射。`entity-merges.game-local.csv` 是候选实体到 active 实体的独立合并决定，不能用普通目录映射代替。高塔之心、百夫长/神秘术士和游戏内部候选的暂缓合并理由见 `reports/entity-resolution-review.md`。
+`mapping-decisions.game-extended-status.csv` 和 `mapping-decisions.status-manual.csv` 记录状态名称的显式校正；`mapping-decisions.monster-manual.csv` 记录来源粒度和图片/正文范围均核对过的怪物映射。`mapping-decisions.source-crosswalk.csv` 记录高塔之心、机器学习与以手拒之的三条跨源复核；前两条只确认到本机游戏本地化键，后一条合并到 `Block Return`。`entity-merges.game-local.csv` 是候选实体到 active 实体的独立合并决定，不能用普通目录映射代替。高塔之心、百夫长/神秘术士和游戏内部候选的处理理由见 `reports/entity-resolution-review.md`。
 需要名称翻译不一致的条目时，图像/效果人工复核写入 `mapping-decisions.image-review.csv`，证据保留图片 URL、下载内容哈希和复核理由；它与游戏包自动决定分开重放。
 
 ```powershell
@@ -13,6 +13,8 @@ python scripts/kb/audit_mappings.py
 python scripts/kb/build_wiki.py
 python scripts/kb/validate_kb.py
 ```
+
+Cross-source rows in `mapping-decisions.source-crosswalk.csv` are replayed by `scripts/kb/repair_structured_data.py` (the quality supplement is idempotent); rerun that command before rebuilding the Wiki after a fresh import.
 
 导入已安装游戏的第三来源（默认路径为 Steam 的 `desktop-1.0.jar`）：
 

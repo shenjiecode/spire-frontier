@@ -1,20 +1,20 @@
 # P4 机制与规则核验审计
 
-生成时间：2026-09-18T04:35:57+00:00。状态：`audit_pending_review`。
+生成时间：2026-09-18T11:10:23+00:00。状态：`audit_pending_review`。
 
-此页只报告字段覆盖和待核验项，不把缺失数据补成 0，也不把候选身份当作双语事实。
+此页只报告字段覆盖和待核验项，不把缺失数据补成 0，也不把候选身份当作双语事实。纯合页父记录只保留来源和成员关系，怪物数值按成员页统计。
 
 ## 字段覆盖
 
 | 类别 | 条目数 | 必备字段齐全 |
 | --- | ---: | ---: |
 | `card` | 422 | 370 |
-| `relic` | 180 | 178 |
+| `relic` | 180 | 180 |
 | `potion` | 42 | 42 |
-| `monster` | 61 | 44 |
+| `monster` | 64 | 62 |
 | `event` | 55 | 51 |
-| `status` | 182 | 182 |
-| `keyword` | 55 | 22 |
+| `status` | 181 | 181 |
+| `keyword` | 55 | 55 |
 | `mechanic` | 25 | 25 |
 
 ## 待处理数量
@@ -22,10 +22,10 @@
 | 项目 | 数量 |
 | --- | ---: |
 | `possible_energy_icon_loss` | 0 |
-| `raw_placeholder_claims` | 1979 |
+| `raw_placeholder_claims` | 1981 |
 | `unknown_image_licence_assets` | 21 |
-| `candidate_entities` | 186 |
-| `confirmed_inventory_mappings` | 816 |
+| `candidate_entities` | 173 |
+| `confirmed_inventory_mappings` | 830 |
 | `candidate_inventory_mappings` | 0 |
 | `strategy_notes` | 0 |
 | `strategy_links` | 0 |
@@ -36,75 +36,60 @@
 无。
 ### cards_without_base_variant（52）
 - `Allocate` (`candidate`)
-- `DEPRECATED Awakened Strike` (`candidate`)
+- `sts1.game.candidate.card.awakenedstrike` (`candidate`)
 - `Axe Kick` (`candidate`)
-- `DEPRECATED Big Brain` (`candidate`)
+- `sts1.game.candidate.card.bigbrain` (`candidate`)
 - `Blaster` (`candidate`)
-- `DEPRECATED Blessed` (`candidate`)
-- `DEPRECATED Brilliance Aura` (`candidate`)
+- `sts1.game.candidate.card.blessed` (`candidate`)
+- `sts1.game.candidate.card.brillianceaura` (`candidate`)
 - `Calm` (`candidate`)
 - `Causality` (`candidate`)
 - `Clarity` (`candidate`)
 - `Cleanse Evil` (`candidate`)
-- `DEPRECATED Crescent Kick` (`candidate`)
-- `DEPRECATED Discipline` (`candidate`)
+- `sts1.game.candidate.card.crescentkick` (`candidate`)
+- `sts1.game.candidate.card.discipline` (`candidate`)
 - `Energy Pulse` (`candidate`)
-- `DEPRECATED Experienced` (`candidate`)
-- `DEPRECATED Flame Mastery` (`candidate`)
-- `DEPRECATED Flare` (`candidate`)
-- `DEPRECATED Flick` (`candidate`)
-- `DEPRECATED Flicker` (`candidate`)
-- `DEPRECATED Flow` (`candidate`)
-- `DEPRECATED Flow State` (`candidate`)
+- `sts1.game.candidate.card.experienced` (`candidate`)
+- `sts1.game.candidate.card.flamemastery` (`candidate`)
+- `sts1.game.candidate.card.flare` (`candidate`)
+- `sts1.game.candidate.card.flick` (`candidate`)
+- `sts1.game.candidate.card.flicker` (`candidate`)
+- `sts1.game.candidate.card.flow` (`candidate`)
+- `sts1.game.candidate.card.flowstate` (`candidate`)
 - `Flux Capacitor` (`candidate`)
-- `DEPRECATED Fury Aura` (`candidate`)
+- `sts1.game.candidate.card.furyaura` (`candidate`)
 - `Hide` (`candidate`)
-- `DEPRECATED Let Fate Decide` (`candidate`)
+- `sts1.game.candidate.card.letfatedecide` (`candidate`)
 - `Mastery` (`candidate`)
-- `DEPRECATED` (`candidate`)
-- `DEPRECATED Restraining Palm` (`candidate`)
+- `sts1.game.candidate.card.metaphysics` (`candidate`)
+- `sts1.game.candidate.card.palmthatrestrains` (`candidate`)
 - `Peace` (`candidate`)
-- `DEPRECATED Perfected Form` (`candidate`)
-- `DEPRECATED Polymath` (`candidate`)
-- `DEPRECATED Prediction` (`candidate`)
-- `DEPRECATED Punishment` (`candidate`)
-- `DEPRECATED Retreating Hand` (`candidate`)
-- `DEPRECATED Retribution` (`candidate`)
-- `DEPRECATED Serenity` (`candidate`)
-- `DEPRECATED Shield` (`candidate`)
-- `DEPRECATED Soothing Aura` (`candidate`)
-- `DEPRECATED Step and Strike` (`candidate`)
-- `DEPRECATED Sublime Slice` (`candidate`)
-- `DEPRECATED Survey` (`candidate`)
-- `DEPRECATED Swipe` (`candidate`)
-- `DEPRECATED Thwack` (`candidate`)
-- `DEPRECATED Torrent` (`candidate`)
+- `sts1.game.candidate.card.perfectedform` (`candidate`)
+- `sts1.game.candidate.card.polymath` (`candidate`)
+- `sts1.game.candidate.card.prediction` (`candidate`)
+- `sts1.game.candidate.card.punishment` (`candidate`)
+- `sts1.game.candidate.card.retreatinghand` (`candidate`)
+- `sts1.game.candidate.card.retribution` (`candidate`)
+- `sts1.game.candidate.card.serenity` (`candidate`)
+- `sts1.game.candidate.card.shield` (`candidate`)
+- `sts1.game.candidate.card.soothingaura` (`candidate`)
+- `sts1.game.candidate.card.stepandstrike` (`candidate`)
+- `sts1.game.candidate.card.sublimeslice` (`candidate`)
+- `sts1.game.candidate.card.survey` (`candidate`)
+- `sts1.game.candidate.card.swipe` (`candidate`)
+- `sts1.game.candidate.card.thwack` (`candidate`)
+- `sts1.game.candidate.card.torrent` (`candidate`)
 - `Transcendence` (`candidate`)
 - `Truth` (`candidate`)
 - `Unraveling` (`candidate`)
-- `DEPRECATED Ward Aura` (`candidate`)
-- `DEPRECATED` (`candidate`)
-- `DEPRECATED Windup` (`candidate`)
+- `sts1.game.candidate.card.wardaura` (`candidate`)
+- `sts1.game.candidate.card.waveofthehand2` (`candidate`)
+- `sts1.game.candidate.card.windup` (`candidate`)
 - `Wisdom` (`candidate`)
 - `Wrath` (`candidate`)
-### monsters_without_moves（17）
-- `sts1.candidate.zh.monster.15436697` (`candidate`)
-- `sts1.candidate.zh.monster.15436699` (`candidate`)
-- `Apology Slime` (`candidate`)
-- `Bear` (`candidate`)
-- `Pointy` (`candidate`)
-- `Romeo` (`candidate`)
-- `Orb` (`candidate`)
-- `Centurion` (`candidate`)
-- `Dagger` (`candidate`)
-- `Fire Orb` (`candidate`)
-- `Flame Bruiser` (`candidate`)
-- `Mystic` (`candidate`)
-- `HexaghostBody` (`candidate`)
-- `HexaghostOrb` (`candidate`)
-- `Puppeteer` (`candidate`)
-- `TheGuardianOrb` (`candidate`)
-- `Torch Head` (`candidate`)
+### monsters_without_moves（2）
+- `sts1.candidate.zh.monster.15436697` (`deprecated`)
+- `sts1.candidate.zh.monster.15436699` (`deprecated`)
 ### events_without_options（4）
 - `sts1.candidate.zh.event.15408927` (`candidate`)
 - `Proceed Screen` (`candidate`)

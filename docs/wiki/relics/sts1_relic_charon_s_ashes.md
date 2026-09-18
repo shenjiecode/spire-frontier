@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Whenever you Exhaust a card, deal 3 damage to ALL enemies.Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.", "flavor": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame."} |
+| `effect_json` | {"description_en": "Whenever you Exhaust a card, deal 3 damage to ALL enemies.Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.", "description_zh": "每当你 #y消耗 一张牌，对所有敌人造成 #b 点伤害。", "flavor": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.", "flavor_en": "Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.", "flavor_zh": "传说中卡戎是重生的神祇，永远都在烈焰之中反复地死亡和重生。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 卡戎之灰 | `single_source` | [卡戎之灰](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515159&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Charon's Ashes<br>| Image       = CharonsAshes.png<br>| Rarity      = Rare<br>| Character   = Ironclad<br>| Description = Whenever you {{KW|Exhaust}} a card, deal 3 damage to ALL enemies.<br>| Flavor      = Charon was said to be the god of rebirth, eternally dying and reviving in a burst of flame.<br>| InteractsWith = Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{R|Charon's Ashes}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

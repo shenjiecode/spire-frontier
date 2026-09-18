@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "The first time you discard a card each turn, gain 1 Energy.The Kite floats around you in battle, propelled by a mysterious force.", "flavor": "The Kite floats around you in battle, propelled by a mysterious force."} |
+| `effect_json` | {"description_en": "The first time you discard a card each turn, gain 1 Energy.The Kite floats around you in battle, propelled by a mysterious force.", "description_zh": "你在每回合第一次弃牌时，获得 [E] 。", "flavor": "The Kite floats around you in battle, propelled by a mysterious force.", "flavor_en": "The Kite floats around you in battle, propelled by a mysterious force.", "flavor_zh": "风筝在战斗中飘浮在你的身旁，不知是何种神秘的力量让它能浮在空中。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 悬浮风筝 | `single_source` | [悬浮风筝](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525828&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Hovering Kite<br>|Image       = HoveringKite.png<br>|Rarity      = Boss<br>|Character   = Silent<br>|Description = The first time you discard a card each turn, gain 1 {{KW|Energy}}.<br>|Flavor      = The Kite floats around you in battle, propelled by a mysterious force.<br>|Keywords    = Discard<br>}}<br>{{Keyword Infobox|Energy}}{{R|Hovering Kite}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss Relic}}.<br><br... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

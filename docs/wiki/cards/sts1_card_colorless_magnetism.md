@@ -59,4 +59,4 @@
 | `source.title_text` | 磁力 | `single_source` | [磁力](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536948&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Magnetism|Spectrum Shift}}<br>{{Card Infobox<br>|Name        = Magnetism<br>|Image       = Colorless-Magnetism.png<br>|Color       = Colorless<br>|Type        = Power<br>|Rarity      = Rare<br>|Cost        = 2<br>|CostPlus    = 1<br>|Description = At the start of your turn, add a random Colorless card into your hand.<br>|Keywords    = Hand<br>}}<br>{{Power Infobox|Magnetism}}{{C|Magnetism}} is a 2 (1 if upgraded) {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {... | `single_source` | [P3 wiki.gg API batch: card 15](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sunder|Neutralize|Envenom|Predator|Go_for_the_Eyes|Follow-Up|Metallicize|Force_Field|Master_Reality|Dualcast|Chaos|Fission|Boot_Sequence|Dagger_Spray|Lesson_Learned|Claw|Darkness|Battle_Trance|Dropkick|Magnetism&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

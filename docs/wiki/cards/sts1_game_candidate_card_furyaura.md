@@ -1,12 +1,12 @@
-# DEPRECATED Fury Aura / DEPRECATED Fury Aura
+# （暂无中文名） / FuryAura
 
 > 稳定 ID：`sts1.game.candidate.card.furyaura`  
 > 类别：`card`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
-- 中文：DEPRECATED Fury Aura
-- English: DEPRECATED Fury Aura
+- 中文：（暂无中文名）
+- English: FuryAura
 
 ## 卡牌属性
 
@@ -41,4 +41,4 @@
 | `game.localization.name` | DEPRECATED Fury Aura | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "FuryAura", "kind": "card", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

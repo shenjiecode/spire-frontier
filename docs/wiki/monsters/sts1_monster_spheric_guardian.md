@@ -16,12 +16,13 @@
 | `act` | Act 2 |
 | `hp_min` | 20 |
 | `hp_max` | 20 |
+| `ascension_json` | {"base_max": 20, "base_min": 20, "base_raw": "20"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Slam | Attack5 | 10 |  | {"text": "Deals (10×2;11×2) damage."} |
+| Slam | Attack5 | 10 | 2 | {"text": "Deals (10×2;11×2) damage."} |
 | Debuff Attack | DebuffAttack3 | 10 |  | {"text": "Deals (10;11) damage. Applies 5 Frail."} |
 | Activate | Defend |  |  | {"text": "Gains (25;35) Block."} |
 | Harden | DefendAttack3 | 10 |  | {"text": "Deals (10;11) damage. Gains 15 Block."} |
@@ -32,7 +33,9 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [圆球守护者 / Spheric Guardian](../encounters/sts1_encounter_act2_easy_spheric_guardian.md)
+- `contains_monster` → [哨卫与圆球守护者 / Sentry and Spheric Guardian](../encounters/sts1_encounter_act2_hard_sentry_and_spheric_guardian.md)
+- `contains_monster` → [圆球守护者 + 2 个三机械 / Spheric Guardian + 2 Shapes](../encounters/sts1_encounter_act3_hard_spheric_guardian_2_shapes.md)
 
 ## 来源与核对状态
 
@@ -47,6 +50,7 @@
 | `game.monster.dialog` | ["~侦测到~ NL ~外来者~"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"base_max": 20, "base_min": 20, "base_raw": "20"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Activate` | {"effect": "Gains (25;35) Block.", "intent": "Defend"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Debuff Attack` | {"effect": "Deals (10;11) damage. Applies 5 Frail.", "intent": "DebuffAttack3"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Harden` | {"effect": "Deals (10;11) damage. Gains 15 Block.", "intent": "DefendAttack3"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -56,4 +60,4 @@
 | `source.title_text` | 圆球守护者 | `single_source` | [圆球守护者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436694&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Spheric Guardian<br>|Image  = SphericGuardian.png<br>|HP     = 20<br>|Powers = {{BD|Artifact}} 3 <br> {{KW|Block}} 40 <br> {{BD|Barricade}}<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox|Barricade}}<br>'''Spheric Guardian''' is a normal [[Monsters|Enemy]] that appears in [[Act 2]] and [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Spheric Guardian}}<br>{{Intents Table/row<br>|Name   = Activate<br>|Intent = Defend<br>|Effect = Gains (25;{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

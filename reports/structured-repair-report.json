@@ -1,0 +1,95 @@
+{
+  "parser_version": "kb-structured-repair/0.7",
+  "finished_at": "2026-09-18T11:10:18+00:00",
+  "game_key_aliases_repaired": 0,
+  "card_chinese_descriptions_filled": 0,
+  "bilingual_effect_rows_changed": {
+    "relic": 0,
+    "potion": 0
+  },
+  "character_initial_gold_rows_changed": 0,
+  "character_potion_slots_rows_changed": 0,
+  "character_runtime_evidence": {
+    "class": "com/megacrit/cardcrawl/characters/AbstractPlayer.class",
+    "field": "potionSlots",
+    "value": 3,
+    "bytecode_pattern_hex": "2a06b50014",
+    "class_byte_offset": 35063,
+    "method": "<init>(String, AbstractPlayer$PlayerClass)",
+    "jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673",
+    "steam_build_id": "10180494",
+    "class_sha256": "5dbefe89175f3e03fdd133d498b653d66073645a8c7fc109f3f4b717d10c266f"
+  },
+  "keyword_mechanic_definitions": {
+    "keyword": 55,
+    "mechanic": 18
+  },
+  "status_repairs": {
+    "descriptions_en": 135,
+    "descriptions_zh": 132,
+    "infobox_fields": 11
+  },
+  "editorial_supplement": {
+    "parser_version": "kb-editorial-supplement/0.1",
+    "keyword_definitions_changed": 0,
+    "mechanic_definitions_changed": 0,
+    "status_variants_corrected": 5,
+    "finished_at": "2026-09-18T11:10:18+00:00"
+  },
+  "quality_supplement": {
+    "parser_version": "kb-quality-supplement/0.3",
+    "map_mechanics_reviewed": 5,
+    "inventory_mappings_added_or_confirmed": 5,
+    "encounter_names_reviewed": 39,
+    "character_source_attributions_repaired": 4,
+    "character_inventory_mappings_added_or_confirmed": 4,
+    "group_member_inventory_mappings_added_or_confirmed": 2,
+    "group_parent_names_added": 1,
+    "shared_mechanic_claims_added": 2,
+    "game_local_crosswalks_reviewed": 2,
+    "status_mappings_confirmed": 1
+  },
+  "monster_repairs": {
+    "hp_ranges": 71,
+    "hit_counts": 0
+  },
+  "monster_group_splits": {
+    "split_entities": 27,
+    "split_moves": 59,
+    "merged_candidates": 0
+  },
+  "encounters_imported": 38,
+  "entity_asset_links_added": 0,
+  "export_counts": {
+    "sources": 3,
+    "source_pages": 938,
+    "entities": 1121,
+    "names": 3802,
+    "claims": 18569,
+    "relations": 426,
+    "resolutions": 3256,
+    "entity_variants": 722,
+    "card_variants": 722,
+    "monster_moves": 203,
+    "event_options": 144,
+    "encounter_members": 75,
+    "assets": 21,
+    "entity_assets": 20,
+    "cards": 422,
+    "relics": 180,
+    "potions": 42,
+    "monsters": 91,
+    "encounters": 39,
+    "events": 55,
+    "statuses": 181,
+    "keywords": 55,
+    "mechanics": 25,
+    "inventory_jsonl": 1730,
+    "inventory_items": 1730,
+    "inventory_mappings": 830,
+    "strategy_notes": 0,
+    "strategy_links": 0,
+    "inventory_csv": 1730,
+    "entity_name_mapping": 1121
+  }
+}

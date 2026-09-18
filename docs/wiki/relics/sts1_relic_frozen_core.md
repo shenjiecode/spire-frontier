@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "Replaces Cracked Core. If you end your turn with any empty Orb slots, Channel 1 Frost.The crack in your core has been filled with a pulsating cold energy.", "flavor": "The crack in your core has been filled with a pulsating cold energy."} |
+| `effect_json` | {"description_en": "Replaces Cracked Core. If you end your turn with any empty Orb slots, Channel 1 Frost.The crack in your core has been filled with a pulsating cold energy.", "description_zh": "替换 #r破损核心 。 如果你在你的回合结束时还有空余的充能球栏位， #y生成 #b1 个 #y冰霜 充能球。", "flavor": "The crack in your core has been filled with a pulsating cold energy.", "flavor_en": "The crack in your core has been filled with a pulsating cold energy.", "flavor_zh": "某种脉动的冰冷能量充满了你核心中的破损处。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 冻结核心 | `single_source` | [冻结核心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523651&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Frozen Core<br>| Image       = FrozenCore.png<br>| Rarity      = Boss<br>| Character   = Defect<br>| Description = Replaces {{R|Cracked Core}}. If you end your turn with any empty {{KW|Orb}} slots, {{KW|Channel}} 1 {{KW|Frost}}.<br>| Flavor      = The crack in your core has been filled with a pulsating cold energy.<br>| GivesToPlayer = Channel, Frost<br>| InteractsWith = Orb<br>}}<br>{{Keyword Infobox|Frost}}{{Keyword Infobox|Channel}}<br>{{R|Frozen Core}} i... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

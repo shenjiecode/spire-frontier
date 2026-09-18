@@ -59,4 +59,4 @@
 | `source.title_text` | 优秀直觉 | `single_source` | [优秀直觉](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536416&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Good Instincts<br>|Image       = Colorless-GoodInstincts.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Gain (6;9) {{KW|Block}}.<br>}}<br>{{Keyword Infobox|Block}}<br>{{C|Good Instincts}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 6 (9 if upgraded) {{KW|Block}}.<br>... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

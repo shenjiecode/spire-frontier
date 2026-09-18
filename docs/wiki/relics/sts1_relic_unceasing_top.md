@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Whenever you have no cards in hand during your turn, draw a card.The top continues to spin effortlessly as if you were in a dream.", "flavor": "The top continues to spin effortlessly as if you were in a dream."} |
+| `effect_json` | {"description_en": "Whenever you have no cards in hand during your turn, draw a card.The top continues to spin effortlessly as if you were in a dream.", "description_zh": "在你的回合，当你没有手牌时，抽一张牌。", "flavor": "The top continues to spin effortlessly as if you were in a dream.", "flavor_en": "The top continues to spin effortlessly as if you were in a dream.", "flavor_zh": "这个陀螺始终轻松地旋转着，让你觉得自己仿佛是在梦中。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 不休陀螺 | `single_source` | [不休陀螺](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514523&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Unceasing Top<br>| Image       = UnceasingTop.png<br>| Rarity      = Rare<br>| Description = Whenever you have no cards in hand during your turn, draw a card.<br>| Flavor      = The top continues to spin effortlessly as if you were in a dream.<br>| GivesToPlayer = Draw<br>}}<br>{{R|Unceasing Top}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from ... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

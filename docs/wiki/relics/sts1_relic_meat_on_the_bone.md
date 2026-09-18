@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "If your HP is at or below 50% at the end of combat, heal 12 HP.The meat keeps replenishing, never seeming to fully run out.", "flavor": "The meat keeps replenishing, never seeming to fully run out."} |
+| `effect_json` | {"description_en": "If your HP is at or below 50% at the end of combat, heal 12 HP.The meat keeps replenishing, never seeming to fully run out.", "description_zh": "如果你在战斗结束时生命值等于或低于 #b50% ，回复 #b 点生命。", "flavor": "The meat keeps replenishing, never seeming to fully run out.", "flavor_en": "The meat keeps replenishing, never seeming to fully run out.", "flavor_zh": "这块肉会不断恢复，似乎永远也不会彻底吃光。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 带骨肉 | `single_source` | [带骨肉](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493404&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Meat on the Bone<br>|Image       = MeatontheBone.png<br>|Rarity      = Uncommon<br>|Description = If your HP is at or below 50% at the end of combat, heal 12 HP.<br>|Flavor      = The meat keeps replenishing, never seeming to fully run out.<br>}}<br>{{R|Meat on the Bone}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], ... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

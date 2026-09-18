@@ -59,4 +59,4 @@
 | `source.title_text` | 深谋远虑 | `single_source` | [深谋远虑](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536801&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Thinking Ahead<br>|Image       = Colorless-ThinkingAhead.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 0<br>|Description = Draw 2 cards.<br>Put a card from your hand on top of your draw pile.(<br>{{KW|Exhaust}}.;)<br>|Keywords    = Draw, Hand<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Thinking Ahead}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLin... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

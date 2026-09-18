@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 猛虎下山 | `single_source` | [猛虎下山](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958985&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Rushdown<br>|Image       = Purple-Rushdown.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = Whenever you enter {{KW|Wrath}}, draw 2 cards.<br>|Keywords    = Draw<br>}}<br>{{Power Infobox|Rushdown}} {{Keyword Infobox|Wrath}}<br>{{C|Rushdown}} is a 1 (0 if upgraded) {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{Query... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

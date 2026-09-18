@@ -1,4 +1,4 @@
-# 机器学习（能力） / Unnamed
+# 机器学习（能力） / （暂无英文名）
 
 > 稳定 ID：`sts1.candidate.zh.status.15448778`  
 > 类别：`status`；游戏：`sts1`；映射状态：`provisional`
@@ -6,7 +6,7 @@
 ## 名称
 
 - 中文：机器学习（能力）
-- English: Unnamed
+- English: （暂无英文名）
 
 ## status 数据
 
@@ -31,5 +31,7 @@
 | --- | --- | --- | --- |
 | `source.article_text` | 机器学习（能力）<br>Buffs id: Machine Learning<br>（图片未提供文字说明）<br>Buffs信息<br>效果中文描述<br>在每回合开始时额外抽 X 张牌。<br>效果英文描述<br>At the start of your turn, draw #b additional card.<br>类型<br>玩家BUFF(来源唯一)<br>可叠加 | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
 | `source.title_text` | 机器学习（能力） | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
+| `status.description` | At the start of your turn, draw #b additional card. | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
+| `status.description` | 在每回合开始时额外抽 X 张牌。 | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

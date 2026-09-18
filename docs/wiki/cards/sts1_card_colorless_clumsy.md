@@ -55,4 +55,4 @@
 | `source.title_text` | 笨拙 | `single_source` | [笨拙](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537329&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Clumsy<br>| Image       = Curse-Clumsy.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}. <br>{{KW|Ethereal}}.<br>| GivesToPlayer = Unplayable, Ethereal<br>}}<br>{{Keyword Infobox|Unplayable}} {{Keyword Infobox|Exhaust}}<br>{{C|Clumsy}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card.<br><br>== Obtaining Clumsy ==<br>Like m... | `single_source` | [P3 wiki.gg API batch: card 16](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Curse_of_the_Bell|Rebound|Rainbow|Fear_No_Evil|Foresight|Mind_Blast|Doom_and_Gloom|Clash|Apparition|Recursion|Heatsinks|Finisher|Flying_Sleeves|Tantrum|Slice|Phantasmal_Killer|Sands_of_Time|Clumsy|Bane|Brilliance&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

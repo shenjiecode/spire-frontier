@@ -135,6 +135,18 @@ MONSTER_GROUP_BY_KEY: dict[str, str] = {
     "Repulsor": "Shapes",
 }
 
+# These keys have dedicated active entities after the grouped-page repair.
+# Prefer them before the broader group aliases so a rerun does not collapse a
+# member back onto its parent page.
+MONSTER_SPLIT_BY_KEY: dict[str, str] = {
+    "Centurion": "Centurion",
+    "Healer": "Mystic",
+    "Donu": "Donu",
+    "Deca": "Deca",
+    "SpireShield": "Spire Shield",
+    "SpireSpear": "Spire Spear",
+}
+
 
 # Chinese article titles for grouped pages.  Entries deliberately omitted
 # here (notably Centurion/Mystic) have a different source granularity and stay
@@ -216,6 +228,11 @@ def resolve_entity(
             "Defect": "sts1.character.defect",
             "Watcher": "sts1.character.watcher",
         }.get(game_key)
+    if kind == "monster" and game_key in MONSTER_SPLIT_BY_KEY:
+        split_name = MONSTER_SPLIT_BY_KEY[game_key]
+        split_matches = indexes.get(compact(split_name), [])
+        if len(split_matches) == 1:
+            return split_matches[0]
     if kind == "monster" and game_key in MONSTER_GROUP_BY_KEY:
         en_name = MONSTER_GROUP_BY_KEY[game_key]
     if kind == "event":

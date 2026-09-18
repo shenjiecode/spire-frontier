@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 恶魔形态 | `single_source` | [恶魔形态](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=441870&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>| Name        = Demon Form<br>| Image       = Red-DemonForm.png<br>| Color       = Red<br>| Type        = Power<br>| Rarity      = Rare<br>| Cost        = 3<br>| Description = At the start of your turn, gain (2;3) {{BD|Strength}}.<br>| GivesToPlayer = Demon Form<br>| PowerGives = Strength<br>}}<br>{{Power Infobox<br>| Name         = Demon Form<br>| Image        = Icon DemonForm.png<br>| Description  = At the start of your turn, gain X {{BD|Stren... | `single_source` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

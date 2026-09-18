@@ -59,4 +59,4 @@
 | `source.title_text` | 疯狂 | `single_source` | [疯狂](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536759&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Madness<br>|Image       = Colorless-Madness.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = Reduce the cost of a random card in your hand to 0 this combat.<br>{{KW|Exhaust}}.<br>|Keywords    = Hand<br>}} <br>{{Keyword Infobox|Exhaust}}<br>{{C|Madness}} is a 1 (0 if upgraded) {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommo... | `single_source` | [P3 wiki.gg API batch: card 12](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Purity|Swift_Strike|Defend_(Silent)|Quick_Slash|Strike_(Ironclad)|Defend_(Ironclad)|Tempest|Infinite_Blades|Adrenaline|Madness|Pain|Eruption|Blade_Dance|Outmaneuver|Static_Discharge|Meteor_Strike|Infernal_Blade|Barrage|Setup|Headbutt&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

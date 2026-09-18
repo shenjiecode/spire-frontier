@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Apply 3 (6) Vulnerable to target enemy.", "flavor": ""} |
+| `effect_json` | {"description_en": "Apply 3 (6) Vulnerable to target enemy.", "description_zh": "给予 #b 层 #y易伤 。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 恐惧药水 | `single_source` | [恐惧药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953428&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Fear Potion|Vulnerable Potion}} {{Potion Infobox<br>|Name=			Fear Potion<br>|Sequel=		1<br>|Image=			FearPotion.png<br>|Rarity=		Common<br>|Description=	Apply (3;6) {{BD|Vulnerable}} to target enemy.<br>}}<br>{{Power Infobox|Vulnerable}}<br>{{P|Fear Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of '''Fear Potion'''.... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

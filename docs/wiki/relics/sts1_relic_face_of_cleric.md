@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "At the end of combat, raise your Max HP by 1.Everyone loves Cleric.", "flavor": "Everyone loves Cleric."} |
+| `effect_json` | {"description_en": "At the end of combat, raise your Max HP by 1.Everyone loves Cleric.", "description_zh": "每场战斗后你的最大生命值增加 #b1 。", "flavor": "Everyone loves Cleric.", "flavor_en": "Everyone loves Cleric.", "flavor_zh": "人人都爱牧师。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 牧师的脸 | `single_source` | [牧师的脸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525847&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Face of Cleric<br>|Image       = FaceOfCleric.png<br>|Rarity      = Event<br>|Source      = Face Trader<br>|Description = At the end of combat, raise your Max HP by 1.<br>|Flavor      = Everyone loves Cleric.<br>}}<br>{{R|Face of Cleric}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]].<br><br>== Sources ==<br>Can only be obtained from {{E|Face Trader}} by selecting the {{Frame|Trade}} option and randomly receiving {{R|Face of Cleric}}.<br><br>== Inte... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

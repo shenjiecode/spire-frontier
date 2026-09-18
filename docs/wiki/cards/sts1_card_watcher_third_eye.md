@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 天眼 | `single_source` | [天眼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9537854&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Third Eye<br>|Image       = Purple-ThirdEye.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Gain (7;9) {{KW|Block}}. <br>{{KW|Scry}} (3;5).<br>}}<br>{{Keyword Infobox|Block}} {{Keyword Infobox|Scry}}<br>{{C|Third Eye}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 7 (9 if upgraded) {... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

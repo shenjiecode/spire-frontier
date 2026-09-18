@@ -58,4 +58,4 @@
 | `source.title_text` | 贝塔 | `single_source` | [贝塔](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959376&wiki_id=646570) |
 | `source.wikitext` | #REDIRECT [[Alpha#Beta]] | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

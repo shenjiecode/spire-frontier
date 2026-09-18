@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Whenever you would lose HP, lose 1 less.It's very very heavy.", "flavor": "It's very very heavy."} |
+| `effect_json` | {"description_en": "Whenever you would lose HP, lose 1 less.It's very very heavy.", "description_zh": "你每次失去生命时，减少失去的生命值 #b 点。", "flavor": "It's very very heavy.", "flavor_en": "It's very very heavy.", "flavor_zh": "非常非常重。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 钨合金棍 | `single_source` | [钨合金棍](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959088&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Tungsten Rod<br>|Image       = TungstenRod.png<br>|Rarity      = Rare<br>|Description = Whenever you would lose HP, lose 1 less.<br>|Flavor      = It's very very heavy.<br>}}<br>{{R|Tungsten Rod}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. {{R|Tungsten Rod}} will reduce '''ALL''' HP loss by 1, even from self-damaging cards (such as {{C|Bloodletting}} or {{C|Combust}}) or HP-loss effects in [[Events]] (such as {{E|Scrap ... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

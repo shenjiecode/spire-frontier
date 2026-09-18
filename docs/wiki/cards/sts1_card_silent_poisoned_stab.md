@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 带毒刺击 | `single_source` | [带毒刺击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=491152&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Poisoned Stab<br>|Image       = Green-PoisonedStab.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Deal (6;8) damage.<br>Apply (3;4) {{BD|Poison}}.<br>|GivesToEnemy = Poison<br>}}<br>{{Power Infobox|Poison}}{{C|Poisoned Stab}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Attack|Attack... | `single_source` | [P3 wiki.gg API batch: card 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shame|Perfected_Strike|Pommel_Strike|Alchemize|Shockwave|Overclock|Accuracy|Alpha|Ritual_Dagger|Carve_Reality|Slimed|Bullet_Time|Poisoned_Stab|Inner_Peace|Pride|Thunderclap|Mental_Fortress|Sweeping_Beam|Searing_Blow|Flame_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

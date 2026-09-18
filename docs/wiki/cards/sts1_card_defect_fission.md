@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 裂变 | `single_source` | [裂变](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=549948&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Fission<br>|Image       = Blue-Fission.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 0<br>|Description = (Remove;{{KW|Evoke}}) all your Orbs. Gain {{Icon|BE}} and draw 1 card for each Orb (removed;{{KW|Evoke|Evoked}}).<br>{{KW|Exhaust}}.<br>|Keywords    = Draw, Energy<br>}}<br>{{C|Fission}} is a 0 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skil... | `single_source` | [P3 wiki.gg API batch: card 15](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sunder|Neutralize|Envenom|Predator|Go_for_the_Eyes|Follow-Up|Metallicize|Force_Field|Master_Reality|Dualcast|Chaos|Fission|Boot_Sequence|Dagger_Spray|Lesson_Learned|Claw|Darkness|Battle_Trance|Dropkick|Magnetism&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

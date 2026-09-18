@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "If you end your turn without Block, gain 6 Block.A green tinted metal of an unknown origin. Seemingly indestructible.", "flavor": "A green tinted metal of an unknown origin. Seemingly indestructible."} |
+| `effect_json` | {"description_en": "If you end your turn without Block, gain 6 Block.A green tinted metal of an unknown origin. Seemingly indestructible.", "description_zh": "如果你在回合结束时没有任何 #y格挡 ，获得 #b 点 #y格挡 。", "flavor": "A green tinted metal of an unknown origin. Seemingly indestructible.", "flavor_en": "A green tinted metal of an unknown origin. Seemingly indestructible.", "flavor_zh": "一块出处不明、带着些绿色的金属。似乎完全不会毁坏。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 奥利哈钢 | `single_source` | [奥利哈钢](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492024&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Orichalcum<br>|Image       = Orichalcum.png<br>|Rarity      = Common<br>|Description = If you end your turn without {{KW|Block}}, gain 6 {{KW|Block}}.<br>|Flavor      = A green tinted metal of an unknown origin. Seemingly indestructible.<br>}}<br>{{Keyword Infobox|Block}}{{R|Orichalcum}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[M... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -18,6 +18,51 @@ def now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
+EXPORT_TABLES = (
+    "sources",
+    "source_pages",
+    "entities",
+    "names",
+    "claims",
+    "relations",
+    "resolutions",
+    "entity_variants",
+    "card_variants",
+    "monster_moves",
+    "event_options",
+    "encounter_members",
+    "assets",
+    "entity_assets",
+    "cards",
+    "relics",
+    "potions",
+    "monsters",
+    "encounters",
+    "events",
+    "statuses",
+    "keywords",
+    "mechanics",
+    "inventory_items",
+    "inventory_mappings",
+    "strategy_notes",
+    "strategy_links",
+)
+
+
+def jsonl_count(path: Path) -> int | None:
+    try:
+        return sum(1 for line in path.read_text(encoding="utf-8").splitlines() if line.strip())
+    except OSError:
+        return None
+
+
+def jsonl_rows(path: Path) -> list[dict] | None:
+    try:
+        return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def main() -> int:
     if not DB_PATH.exists():
         raise SystemExit("data/spire.sqlite not found")
@@ -59,6 +104,28 @@ def main() -> int:
     names_count = conn.execute("SELECT COUNT(*) FROM names").fetchone()[0]
     if fts_count != names_count:
         errors.append(f"names_fts count {fts_count} != names count {names_count}")
+
+    # JSONL exports are the portable handoff format used to rebuild or inspect
+    # the SQLite database.  Check their row counts against the database so a
+    # stale generated file cannot silently look like the current knowledge
+    # base.  ``inventory.jsonl`` is a compatibility alias for the canonical
+    # ``inventory_items.jsonl`` and must contain the same rows.
+    export_counts: dict[str, int | None] = {}
+    for table in EXPORT_TABLES:
+        path = ROOT / "data" / "exports" / f"{table}.jsonl"
+        actual = jsonl_count(path)
+        expected = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
+        export_counts[table] = actual
+        if actual is None:
+            errors.append(f"missing or unreadable JSONL export: {path.relative_to(ROOT)}")
+        elif actual != expected:
+            errors.append(f"stale JSONL export: {table}.jsonl has {actual} rows; SQLite has {expected}")
+    inventory_items_path = ROOT / "data" / "exports" / "inventory_items.jsonl"
+    inventory_legacy_path = ROOT / "data" / "exports" / "inventory.jsonl"
+    canonical_rows = jsonl_rows(inventory_items_path)
+    legacy_rows = jsonl_rows(inventory_legacy_path)
+    if canonical_rows is not None and legacy_rows is not None and canonical_rows != legacy_rows:
+        errors.append("stale compatibility export: inventory.jsonl differs from inventory_items.jsonl")
 
     # Check links emitted by the Markdown generator.  External URLs are not
     # fetched here; local links are resolved relative to the page file.
@@ -122,6 +189,7 @@ def main() -> int:
             "strategy_notes": strategy_notes,
             "strategy_links": strategy_links,
         },
+        "export_counts": export_counts,
     }
     report_path = ROOT / "reports" / "p1-validation.json"
     report_path.parent.mkdir(parents=True, exist_ok=True)

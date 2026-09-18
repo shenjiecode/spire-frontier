@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `polarity` | neutral |
+| `polarity` | negative |
 
 ## 相关条目
 
@@ -36,5 +36,7 @@
 | `source.article_text` | 不能抽牌<br>Buffs id: No Draw<br>（图片未提供文字说明）<br>Buffs信息<br>效果中文描述<br>你在回合结束前都无法再抽牌。<br>效果英文描述<br>You cannot draw cards this turn.<br>类型<br>玩家Debuff<br>不可叠加 | `single_source` | [不能抽牌](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454371&wiki_id=646570) |
 | `source.title_text` | 不能抽牌 | `single_source` | [不能抽牌](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454371&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Template:Under Construction}}<br>{{#setmainimage:Intent_Debuff.png|quiet}}<br>{{TOC limit|2}}<br>See also: [[Buffs]]<br><br>== Stack Types ==<br>{{Hatnote|'''Note:''' These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.}}<br>* '''Intensity Debuffs''' are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat e... | `single_source` | [P3 wiki.gg API batch: status 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Dexterity|Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Minion|Debuffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | You cannot draw cards this turn. | `single_source` | [P3 wiki.gg API batch: status 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Dexterity|Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Minion|Debuffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 你在回合结束前都无法再抽牌。 | `single_source` | [不能抽牌](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454371&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

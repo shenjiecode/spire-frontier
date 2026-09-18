@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `definition_json` | {"definition": null, "source_page": "https://slaythespire.wiki.gg/wiki/Lightning"} |
+| `definition_json` | {"definition": null, "definition_en": "Passive: Deal 3 (+1 per Focus) damage to a random enemy. Evoke: Deal 8 (+1 per Focus) damage to a random enemy.", "definition_zh": "充能球：对随机敌人造成伤害。", "source_page": "https://slaythespire.wiki.gg/wiki/Lightning", "wiki_source_page_id": "source_page.wiki_gg.8fc6abbe91af13ec"} |
 
 ## 相关条目
 
@@ -35,6 +35,7 @@
 | `game.localization.name` | lightning | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `game.localization.name` | 闪电 | `verified_game` | [Game localization zhs/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/keywords.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "LIGHTNING", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
+| `keyword.definition` | {"definition_en": "Passive: Deal 3 (+1 per Focus) damage to a random enemy. Evoke: Deal 8 (+1 per Focus) damage to a random enemy.", "definition_zh": "充能球：对随机敌人造成伤害。", "wiki_sections": []} | `single_source` | [P3 wiki.gg API batch: keyword 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Keywords|Keywords|Dark|Keywords|Keywords|Keywords|Keywords|Keywords|Keywords|Keywords|Frost|Block|Keywords|Lightning|Keywords|Exhaust|Keywords|Keywords|Keywords|Keywords&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Keyword Infobox<br> |Name        = Lightning<br> |Image       = LightningOrb.png<br> |Description = '''Passive''': Deal 3 (+1 per {{BD|Focus}}) damage to a random enemy.<br>{{KW|Evoke}}: Deal 8 (+1 per {{BD|Focus}}) damage to a random enemy.<br>}}<br>{{KW|Lightning|Lightning Orbs}} are the most common damage dealing [[Orb]]. Their [[Orbs#Passive|Passive]] effect deals (3 + {{BD|Focus}}) damage to a random enemy at end of turn. When {{KW|Evoke|Evoked}}, they inst... | `single_source` | [P3 wiki.gg API batch: keyword 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Keywords|Keywords|Dark|Keywords|Keywords|Keywords|Keywords|Keywords|Keywords|Keywords|Frost|Block|Keywords|Lightning|Keywords|Exhaust|Keywords|Keywords|Keywords|Keywords&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

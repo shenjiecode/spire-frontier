@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. Future card rewards have 2 less cards to choose from.The Champ's crown... or a pale imitation?", "flavor": "The Champ's crown... or a pale imitation?"} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. Future card rewards have 2 less cards to choose from.The Champ's crown... or a pale imitation?", "description_zh": "在卡牌奖励画面，可供选择的牌数减少 #b2 张。在每回合开始时获得 [E] 。", "flavor": "The Champ's crown... or a pale imitation?", "flavor_en": "The Champ's crown... or a pale imitation?", "flavor_zh": "第一勇士的金冠……或者只是一个拙劣的仿制品？"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 破碎金冠 | `single_source` | [破碎金冠](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523665&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Busted Crown<br>|Image       = BustedCrown.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. Future card rewards have 2 less cards to choose from.<br>|Flavor      = The Champ's crown... or a pale imitation?<br>|GivesToPlayer = Energy<br>}}<br>{{Keyword Infobox|Energy}}<br>{{R|Busted Crown}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After f... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

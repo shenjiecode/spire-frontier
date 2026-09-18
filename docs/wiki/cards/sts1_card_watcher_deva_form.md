@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 天人形态 | `single_source` | [天人形态](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958984&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Deva Form<br>|Image       = Purple-DevaForm.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Rare<br>|Cost        = 3<br>|Description = ({{KW|Ethereal}}.<br>;)At the start of your turn, gain {{Icon|PE}} <br>and increase this gain by 1.<br>}}<br>{{Power Infobox|Deva}}{{Keyword Infobox|Ethereal}}<br>{{C|Deva Form}} is a 3 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Po... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

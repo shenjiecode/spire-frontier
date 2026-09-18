@@ -59,4 +59,4 @@
 | `source.title_text` | 羽化 | `single_source` | [羽化](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536979&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Metamorphosis<br>|Image       = Colorless-Metamorphosis.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 2<br>|Description = Shuffle (3;5) random Attacks into your draw pile. They cost 0 this combat.<br>{{KW|Exhaust}}.<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Metamorphosis}} is a 2 {{Icon|CE}} cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Rare|Rare}} {... | `single_source` | [P3 wiki.gg API batch: card 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Malaise|Escape_Plan|Corpse_Explosion|Capacitor|Crippling_Cloud|After_Image|Sneaky_Strike|Blur|Iron_Wave|Wound|Trip|Exhume|Weave|Expertise|Aggregate|Leap|Flash_of_Steel|Whirlwind|Leg_Sweep|Metamorphosis&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

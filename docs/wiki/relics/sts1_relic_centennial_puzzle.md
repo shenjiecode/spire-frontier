@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "The first time you lose HP each combat, draw 3 cards.Upon solving the puzzle you feel a powerful warmth in your chest.", "flavor": "Upon solving the puzzle you feel a powerful warmth in your chest."} |
+| `effect_json` | {"description_en": "The first time you lose HP each combat, draw 3 cards.Upon solving the puzzle you feel a powerful warmth in your chest.", "description_zh": "你在每场战斗中第一次损伤生命时，抽 #b 张牌。", "flavor": "Upon solving the puzzle you feel a powerful warmth in your chest.", "flavor_en": "Upon solving the puzzle, you feel a powerful warmth in your chest.", "flavor_zh": "解开积木的谜题时，你感到心中有一股强大的暖意。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 百年积木 | `single_source` | [百年积木](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492249&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Centennial Puzzle<br>|Image       = CentennialPuzzle.png<br>|Rarity      = Common<br>|Description = The first time you lose HP each combat, draw 3 cards.<br>|Flavor      = Upon solving the puzzle you feel a powerful warmth in your chest.<br>|GivesToPlayer = Draw<br>|InteractsWith = Lose HP<br>}}<br>{{R|Centennial Puzzle}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

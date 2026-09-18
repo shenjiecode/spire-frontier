@@ -16,6 +16,7 @@
 | `act` | Act 3 |
 | `hp_min` | 300 |
 | `hp_max` | 300 |
+| `ascension_json` | {"base_max": 300, "base_min": 300, "base_raw": "300"} |
 
 ### 行动
 
@@ -32,7 +33,7 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [巨口 / The Maw](../encounters/sts1_encounter_act3_hard_the_maw.md)
 
 ## 来源与核对状态
 
@@ -47,6 +48,7 @@
 | `game.monster.dialog` | ["@呜嗷嗷啊嗷！！@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"base_max": 300, "base_min": 300, "base_raw": "300"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Drool` | {"effect": "Gains (3;5) Strength.", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Nom Nom` | {"effect": "Deals 5×N damage. N = Current turn, divided by two (rounded up).", "intent": "Attack2"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Roar` | {"effect": "Applies (3;5) Weak and (3;5) Frail.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -56,4 +58,4 @@
 | `source.title_text` | 巨口 | `single_source` | [巨口](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438054&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Maw<br>|Image  = Maw.png<br>|HP     = 300<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>The Maw is a normal [[Monsters|Enemy]] found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|The Maw}}<br>{{Intents Table/row<br>|Name   = Roar<br>|Intent = DebuffStrong<br>|Effect = Applies (3;{{Asc|17|5}}) {{BD|Weak}} and (3;{{Asc|17|5}}) {{BD|Frail}}.}}<br>{{Intents Table/row<br>|Name   = Slam<br>|Intent = Attack6<br>|Effect = Deals (25;{{Asc|2|... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Upon pickup, obtain 1 Potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 card. Upgrade 1 random card.\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect", "flavor": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect"} |
+| `effect_json` | {"description_en": "Upon pickup, obtain 1 Potion. Gain 50 Gold. Raise your Max HP by 5. Obtain 1 card. Upgrade 1 random card.\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect", "description_zh": "拾起时，获得 #b1 瓶药水。 NL 获得 #b  #y金币 。 NL 将你的最大生命值提升 #b 。 NL 获得 #b1 张牌。 NL 随机升级 #b1 张牌。小小的屋子！", "flavor": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect", "flavor_en": "\"A near perfect implementation of miniaturization. My finest work to date, but still not adequate.\" - The Architect", "flavor_zh": "“一项近乎完美的微缩化工程。这是我至今最优秀的作品，但仍然远远不够。”——建筑师"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 小屋子 | `single_source` | [小屋子](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525823&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Tiny House<br>|Image       = TinyHouse.png<br>|Rarity      = Boss<br>|Description = Upon pickup, obtain 1 [[Potions|Potion]]. <br>Gain 50 [[Gold]]. <br>Raise your Max HP by 5. <br>Obtain 1 card. <br>{{KW|Upgrade}} 1 random card.<br>|Flavor      = "A near perfect implementation of miniaturization. My finest work to date, but still not adequate." - The Architect<br>}}<br>{{R|Tiny House}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. The "obtain 1 card" ... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

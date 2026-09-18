@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `3.0` | Take an extra turn after this one. End your turn. Exhaust. | 未采集 | 未保存 |
-| `Upgraded` | `2.0` | Take an extra turn after this one. End your turn. Exhaust. | 未采集 | 未保存 |
+| `Base` | `3.0` | Take an extra turn after this one. End your turn. Exhaust. | 在本回合结束后，额外获得1回合。结束你的回合。消耗。 | 未保存 |
+| `Upgraded` | `2.0` | Take an extra turn after this one. End your turn. Exhaust. | 在本回合结束后，额外获得1回合。结束你的回合。消耗。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | 3 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 2 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Take an extra turn after this one. End your turn. Exhaust. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Take an extra turn after this one. End your turn. Exhaust. | `provisional` | [腾跃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667121&wiki_id=646570) |
 | `card.description (upgrade)` | Take an extra turn after this one. End your turn. Exhaust. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Take an extra turn after this one. End your turn. Exhaust. | `provisional` | [腾跃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667121&wiki_id=646570) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Exhaust"] | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 腾跃 | `single_source` | [腾跃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667121&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Vault<br>|Image       = Purple-Vault.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = 3<br>|CostPlus    = 2<br>|Description = Take an extra turn after this one. <br>End your turn. <br>{{KW|Exhaust}}.<br>}} <br>{{Keyword Infobox|Exhaust}}<br>{{C|Vault}} is a 3 (2 if upgraded) {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Skill}} Card. It en... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Future card rewards have 1 additional card to choose from.\"Those with more choices minimize the downside to chaos.\" - Kublai the Great", "flavor": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great"} |
+| `effect_json` | {"description_en": "Future card rewards have 1 additional card to choose from.\"Those with more choices minimize the downside to chaos.\" - Kublai the Great", "description_zh": "在选奖励牌时，可供选择的牌数增加 #b1 张。（拾起时同一窗口中的奖励牌不受影响）", "flavor": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great", "flavor_en": "\"Those with more choices minimize the downside to chaos.\" - Kublai the Great", "flavor_zh": "“选择多，则不受其乱。”——忽必烈大帝"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 问号牌 | `single_source` | [问号牌](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493840&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Question Card<br>|Image       = QuestionCard.png<br>|Rarity      = Uncommon<br>|Description = Future card rewards have 1 additional card to choose from.<br>|Flavor      = "Those with more choices minimize the downside to chaos." - Kublai the Great<br>}}<br>{{R|Question Card}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Chest]]. ... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

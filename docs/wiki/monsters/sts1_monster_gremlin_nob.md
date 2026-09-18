@@ -15,8 +15,8 @@
 | `category` | elite |
 | `act` | Act 1 |
 | `hp_min` | 82 |
-| `hp_max` | 82 |
-| `ascension_json` | {"asc_hp": 85} |
+| `hp_max` | 86 |
+| `ascension_json` | {"ascension_max": 90, "ascension_min": 85, "ascension_raw": "85-90", "base_max": 86, "base_min": 82, "base_raw": "82-86"} |
 
 ### 行动
 
@@ -47,6 +47,7 @@
 | `game.monster.dialog` | ["@啊嗷嗷呜嗷！！@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Skull Bash", "Bull Rush"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["颅骨重击", "蛮牛冲撞"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 90, "ascension_min": 85, "ascension_raw": "85-90", "base_max": 86, "base_min": 82, "base_raw": "82-86"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Bellow` | {"effect": "Gains (2;3) Enrage.", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Bull Rush` | {"effect": "Deals (14;16) damage.", "intent": "Attack3"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Skull Bash` | {"effect": "Deals (6;8) damage. Applies 2 Vulnerable.", "intent": "DebuffAttack2"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -55,4 +56,4 @@
 | `source.title_text` | 地精大块头 | `single_source` | [地精大块头](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421612&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>| Name   = Gremlin Nob<br>| Image  = GremlinNob.png<br>| HP     = 82-86<br>| AscHP  = 85-90<br>| Debut  = Act 1<br>| Type   = Elite<br>}} <br>{{Power Infobox<br>| Name         = Enrage<br>| Image        = Icon Anger.png<br>| Description  = Whenever you play a {{QueryLink|Cards|type:Skill|Skill}} card, gains X {{BD|Strength}}.<br>| Type         = Buff<br>| Stacks       = Intensity<br>| BetweenTurns = <br>| Cap          = <br>| GivesToEnemy = Strength<br>}}<br>'''Gremlin Nob'... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

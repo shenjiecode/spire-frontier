@@ -59,4 +59,4 @@
 | `source.title_text` | 亮剑 | `single_source` | [亮剑](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536415&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Flash of Steel<br>|Image       = Colorless-FlashofSteel.png<br>|Color       = Colorless<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Deal (3;6) damage.<br>Draw 1 card.<br>|Keywords    = Draw<br>}}<br>{{C|Flash of Steel}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals ... | `single_source` | [P3 wiki.gg API batch: card 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Malaise|Escape_Plan|Corpse_Explosion|Capacitor|Crippling_Cloud|After_Image|Sneaky_Strike|Blur|Iron_Wave|Wound|Trip|Exhume|Weave|Expertise|Aggregate|Leap|Flash_of_Steel|Whirlwind|Leg_Sweep|Metamorphosis&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

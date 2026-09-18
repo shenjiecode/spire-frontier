@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 先见之明 | `single_source` | [先见之明](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9532355&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Foresight<br>|Image       = Purple-Foresight.png<br>|Color       = Purple<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = At the start of your turn, {{KW|Scry}} (3;4).<br>}}<br>{{Power Infobox|Foresight}} {{Keyword Infobox|Scry}}<br>{{C|Foresight}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Power|Power}} Card. It gives 3 (4 if upgr... | `single_source` | [P3 wiki.gg API batch: card 16](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Curse_of_the_Bell|Rebound|Rainbow|Fear_No_Evil|Foresight|Mind_Blast|Doom_and_Gloom|Clash|Apparition|Recursion|Heatsinks|Finisher|Flying_Sleeves|Tantrum|Slice|Phantasmal_Killer|Sands_of_Time|Clumsy|Bane|Brilliance&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

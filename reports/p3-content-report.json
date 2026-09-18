@@ -1,14 +1,14 @@
 {
-  "run_id": "run.p3.20260918T042036Z",
+  "run_id": "run.p3.20260918T100445Z",
   "status": "success",
-  "parser_version": "kb-p3-content/0.1",
-  "started_at": "2026-09-18T04:20:36+00:00",
+  "parser_version": "kb-p3-content/0.2",
+  "started_at": "2026-09-18T10:04:45+00:00",
   "scope": {
     "kinds": [
-      "monster"
+      "event"
     ],
     "languages": [
-      "zh-CN"
+      "en"
     ],
     "limit_per_kind": null,
     "game": "sts1"
@@ -36,9 +36,9 @@
       "failed": 0
     },
     "event": {
-      "fetched": 0,
-      "parsed": 0,
-      "structured": 0,
+      "fetched": 51,
+      "parsed": 51,
+      "structured": 51,
       "merged": 0,
       "failed": 0
     },
@@ -115,10 +115,10 @@
       "failed": 0
     },
     "monster": {
-      "fetched": 45,
-      "parsed": 45,
+      "fetched": 0,
+      "parsed": 0,
       "structured": 0,
-      "merged": 43,
+      "merged": 0,
       "failed": 0
     },
     "status": {
@@ -290,22 +290,35 @@
     }
   },
   "counts": {
-    "entities": 1054,
-    "names": 3751,
-    "claims": 17606,
-    "relations": 324,
+    "sources": 3,
+    "source_pages": 934,
+    "entities": 1122,
+    "names": 3758,
+    "claims": 18544,
+    "relations": 425,
+    "resolutions": 3256,
+    "entity_variants": 722,
+    "card_variants": 722,
+    "monster_moves": 268,
+    "event_options": 144,
+    "encounter_members": 75,
+    "assets": 21,
+    "entity_assets": 20,
     "cards": 422,
     "relics": 180,
     "potions": 42,
-    "monsters": 61,
-    "encounters": 1,
+    "monsters": 91,
+    "encounters": 39,
     "events": 55,
     "statuses": 182,
+    "keywords": 55,
     "mechanics": 25,
     "inventory_items": 1719,
     "inventory_mappings": 816,
+    "strategy_notes": 0,
+    "strategy_links": 0,
     "inventory_csv": 1719,
-    "entity_name_mapping": 1054
+    "entity_name_mapping": 1122
   },
-  "finished_at": "2026-09-18T04:20:48+00:00"
+  "finished_at": "2026-09-18T10:04:48+00:00"
 }

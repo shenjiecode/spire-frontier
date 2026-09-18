@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Upon pickup, gain 2 Potion slots.I can hold more Potions using this belt!", "flavor": "I can hold more Potions using this belt!"} |
+| `effect_json` | {"description_en": "Upon pickup, gain 2 Potion slots.I can hold more Potions using this belt!", "description_zh": "拾起时，获得 #b2 个药水栏位。", "flavor": "I can hold more Potions using this belt!", "flavor_en": "I can hold more Potions using this belt!", "flavor_zh": "穿上这条腰带，我就能携带更多药水！"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 药水腰带 | `single_source` | [药水腰带](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492813&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Potion Belt<br>|Image       = PotionBelt.png<br>|Rarity      = Common<br>|Description = Upon pickup, gain 2 [[Potions|Potion]] slots.<br>|Flavor      = I can hold more Potions using this belt!<br>}}<br>{{R|Potion Belt}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. Immediately on pick up, the player will gain 2 [[Potions|potion]] slots, resulting in a total of 5 ({{Asc|11|4}}) slots instead of the usual 3 ({{Asc|11|2}}... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

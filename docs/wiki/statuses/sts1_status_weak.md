@@ -14,7 +14,7 @@
 | --- | --- |
 | `polarity` | negative |
 | `affects` | player or enemy |
-| `stacking` | additive |
+| `stacking` | Duration |
 | `trigger_timing` | attack damage calculation |
 | `removal` | turn/explicit effect |
 
@@ -24,7 +24,7 @@
 
 ## 被哪些条目引用
 
-- `applies_status` → [虚弱药水 / Weak Potion](../potions/sts1_potion_weak.md) 
+- `applies_status` → [虚弱药水 / Weak Potion](../potions/sts1_potion_weak.md)
 
 ## 来源与核对状态
 
@@ -43,5 +43,6 @@
 | `source.title_text` | 虚弱 | `single_source` | [虚弱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501547&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Power Infobox<br>|Name         = Weak<br>|Image        = Icon Weak.png<br>|Description  = Attacks deal 25% less damage for X turns.<br>|Type         = Debuff<br>|Stacks       = Duration<br>|BetweenTurns = <br>|Cap          = <br>}}<br>{{BD|Weak}} is a [[Debuff]] that reduces the damage of {{QueryLink|Cards|type:Attack|Attack}} cards and enemy [[Intent|Intents]] by 25% (typically).<br><br>Each point of {{BD|Weak}} increases how many turns the debuff is active fo... | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | Attacks deal 25% less damage for X turns. | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 攻击 造成的伤害减少 25% 。持续时间 X 回合。 | `single_source` | [虚弱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501547&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:46+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

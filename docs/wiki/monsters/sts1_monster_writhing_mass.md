@@ -16,7 +16,7 @@
 | `act` | Act 3 |
 | `hp_min` | 160 |
 | `hp_max` | 160 |
-| `ascension_json` | {"asc_hp": 175} |
+| `ascension_json` | {"ascension_max": 175, "ascension_min": 175, "ascension_raw": "175", "base_max": 160, "base_min": 160, "base_raw": "160"} |
 
 ### 行动
 
@@ -24,7 +24,7 @@
 | --- | --- | ---: | ---: | --- |
 | Block Attack | DefendAttack4 | 15 |  | {"text": "Deals (15;16) damage. Gains 16 Block."} |
 | Big Hit | Attack7 | 32 |  | {"text": "Deals (32;38) damage."} |
-| Multi Hit | Attack5 | 7 |  | {"text": "Deals (7×3;9×3) damage."} |
+| Multi Hit | Attack5 | 7 | 3 | {"text": "Deals (7×3;9×3) damage."} |
 | Parasite | DebuffStrong |  |  | {"text": "Permanently adds a Parasite to your deck."} |
 | Debuff Attack | DebuffAttack3 | 10 |  | {"text": "Deals (10;12) damage. Applies 2 Weak and 2 Vulnerable."} |
 
@@ -34,7 +34,7 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [扭曲团块 / Writhing Mass](../encounters/sts1_encounter_act3_hard_writhing_mass.md)
 
 ## 来源与核对状态
 
@@ -49,6 +49,7 @@
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 175, "ascension_min": 175, "ascension_raw": "175", "base_max": 160, "base_min": 160, "base_raw": "160"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Big Hit` | {"effect": "Deals (32;38) damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Block Attack` | {"effect": "Deals (15;16) damage. Gains 16 Block.", "intent": "DefendAttack4"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Debuff Attack` | {"effect": "Deals (10;12) damage. Applies 2 Weak and 2 Vulnerable.", "intent": "DebuffAttack3"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -59,4 +60,4 @@
 | `source.title_text` | 扭曲团块 | `single_source` | [扭曲团块](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438466&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Writhing Mass<br>|Image  = WrithingMass.png<br>|HP     = 160<br>|AscHP  = 175<br>|Powers = {{BD|Malleable}} 4 <br> {{BD|Reactive}}<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Malleable}} <br>{{Power Infobox<br>|Name         = Reactive<br>|Image        = Icon Reactive.png<br>|Description  = Upon receiving attack damage, changes its [[Intent]].<br>|Type         = Buff<br>|Stacks       = Does not stack<br>|BetweenTurns = <br>|Cap          = <br>}}... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

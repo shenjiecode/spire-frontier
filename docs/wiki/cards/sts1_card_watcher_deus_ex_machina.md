@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `未知` | Unplayable. When you draw this card, add 2 Miracles to your hand and Exhaust. | 未采集 | 未保存 |
-| `Upgraded` | `未知` | Unplayable. When you draw this card, add 3 Miracles to your hand and Exhaust. | 未采集 | 未保存 |
+| `Base` | `未知` | Unplayable. When you draw this card, add 2 Miracles to your hand and Exhaust. | 不能被打出。当你抽到这张牌时，在你的手牌中加入2张奇迹，然后消耗 | 未保存 |
+| `Upgraded` | `未知` | Unplayable. When you draw this card, add 3 Miracles to your hand and Exhaust. | 不能被打出。当你抽到这张牌时，在你的手牌中加入3张奇迹，然后消耗。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | Unplayable | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | Unplayable | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Unplayable. When you draw this card, add 2 Miracles to your hand and Exhaust. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Unplayable. When you draw this card, add 2 Miracles to your hand and Exhaust. | `provisional` | [机械降神](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667110&wiki_id=646570) |
 | `card.description (upgrade)` | Unplayable. When you draw this card, add 3 Miracles to your hand and Exhaust. | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Unplayable. When you draw this card, add 3 Miracles to your hand and Exhaust. | `provisional` | [机械降神](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667110&wiki_id=646570) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Draw", "Exhaust", "Hand", "Unplayable"] | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 机械降神 | `single_source` | [机械降神](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667110&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Deus Ex Machina<br>|Image       = Purple-DeusExMachina.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = -2<br>|Description = {{KW|Unplayable}}. <br>When you draw this card, add (2;3) {{C|Miracle|Miracles}} to your hand and {{KW|Exhaust}}.<br>|Keywords    = Draw, Hand<br>}}<br>{{Small Card Infobox|Miracle}}<br>{{C|Deus Ex Machina}} is an unplayable {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Rar... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

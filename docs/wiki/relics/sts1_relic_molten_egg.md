@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Whenever you add an Attack card to your deck, Upgrade it.The egg of a Phoenix. It glows red hot with a simmering lava.", "flavor": "The egg of a Phoenix. It glows red hot with a simmering lava."} |
+| `effect_json` | {"description_en": "Whenever you add an Attack card to your deck, Upgrade it.The egg of a Phoenix. It glows red hot with a simmering lava.", "description_zh": "每当你获得 #y攻击牌 时，将其 #y升级 。", "flavor": "The egg of a Phoenix. It glows red hot with a simmering lava.", "flavor_en": "The egg of a Phoenix. It glows red hot with a simmering lava.", "flavor_zh": "凤凰的蛋，可以看到有岩浆在滋滋发热，红得发烫。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 熔火之蛋 | `single_source` | [熔火之蛋](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493826&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Molten Egg<br>|Image       = MoltenEgg2.png<br>|Rarity      = Uncommon<br>|Description = Whenever you add an {{QueryLink|Cards|type:Attack|Attack}} card to your deck, {{KW|Upgrade}} it.<br>|Flavor      = The egg of a Phoenix. It glows red hot with a simmering lava.<br>|Keywords    = Deck<br>}}<br>{{Keyword Infobox|Upgrade}}{{R|Molten Egg}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

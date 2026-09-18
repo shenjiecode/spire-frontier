@@ -1,0 +1,12 @@
+Slay the Spire 1 — Merchant
+
+The Shop is a Map Location where Cards, Relics, Potions and a Remove can be obtained in exchange for Gold. Shops can also sometimes be found in Unknown rooms. Ascension 16 makes prices 10% more expensive.
+
+Items
+5 Colored Cards: always 2 Attacks, 2 Skills and 1 Power; one random card has a 50% discount.
+2 Colorless Cards: always one Uncommon and one Rare Colorless card.
+3 Potions.
+3 Relics: the rightmost slot is always a Shop Relic, the only way to access Shop relics.
+Card Removal Service: can be used once per Shop; starts at 75 Gold and increases by 25 each time it is bought at a shop.
+
+Relic interactions include Smiling Mask, Membership Card, Maw Bank, The Courier and Meal Ticket. The current page records separate Ascension-16 prices and restock rules; those values are retained as English-source claims rather than overwritten by the Chinese article's rounded ranges.

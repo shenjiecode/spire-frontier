@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Upgrade all cards in your hand for the rest of combat.", "flavor": ""} |
+| `effect_json` | {"description_en": "Upgrade all cards in your hand for the rest of combat.", "description_zh": "在本场战斗中升级手牌中的所有牌。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 熔炉的祝福 | `single_source` | [熔炉的祝福](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9516986&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name = Blessing of the Forge<br>|Sequel = 1<br>|Image = BlessingoftheForge.png<br>|Rarity = Common<br>|Description = {{KW|Upgrade}} all cards in your hand for the rest of combat.<br>|GivesToPlayer = Upgrade<br>}}<br>{{Keyword Infobox|Upgrade}}<br>{{P|Blessing of the Forge}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br><!-- Include ... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

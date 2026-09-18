@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "Whenever you exit Calm, gain an additional Energy.The old texts describe that the surface of \"mana pools\" were littered with these flowers.", "flavor": "The old texts describe that the surface of \"mana pools\" were littered with these flowers."} |
+| `effect_json` | {"description_en": "Whenever you exit Calm, gain an additional Energy.The old texts describe that the surface of \"mana pools\" were littered with these flowers.", "description_zh": "每次你离开 #y平静 时，获得一点额外 [E] 。", "flavor": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.", "flavor_en": "The old texts describe that the surface of \"mana pools\" were littered with these flowers.", "flavor_zh": "远古的经书上记载着，“法力池”的水面上总是有许多这些花朵。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 紫色莲花 | `single_source` | [紫色莲花](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9534044&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Violet Lotus<br>|Image       = VioletLotus.png<br>|Rarity      = Boss<br>|Character   = Watcher<br>|Description = Whenever you exit {{KW|Calm}}, gain an additional {{KW|Energy}}.<br>|Flavor      = The old texts describe that the surface of "mana pools" were littered with these flowers.<br>}}<br>{{Keyword Infobox|Calm}}{{Keyword Infobox|Energy}}{{R|Violet Lotus}} is a {{QueryLink|Relics|character:Watcher|Watcher-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss}... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

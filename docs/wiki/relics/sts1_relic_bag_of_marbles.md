@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "At the start of each combat, apply 1 Vulnerable to ALL enemies.A once popular toy in the City. Useful for throwing enemies off balance.", "flavor": "A once popular toy in the City. Useful for throwing enemies off balance."} |
+| `effect_json` | {"description_en": "At the start of each combat, apply 1 Vulnerable to ALL enemies.A once popular toy in the City. Useful for throwing enemies off balance.", "description_zh": "在每场战斗开始时，给予所有敌人 #b 层 #y易伤 。", "flavor": "A once popular toy in the City. Useful for throwing enemies off balance.", "flavor_en": "A once popular toy in the City. Useful for throwing enemies off balance.", "flavor_zh": "曾经这在城市区是流行的玩具，现在你可以用它让敌人们失去平衡。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 弹珠袋 | `single_source` | [弹珠袋](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492257&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Bag of Marbles<br>|Image       = BagofMarbles.png<br>|Rarity      = Common<br>|Description = At the start of each combat, apply 1 {{BD|Vulnerable}} to ALL enemies.<br>|Flavor      = A once popular toy in the City. Useful for throwing enemies off balance.<br>|GivesToEnemy = Vulnerable<br>}}<br>{{Power Infobox|Vulnerable}}{{R|Bag of Marbles}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be ... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

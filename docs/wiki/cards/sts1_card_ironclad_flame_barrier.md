@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 火焰屏障 | `single_source` | [火焰屏障](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408701&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Flame Barrier<br>|Image       = Red-FlameBarrier.png<br>|Color       = Red<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 2<br>|Description = Gain (12;16) {{KW|Block}}.<br>Whenever you are attacked this turn, deal (4;6) damage back.<br>|GivesToPlayer = Flame Barrier, Block<br>}}<br>{{Power Infobox|Flame Barrier}} {{Keyword Infobox|Block}}<br>{{C|Flame Barrier}} is a 2 {{Icon|RE}}-cost {{QueryLink|Cards|color:R... | `single_source` | [P3 wiki.gg API batch: card 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shame|Perfected_Strike|Pommel_Strike|Alchemize|Shockwave|Overclock|Accuracy|Alpha|Ritual_Dagger|Carve_Reality|Slimed|Bullet_Time|Poisoned_Stab|Inner_Peace|Pride|Thunderclap|Mental_Fortress|Sweeping_Beam|Searing_Blow|Flame_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

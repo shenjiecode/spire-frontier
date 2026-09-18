@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 残影 | `single_source` | [残影](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494857&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>|Name        = Blur<br>|Image       = Green-Blur.png<br>|Color       = Green<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Gain (5;8) {{KW|Block}}.<br>{{KW|Block}} is not removed at the start of your next turn.<br>|GivesToPlayer = Block, Blur<br>}}<br>{{Power Infobox<br>|Name         = Blur<br>|Image        = Icon Blur.png<br>|Description  = {{KW|Block}} is not removed at the beginning of your next X tu... | `single_source` | [P3 wiki.gg API batch: card 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Malaise|Escape_Plan|Corpse_Explosion|Capacitor|Crippling_Cloud|After_Image|Sneaky_Strike|Blur|Iron_Wave|Wound|Trip|Exhume|Weave|Expertise|Aggregate|Leap|Flash_of_Steel|Whirlwind|Leg_Sweep|Metamorphosis&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Upon pickup, Transform all Strike and Defend cards.You have a bad feeling about opening this.", "flavor": "You have a bad feeling about opening this."} |
+| `effect_json` | {"description_en": "Upon pickup, Transform all Strike and Defend cards.You have a bad feeling about opening this.", "description_zh": "#b变化 所有“打击”和“防御”牌。潘多拉的魔盒已经打开了……", "flavor": "You have a bad feeling about opening this.", "flavor_en": "You have a bad feeling about opening this.", "flavor_zh": "你觉得打开这个盒子会很不吉利。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 潘多拉的魔盒 | `single_source` | [潘多拉的魔盒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523664&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Pandora's Box<br>|Image       = PandorasBox.png<br>|Rarity      = Boss<br>|Description = Upon pickup, {{KW|Transform}} all Strike and Defend cards.<br>|Flavor      = You have a bad feeling about opening this.<br>}}<br>{{Keyword Infobox|Transform}}{{R|Pandora's Box}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Pandora's Box}}... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

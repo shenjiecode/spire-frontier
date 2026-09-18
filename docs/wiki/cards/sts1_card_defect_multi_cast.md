@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 多重释放 | `single_source` | [多重释放](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495548&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Multi-Cast<br>|Image       = Blue-Multi-Cast.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = -1<br>|Description = {{KW|Evoke}} your next Orb (X;X+1) times.<br>}}<br>{{C|Multi-Cast}} is an X {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Skill}} Card.<br><br>== Interactions ==<br>=== Order ===<br>* If {{KW|Plasma|Pla... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

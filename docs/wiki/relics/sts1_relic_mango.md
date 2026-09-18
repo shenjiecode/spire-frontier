@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 14.The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.", "flavor": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight."} |
+| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 14.The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.", "description_zh": "拾起时，将你的最大生命值提升 #b", "flavor": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.", "flavor_en": "The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.", "flavor_zh": "在众多被遗忘的水果中最令人垂涎的一种。被完美地保存了下来，没有任何受到高塔荒疫影响的迹象。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 芒果 | `single_source` | [芒果](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515873&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Mango<br>|Image       = Mango.png<br>|Rarity      = Rare<br>|Description = Upon pickup, raise your Max HP by 14.<br>|Flavor      = The most coveted forgotten fruit. Impeccably preserved with no signs of Spireblight.<br>}}<br>{{R|Mango}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Medium Chest]] or [[Large Che... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

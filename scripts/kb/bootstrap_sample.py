@@ -905,13 +905,36 @@ def export_data(conn: sqlite3.Connection) -> dict[str, int]:
     export_dir = ROOT / "data" / "exports"
     export_dir.mkdir(parents=True, exist_ok=True)
     counts: dict[str, int] = {}
-    for table in ("entities", "names", "claims", "relations", "cards", "relics", "potions", "monsters", "encounters", "events", "statuses", "mechanics", "inventory_items", "inventory_mappings"):
+    # Export both entity tables and their structured child tables.  The latter
+    # are needed to rebuild card variants, enemy moves, event branches and
+    # encounter membership without relying on the SQLite binary alone.
+    for table in (
+        "sources", "source_pages", "entities", "names", "claims", "relations", "resolutions",
+        "entity_variants", "card_variants", "monster_moves", "event_options",
+        "encounter_members", "assets", "entity_assets",
+        "cards", "relics", "potions", "monsters", "encounters", "events",
+        "statuses", "keywords", "mechanics", "inventory_items", "inventory_mappings",
+        "strategy_notes", "strategy_links",
+    ):
         rows = conn.execute(f"SELECT * FROM {table} ORDER BY 1").fetchall()
         columns = [d[0] for d in conn.execute(f"SELECT * FROM {table} LIMIT 0").description]
         path = export_dir / f"{table}.jsonl"
+        serialized = [
+            json.dumps(dict(zip(columns, row)), ensure_ascii=False, sort_keys=True)
+            for row in rows
+        ]
         with path.open("w", encoding="utf-8", newline="\n") as fh:
-            for row in rows:
-                fh.write(json.dumps(dict(zip(columns, row)), ensure_ascii=False, sort_keys=True) + "\n")
+            for line in serialized:
+                fh.write(line + "\n")
+        # ``inventory.jsonl`` was the original P2 export name and is linked
+        # from older generated pages.  Keep it as a compatibility alias, but
+        # always regenerate it from the same rows as the canonical
+        # ``inventory_items.jsonl`` export so it cannot become stale after a
+        # P3/P4 rebuild.
+        if table == "inventory_items":
+            legacy_path = export_dir / "inventory.jsonl"
+            legacy_path.write_text("\n".join(serialized) + ("\n" if serialized else ""), encoding="utf-8")
+            counts["inventory_jsonl"] = len(rows)
         counts[table] = len(rows)
 
     # ``fetch_p3.py`` updates inventory status in place.  Keep the human-facing

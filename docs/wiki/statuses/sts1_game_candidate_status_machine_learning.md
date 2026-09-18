@@ -33,5 +33,6 @@
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Machine Learning", "kind": "status", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["At the start of your turn, draw #b", " additional card.", " additional cards."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["在每回合开始时额外抽 #b", " 张牌。", " 张牌。"] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
+| `mapping.cross_source.game_local` | {"english_wiki_entity": false, "game_entity_id": "sts1.game.candidate.status.machine_learning", "game_key": "Machine Learning", "kind": "status", "review": "source_text_and_installed_localization", "zh_article_id": "15448778", "zh_url": "https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570"} | `agreed` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

@@ -14,7 +14,7 @@
 | --- | --- |
 | `polarity` | positive |
 | `affects` | player |
-| `stacking` | additive |
+| `stacking` | Intensity |
 | `trigger_timing` | attack damage calculation |
 | `removal` | end of combat or explicit effect |
 
@@ -44,7 +44,8 @@
 | `source.title_text` | 力量 | `single_source` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Power Infobox<br>|Name         = Strength<br>|Image        = Icon Strength.png<br>|Description  = Increases attack damage by X.<br>|Type         = Buff<br>|Stacks       = Intensity<br>|BetweenTurns = <br>|Cap          = <br>}}<br>{{BD|Strength}} is a [[Buff]] that increases the damage of {{QueryLink|Cards|type:Attack|Attack cards}} and  enemy [[Intent|Intents]].<br><br>Each point of {{BD|Strength}} increases the damage of an attack by 1. Attacks that hit multipl... | `single_source` | [P3 wiki.gg API batch: status 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Strength|Buffs|Strength|Debuffs|Buffs|Plated_Armor|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | Increases attack damage by X. | `single_source` | [P3 wiki.gg API batch: status 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Strength|Buffs|Strength|Debuffs|Buffs|Plated_Armor|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 攻击伤害提升 X点 。 | `single_source` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 | `status.description.en` | Increases attack damage by #b. | `provisional` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 | `status.description.zh` | 攻击伤害提升 X 点。 | `provisional` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

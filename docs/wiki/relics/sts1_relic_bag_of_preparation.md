@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "At the start of each combat, draw 2 additional cards.Oversized adventurer's pack. Has many pockets and straps.", "flavor": "Oversized adventurer's pack. Has many pockets and straps."} |
+| `effect_json` | {"description_en": "At the start of each combat, draw 2 additional cards.Oversized adventurer's pack. Has many pockets and straps.", "description_zh": "在每场战斗开始时，额外抽 #b 张牌。", "flavor": "Oversized adventurer's pack. Has many pockets and straps.", "flavor_en": "Oversized adventurer's pack. Has many pockets and straps.", "flavor_zh": "冒险者专用的超大号背包，有很多口袋和皮带。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 准备背包 | `single_source` | [准备背包](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492819&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Bag of Preparation<br>|Image       = BagofPreparation.png<br>|Rarity      = Common<br>|Description = At the start of each combat, draw 2 additional cards.<br>|Flavor      = Oversized adventurer's pack. Has many pockets and straps.<br>|GivesToPlayer = Draw<br>}}<br>{{R|Bag of Preparation}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

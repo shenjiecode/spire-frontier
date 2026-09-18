@@ -59,4 +59,4 @@
 | `source.title_text` | J.A.X. | `single_source` | [J.A.X.](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=534179&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = J.A.X.<br>|Image       = Colorless-J.A.X..png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Special<br>|Cost        = 0<br>|Description = Lose 3 HP.<br>Gain (2;3) {{BD|Strength}}.<br>}}<br>{{Power Infobox|Strength}}<br>{{C|J.A.X.}} is a 0 {{Icon|CE}} cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Special|Special}} {{QueryLink|Cards|type:Skill|Skill}} Card. It costs 3 HP to play, and gives 2 (3 if upgraded) {... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

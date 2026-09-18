@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 灵动步法 | `single_source` | [灵动步法](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495061&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Footwork<br>|Image       = Green-Footwork.png<br>|Color       = Green<br>|Type        = Power<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Gain (2;3) {{BD|Dexterity}}.<br>}}<br>{{Power Infobox|Dexterity}}{{C|Footwork}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Power|Power}} Card. It gives 2 (3 if upgraded) {{BD|Dexterity}}.<... | `single_source` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -20,7 +20,7 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `未知` | Unplayable.At the end of your turn, take 2 damage. | 未采集 | 未保存 |
+| `Base` | `未知` | Unplayable.At the end of your turn, take 2 damage. | 不能被打出。在你回合结束时，你受到2点伤害。 | 未保存 |
 | `Upgraded` | `未知` | Unplayable.At the end of your turn, take 4 damage. | 不能被打出。在你回合结束时，你受到2点伤害。 | 未保存 |
 
 ## 相关条目
@@ -58,4 +58,4 @@
 | `source.title_text` | 灼伤 | `single_source` | [灼伤](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536408&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Burn<br>|Image       = Colorless-Burn.png<br>|Color       = Colorless<br>|Type        = Status<br>|Rarity      = Status<br>|Cost        = -2<br>|Description = {{KW|Unplayable}}.<br>At the end of your turn, take (2;4) damage.<br>|GivesToPlayer = Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Burn}} is an {{KW|Unplayable}} {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|Common:Common|Common}} {{QueryLink|Ca... | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "At the end of your turn, you no longer discard your hand.The runes are indecipherable.", "flavor": "The runes are indecipherable."} |
+| `effect_json` | {"description_en": "At the end of your turn, you no longer discard your hand.The runes are indecipherable.", "description_zh": "你在回合结束时不再自动丢弃所有手牌。", "flavor": "The runes are indecipherable.", "flavor_en": "The runes are indecipherable.", "flavor_zh": "上面的符文无法辨识。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 符文金字塔 | `single_source` | [符文金字塔](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523654&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Runic Pyramid<br>|Image       = RunicPyramid.png<br>|Rarity      = Boss<br>|Description = At the end of your turn, you no longer discard your hand.<br>|Flavor      = The runes are indecipherable.<br>|Keywords    = Discard, Hand<br>}}<br>{{R|Runic Pyramid}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Runic Pyramid}} can be of... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

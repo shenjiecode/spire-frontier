@@ -55,4 +55,4 @@
 | `source.title_text` | 凡庸 | `single_source` | [凡庸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537285&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Normality<br>| Image       = Curse-Normality.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>While in hand, you cannot play more than 3 cards this turn.<br>| GivesToPlayer = Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Normality}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. While it is in your hand, ... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

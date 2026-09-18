@@ -59,4 +59,4 @@
 | `source.title_text` | 应急按钮 | `single_source` | [应急按钮](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536590&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Panic Button<br>|Image       = Colorless-PanicButton.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Gain (30;40) {{KW|Block}}. You cannot gain {{KW|Block}} from cards for 2 turns.<br>{{KW|Exhaust}}.<br>}}<br>{{Keyword Infobox|Block}} {{Power Infobox|No Block}} {{Keyword Infobox|Exhaust}}<br>{{C|Panic Button}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Co... | `single_source` | [P3 wiki.gg API batch: card 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bullseye|Corruption|Expunger|Wave_of_the_Hand|Panic_Button|Scrape|Indignation|Cut_Through_Fate|Hemokinesis|Deflect|Sadistic_Nature|Evaluate|Buffer|Tools_of_the_Trade|Wallop|Blasphemy|Ball_Lightning|Bite|Heel_Hook|Die_Die_Die&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

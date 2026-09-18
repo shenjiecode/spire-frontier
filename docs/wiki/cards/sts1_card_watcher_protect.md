@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 护身 | `single_source` | [护身](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9537855&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Protect<br>|Image       = Purple-Protect.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Common<br>|Cost        = 2<br>|Description = {{KW|Retain}}.<br>Gain (12;16) {{KW|Block}}.<br>}}<br>{{C|Protect}} is a 2 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 12 (16 if upgraded) {{KW|Block}}. It has {{KW|Retain}}, meaning it will not be di... | `single_source` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "At the start of each combat, add a random Power card into your hand. It costs 0 for that turn.The legendary journal of an ancient lich.", "flavor": "The legendary journal of an ancient lich."} |
+| `effect_json` | {"description_en": "At the start of each combat, add a random Power card into your hand. It costs 0 for that turn.The legendary journal of an ancient lich.", "description_zh": "每场战斗开始时增加一张随机 #y能力牌 到你的手牌，这张牌在第一回合的耗能变为 #b0 。", "flavor": "The legendary journal of an ancient lich.", "flavor_en": "The legendary journal of an ancient lich.", "flavor_zh": "一名古老巫妖的传奇日志。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 英雄宝典 | `single_source` | [英雄宝典](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525856&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Enchiridion<br>|Image       = Enchiridion.png<br>|Rarity      = Event<br>|Source      = Cursed Tome<br>|Description = At the start of each combat, add a random {{QueryLink|Cards|type:Power|Power}} card into your hand. It costs 0 for that turn.<br>|Flavor      = The legendary journal of an ancient lich.<br>|Keywords    = Hand<br>}}<br>{{R|Enchiridion}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]].<br><br>== Sources ==<br>Can only be obtained from {{... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

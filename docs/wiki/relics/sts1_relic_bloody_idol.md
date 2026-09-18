@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Whenever you gain Gold, heal 5 HP.The idol now weeps a constant stream of blood.", "flavor": "The idol now weeps a constant stream of blood."} |
+| `effect_json` | {"description_en": "Whenever you gain Gold, heal 5 HP.The idol now weeps a constant stream of blood.", "description_zh": "每当你获得 #y金币 时，回复 #b 点生命。", "flavor": "The idol now weeps a constant stream of blood.", "flavor_en": "The idol now weeps a constant stream of blood.", "flavor_zh": "这个神像现在一直在流着血泪。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 鲜血神像 | `single_source` | [鲜血神像](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525845&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Bloody Idol<br>|Image       = BloodyIdol.png<br>|Rarity      = Event<br>|Source      = Forgotten Altar<br>|Description = Whenever you gain [[Gold]], heal 5 HP.<br>|Flavor      = The idol now weeps a constant stream of blood.<br>}}<br>{{R|Bloody Idol}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]].<br><br>== Sources ==<br>Can only be obtained from {{E|Forgotten Altar}} by selecting the {{Frame|Offer: Golden Idol}} option. {{R|Golden Idol}} must first... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

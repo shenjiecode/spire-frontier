@@ -14,7 +14,7 @@
 | --- | --- |
 | `polarity` | negative |
 | `affects` | player or enemy |
-| `stacking` | additive |
+| `stacking` | Duration |
 | `trigger_timing` | attack damage calculation |
 | `removal` | turn/explicit effect |
 
@@ -43,5 +43,6 @@
 | `source.title_text` | 易伤 | `single_source` | [易伤](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501549&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Power Infobox<br>|Name         = Vulnerable<br>|Image        = Icon Vulnerable.png<br>|Description  = Receive 50% more damage from Attacks for X turns.<br>|Type         = Debuff<br>|Stacks       = Duration<br>|BetweenTurns = <br>|Cap          = <br>}}<br>{{BD|Vulnerable}} is a [[Debuff]] that increases the damage of {{QueryLink|Cards|type:Attack|Attack cards}} and  enemy [[Intent|Intents]] by 50% (typically).<br><br>Each point of {{BD|Vulnerable}} increases how ... | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | Receive 50% more damage from Attacks for X turns. | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 从 攻击 受到的伤害增加 50% .持续 X 回合。 | `single_source` | [易伤](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501549&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

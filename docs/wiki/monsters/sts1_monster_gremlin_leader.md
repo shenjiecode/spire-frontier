@@ -15,14 +15,14 @@
 | `category` | elite |
 | `act` | Act 2 |
 | `hp_min` | 140 |
-| `hp_max` | 140 |
-| `ascension_json` | {"asc_hp": 145} |
+| `hp_max` | 148 |
+| `ascension_json` | {"ascension_max": 155, "ascension_min": 145, "ascension_raw": "145-155", "base_max": 148, "base_min": 140, "base_raw": "140-148"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Stab | Attack4 | 6 |  | {"text": "Deals 6×3 damage."} |
+| Stab | Attack4 | 6 | 3 | {"text": "Deals 6×3 damage."} |
 | Encourage | DefendBuff |  |  | {"text": "All enemies gain (3;4 ; 5) Strength. Other enemies gain (6;10) Block."} |
 | Rally! | Unknown |  |  | {"text": "Summon 2 random Gremlins]."} |
 
@@ -47,6 +47,7 @@
 | `game.monster.dialog` | ["永远别放弃！", "我们还没完呢！", "小的们，给我上！", "@撤退@ NL @撤退啊！@", "@逃命哇！@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | ["Rally!"] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | ["集合！"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 155, "ascension_min": 145, "ascension_raw": "145-155", "base_max": 148, "base_min": 140, "base_raw": "140-148"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Encourage` | {"effect": "All enemies gain (3;4 ; 5) Strength. Other enemies gain (6;10) Block.", "intent": "DefendBuff"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Rally!` | {"effect": "Summon 2 random Gremlins].", "intent": "Unknown"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Stab` | {"effect": "Deals 6×3 damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -55,4 +56,4 @@
 | `source.title_text` | 地精首领 | `single_source` | [地精首领](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15432036&wiki_id=646570) |
 | `source.wikitext` | {{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br><br><br>{{Enemy Infobox<br>|Name   = Gremlin Leader<br>|Image  = GremlinLeader.png<br>|HP     = 140-148<br>|AscHP  = 145-155<br>|Debut  = Act 2<br>|Type   = Elite<br>}}<br>'''Gremlin Leader''' is an [[Elite]] Enemy encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Gremlin Leader}}<br>{{I... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

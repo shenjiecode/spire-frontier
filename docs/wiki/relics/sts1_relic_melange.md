@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Shop |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "Whenever you shuffle your draw pile, Scry 3.Mysterious sands from an unknown origin. Smells of cinnamon.", "flavor": "Mysterious sands from an unknown origin. Smells of cinnamon."} |
+| `effect_json` | {"description_en": "Whenever you shuffle your draw pile, Scry 3.Mysterious sands from an unknown origin. Smells of cinnamon.", "description_zh": "美琅脂\n稀有度\n商店\n角色\n观者\n作用\n你每次将抽牌堆洗牌时，预见3\n说明\n来源不明的神秘沙子，气味有点像肉桂。", "flavor": "Mysterious sands from an unknown origin. Smells of cinnamon.", "flavor_en": "Mysterious sands from an unknown origin. Smells of cinnamon.", "flavor_zh": "来源不明的神秘沙子，气味有点像肉桂。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 美琅脂 | `single_source` | [美琅脂](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959092&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Melange<br>|Image       = Melange.png<br>|Rarity      = Shop<br>|Character   = Watcher<br>|Description = Whenever you shuffle your draw pile, {{KW|Scry}} 3.<br>|Flavor      = Mysterious sands from an unknown origin. Smells of cinnamon.<br>}}<br>{{Keyword Infobox|Scry}}{{R|Melange}} is a {{QueryLink|Relics|character:Watcher|Watcher-exclusive}} {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. O... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

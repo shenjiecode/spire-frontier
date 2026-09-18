@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `polarity` | neutral |
+| `polarity` | negative |
 
 ## 相关条目
 
@@ -36,5 +36,7 @@
 | `source.article_text` | 无法格挡<br>Buffs id: No Block<br>（图片未提供文字说明）<br>Buffs信息<br>效果中文描述<br>你无法从卡牌中获得 格挡 持续X 个回合。<br>效果英文描述<br>You cannot gain Block from cards until the next X turns.<br>类型<br>玩家Debuff<br>持续时间<br>注意<br>大体上来说，此debuff的效果可以理解为暂时性的-999999敏捷。此debuff不影响以下获得格挡的方式：余像、金属化、多层护甲、当头棒喝、无惧疼痛、巩固、冰霜充能球、以手拒之等 | `single_source` | [无法格挡](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454385&wiki_id=646570) |
 | `source.title_text` | 无法格挡 | `single_source` | [无法格挡](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454385&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Template:Under Construction}}<br>{{#setmainimage:Intent_Debuff.png|quiet}}<br>{{TOC limit|2}}<br>See also: [[Buffs]]<br><br>== Stack Types ==<br>{{Hatnote|'''Note:''' These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.}}<br>* '''Intensity Debuffs''' are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat e... | `single_source` | [P3 wiki.gg API batch: status 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | You cannot gain Block from cards until the next X turns. | `single_source` | [P3 wiki.gg API batch: status 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 你无法从卡牌中获得 格挡 持续X 个回合。 | `single_source` | [无法格挡](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454385&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Whenever you play a Power, Attack, and Skill in the same turn, remove all of your debuffs.Made from various fungi found throughout the Spire, they will stave off any affliction.", "flavor": "Made from various fungi found throughout the Spire, they will stave off any affliction."} |
+| `effect_json` | {"description_en": "Whenever you play a Power, Attack, and Skill in the same turn, remove all of your debuffs.Made from various fungi found throughout the Spire, they will stave off any affliction.", "description_zh": "你每在同一回合内打出 #y能力牌 、 #y攻击牌 和 #y技能牌 各一张，移除你身上的所有负面效果。", "flavor": "Made from various fungi found throughout the Spire, they will stave off any affliction.", "flavor_en": "\"Made from various fungi found throughout the Spire, they will stave off any affliction.\"", "flavor_zh": "“用塔里各处真菌做出来的药，包治百病！”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 橙色药丸 | `single_source` | [橙色药丸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494914&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Orange Pellets<br>|Image       = OrangePellets.png<br>|Rarity      = Shop<br>|Description = Whenever you play a {{QueryLink|Cards|type:Power|Power}}, {{QueryLink|Cards|type:Attack|Attack}}, and {{QueryLink|Cards|type:Skill|Skill}} in the same turn, remove all of your [[Debuffs|debuffs]].<br>|Flavor      = Made from various fungi found throughout the Spire, they will stave off any affliction.<br>}}<br>{{R|Orange Pellets}} is a {{QueryLink|Relics|rarity:Shop|Sh... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

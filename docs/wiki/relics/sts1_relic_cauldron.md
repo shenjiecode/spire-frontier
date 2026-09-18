@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "When obtained, brews 5 random potions.The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.", "flavor": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free."} |
+| `effect_json` | {"description_en": "When obtained, brews 5 random potions.The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.", "description_zh": "拾起时，制作 #b5 瓶随机药水。咕嘟咕嘟咕噜……！", "flavor": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.", "flavor_en": "The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.", "flavor_zh": "商人其实是位技术相当不错的药剂师。买四送一。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 大锅 | `single_source` | [大锅](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494832&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Cauldron<br>|Image       = Cauldron.png<br>|Rarity      = Shop<br>|Description = When obtained, brews 5 random [[Potions|potions]].<br>|Flavor      = The Merchant is actually a rather skilled potion brewer. Buy 4 get 1 free.<br>}}<br>{{R|Cauldron}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. Immediately on purchase, it grants the player 5 [[Potions]] in a normal reward screen, similar to the one used after winning a comb... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

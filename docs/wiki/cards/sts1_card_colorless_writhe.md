@@ -55,4 +55,4 @@
 | `source.title_text` | 苦恼 | `single_source` | [苦恼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537335&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Writhe<br>| Image       = Curse-Writhe.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>{{KW|Innate}}.<br>| GivesToPlayer = Unplayable, Innate<br>}}<br>{{Keyword Infobox|Unplayable}} {{Keyword Infobox|Innate}}<br>{{C|Writhe}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. It is {{KW|Innate}}.<br><br>== Obtaining Writ... | `single_source` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

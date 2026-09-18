@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `1.0` | Gain 6 Block.Shuffle an Insight into your draw pile. | 未采集 | 未保存 |
+| `Base` | `1.0` | Gain 6 Block.Shuffle an Insight into your draw pile. | 获得10点格挡。在你的抽牌堆中加入一张洞见。  获得10点格挡。在你的抽牌堆中加入一张洞见。 | 未保存 |
 | `Upgraded` | `1.0` | Gain 10 Block.Shuffle an Insight into your draw pile. | 获得10点格挡。在你的抽牌堆中加入一张洞见。  获得10点格挡。在你的抽牌堆中加入一张洞见。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -58,4 +58,4 @@
 | `source.title_text` | 评估 | `single_source` | [评估](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=2988207&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Evaluate<br>|Image       = Purple-Evaluate.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Gain (6;10) {{KW|Block}}.<br>Shuffle an {{C|Insight}} into your draw pile.<br>}} <br>{{Small Card Infobox|Insight}}<br>{{C|Evaluate}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Skill|Skill}} Card. It gives 6 (10 if upgr... | `single_source` | [P3 wiki.gg API batch: card 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bullseye|Corruption|Expunger|Wave_of_the_Hand|Panic_Button|Scrape|Indignation|Cut_Through_Fate|Hemokinesis|Deflect|Sadistic_Nature|Evaluate|Buffer|Tools_of_the_Trade|Wallop|Blasphemy|Ball_Lightning|Bite|Heel_Hook|Die_Die_Die&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

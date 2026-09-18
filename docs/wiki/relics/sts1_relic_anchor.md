@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Start each combat with 10 Block.Holding this miniature trinket, you feel heavier and more stable.", "flavor": "Holding this miniature trinket, you feel heavier and more stable."} |
+| `effect_json` | {"description_en": "Start each combat with 10 Block.Holding this miniature trinket, you feel heavier and more stable.", "description_zh": "每场战斗开始时获得 #b 点 #y格挡 。", "flavor": "Holding this miniature trinket, you feel heavier and more stable.", "flavor_en": "Holding this miniature trinket, you feel heavier and more stable.", "flavor_zh": "拿着这个小小的装饰，你觉得自己更稳也更重了。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 锚 | `single_source` | [锚](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492301&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation||1}}<br>{{Relic Infobox<br>| Name        = Anchor<br>| Image       = Anchor.png<br>| Rarity      = Common<br>| Description = Start each combat with 10 {{KW|Block}}.<br>| Flavor      = Holding this miniature trinket, you feel heavier and more stable.<br>| GivesToPlayer = Block<br>}}<br>{{Keyword Infobox|Block}}<br>{{R|Anchor}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[M... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

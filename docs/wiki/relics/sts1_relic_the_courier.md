@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "The Merchant restocks cards, relics, and potions. All prices are reduced by 20%.The merchant's personal pet!", "flavor": "The merchant's personal pet!"} |
+| `effect_json` | {"description_en": "The Merchant restocks cards, relics, and potions. All prices are reduced by 20%.The merchant's personal pet!", "description_zh": "商人的卡牌、遗物和药水不再会卖光，并且所有商品打折 #b20% 。", "flavor": "The merchant's personal pet!", "flavor_en": "The Merchant's personal pet!", "flavor_zh": "这是商人的宠物！"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 送货员 | `single_source` | [送货员](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493830&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = The Courier<br>|Image       = TheCourier.png<br>|Rarity      = Uncommon<br>|Description = The Merchant restocks [[Cards|cards]], [[Relics|relics]], and [[Potions|potions]]. All prices are reduced by 20%.<br>|Flavor      = The merchant's personal pet!<br>}}<br>{{R|The Courier}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. When a [[Card]], [[Relic]], or [[Potions|potion]] is purchased from the [[Merchant]], it will... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

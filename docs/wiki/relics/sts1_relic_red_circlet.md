@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Special |
-| `effect_json` | {"description_en": "You ran out of relics. Impressive!Looks very pretty.", "flavor": "Looks very pretty."} |
+| `effect_json` | {"description_en": "You ran out of relics. Impressive!Looks very pretty.", "description_zh": "看起来非常漂亮。", "flavor": "Looks very pretty.", "flavor_en": "You ran out of relics. Impressive!", "flavor_zh": "你居然拿光了所有遗物。厉害！"} |
 
 ## 相关条目
 
@@ -41,4 +41,4 @@
 | `source.infobox.description` | You ran out of relics. Impressive! | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Red Circlet<br>|Image       = RedCirclet.png<br>|Rarity      = Special<br>|Description = You ran out of relics. Impressive!<br>|Flavor      = Looks very pretty.<br>}}<br>{{R|Red Circlet}} is a {{QueryLink|Relics|rarity:Special|Special}} [[Relic]] that is supposed to be dropped when the {{QueryLink|Relics|rarity:Boss|Boss Relic}} pool is exhausted but is unobtainable in the game due to a logic bug in the code. The only way to obtain this is through modding.<br... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

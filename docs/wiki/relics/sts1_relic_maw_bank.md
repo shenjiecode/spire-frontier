@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at a shop.Surprisingly popular, despite maw attacks being a regular occurrence.", "flavor": "Surprisingly popular, despite maw attacks being a regular occurrence."} |
+| `effect_json` | {"description_en": "Whenever you climb a floor, gain 12 Gold. No longer works when you spend any Gold at a shop.Surprisingly popular, despite maw attacks being a regular occurrence.", "description_zh": "每攀爬一层楼层获得 #b #y金币 。 一旦在商店中花费 #y金币 就会失效。这件遗物已经失效。", "flavor": "Surprisingly popular, despite maw attacks being a regular occurrence.", "flavor_en": "Surprisingly popular, despite maw attacks being a regular occurrence.", "flavor_zh": "尽管巨口袭击频繁发生，这个造型的储蓄罐却意外相当流行。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 巨口储蓄罐 | `single_source` | [巨口储蓄罐](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492286&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Maw Bank<br>|Image       = MawBank.png<br>|Rarity      = Common<br>|Description = Whenever you climb a floor, gain 12 [[Gold]]. No longer works when you spend any [[Gold]] at a shop.<br>|Flavor      = Surprisingly popular, despite maw attacks being a regular occurrence.<br>}}<br>{{R|Maw Bank}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], or found in a [[... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

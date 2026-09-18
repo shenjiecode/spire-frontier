@@ -59,4 +59,4 @@
 | `source.title_text` | 小刀 | `single_source` | [小刀](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536404&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Shiv<br>| Image       = Colorless-Shiv.png<br>| Color       = Colorless<br>| Type        = Attack<br>| Rarity      = Special<br>| Cost        = 0<br>| Description = Deal (4;6) damage.<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Shiv}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Special|Special}} {{QueryLink|Cards|type:Attack|Attack}}... | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

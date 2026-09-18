@@ -59,4 +59,4 @@
 | `source.title_text` | 仪式匕首 | `single_source` | [仪式匕首](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=534185&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Ritual Dagger<br>| Image       = Colorless-RitualDagger.png<br>| Color       = Colorless<br>| Type        = Attack<br>| Rarity      = Special<br>| Cost        = 1<br>| Description = Deal 15 damage. <br>If {{KW|Fatal}}, permanently increase this card's damage by (3;5).<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Fatal, Exhaust<br>}}<br>{{Keyword Infobox|Fatal}} {{Keyword Infobox|Exhaust}}<br>{{C|Ritual Dagger}} is a 1 {{Icon|CE}} cost {{QueryLink|Cards|color:Color... | `single_source` | [P3 wiki.gg API batch: card 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shame|Perfected_Strike|Pommel_Strike|Alchemize|Shockwave|Overclock|Accuracy|Alpha|Ritual_Dagger|Carve_Reality|Slimed|Bullet_Time|Poisoned_Stab|Inner_Peace|Pride|Thunderclap|Mental_Fortress|Sweeping_Beam|Searing_Blow|Flame_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

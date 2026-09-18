@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Common |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Heal for 20% (40%) of your Max HP.", "flavor": ""} |
+| `effect_json` | {"description_en": "Heal for 20% (40%) of your Max HP.", "description_zh": "稀有度：普通 角色：铁甲战士 回复最大生命值的20％", "flavor": ""} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 鲜血药水 | `single_source` | [鲜血药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9537856&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name = Blood Potion<br>|Image = BloodPotion.png<br>|Rarity = Common<br>|Character = Ironclad<br>|Description = Heal for (20%;40%) of your Max HP.<br>|GivesToPlayer = Heal<br>}}<br>{{P|Blood Potion}} is an {{QueryLink|Potions|character:Ironclad|Ironclad-exclusive}} {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles ... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

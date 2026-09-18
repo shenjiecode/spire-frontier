@@ -55,4 +55,4 @@
 | `source.title_text` | 疼痛 | `single_source` | [疼痛](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537326&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Pain<br>|Image       = Curse-Pain.png<br>|Color       = Colorless<br>|Type        = Curse<br>|Cost        = -2<br>|NoUpgrade   = true<br>|Description = {{KW|Unplayable}}.<br>While in hand, lose 1 HP when other cards are played.<br>|GivesToPlayer = Lose HP, Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Pain}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. While it is in your hand, you will lose 1 HP every time you play a card.<br... | `single_source` | [P3 wiki.gg API batch: card 12](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Purity|Swift_Strike|Defend_(Silent)|Quick_Slash|Strike_(Ironclad)|Defend_(Ironclad)|Tempest|Infinite_Blades|Adrenaline|Madness|Pain|Eruption|Blade_Dance|Outmaneuver|Static_Discharge|Meteor_Strike|Infernal_Blade|Barrage|Setup|Headbutt&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

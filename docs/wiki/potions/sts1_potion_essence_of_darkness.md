@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "Channel 1 (2) Dark for each orb slot.", "flavor": ""} |
+| `effect_json` | {"description_en": "Channel 1 (2) Dark for each orb slot.", "description_zh": "每个充能球栏位 #y生成 #b 个 #y黑暗 充能球。", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 暗之精华 | `single_source` | [暗之精华](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953440&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Essence of Darkness<br>|Sequel=		1<br>|Image=			EssenceOfDarkness.png<br>|Rarity=		Rare<br>|Character=		Defect<br>|Description=	Channel (1;2) {{KW|Dark}} for each orb slot.<br>}}<br>{{Keyword Infobox|Dark}}<br>{{P|Essence of Darkness}} is a {{QueryLink|Potions|character:Defect|Defect-exclusive}} {{QueryLink|Potions|rarity:Rare|Rare}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

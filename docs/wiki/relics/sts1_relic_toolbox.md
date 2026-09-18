@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your hand.A tool for every job.", "flavor": "A tool for every job."} |
+| `effect_json` | {"description_en": "At the start of each combat, choose 1 of 3 random Colorless cards and add the chosen card into your hand.A tool for every job.", "description_zh": "工具箱\n稀有度\n商店\n作用\n在每场战斗开始时，增加一张随机无色牌到你的手牌。\n说明\n不管面对什么工作，都能找到相应的工具。", "flavor": "A tool for every job.", "flavor_en": "A tool for every job.", "flavor_zh": "不管面对什么工作，都能找到相应的工具。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 工具箱 | `single_source` | [工具箱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494883&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Toolbox<br>|Image       = Toolbox.png<br>|Rarity      = Shop<br>|Description = At the start of each combat, choose 1 of 3 random {{QueryLink|Cards|color:Colorless|Colorless}} cards and add the chosen card into your hand.<br>|Flavor      = A tool for every job.<br>|Keywords    = Hand<br>}}<br>{{R|Toolbox}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only ... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

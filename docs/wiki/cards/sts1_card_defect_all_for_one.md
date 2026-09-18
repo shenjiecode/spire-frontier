@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 万物一心 | `single_source` | [万物一心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=474560&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>| Name        = All for One<br>| Image       = Blue-AllforOne.png<br>| Color       = Blue<br>| Type        = Attack<br>| Rarity      = Rare<br>| Cost        = 2<br>| Description = Deal (10;14) damage.<br>Put all cost 0 cards from your discard pile into your hand.<br>}}<br>{{C|All for One}} is a 2 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 10 (1... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

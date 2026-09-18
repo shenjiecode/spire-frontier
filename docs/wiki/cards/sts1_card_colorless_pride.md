@@ -55,4 +55,4 @@
 | `source.title_text` | 傲慢 | `single_source` | [傲慢](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=2714800&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Pride<br>| Image       = Curse-Pride.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = 1<br>| NoUpgrade   = true<br>| Description = {{KW|Innate}}.<br>At the end of your turn, put a copy of this card on top of your draw pile. {{KW|Exhaust}}.<br>| GivesToPlayer = Innate, Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Pride}} is a 1 {{Icon|CE}} cost {{QueryLink|Cards|type:Curse|Curse}} Card. Unlike all other Curses, it can natural... | `single_source` | [P3 wiki.gg API batch: card 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shame|Perfected_Strike|Pommel_Strike|Alchemize|Shockwave|Overclock|Accuracy|Alpha|Ritual_Dagger|Carve_Reality|Slimed|Bullet_Time|Poisoned_Stab|Inner_Peace|Pride|Thunderclap|Mental_Fortress|Sweeping_Beam|Searing_Blow|Flame_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

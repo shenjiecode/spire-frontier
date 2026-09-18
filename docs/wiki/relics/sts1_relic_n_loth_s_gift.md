@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Triples the chance of finding Rare cards from combat rewards.The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.", "flavor": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within."} |
+| `effect_json` | {"description_en": "Triples the chance of finding Rare cards from combat rewards.The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.", "description_zh": "使你在怪物奖励中遇见稀有牌的几率变为 #b三倍 。", "flavor": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.", "flavor_en": "The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.", "flavor_zh": "恩洛斯给你的奇怪礼物，每次你试着拆开包装时，都会从里面找到另一个相同大小且包装完好的盒子。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 恩洛斯的礼物 | `single_source` | [恩洛斯的礼物](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525842&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = N'loth's Gift<br>|Image       = NlothsGift.png<br>|Rarity      = Event<br>|Source      = N'loth<br>|Description = Triples the chance of finding {{QueryLink|Cards|rarity:Rare|Rare}} cards from combat rewards.<br>|Flavor      = The strange gift from N'loth. Whenever you try and unwrap it, another wrapped box of the same size lies within.<br>}}<br>{{R|N'loth's Gift}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]]. It multiplies the base chance for a car... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

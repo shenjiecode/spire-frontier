@@ -1,12 +1,12 @@
-# DEPRECATED FlowPower / DEPRECATED FlowPower
+# （暂无中文名） / FlowPower
 
 > 稳定 ID：`sts1.game.candidate.status.flowpower`  
 > 类别：`status`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
-- 中文：DEPRECATED FlowPower
-- English: DEPRECATED FlowPower
+- 中文：（暂无中文名）
+- English: FlowPower
 
 ## status 数据
 
@@ -34,4 +34,4 @@
 | `game.status.descriptions` | ["When you play an Attack, gain #b", " temporary #yStrength. When you play a Skill, gain #b,", " temporary #yDexterity."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["When you play an Attack, gain #b", " temporary #yStrength. When you play a Skill, gain #b,", " temporary #yDexterity."] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

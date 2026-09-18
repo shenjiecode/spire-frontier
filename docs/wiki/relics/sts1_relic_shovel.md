@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "You can now Dig for relics at Rest Sites.The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!", "flavor": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!"} |
+| `effect_json` | {"description_en": "You can now Dig for relics at Rest Sites.The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!", "description_zh": "现在你可以在休息处 #y挖掘 遗物。", "flavor": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!", "flavor_en": "The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!", "flavor_zh": "高塔中有着无数过去文明遗留下的遗物和强大的冒险者们遗失的宝物，现在你可以把它们挖出来了！"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 铲子 | `single_source` | [铲子](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514556&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Shovel<br>|Image       = Shovel.png<br>|Rarity      = Rare<br>|Description = You can now Dig for relics at Rest Sites.<br>|Flavor      = The Spire houses all number of relics from past civilizations and powerful adventurers lost to time. Time to go dig them up!<br>}}<br>{{R|Shovel}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It adds a "Dig" option to [[Map Locations#Rest Sites|Rest Sites]], which allows the player to re... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

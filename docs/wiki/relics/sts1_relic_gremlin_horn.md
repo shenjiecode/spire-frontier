@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Whenever an enemy dies, gain 1 Energy and draw 1 card.\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid", "flavor": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid"} |
+| `effect_json` | {"description_en": "Whenever an enemy dies, gain 1 Energy and draw 1 card.\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid", "description_zh": "每当有一名敌人死亡，获得 [E] 并抽 #b1 张牌。", "flavor": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid", "flavor_en": "\"Gremlin Nobs are capable of growing until the day they die. Remarkable.\" - Ranwid", "flavor_zh": "“地精大块头到死都能一直长得更大，真是厉害。”——兰伟德"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 地精之角 | `single_source` | [地精之角](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493408&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Gremlin Horn<br>|Image       = GremlinHorn.png<br>|Rarity      = Uncommon<br>|Description = Whenever an enemy dies, gain 1 {{KW|Energy}} and draw 1 card.<br>|Flavor      = "Gremlin Nobs are capable of growing until the day they die. Remarkable." - Ranwid<br>|Keywords    = Draw<br>}}<br>{{Keyword Infobox|Energy}}<br>{{R|Gremlin Horn}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dr... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

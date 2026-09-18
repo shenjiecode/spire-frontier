@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "At the end of your turn, gain 1 Block for each card in your hand.A simple but sturdy design.", "flavor": "A simple but sturdy design."} |
+| `effect_json` | {"description_en": "At the end of your turn, gain 1 Block for each card in your hand.A simple but sturdy design.", "description_zh": "在你的回合结束时，每有一张手牌获得 #b 点 #y格挡 。", "flavor": "A simple but sturdy design.", "flavor_en": "A simple but sturdy design.", "flavor_zh": "设计简约但牢固。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 斗篷扣 | `single_source` | [斗篷扣](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959090&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Cloak Clasp<br>|Image       = CloakClasp.png<br>|Rarity      = Rare<br>|Character   = Watcher<br>|Description = At the end of your turn, gain 1 {{KW|Block}} for each card in your hand.<br>|Flavor      = A simple but sturdy design.<br>|GivesToPlayer = Block<br>}}<br>{{Keyword Infobox|Block}}<br>{{R|Cloak Clasp}} is a {{QueryLink|Relics|character:Watcher|Watcher-exclusive}} {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== ... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

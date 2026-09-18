@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Upon pickup, Upgrade 2 random Attacks.\"Flesh never beats steel.\" - Kublai the Great", "flavor": "\"Flesh never beats steel.\" - Kublai the Great"} |
+| `effect_json` | {"description_en": "Upon pickup, Upgrade 2 random Attacks.\"Flesh never beats steel.\" - Kublai the Great", "description_zh": "拾起时，随机 #y升级 #b 张 #y攻击牌 。", "flavor": "\"Flesh never beats steel.\" - Kublai the Great", "flavor_en": "\"Flesh never beats steel.\" - Kublai the Great", "flavor_zh": "“肉体永远无法打败钢铁。”——忽必烈大帝"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 磨刀石 | `single_source` | [磨刀石](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492302&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Whetstone<br>|Image       = Whetstone.png<br>|Rarity      = Common<br>|Description = Upon pickup, {{KW|Upgrade}} 2 random {{QueryLink|Cards|type:Attack|Attacks}}.<br>|Flavor      = "Flesh never beats steel." - Kublai the Great<br>}}<br>{{Keyword Infobox|Upgrade}}{{R|Whetstone}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]],... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

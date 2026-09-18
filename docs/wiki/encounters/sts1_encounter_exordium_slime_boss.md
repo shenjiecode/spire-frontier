@@ -19,7 +19,7 @@
 
 ## 相关条目
 
-- `contains_monster` → [史莱姆老大 / Slime Boss](../monsters/sts1_monster_slime_boss.md) 
+- `contains_monster` → [史莱姆老大 / Slime Boss](../monsters/sts1_monster_slime_boss.md)
 
 ## 被哪些条目引用
 
@@ -31,6 +31,8 @@
 
 | 字段 | 值 | 状态 | 来源 |
 | --- | --- | --- | --- |
-| — | 尚无字段级证据 | `unverified` | — |
+| `encounter.members` | {"members": [{"entity_id": "sts1.monster.slime_boss", "quantity": 1}], "resolution_status": "confirmed"} | `single_source` | [史莱姆老大](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=531529&wiki_id=646570) |
+| `encounter.name.en` | Exordium: Slime Boss | `single_source` | [Slime Boss | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Slime_Boss) |
+| `encounter.name.zh` | 第一幕：史莱姆老大 | `single_source/editorial_zh` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

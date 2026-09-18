@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Upon pickup, choose and add 5 cards to your deck.\"Once you understand the universe...\" - Zoroth", "flavor": "\"Once you understand the universe...\" - Zoroth"} |
+| `effect_json` | {"description_en": "Upon pickup, choose and add 5 cards to your deck.\"Once you understand the universe...\" - Zoroth", "description_zh": "选择 #b5 张牌加入你的牌组。知识！", "flavor": "\"Once you understand the universe...\" - Zoroth", "flavor_en": "\"Once you understand the universe...\" - Zoroth", "flavor_zh": "“一旦你理解了宇宙……”——佐罗斯"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 星系仪 | `single_source` | [星系仪](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525826&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Orrery<br>|Image       = Orrery.png<br>|Rarity      = Shop<br>|Description = Upon pickup, choose and add 5 cards to your deck.<br>|Flavor      = "Once you understand the universe..." - Zoroth<br>|Keywords    = Deck<br>}}<br>{{R|Orrery}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. It presents the player with 5 normal card rewards on pickup.<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{Query... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

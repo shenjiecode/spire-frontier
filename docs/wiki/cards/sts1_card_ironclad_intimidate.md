@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 威吓 | `single_source` | [威吓](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408694&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Intimidate<br>| Image       = Red-Intimidate.png<br>| Color       = Red<br>| Type        = Skill<br>| Rarity      = Uncommon<br>| Cost        = 0<br>| Description = Apply (1;2) {{BD|Weak}} to ALL enemies.<br>{{KW|Exhaust}}.<br>| GivesToEnemy = Weak<br>| GivesToPlayer = Exhaust<br>}}<br>{{Power Infobox|Weak}} {{Keyword Infobox|Exhaust}}<br>{{C|Intimidate}} is a 0 {{Icon|RE}}-cost {{QueryLink|Cards|color:Red|Ironclad}} {{QueryLink|Cards|rarity:Uncommon|Uncommon... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -16,13 +16,13 @@
 | `act` | Act 3 |
 | `hp_min` | 456 |
 | `hp_max` | 456 |
-| `ascension_json` | {"asc_hp": 480} |
+| `ascension_json` | {"ascension_max": 480, "ascension_min": 480, "ascension_raw": "480", "base_max": 456, "base_min": 456, "base_raw": "456"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Reverberate | Attack5 | 7 |  | {"text": "Deals (7×3;8×3) damage."} |
+| Reverberate | Attack5 | 7 | 3 | {"text": "Deals (7×3;8×3) damage."} |
 | Haste | Buff |  |  | {"text": "Removes all Debuffs]. Heals to 50% HP. (;Gains 32 Block.)"} |
 | Ripple | DebuffDefend |  |  | {"text": "Gains 20 Block. Applies 1 Vulnerable, 1 Weak(.; and 1 Frail.)"} |
 | Head Slam | DebuffAttack6 | 26 |  | {"text": "Deals (26;32) damage. Applies 1 Draw Reduction. (;Adds 2 Slimed into your discard pile.)"} |
@@ -48,6 +48,7 @@
 | `game.monster.dialog` | ["~啊……~ NL ~…居然有人来了…~", "~愚蠢……~ NL @何等愚蠢！@", "~一直……~ NL ~……都不…~ NL ~…喜欢你……~"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 480, "ascension_min": 480, "ascension_raw": "480", "base_max": 456, "base_min": 456, "base_raw": "456"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Haste` | {"effect": "Removes all Debuffs]. Heals to 50% HP. (;Gains 32 Block.)", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Head Slam` | {"effect": "Deals (26;32) damage. Applies 1 Draw Reduction. (;Adds 2 Slimed into your discard pile.)", "intent": "DebuffAttack6"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Reverberate` | {"effect": "Deals (7×3;8×3) damage.", "intent": "Attack5"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -58,4 +59,4 @@
 | `source.title_text` | 时间吞噬者 | `single_source` | [时间吞噬者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15432030&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>| Name   = Time Eater<br>| Image  = TimeEater.png<br>| Icon   = Map-TimeEater.png<br>| HP     = 456<br>| AscHP  = 480<br>| Powers = {{BD|Time Warp}}<br>| Debut  = Act 3<br>| Type   = Boss<br>}}<br>{{Power Infobox<br>| Name         = Time Warp<br>| Image        = Icon TimeWarp.png<br>| Description  = Whenever you play a certain number of cards, ends your turn and gains X {{BD|Strength}}.<br>| Type         = Buff<br>| Stacks       = Intensity<br>| BetweenTurns = <br>| Cap    ... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

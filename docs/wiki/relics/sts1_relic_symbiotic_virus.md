@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Dark.A little bit of bad can do a lot of good.", "flavor": "A little bit of bad can do a lot of good."} |
+| `effect_json` | {"description_en": "At the start of each combat, Channel 1 Dark.A little bit of bad can do a lot of good.", "description_zh": "在每场战斗开始时， #y生成 #b1 个 #y黑暗 充能球。", "flavor": "A little bit of bad can do a lot of good.", "flavor_en": "A little bit of bad can do a lot of good...", "flavor_zh": "小小的麻烦 ，却可以带来大大的益处……"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 共生病毒 | `single_source` | [共生病毒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493799&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Relic Infobox<br>|Name        = Symbiotic Virus<br>|Image       = SymbioticVirus.png<br>|Rarity      = Uncommon<br>|Character   = Defect<br>|Description = At the start of each combat, {{KW|Channel}} 1 {{KW|Dark}}.<br>|Flavor      = A little bit of bad can do a lot of good.<br>}}<br>{{Keyword Infobox|Channel}} {{Keyword Infobox|Dark}}<br>{{R|Symbiotic Virus}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Uncommon|Uncommon}... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

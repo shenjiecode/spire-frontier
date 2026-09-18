@@ -1,0 +1,11 @@
+Slay the Spire 1 — Map Locations (reviewed excerpts)
+
+Maps contain seven location types: Monster Encounter, Elite Encounter, Rest Sites, Unknown, Treasure Room, Merchant and Boss Encounter.
+
+Rest Sites prompt one choice; the default options are Rest (heal for 30% of max HP, rounded down) and Smith (upgrade a card), with more options from relics or unlocking Act 4.
+
+Unknown encounters can be an Event, Monster, Shop or Treasure Room. Whenever a specific encounter is not seen, its spawn chance increases; when it is seen, it resets to the original amount.
+
+Treasure Rooms are guaranteed at the halfway points of Acts 1–3. A single chest appears where enemies would be in combat; clicking it opens a reward window. Chests normally contain a single relic and may have Gold.
+
+The Merchant sells 5 character Cards, 2 Colorless Cards, 3 Relics, 3 Potions and a card-removal service usable once per shop.

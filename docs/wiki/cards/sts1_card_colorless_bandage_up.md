@@ -59,4 +59,4 @@
 | `source.title_text` | 包扎 | `single_source` | [包扎](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536580&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Bandage Up<br>|Image       = Colorless-BandageUp.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Heal (4;6) HP.<br>{{KW|Exhaust}}.<br>|GivesToPlayer = Exhaust, Heal<br>}} <br>{{Keyword Infobox|Exhaust}}<br>{{C|Bandage Up}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It heals 4... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

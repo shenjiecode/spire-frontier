@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Escape from a non-boss combat. Receive no rewards.", "flavor": ""} |
+| `effect_json` | {"description_en": "Escape from a non-boss combat. Receive no rewards.", "description_zh": "从一场非Boss战斗中逃离，不获得任何奖励。我被夹击了，无法逃脱！", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 烟雾弹 | `single_source` | [烟雾弹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953457&wiki_id=646570) |
 | `source.wikitext` | {{Potion Infobox<br>|Name=			Smoke Bomb<br>|Sequel=		1<br>|Image=			SmokeBomb.png<br>|Rarity=		Rare<br>|Description=	Escape from a non-boss combat. Receive no rewards.<br>}}<br>{{P|Smoke Bomb}} is a {{QueryLink|Potions|rarity:Rare|Rare}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>* Cannot be used when affected by {{BD|Surrounded}} <br>=== Synergies ===<br><!-- Include any relevant synergies here, with bullet points. Otherwise delete this secti... | `single_source` | [P3 wiki.gg API batch: potion 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Ambrosia|Smoke_Bomb&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

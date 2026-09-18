@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "At the start of your 3rd turn, gain 18 Block.Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.", "flavor": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign."} |
+| `effect_json` | {"description_en": "At the start of your 3rd turn, gain 18 Block.Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.", "description_zh": "在你的第三回合开始时，获得 #b 点 #y格挡 。", "flavor": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.", "flavor_en": "Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.", "flavor_zh": "精雕细琢的木质物件，上面用陌生的语言刻着一个名字。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 舵盘 | `single_source` | [舵盘](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959091&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Captain's Wheel<br>|Image       = CaptainsWheel.png<br>|Rarity      = Rare<br>|Description = At the start of your 3rd turn, gain 18 {{KW|Block}}.<br>|Flavor      = Wooden trinket carved with delicate precision. A name is carved into it but the language is foreign.<br>|GivesToPlayer = Block<br>}}<br>{{Keyword Infobox|Block}}{{R|Captain's Wheel}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be ... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Choose a card (2 cards) in your discard pile and return it to your hand. It costs (They cost) 0 this turn.", "flavor": ""} |
+| `effect_json` | {"description_en": "Choose a card (2 cards) in your discard pile and return it to your hand. It costs (They cost) 0 this turn.", "description_zh": "稀有度：罕见 角色：通用 选择弃牌堆中的一张牌放入你的手牌，这张牌在本回合的耗能变为0", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 液态记忆 | `single_source` | [液态记忆](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9516987&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Liquid Memories<br>|Sequel=		1<br>|Image=			LiquidMemories.png<br>|Rarity=		Uncommon<br>|Description=	Choose (a card;2 cards) in your discard pile and return it to your hand. (It costs;They cost) 0 this turn.<br>}}<br>{{P|Liquid Memories}} is an {{QueryLink|Potions|rarity:Uncommon|Uncommon}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the eff... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

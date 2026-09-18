@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Whenever you lose HP, draw 1 card.The runes are indecipherable.", "flavor": "The runes are indecipherable."} |
+| `effect_json` | {"description_en": "Whenever you lose HP, draw 1 card.The runes are indecipherable.", "description_zh": "每当你失去生命时，抽 #b 张牌。", "flavor": "The runes are indecipherable.", "flavor_en": "The runes are indecipherable.", "flavor_zh": "上面的符文无法辨识。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 符文立方体 | `single_source` | [符文立方体](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523655&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Runic Cube<br>| Image       = RunicCube.png<br>| Rarity      = Boss<br>| Character   = Ironclad<br>| Description = Whenever you lose HP, draw 1 card.<br>| Flavor      = The runes are indecipherable.<br>| GivesToPlayer = Draw<br>| InteractsWith = Lose HP<br>}}<br>{{R|Runic Cube}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. Whenever the player loses any amount of HP for any reason during com... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

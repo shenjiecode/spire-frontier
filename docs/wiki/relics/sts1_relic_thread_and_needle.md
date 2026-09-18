@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "At the start of each combat, gain 4 Plated Armor.Wrapping the magical thread around your body, you feel harder to the touch.", "flavor": "Wrapping the magical thread around your body, you feel harder to the touch."} |
+| `effect_json` | {"description_en": "At the start of each combat, gain 4 Plated Armor.Wrapping the magical thread around your body, you feel harder to the touch.", "description_zh": "在每场战斗开始时，获得 #b 层 #y多层护甲 。", "flavor": "Wrapping the magical thread around your body, you feel harder to the touch.", "flavor_en": "Wrapping the magical thread around your body, you feel harder to the touch.", "flavor_zh": "将这些魔法线缠绕在你的周围时，你觉得自己变得更坚硬了。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 针线 | `single_source` | [针线](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516692&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Thread and Needle|Gorget}}<br>{{Relic Infobox<br>|Name        = Thread and Needle<br>|Image       = ThreadandNeedle.png<br>|Rarity      = Rare<br>|Description = At the start of each combat, gain 4 {{BD|Plated Armor}}.<br>|Flavor      = Wrapping the magical thread around your body, you feel harder to the touch.<br>}}<br>{{Power Infobox|Plated Armor}}<br>{{R|Thread and Needle}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by figh... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

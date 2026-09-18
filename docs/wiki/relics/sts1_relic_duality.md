@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "Whenever you play an Attack, gain 1 temporary Dexterity.\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth", "flavor": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth"} |
+| `effect_json` | {"description_en": "Whenever you play an Attack, gain 1 temporary Dexterity.\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth", "description_zh": "每回合中，你每次打出一张 #y攻击牌 ，获得 #b1 点临时 #y敏捷 。", "flavor": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth", "flavor_en": "\"And the sun was extinguished forever, as if curtains fell before it.\" - Zoroth", "flavor_zh": "“于是太阳永远熄灭了，如同天幕在其之前坠下。”——佐罗斯"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 两仪 | `single_source` | [两仪](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9889627&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Duality<br>|Image       = Duality.png<br>|Rarity      = Uncommon<br>|Character   = Watcher<br>|Description = Whenever you play an {{QueryLink|Cards|type:Attack|Attack}}, gain 1 temporary {{BD|Dexterity}}.<br>|Flavor      = "And the sun was extinguished forever, as if curtains fell before it." - Zoroth<br>}} <br>{{Power Infobox|Dexterity}} {{Power Infobox|Dexterity Down}}<br>{{R|Duality}} is a {{QueryLink|Relics|character:Watcher|Watcher-exclusive}} {{QueryLin... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

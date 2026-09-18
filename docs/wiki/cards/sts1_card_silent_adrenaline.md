@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 肾上腺素 | `single_source` | [肾上腺素](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494887&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>| Name        = Adrenaline<br>| Image       = Green-Adrenaline.png<br>| Color       = Green<br>| Type        = Skill<br>| Rarity      = Rare<br>| Cost        = 0<br>| Description = Gain ({{Icon|GE}};{{Icon|GE}} {{Icon|GE}}).<br>Draw 2 cards.<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Draw, Energy, Exhaust<br>}}<br>{{C|Adrenaline}} is a 0 {{Icon|GE}}-cost, {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|... | `single_source` | [P3 wiki.gg API batch: card 12](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Purity|Swift_Strike|Defend_(Silent)|Quick_Slash|Strike_(Ironclad)|Defend_(Ironclad)|Tempest|Infinite_Blades|Adrenaline|Madness|Pain|Eruption|Blade_Dance|Outmaneuver|Static_Discharge|Meteor_Strike|Infernal_Blade|Barrage|Setup|Headbutt&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

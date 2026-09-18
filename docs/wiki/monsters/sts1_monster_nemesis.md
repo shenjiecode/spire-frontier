@@ -16,14 +16,14 @@
 | `act` | Act 3 |
 | `hp_min` | 185 |
 | `hp_max` | 185 |
-| `ascension_json` | {"asc_hp": 200} |
+| `ascension_json` | {"ascension_max": 200, "ascension_min": 200, "ascension_raw": "200", "base_max": 185, "base_min": 185, "base_raw": "185"} |
 
 ### 行动
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
 | Tri Burn | Debuff |  |  | {"text": "Adds (3;5) Burns into your discard pile."} |
-| Tri Attack | Attack4 | 6 |  | {"text": "Deals (6×3;7×3) damage."} |
+| Tri Attack | Attack4 | 6 | 3 | {"text": "Deals (6×3;7×3) damage."} |
 | Scythe | Attack7 | 45 |  | {"text": "Deals 45 damage."} |
 
 ## 相关条目
@@ -47,6 +47,7 @@
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 200, "ascension_min": 200, "ascension_raw": "200", "base_max": 185, "base_min": 185, "base_raw": "185"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Scythe` | {"effect": "Deals 45 damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Tri Attack` | {"effect": "Deals (6×3;7×3) damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Tri Burn` | {"effect": "Adds (3;5) Burns into your discard pile.", "intent": "Debuff"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -55,4 +56,4 @@
 | `source.title_text` | 天罚 | `single_source` | [天罚](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436798&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Nemesis<br>|Image  = Nemesis.png<br>|HP     = 185<br>|AscHP  = 200<br>|Powers = {{BD|Intangible}} every other turn<br>|Debut  = Act 3<br>|Type   = Elite<br>}} {{Power Infobox|Intangible}}<br>Nemesis is an [[Elite]] enemy found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Nemesis}}<br>{{Intents Table/row<br>|Name   = Tri Attack<br>|Intent = Attack4<br>|Effect = Deals (6×3;{{Asc|3|7×3}}) damage.}}<br>{{Intents Table/row<br>|Name   = Tri Bu... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Starter |
 | `character_entity_id` | sts1.character.watcher |
-| `effect_json` | {"description_en": "At the start of each combat, add 1 Miracle into your hand.Filtered through fine sand and free of impurities.", "flavor": "Filtered through fine sand and free of impurities."} |
+| `effect_json` | {"description_en": "At the start of each combat, add 1 Miracle into your hand.Filtered through fine sand and free of impurities.", "description_zh": "在每场战斗开始时，将一张 #y奇迹 放入你的手牌。", "flavor": "Filtered through fine sand and free of impurities.", "flavor_en": "Filtered through fine sand and free of impurities.", "flavor_zh": "用极细的沙粒过滤的水，去除了一切杂质。"} |
 
 ## 相关条目
 
@@ -22,7 +22,7 @@
 
 ## 被哪些条目引用
 
-- `starts_with_relic` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `starts_with_relic` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 来源与核对状态
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 至纯之水 | `single_source` | [至纯之水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958271&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Pure Water<br>| Image       = PureWater.png<br>| Rarity      = Starter<br>| Character   = Watcher<br>| Description = At the start of each combat, add 1 {{C|Miracle}} into your hand.<br>| Flavor      = Filtered through fine sand and free of impurities.<br>}}<br>{{Small Card Infobox|Miracle}}<br>{{R|Pure Water}} is the {{QueryLink|Relics|rarity:Starter|Starter}} [[Relic]] of the [[Watcher]]; they will always start every new run with it in their possession and ... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

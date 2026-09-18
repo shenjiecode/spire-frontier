@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Unplayable Curse cards can now be played. Whenever you play a Curse, lose 1 HP and Exhaust it.The flame ignites when shrouded in darkness.", "flavor": "The flame ignites when shrouded in darkness."} |
+| `effect_json` | {"description_en": "Unplayable Curse cards can now be played. Whenever you play a Curse, lose 1 HP and Exhaust it.The flame ignites when shrouded in darkness.", "description_zh": "可以打出原本 不能被打出 的 #y诅咒牌 ， NL NL 打出 #y诅咒牌 会让你失去 #b 点生命并将其 #y消耗 。", "flavor": "The flame ignites when shrouded in darkness.", "flavor_en": "The flame ignites when shrouded in darkness.", "flavor_zh": "当处于黑暗中时，这支蜡烛会自动点燃。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 蓝蜡烛 | `single_source` | [蓝蜡烛](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493805&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Blue Candle<br>|Image       = BlueCandle.png<br>|Rarity      = Uncommon<br>|Description = {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} cards can now be played. <br>Whenever you play a {{QueryLink|Cards|type:Curse|Curse}}, lose 1 HP and {{KW|Exhaust}} it.<br>|Flavor      = The flame ignites when shrouded in darkness.<br>|GivesToPlayer = Exhaust<br>|InteractsWith = Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}{{Keyword Infobox|Exhaust}}<br>{{R|Bl... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

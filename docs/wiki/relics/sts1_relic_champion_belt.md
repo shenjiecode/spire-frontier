@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Whenever you apply Vulnerable, also apply 1 Weak.Only the greatest may wear this belt.", "flavor": "Only the greatest may wear this belt."} |
+| `effect_json` | {"description_en": "Whenever you apply Vulnerable, also apply 1 Weak.Only the greatest may wear this belt.", "description_zh": "每当你给予 #y易伤 时，同时给予 #b 层 #y虚弱 。", "flavor": "Only the greatest may wear this belt.", "flavor_en": "Only the greatest may wear this belt.", "flavor_zh": "只有最强者才配佩戴这条腰带。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 冠军腰带 | `single_source` | [冠军腰带](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514584&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>| Name        = Champion Belt<br>| Image       = ChampionBelt.png<br>| Rarity      = Rare<br>| Character   = Ironclad<br>| Description = Whenever you apply {{BD|Vulnerable}}, also apply 1 {{BD|Weak}}.<br>| Flavor      = Only the greatest may wear this belt.<br>| GivesToEnemy = Weak<br>| InteractsWith = Vulnerable<br>}} <br>{{Power Infobox|Vulnerable}} {{Power Infobox|Weak}}<br>{{R|Champion Belt}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{QueryLink|R... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

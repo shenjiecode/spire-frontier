@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Enemies in your first 3 combats will have 1 HP.The blessing of lamentation bestowed by Neow.", "flavor": "The blessing of lamentation bestowed by Neow."} |
+| `effect_json` | {"description_en": "Enemies in your first 3 combats will have 1 HP.The blessing of lamentation bestowed by Neow.", "description_zh": "接下来 #b3 场战斗中的敌人将只有 #b1 点生命。这个祝福已经耗尽。", "flavor": "The blessing of lamentation bestowed by Neow.", "flavor_en": "The blessing of lamentation bestowed by Neow.", "flavor_zh": "涅奥赐予你的祝福，有着悲恸之力。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 涅奥的悲恸 | `single_source` | [涅奥的悲恸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525849&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Neow's Lament<br>|Image       = NeowsBlessing.png<br>|Rarity      = Event<br>|Source      = Neow<br>|Description = Enemies in your first 3 combats will have 1 HP.<br>|Flavor      = The blessing of lamentation bestowed by Neow.<br>}}<br>{{R|Neow's Lament}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]]. It sets the HP to 1 for ALL enemies in the next 3 combats. This applies to combats of any type; [[Slay the Spire Wiki/Enemies|normal enemies]], [[Elit... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

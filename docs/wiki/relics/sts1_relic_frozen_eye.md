@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "When viewing your Draw Pile, the cards are now shown in order.Staring into the eye, you see a glimpse of your future.", "flavor": "Staring into the eye, you see a glimpse of your future."} |
+| `effect_json` | {"description_en": "When viewing your Draw Pile, the cards are now shown in order.Staring into the eye, you see a glimpse of your future.", "description_zh": "现在观看 #y抽牌堆 时，卡牌将按顺序排列。", "flavor": "Staring into the eye, you see a glimpse of your future.", "flavor_en": "Staring into the eye, you see a glimpse of your future.", "flavor_zh": "凝视这只眼睛时，你能隐约捕捉到你自己的未来。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 冻结之眼 | `single_source` | [冻结之眼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494879&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Frozen Eye<br>|Image       = FrozenEye.png<br>|Rarity      = Shop<br>|Description = When viewing your Draw Pile, the cards are now shown in order.<br>|Flavor      = Staring into the eye, you see a glimpse of your future.<br>}}<br>{{R|Frozen Eye}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity:Shop|Shop Relic}} is available per [[Shop]], even with {{R|Th... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

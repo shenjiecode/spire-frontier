@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Shop |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.Emanates an infernal heat.", "flavor": "Emanates an infernal heat."} |
+| `effect_json` | {"description_en": "At the start of your turn, gain 2 Strength and ALL enemies gain 1 Strength.Emanates an infernal heat.", "description_zh": "在你的每个回合开始时，你获得 #b 点 #y力量 ，所有敌人也获得 #b #y力量。", "flavor": "Emanates an infernal heat.", "flavor_en": "Emanates an infernal heat.", "flavor_zh": "散发出地狱般的高热。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 硫磺 | `single_source` | [硫磺](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494917&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Brimstone<br>| Image       = Brimstone.png<br>| Rarity      = Shop<br>| Character   = Ironclad<br>| Description = At the start of your turn, gain 2 {{BD|Strength}} and ALL enemies gain 1 {{BD|Strength}}.<br>| Flavor      = Emanates an infernal heat.<br>| GivesToPlayer = Strength<br>| GivesToPlayer = Strength<br>}}<br>{{Power Infobox|Strength}}<br>{{R|Brimstone}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{Q... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

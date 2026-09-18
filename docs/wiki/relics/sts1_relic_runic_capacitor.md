@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Shop |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "Start each combat with 3 additional Orb slots.More is better.", "flavor": "More is better."} |
+| `effect_json` | {"description_en": "Start each combat with 3 additional Orb slots.More is better.", "description_zh": "每场战斗开始时，获得 #b3 个额外充能球栏位。", "flavor": "More is better.", "flavor_en": "More is better.", "flavor_zh": "多多益善。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 符文电容器 | `single_source` | [符文电容器](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494930&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Runic Capacitor<br>|Image       = RunicCapacitor.png<br>|Rarity      = Shop<br>|Character   = Defect<br>|Description = Start each combat with 3 additional {{KW|Orb}} slots.<br>|Flavor      = More is better.<br>}}<br>{{Keyword Infobox|Orb Slot}}{{Keyword Infobox|Orb}}{{R|Runic Capacitor}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. The [[Defect]] will start combat wit... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Upon pickup, remove 2 cards from your deck.\"How unusual to cage that which you worship.\" - Ranwid", "flavor": "\"How unusual to cage that which you worship.\" - Ranwid"} |
+| `effect_json` | {"description_en": "Upon pickup, remove 2 cards from your deck.\"How unusual to cage that which you worship.\" - Ranwid", "description_zh": "拾起时，选择移除牌组中的 #b2 张牌。选择2张牌移除。", "flavor": "\"How unusual to cage that which you worship.\" - Ranwid", "flavor_en": "\"How unusual to cage that which you worship.\" - Ranwid", "flavor_zh": "“将崇拜之物关进笼子，这是多么奇异的行为啊。”——兰伟德"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 空鸟笼 | `single_source` | [空鸟笼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523662&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Empty Cage<br>|Image       = EmptyCage.png<br>|Rarity      = Boss<br>|Description = Upon pickup, remove 2 cards from your deck.<br>|Flavor      = "How unusual to cage that which you worship." - Ranwid<br>|Keywords    = Deck<br>}}<br>{{R|Empty Cage}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Empty Cage}} can be offered as a... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

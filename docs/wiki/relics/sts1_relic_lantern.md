@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Gain 1 Energy on the first turn of each combat.An eerie lantern which illuminates only for the wielder.", "flavor": "An eerie lantern which illuminates only for the wielder."} |
+| `effect_json` | {"description_en": "Gain 1 Energy on the first turn of each combat.An eerie lantern which illuminates only for the wielder.", "description_zh": "在每场战斗的第一回合获得 [E] 。", "flavor": "An eerie lantern which illuminates only for the wielder.", "flavor_en": "An eerie lantern which illuminates only for the wielder.", "flavor_zh": "一盏诡异的灯笼，只为提灯者照明。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 灯笼 | `single_source` | [灯笼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492258&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Lantern<br>|Image       = Lantern.png<br>|Rarity      = Common<br>|Description = Gain 1 {{KW|Energy}} on the first turn of each combat.<br>|Flavor      = An eerie lantern which illuminates only for the wielder.<br>}}<br>{{Keyword Infobox|Energy}}{{R|Lantern}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Sm... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

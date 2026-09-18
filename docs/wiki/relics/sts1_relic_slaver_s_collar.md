@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "During Boss and Elite combats, gain 1 Energy at the start of your turn.Rusty miserable chains.", "flavor": "Rusty miserable chains."} |
+| `effect_json` | {"description_en": "During Boss and Elite combats, gain 1 Energy at the start of your turn.Rusty miserable chains.", "description_zh": "在Boss战与精英战中，你在每回合开始时获得 [E] 。", "flavor": "Rusty miserable chains.", "flavor_en": "Rusty miserable chains.", "flavor_zh": "锈蚀可憎的铁链。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 奴隶贩子颈环 | `single_source` | [奴隶贩子颈环](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959095&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Slaver's Collar<br>|Image       = SlaversCollar.png<br>|Rarity      = Boss<br>|Description = During Boss and Elite combats, gain 1 {{KW|Energy}} at the start of your turn.<br>|Flavor      = Rusty miserable chains.<br>}}<br>{{Keyword Infobox|Energy}}{{R|Slaver's Collar}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Slaver's Collar}} can be offered as a ch... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

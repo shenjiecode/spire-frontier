@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Whenever you play a Power card, a random card in your hand costs 0 that turn.Frequently twitches, especially when your pulse is high.", "flavor": "Frequently twitches, especially when your pulse is high."} |
+| `effect_json` | {"description_en": "Whenever you play a Power card, a random card in your hand costs 0 that turn.Frequently twitches, especially when your pulse is high.", "description_zh": "你每打出一张 #y能力牌 ，手牌中就有一张随机牌在这个回合耗能变为 #b0 。", "flavor": "Frequently twitches, especially when your pulse is high.", "flavor_en": "Frequently twitches, especially when your pulse is high.", "flavor_zh": "这只手经常都在抽动，尤其是在你心跳很快的时候。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 干瘪之手 | `single_source` | [干瘪之手](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493798&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Mummified Hand<br>|Image       = MummifiedHand.png<br>|Rarity      = Uncommon<br>|Description = Whenever you play a {{QueryLink|Cards|type:Power|Power}} card, a random card in your hand costs 0 that turn.<br>|Flavor      = Frequently twitches, especially when your pulse is high.<br>|Keywords    = Hand<br>}}<br>{{Keyword Infobox|Energy}}{{R|Mummified Hand}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. The descript... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

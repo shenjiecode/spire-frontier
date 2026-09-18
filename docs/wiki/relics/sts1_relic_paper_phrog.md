@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Enemies with Vulnerable take 75% more damage rather than 50%.The paper continually folds and unfolds itself into the shape of a small creature.", "flavor": "The paper continually folds and unfolds itself into the shape of a small creature."} |
+| `effect_json` | {"description_en": "Enemies with Vulnerable take 75% more damage rather than 50%.The paper continually folds and unfolds itself into the shape of a small creature.", "description_zh": "有 #y易伤 状态的敌人受到的伤害增加 #b75% 而非 #b50%。", "flavor": "The paper continually folds and unfolds itself into the shape of a small creature.", "flavor_en": "The paper continually folds and unfolds itself into the shape of a small creature.", "flavor_zh": "这张纸似乎会不断自己翻折，变成某种小动物的形状。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 纸蛙 | `single_source` | [纸蛙](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493844&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Paper Phrog<br>| Image       = PaperFrog.png<br>| Rarity      = Uncommon<br>| Character   = Ironclad<br>| Description = Enemies with {{BD|Vulnerable}} take 75% more damage rather than 50%.<br>| Flavor      = The paper continually folds and unfolds itself into the shape of a small creature.<br>| InteractsWith = Exhaust<br>}}<br>{{Power Infobox|Vulnerable}}<br>{{R|Paper Phrog}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-e... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

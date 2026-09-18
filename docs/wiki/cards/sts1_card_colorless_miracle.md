@@ -59,4 +59,4 @@
 | `source.title_text` | 奇迹 | `single_source` | [奇迹](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9958108&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Miracle<br>|Image       = Colorless-Miracle.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Special<br>|Cost        = 0<br>|Description = {{KW|Retain}}. <br>Gain ({{Icon|PE}};{{Icon|PE}} {{Icon|PE}}). <br>{{KW|Exhaust}}.<br>|Keywords    = Energy<br>}}<br>{{Keyword Infobox|Retain}} {{Keyword Infobox|Energy}} {{Keyword Infobox|Exhaust}} <br>{{C|Miracle}} is a 0 {{Icon|CE}}cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Ca... | `single_source` | [P3 wiki.gg API batch: card 13](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Storm|Sash_Whip|Flechettes|Fame_and_Fortune|Fasting|Inflame|Halt|Insight|Zap|Ragnarok|Clothesline|Twin_Strike|Burst|Combust|Scrawl|Loop|Miracle|Beam_Cell|Foreign_Influence|FTL&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

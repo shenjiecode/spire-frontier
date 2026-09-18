@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 7.\"Delicious! Haven't seen any of these since the blight.\" - Ranwid", "flavor": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid"} |
+| `effect_json` | {"description_en": "Upon pickup, raise your Max HP by 7.\"Delicious! Haven't seen any of these since the blight.\" - Ranwid", "description_zh": "拾起时，将你的最大生命值提升 #b", "flavor": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid", "flavor_en": "\"Delicious! Haven't seen any of these since the blight.\" - Ranwid", "flavor_zh": "“太好吃了！荒疫之后就没见过这东西了啊。”——兰伟德"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 草莓 | `single_source` | [草莓](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492253&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Strawberry<br>|Image       = Strawberry.png<br>|Rarity      = Common<br>|Description = Upon pickup, raise your Max HP by 7.<br>|Flavor      = "Delicious! Haven't seen any of these since the blight." - Ranwid<br>}}<br>{{R|Strawberry}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Small Chest]] or [[Medium Ch... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

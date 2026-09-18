@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "At the start of your turn, lose 15 Block rather than all of your Block.\"Mechanical precision leads to greatness\" - The Architect", "flavor": "\"Mechanical precision leads to greatness\" - The Architect"} |
+| `effect_json` | {"description_en": "At the start of your turn, lose 15 Block rather than all of your Block.\"Mechanical precision leads to greatness\" - The Architect", "description_zh": "在你的回合开始时，不再失去所有 #y格挡 ，而是失去 #b 点 #y格挡 。", "flavor": "\"Mechanical precision leads to greatness\" - The Architect", "flavor_en": "\"Mechanical precision leads to greatness\" - The Architect", "flavor_zh": "“机械精度正是通向崇高之路。”——建筑师"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 外卡钳 | `single_source` | [外卡钳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516125&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Calipers<br>|Image       = Calipers.png<br>|Rarity      = Rare<br>|Description = At the start of your turn, lose 15 {{KW|Block}} rather than all of your {{KW|Block}}.<br>|Flavor      = "Mechanical precision leads to greatness" - The Architect<br>|InteractsWith = Block<br>}}<br>{{Keyword Infobox|Block}}{{R|Calipers}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merch... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

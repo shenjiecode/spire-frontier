@@ -55,4 +55,4 @@
 | `source.title_text` | 进阶之灾 | `single_source` | [进阶之灾](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=2714798&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Ascender's Bane<br>| Image       = Curse-AscendersBane.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}. <br>{{KW|Ethereal}}. <br>Cannot be removed from your deck.<br>| GivesToPlayer = Unplayable, Ethereal<br>}}<br>{{Keyword Infobox|Unplayable}} {{Keyword Infobox|Ethereal}}<br>{{C|Ascender's Bane}} is an {{KW|Unplayable}} {{QueryLink|Cards|... | `single_source` | [P3 wiki.gg API batch: card 11](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Third_Eye|Necronomicurse|Heavy_Blade|Choke|Deus_Ex_Machina|Evolve|Enlightenment|Hello_World|Concentrate|Echo_Form|Conjure_Blade|Swivel|The_Bomb|Distraction|Conclude|Ascender's_Bane|Hologram|Havoc|Barricade|Steam_Barrier&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

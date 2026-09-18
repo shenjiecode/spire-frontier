@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "At the end of turn 7, deal 52 damage to ALL enemies.The passage of time is imperceptible in the Spire.", "flavor": "The passage of time is imperceptible in the Spire."} |
+| `effect_json` | {"description_en": "At the end of turn 7, deal 52 damage to ALL enemies.The passage of time is imperceptible in the Spire.", "description_zh": "在第 #b 回合结束时，对所有敌人造成 #b 点伤害。", "flavor": "The passage of time is imperceptible in the Spire.", "flavor_en": "The passage of time is imperceptible in the Spire.", "flavor_zh": "在高塔中几乎感觉不到时间的流逝。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 历石 | `single_source` | [历石](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515166&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Stone Calendar<br>|Image       = StoneCalendar.png<br>|Rarity      = Rare<br>|Description = At the end of turn 7, deal 52 damage to ALL enemies.<br>|Flavor      = The passage of time is imperceptible in the Spire.<br>}}<br>{{R|Stone Calendar}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. At the end of turn 7, it deals 52 damage to all enemies. The damage is not repeated for turns that are multiples of 7, it is only at the... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

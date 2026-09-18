@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer obtain potions.You notice that magical liquids seem to lose their properties when near this relic.", "flavor": "You notice that magical liquids seem to lose their properties when near this relic."} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer obtain potions.You notice that magical liquids seem to lose their properties when near this relic.", "description_zh": "你无法再获得药水。 在每回合开始时获得 [E] 。", "flavor": "You notice that magical liquids seem to lose their properties when near this relic.", "flavor_en": "You notice that magical liquids seem to lose their properties when near this relic.", "flavor_zh": "你注意到所有带魔力的液体在接近这件遗物时都会失去效力。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 添水 | `single_source` | [添水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523668&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Sozu<br>|Image       = Sozu.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. You can no longer obtain [[Potions|potions]].<br>|Flavor      = You notice that magical liquids seem to lose their properties when near this relic.<br>}}<br>{{Keyword Infobox|Energy}}{{R|Sozu}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. It prevents [[Potions]] from being acquired, but any [[Potions]] ... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 回收 | `single_source` | [回收](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=549936&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation|0|1}} <br>{{Card Infobox<br>|Name        = Recycle<br>|Image       = Blue-Recycle.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = {{KW|Exhaust}} a card.<br>Gain {{Icon|BE}} equal to its cost.<br>|Keywords    = Energy<br>}}<br>{{Keyword Infobox|Exhaust}} {{Keyword Infobox|Energy}} {{Sequel Rename|Recycle|Scavenge}}<br>{{C|Recycle}} is a 1 (0 if upgraded) {{Icon|BE}}-cost {{QueryLink|... | `single_source` | [P3 wiki.gg API batch: card 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Jack_of_All_Trades|Piercing_Wail|Intimidate|Rushdown|Empty_Fist|Establishment|Judgment|Double_Tap|Rampage|Ghostly_Armor|Amplify|Panacea|Void|Dodge_and_Roll|J.A.X.|Crescendo|Riddle_with_Holes|Recycle|Skewer|Thinking_Ahead&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

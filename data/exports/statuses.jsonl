@@ -1,5 +1,4 @@
 {"affects": "unknown", "duration": null, "entity_id": "sts1.candidate.zh.status.15448778", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": "unknown", "duration": null, "entity_id": "sts1.candidate.zh.status.15460336", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.game.candidate.status.alwaysmad", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.game.candidate.status.angelform", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.game.candidate.status.attack_burn", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
@@ -57,16 +56,16 @@
 {"affects": null, "duration": null, "entity_id": "sts1.status.beat_of_death", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.berserk", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.bias", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.blasphemer", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.blasphemer", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.block_return", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.blur", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.brutality", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.buffer", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.burst", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.choked", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.choked", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.collect", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.combust", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.confusion", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.confusion", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.constricted", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.corpse_explosion", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.corruption", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
@@ -78,19 +77,19 @@
 {"affects": null, "duration": null, "entity_id": "sts1.status.deva", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.devotion", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.dexterity", "polarity": "positive", "removal": null, "stacking": "Intensity", "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.dexterity_down", "polarity": "positive", "removal": null, "stacking": "Intensity", "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.dexterity_negative", "polarity": "positive", "removal": null, "stacking": "Intensity", "trigger_timing": null}
+{"affects": "Dexterity", "duration": null, "entity_id": "sts1.status.dexterity_down", "polarity": "negative", "removal": null, "stacking": "Intensity", "trigger_timing": null}
+{"affects": "Block gained from cards", "duration": null, "entity_id": "sts1.status.dexterity_negative", "polarity": "negative", "removal": null, "stacking": "Intensity", "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.double_damage", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.double_tap", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.draw", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.draw_card", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.draw_reduction", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.draw_reduction", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.duplication", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.echo_form", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.electro", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.energized", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.enrage", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.entangled", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.entangled", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.envenom", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.equilibrium", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.establishment", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
@@ -98,14 +97,14 @@
 {"affects": null, "duration": null, "entity_id": "sts1.status.explosive", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.fading", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.fasting", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.feel_no_pain", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.feel_no_pain", "polarity": "positive", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.fire_breathing", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.flame_barrier", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.flying", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.focus", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.focus_negative", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": "Orbs", "duration": null, "entity_id": "sts1.status.focus_negative", "polarity": "negative", "removal": null, "stacking": "Intensity", "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.foresight", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.frail", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.frail", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.free_attack_power", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.heatsink", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.hello", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
@@ -131,40 +130,40 @@
 {"affects": null, "duration": null, "entity_id": "sts1.status.next_turn_block", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.nightmare", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.nirvana", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.no_block", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.no_draw", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.no_block", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.no_draw", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.noxious_fumes", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.omega", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.painful_stabs", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.painful_stabs", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.panache", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.pen_nib", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.phantasmal", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.plated_armor", "polarity": "positive", "removal": null, "stacking": "Intensity and Counter", "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.poison", "polarity": "positive", "removal": null, "stacking": "Intensity and Duration", "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.poison", "polarity": "negative", "removal": null, "stacking": "Intensity and Duration", "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.rage", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.reactive", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.rebound", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.regen", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.regenerate", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.regenerate", "polarity": "positive", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.repair", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.ritual", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.rupture", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.rushdown", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.rushdown", "polarity": "positive", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.sadistic", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.shackled", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.shackled", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.sharp_hide", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.shifting", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.simmering_rage", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.slow", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.slow", "polarity": "negative", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.split", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.spore_clouds", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.stasis", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.static_discharge", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.storm", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": "player", "duration": null, "entity_id": "sts1.status.strength", "polarity": "positive", "removal": "end of combat or explicit effect", "stacking": "additive", "trigger_timing": "attack damage calculation"}
-{"affects": null, "duration": null, "entity_id": "sts1.status.strength_down", "polarity": "positive", "removal": null, "stacking": "Intensity", "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.strength_negative", "polarity": "positive", "removal": null, "stacking": "Intensity", "trigger_timing": null}
-{"affects": null, "duration": null, "entity_id": "sts1.status.strength_up", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
+{"affects": "player", "duration": null, "entity_id": "sts1.status.strength", "polarity": "positive", "removal": "end of combat or explicit effect", "stacking": "Intensity", "trigger_timing": "attack damage calculation"}
+{"affects": "Strength", "duration": null, "entity_id": "sts1.status.strength_down", "polarity": "negative", "removal": null, "stacking": "Intensity", "trigger_timing": null}
+{"affects": "Attack damage", "duration": null, "entity_id": "sts1.status.strength_negative", "polarity": "negative", "removal": null, "stacking": "Intensity", "trigger_timing": null}
+{"affects": null, "duration": null, "entity_id": "sts1.status.strength_up", "polarity": "positive", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.study", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.surrounded", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.the_bomb", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
@@ -175,8 +174,8 @@
 {"affects": null, "duration": null, "entity_id": "sts1.status.tools_of_the_trade", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.unawakened", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.vigor", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": "player or enemy", "duration": null, "entity_id": "sts1.status.vulnerable", "polarity": "negative", "removal": "turn/explicit effect", "stacking": "additive", "trigger_timing": "attack damage calculation"}
+{"affects": "player or enemy", "duration": null, "entity_id": "sts1.status.vulnerable", "polarity": "negative", "removal": "turn/explicit effect", "stacking": "Duration", "trigger_timing": "attack damage calculation"}
 {"affects": null, "duration": null, "entity_id": "sts1.status.wave_of_the_hand", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
-{"affects": "player or enemy", "duration": null, "entity_id": "sts1.status.weak", "polarity": "negative", "removal": "turn/explicit effect", "stacking": "additive", "trigger_timing": "attack damage calculation"}
+{"affects": "player or enemy", "duration": null, "entity_id": "sts1.status.weak", "polarity": "negative", "removal": "turn/explicit effect", "stacking": "Duration", "trigger_timing": "attack damage calculation"}
 {"affects": null, "duration": null, "entity_id": "sts1.status.well_laid_plans", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}
 {"affects": null, "duration": null, "entity_id": "sts1.status.wraith_form", "polarity": "neutral", "removal": null, "stacking": null, "trigger_timing": null}

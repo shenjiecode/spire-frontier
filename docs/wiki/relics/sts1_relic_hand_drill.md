@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous.", "flavor": "Spirals are dangerous."} |
+| `effect_json` | {"description_en": "Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous.", "description_zh": "手钻\n稀有度\n商店\n作用\n每当你突破敌人的格挡时，给予2层易伤。\n说明\n螺旋超危险的啊。", "flavor": "Spirals are dangerous.", "flavor_en": "\"Spirals are dangerous.\"", "flavor_zh": "“螺旋超危险的啊。”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 手钻 | `single_source` | [手钻](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494899&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Hand Drill<br>|Image       = HandDrill.png<br>|Rarity      = Shop<br>|Description = Whenever you break an enemy's {{KW|Block}}, apply 2 {{BD|Vulnerable}}.<br>|Flavor      = Spirals are dangerous.<br>}}<br>{{Keyword Infobox|Block}} {{Power Infobox|Vulnerable}}<br>{{R|Hand Drill}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

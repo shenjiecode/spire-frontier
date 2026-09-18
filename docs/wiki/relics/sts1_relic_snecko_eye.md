@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "At the start of your turn, draw 2 additional cards. Start each combat Confused.An eye of a fallen snecko. Much larger than you imagined.", "flavor": "An eye of a fallen snecko. Much larger than you imagined."} |
+| `effect_json` | {"description_en": "At the start of your turn, draw 2 additional cards. Start each combat Confused.An eye of a fallen snecko. Much larger than you imagined.", "description_zh": "每回合多抽 #b2 张牌。每场战斗开始时获得 #y混乱 效果。", "flavor": "An eye of a fallen snecko. Much larger than you imagined.", "flavor_en": "An eye of a fallen snecko. Much larger than you imagined.", "flavor_zh": "一条死去异蛇的眼珠，比你想象中的要大上不少。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 异蛇之眼 | `single_source` | [异蛇之眼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525829&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Snecko Eye<br>|Image       = SneckoEye.png<br>|Rarity      = Boss<br>|Description = At the start of your turn, draw 2 additional cards. Start each combat {{BD|Confused}}.<br>|Flavor      = An eye of a fallen snecko. Much larger than you imagined.<br>|Keywords    = Draw<br>}}<br>{{Power Infobox|Confused}}{{R|Snecko Eye}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. The player will draw 2 additional cards every turn while i... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

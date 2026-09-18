@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Upon pickup, obtain a unique Curse and 3 relics.This dark iron bell rang 3 times when you found it, but now stays silent.", "flavor": "This dark iron bell rang 3 times when you found it, but now stays silent."} |
+| `effect_json` | {"description_en": "Upon pickup, obtain a unique Curse and 3 relics.This dark iron bell rang 3 times when you found it, but now stays silent.", "description_zh": "获得一个独特的 #r诅咒 和 #b3 件 #y遗物 。铃铛鸣响……跳过奖励关闭", "flavor": "This dark iron bell rang 3 times when you found it, but now stays silent.", "flavor_en": "This dark iron bell rang 3 times when you found it, but now stays silent.", "flavor_zh": "这个黑铁铃铛在你找到它时作响了3次，但现在它已经不再响了。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 召唤铃铛 | `single_source` | [召唤铃铛](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525835&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Calling Bell<br>|Image       = CallingBell.png<br>|Rarity      = Boss<br>|Description = Upon pickup, obtain a unique {{QueryLink|Cards|type:Curse|Curse}} and 3 relics.<br>|Flavor      = This dark iron bell rang 3 times when you found it, but now stays silent.<br>}}<br>{{Small Card Infobox|Curse of the Bell}}<br>{{R|Calling Bell}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. Upon pickup, it adds a {{C|Curse of the Bell}} t... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

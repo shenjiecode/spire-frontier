@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.Inside the bottle resides a flame that eternally burns.", "flavor": "Inside the bottle resides a flame that eternally burns."} |
+| `effect_json` | {"description_en": "Upon pickup, choose an Attack card. At the start of each combat, this card will be in your hand.Inside the bottle resides a flame that eternally burns.", "description_zh": "拾起时，选择一张 #y攻击牌 。在每场战斗开始时，这张牌会出现在手牌中。选择一张牌 在每场战斗开始时，将  放入你的手牌。", "flavor": "Inside the bottle resides a flame that eternally burns.", "flavor_en": "Inside the bottle resides a flame that eternally burns.", "flavor_zh": "在这个瓶子里，有着一团永远燃烧的火焰。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 瓶装火焰 | `single_source` | [瓶装火焰](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493812&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Bottled Flame<br>|Image       = BottledFlame.png<br>|Rarity      = Uncommon<br>|Description = Upon pickup, choose an {{QueryLink|Cards|type:Attack|Attack}} card. <br>At the start of each combat, this card will be in your hand.<br>|Flavor      = Inside the bottle resides a flame that eternally burns.<br>}}<br>{{R|Bottled Flame}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by bu... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

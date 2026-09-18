@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Common |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "Whenever you apply Poison, apply an additional 1 Poison.A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.", "flavor": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably."} |
+| `effect_json` | {"description_en": "Whenever you apply Poison, apply an additional 1 Poison.A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.", "description_zh": "每当你给予敌人 #y中毒 状态时，额外给予 #b 层 #y中毒 。", "flavor": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.", "flavor_en": "A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.", "flavor_zh": "保存完好的异蛇头骨，十分离奇地非常干净和光滑，任何灰尘和污垢都无法沾上它，这是为什么呢。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 异蛇头骨 | `single_source` | [异蛇头骨](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493859&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Snecko Skull<br>| Image       = SnakeSkull.png<br>| Rarity      = Common<br>| Character   = Silent<br>| Description = Whenever you apply {{BD|Poison}}, apply an additional 1 {{BD|Poison}}.<br>| Flavor      = A snecko skull in pristine condition. Mysteriously clean and smooth, dirt and grime fall off inexplicably.<br>| GivesToEnemy = Poison<br>| InteractsWith = Poison<br>}}<br>{{Power Infobox|Poison}}<br>{{R|Snecko Skull}} is a {{... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

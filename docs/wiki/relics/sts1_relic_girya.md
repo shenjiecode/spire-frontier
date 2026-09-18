@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "You can now gain Strength at Rest Sites (up to 3 times).This Girya is unfathomably heavy. You could train with this to get significantly stronger.", "flavor": "This Girya is unfathomably heavy. You could train with this to get significantly stronger."} |
+| `effect_json` | {"description_en": "You can now gain Strength at Rest Sites (up to 3 times).This Girya is unfathomably heavy. You could train with this to get significantly stronger.", "description_zh": "你现在能在休息处获得 #y力量  。（最多3次）", "flavor": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.", "flavor_en": "This Girya is unfathomably heavy. You could train with this to get significantly stronger.", "flavor_zh": "这个壶铃重到难以想象，用这个锻炼一定能变得更强。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 壶铃 | `single_source` | [壶铃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514591&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Girya<br>|Image       = Girya.png<br>|Rarity      = Rare<br>|Description = You can now gain {{BD|Strength}} at Rest Sites (up to 3 times).<br>|Flavor      = This Girya is unfathomably heavy. You could train with this to get significantly stronger.<br>}}<br>{{Power Infobox|Strength}}{{R|Girya}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It adds a "Lift" option to [[Map Locations#Rest Sites|Rest Sites]]. After using Lift,... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "The effects of your cost X cards are increased by 2.WARNING: Do not combine with sugar, spice, and everything nice.", "flavor": "WARNING: Do not combine with sugar, spice, and everything nice."} |
+| `effect_json` | {"description_en": "The effects of your cost X cards are increased by 2.WARNING: Do not combine with sugar, spice, and everything nice.", "description_zh": "耗能为 #bX 的牌的效果数值增加 #b 点。", "flavor": "WARNING: Do not combine with sugar, spice, and everything nice.", "flavor_en": "WARNING: Do not combine with sugar, spice, and everything nice.", "flavor_zh": "警告：严禁与糖、香料还有一切美好的味道混合在一起。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 化学物X | `single_source` | [化学物X](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494903&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Chemical X<br>|Image       = ChemicalX.png<br>|Rarity      = Shop<br>|Description = The effects of your cost X cards are increased by 2.<br>|Flavor      = WARNING: Do not combine with sugar, spice, and everything nice.<br>}}<br>{{R|Chemical X}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity:Shop|Shop Relic}} is available per... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

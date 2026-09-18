@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer Smith at Rest Sites.Once wielded, the owner can never let go.", "flavor": "Once wielded, the owner can never let go."} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer Smith at Rest Sites.Once wielded, the owner can never let go.", "description_zh": "。 你无法再在休息处锻造升级卡牌。在每回合开始时获得 [E]", "flavor": "Once wielded, the owner can never let go.", "flavor_en": "Once wielded, the owner can never let go.", "flavor_zh": "一旦握住，就永远无法放下。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 融合之锤 | `single_source` | [融合之锤](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523666&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Fusion Hammer<br>|Image       = FusionHammer.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. You can no longer Smith at Rest Sites.<br>|Flavor      = Once wielded, the owner can never let go.<br>}}<br>{{Keyword Infobox|Energy}}{{Keyword Infobox|Upgrade}}{{R|Fusion Hammer}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

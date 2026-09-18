@@ -21,11 +21,11 @@
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
 | `Base` | `1.0` | Lose 1 Focus. Gain 1 Strength. Gain 1 Dexterity. | 失去1点集中。获得1点力量。获得1点敏捷。  失去2点集中。获得2点力量。获得2点敏捷。 | 未保存 |
-| `Upgraded` | `1.0` | Lose 2 Focus. Gain 2 Strength. Gain 2 Dexterity. | 未采集 | 未保存 |
+| `Upgraded` | `1.0` | Lose 2 Focus. Gain 2 Strength. Gain 2 Dexterity. | 失去1点集中。获得1点力量。获得1点敏捷。  失去2点集中。获得2点力量。获得2点敏捷。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -58,4 +58,4 @@
 | `source.title_text` | 重编程 | `single_source` | [重编程](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=550070&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Reprogram<br>|Image       = Blue-Reprogram.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Lose (1;2) {{BD|Focus}}. <br>Gain (1;2) {{BD|Strength}}. <br>Gain (1;2) {{BD|Dexterity}}.<br>}}<br>{{Power Infobox|Focus}}{{Power Infobox|Strength}}{{Power Infobox|Dexterity}}<br>{{C|Reprogram}} is a 1 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{Q... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

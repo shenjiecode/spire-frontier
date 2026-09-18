@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "Whenever you discard a card during your turn, gain 3 Block.Loss gives strength.", "flavor": "Loss gives strength."} |
+| `effect_json` | {"description_en": "Whenever you discard a card during your turn, gain 3 Block.Loss gives strength.", "description_zh": "你每在你的回合丢弃一张牌，就获得 #b 点 #y格挡 。", "flavor": "Loss gives strength.", "flavor_en": "Loss gives strength.", "flavor_zh": "失去给人带来力量。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 结实绷带 | `single_source` | [结实绷带](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515157&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Tough Bandages<br>|Image       = ToughBandages.png<br>|Rarity      = Rare<br>|Character   = Silent<br>|Description = Whenever you discard a card during your turn, gain 3 {{KW|Block}}.<br>|Flavor      = Loss gives strength.<br>|Keywords    = Discard<br>}}<br>{{Keyword Infobox|Block}}<br>{{R|Tough Bandages}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

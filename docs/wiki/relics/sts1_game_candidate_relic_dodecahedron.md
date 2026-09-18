@@ -1,4 +1,4 @@
-# DEPRECATED符文十二面体 / DEPRECATED Runic Dodecahedron
+# DEPRECATED符文十二面体 / Dodecahedron
 
 > 稳定 ID：`sts1.game.candidate.relic.dodecahedron`  
 > 类别：`relic`；游戏：`sts1`；映射状态：`provisional`
@@ -6,7 +6,7 @@
 ## 名称
 
 - 中文：DEPRECATED符文十二面体
-- English: DEPRECATED Runic Dodecahedron
+- English: Dodecahedron
 
 ## 相关条目
 
@@ -30,4 +30,4 @@
 | `game.relic.flavor` | The runes are indecipherable. | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
 | `game.relic.flavor` | 上面的符文无法辨识。 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

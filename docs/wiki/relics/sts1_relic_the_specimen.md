@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "Whenever an enemy dies, transfer any Poison it has to a random enemy.\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid", "flavor": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid"} |
+| `effect_json` | {"description_en": "Whenever an enemy dies, transfer any Poison it has to a random enemy.\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid", "description_zh": "每当有敌人死去时，将其身上的 #y中毒 层数移到一名随机敌人身上。", "flavor": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid", "flavor_en": "\"Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination.\" - Ranwid", "flavor_zh": "“有意思！我发现了一个有着惊人毒性的变异生物，先采集份样本以后再仔细研究吧。”——兰伟德"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 生物样本 | `single_source` | [生物样本](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516068&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = The Specimen<br>|Image       = TheSpecimen.png<br>|Rarity      = Rare<br>|Character   = Silent<br>|Description = Whenever an enemy dies, transfer any {{BD|Poison}} it has to a random enemy.<br>|Flavor      = "Fascinating! I found a mutated creature demonstrating astounding toxic properties. Storing a sample for later examination." - Ranwid<br>}}<br>{{Power Infobox|Poison}}{{R|The Specimen}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLi... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

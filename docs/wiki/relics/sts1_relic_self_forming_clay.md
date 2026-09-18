@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Whenever you lose HP, gain 3 Block next turn.\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid", "flavor": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid"} |
+| `effect_json` | {"description_en": "Whenever you lose HP, gain 3 Block next turn.\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid", "description_zh": "每当你在战斗中失去生命，就在下回合获得 #b 点 #y格挡 。", "flavor": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid", "flavor_en": "\"Most curious! It appears to form itself loosely on my thoughts! Tele-clay?\" - Ranwid", "flavor_zh": "“真是有意思！这东西看起来可以按照我的想法自己成型！读心的黏土吗？”——兰伟德"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 自成型黏土 | `single_source` | [自成型黏土](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493845&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Self-Forming Clay<br>| Image       = SelfFormingClay.png<br>| Rarity      = Uncommon<br>| Character   = Ironclad<br>| Description = Whenever you lose HP, gain 3 {{KW|Block}} next turn.<br>| Flavor      = "Most curious! It appears to form itself loosely on my thoughts! Tele-clay?" - Ranwid<br>| GivesToPlayer = Block, Next Turn Block<br>}}<br>{{Power Infobox|Next Turn Block}}<br>{{Keyword Infobox|Block}}<br>{{R|Self-Forming Clay}} ... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

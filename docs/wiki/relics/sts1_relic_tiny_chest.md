@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Every 4th ? room is a Treasure room.\"A fine prototype.\" - The Architect", "flavor": "\"A fine prototype.\" - The Architect"} |
+| `effect_json` | {"description_en": "Every 4th ? room is a Treasure room.\"A fine prototype.\" - The Architect", "description_zh": "每 #b 个 #y？ 房间的最后一个必是 #y宝箱房 。", "flavor": "\"A fine prototype.\" - The Architect", "flavor_en": "\"A fine prototype.\" - The Architect", "flavor_zh": "“作为原型而言相当不错。”——建筑师"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 小宝箱 | `single_source` | [小宝箱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492810&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Tiny Chest<br>|Image       = TinyChest.png<br>|Rarity      = Common<br>|Description = Every 4th ? room is a Treasure room.<br>|Flavor      = "A fine prototype." - The Architect<br>}}<br>{{R|Tiny Chest}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Small Chest]] or [[Medium Chest]]. See Chest and non-Chest chance at [[Relics#Rarity|Rel... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

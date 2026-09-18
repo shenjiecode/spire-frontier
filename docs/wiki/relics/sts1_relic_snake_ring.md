@@ -14,14 +14,15 @@
 | --- | --- |
 | `rarity` | Starter |
 | `character_entity_id` | sts1.character.silent |
+| `effect_json` | {"description_en": "At the start of each combat, draw 2 additional cards.", "description_zh": "在每场战斗开始时，额外抽2张牌。", "flavor_en": "Made from a fossilized snake. Represents great skill as a huntress.", "flavor_zh": "用蛇的化石制成的戒指，优秀女猎手的象征。"} |
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
-- `starts_with_relic` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `starts_with_relic` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 来源与核对状态
 
@@ -45,4 +46,4 @@
 | `source.title_text` | 蛇之戒指 | `single_source` | [蛇之戒指](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492919&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Ring of the Snake<br>| Image       = RingoftheSnake.png<br>| Rarity      = Starter<br>| Character   = Silent<br>| Description = At the start of each combat, draw 2 additional cards.<br>| Flavor      = Made from a fossilized snake. Represents great skill as a huntress.<br>| GivesToPlayer = Draw<br>}}<br>{{R|Ring of the Snake}} is the {{QueryLink|Relics|rarity:Starter|Starter}} [[Relic]] of the [[Silent]]; they will always start ev... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

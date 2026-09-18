@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.Unnaturally sharp.", "flavor": "Unnaturally sharp."} |
+| `effect_json` | {"description_en": "Every time you play 3 Skills in a single turn, deal 5 damage to ALL enemies.Unnaturally sharp.", "description_zh": "你每在同一回合内打出 #b3 张技能牌，对所有敌人造成 #b 点伤害。", "flavor": "Unnaturally sharp.", "flavor_en": "Unnaturally sharp.", "flavor_zh": "锋利到不自然。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 开信刀 | `single_source` | [开信刀](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493802&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Letter Opener<br>|Image       = LetterOpener.png<br>|Rarity      = Uncommon<br>|Description = Every time you play 3 {{QueryLink|Cards|type:Skill|Skills}} in a single turn, deal 5 damage to ALL enemies.<br>|Flavor      = Unnaturally sharp.<br>}}<br>{{R|Letter Opener}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. Whenever 3 {{QueryLink|Cards|type:Skill|Skills}} are played in the same turn, 5 damage is dealt to all ... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

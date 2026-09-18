@@ -20,12 +20,12 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `X` | Put a Miracle+ into your hand at the start of your next X turns. Exhaust | 未采集 | 未保存 |
-| `Upgraded` | `X` | Put a Miracle+ into your hand at the start of your next X+1 turns. Exhaust | 未采集 | 未保存 |
+| `Base` | `X` | Put a Miracle+ into your hand at the start of your next X turns. Exhaust | 在你的下X个回合开始时，增加一张奇迹+到你的手牌。消耗 | 未保存 |
+| `Upgraded` | `X` | Put a Miracle+ into your hand at the start of your next X+1 turns. Exhaust | 在你的下X+1个回合开始时，增加一张奇迹+到你的手牌。消耗。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -41,7 +41,9 @@
 | `card.cost (base)` | X | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | X | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.description (base)` | Put a Miracle+ into your hand at the start of your next X turns. Exhaust | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Put a Miracle+ into your hand at the start of your next X turns. Exhaust | `provisional` | [收集](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667096&wiki_id=646570) |
 | `card.description (upgrade)` | Put a Miracle+ into your hand at the start of your next X+1 turns. Exhaust | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Put a Miracle+ into your hand at the start of your next X+1 turns. Exhaust | `provisional` | [收集](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667096&wiki_id=646570) |
 | `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Exhaust", "Hand"] | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +59,4 @@
 | `source.title_text` | 收集 | `single_source` | [收集](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9667096&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Collect<br>|Image       = Purple-Collect.png<br>|Color       = Purple<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = -1<br>|Description = Put a {{C|Miracle|Miracle+}} into your hand at the start of your next (X;X+1) turns. {{KW|Exhaust}}<br>|GivesToPlayer = Exhaust<br>}}<br>{{Power Infobox|Collect}} {{Small Card Infobox|Miracle}}<br>{{C|Collect}} is an X {{Icon|PE}} cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Un... | `single_source` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

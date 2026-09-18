@@ -59,4 +59,4 @@
 | `source.title_text` | 噬咬 | `single_source` | [噬咬](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536403&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Bite<br>|Image       = Colorless-Bite.png<br>|Color       = Colorless<br>|Type        = Attack<br>|Rarity      = Special<br>|Cost        = 1<br>|Description = Deal (7;8) damage.<br>Heal (2;3) HP.<br>}}<br>{{C|Bite}} is a 1 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Special|Special}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 7 (8 if upgrade) damage and heals you for 2 (3 if upgraded) HP.<br><br>== Obtaini... | `single_source` | [P3 wiki.gg API batch: card 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bullseye|Corruption|Expunger|Wave_of_the_Hand|Panic_Button|Scrape|Indignation|Cut_Through_Fate|Hemokinesis|Deflect|Sadistic_Nature|Evaluate|Buffer|Tools_of_the_Trade|Wallop|Blasphemy|Ball_Lightning|Bite|Heel_Hook|Die_Die_Die&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Your first Attack each combat deals 8 additional damageMuuu~", "flavor": "Muuu~"} |
+| `effect_json` | {"description_en": "Your first Attack each combat deals 8 additional damageMuuu~", "description_zh": "你在每场战斗中的第一次攻击造成 #b 点额外伤害", "flavor": "Muuu~", "flavor_en": "\"Muuu~\"", "flavor_zh": "“哞～”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 赤牛 | `single_source` | [赤牛](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959083&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation||1}} {{Relic Infobox<br>| Name        = Akabeko<br>| Image       = Akabeko.png<br>| BetaImage   = Akabeko Old.png<br>| Rarity      = Common<br>| Description = Your first {{QueryLink|Cards|type:Attack|Attack}} each combat deals 8 additional damage<br>| Flavor      = Muuu~<br>| GivesToPlayer = Vigor<br>}} {{Power Infobox|Vigor}}<br>{{R|Akabeko}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]]. Its damage buff is applied as 8 stacks of {{BD|Vigor}} at the start o... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

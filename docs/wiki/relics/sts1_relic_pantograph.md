@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "At the start of Boss combats, heal 25 HP.\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect", "flavor": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect"} |
+| `effect_json` | {"description_en": "At the start of Boss combats, heal 25 HP.\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect", "description_zh": "在Boss战开始时，回复 #b 点生命。", "flavor": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect", "flavor_en": "\"Solid foundations are not accidental. Tools for planning are a must.\" - The Architect", "flavor_zh": "“坚实的地基从不是出自偶然，规划工具是重中之重。”——建筑师"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 缩放仪 | `single_source` | [缩放仪](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493833&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Pantograph<br>|Image       = Pantograph.png<br>|Rarity      = Uncommon<br>|Description = At the start of Boss combats, heal 25 HP.<br>|Flavor      = "Solid foundations are not accidental. Tools for planning are a must." - The Architect<br>}}<br>{{R|Pantograph}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

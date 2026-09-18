@@ -39,5 +39,6 @@
 | `source.title_text` | 人工制品 | `single_source` | [人工制品](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460430&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Power Infobox<br>|Name         = Artifact<br>|Image        = Icon Artifact.png<br>|Description  = Negates X debuffs.<br>|Type         = Buff<br>|Stacks       = Counter<br>|BetweenTurns = <br>|Cap          = <br>}}<br>{{BD|Artifact}} is a [[Buff]] that negates any debuff applied to the player. Each time a debuff is negated, a stack of {{BD|Artifact}} is removed.<br><br>== Sources ==<br>=== On Player ===<br>==== Cards ====<br>* {{C|Panacea}}: Gain 1({{TS|green||2}... | `single_source` | [P3 wiki.gg API batch: status 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Artifact|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | Negates X debuffs. | `single_source` | [P3 wiki.gg API batch: status 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Artifact|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `status.description` | 免疫 X 次负面效果。 | `single_source` | [人工制品](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460430&wiki_id=646570) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

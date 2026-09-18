@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "At the start of your turn, deal 3 damage to ALL enemies.An enchanted hourglass that endlessly drips.", "flavor": "An enchanted hourglass that endlessly drips."} |
+| `effect_json` | {"description_en": "At the start of your turn, deal 3 damage to ALL enemies.An enchanted hourglass that endlessly drips.", "description_zh": "在你的回合开始时，对所有敌人造成 #b 点伤害。", "flavor": "An enchanted hourglass that endlessly drips.", "flavor_en": "An enchanted hourglass that endlessly drips.", "flavor_zh": "一个附加魔力的沙漏，一直都在不断滴下水银。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 水银沙漏 | `single_source` | [水银沙漏](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493828&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Mercury Hourglass<br>|Image       = MercuryHourglass.png<br>|Rarity      = Uncommon<br>|Description = At the start of your turn, deal 3 damage to ALL enemies.<br>|Flavor      = An enchanted hourglass that endlessly drips.<br>}}<br>{{R|Mercury Hourglass}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. At the start of each turn in combat, it deals 3 damage to all enemies. This damage is not treated as {{QueryLink|Car... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Choose 1 of 3 random Skill cards to add (two copies of) to your hand. It costs (They cost) 0 this turn.", "flavor": ""} |
+| `effect_json` | {"description_en": "Choose 1 of 3 random Skill cards to add (two copies of) to your hand. It costs (They cost) 0 this turn.", "description_zh": "从 #b3 张随机技能牌中选择 #b1 张加入你的手牌。这张牌在本回合耗能变为 #b0 。从 #b3 张随机技能牌中选择 #b1 张，将其加入你的手牌 #b2 次。这两张牌在本回合耗能变为 #b0 。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 技能药水 | `single_source` | [技能药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953427&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Skill Potion<br>|Sequel=		1<br>|Image=			SkillPotion.png<br>|Rarity=		Common<br>|Description=	Choose 1 of 3 random {{QueryLink|Cards|type:Skill|Skill}} cards to add(;two copies of) to your hand. (It costs;They cost) 0 this turn.<br>}}<br>{{P|Skill Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} dou... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

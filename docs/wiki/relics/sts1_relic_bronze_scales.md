@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Start each combat with 3 Thorns.The sharp scales of the Guardian. Rearranges itself to protect its user.", "flavor": "The sharp scales of the Guardian. Rearranges itself to protect its user."} |
+| `effect_json` | {"description_en": "Start each combat with 3 Thorns.The sharp scales of the Guardian. Rearranges itself to protect its user.", "description_zh": "铜制鳞片（Bronze Scales）\n稀有度\n普通\n角色\n通用\n作用\n在每场战斗开始时，获得3点荆棘\n说明\n守护者身上的锐利鳞片，会自动变形来保护使用者", "flavor": "The sharp scales of the Guardian. Rearranges itself to protect its user.", "flavor_en": "The sharp scales of the Guardian. Rearranges itself to protect its user.", "flavor_zh": "守护者身上的锐利鳞片，会自动变形来保护使用者。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 铜制鳞片 | `single_source` | [铜制鳞片](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492808&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Bronze Scales<br>|Image       = BronzeScales.png<br>|Rarity      = Common<br>|Description = Start each combat with 3 {{BD|Thorns}}.<br>|Flavor      = The sharp scales of the Guardian. Rearranges itself to protect its user.<br>|GivesToPlayer = Thorns<br>}}<br>{{Power Infobox|Thorns}}{{R|Bronze Scales}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buyin... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

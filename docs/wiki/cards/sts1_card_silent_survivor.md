@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 生存者 | `single_source` | [生存者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494154&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>| Name        = Survivor<br>| Image       = Green-Survivor.png<br>| Color       = Green<br>| Type        = Skill<br>| Rarity      = Basic<br>| Cost        = 1<br>| Description = Gain (8;11) {{KW|Block}}.<br>Discard 1 card.<br>| GivesToPlayer = Block, Discard<br>}}<br>{{Keyword Infobox|Block}}<br>{{C|Survivor}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Basic|Basic}} {{QueryLink|Cards|type:Skill|Skill}... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

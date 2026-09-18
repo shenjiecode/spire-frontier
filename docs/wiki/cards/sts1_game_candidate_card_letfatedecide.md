@@ -1,12 +1,12 @@
-# DEPRECATED Let Fate Decide / DEPRECATED Let Fate Decide
+# （暂无中文名） / LetFateDecide
 
 > 稳定 ID：`sts1.game.candidate.card.letfatedecide`  
 > 类别：`card`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
-- 中文：DEPRECATED Let Fate Decide
-- English: DEPRECATED Let Fate Decide
+- 中文：（暂无中文名）
+- English: LetFateDecide
 
 ## 卡牌属性
 
@@ -41,4 +41,4 @@
 | `game.localization.name` | DEPRECATED Let Fate Decide | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "LetFateDecide", "kind": "card", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

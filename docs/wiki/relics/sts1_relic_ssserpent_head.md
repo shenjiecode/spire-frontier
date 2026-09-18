@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Whenever you enter a ? room, gain 50 Gold.The most fulfilling of lives is that in which you can buy anything!", "flavor": "The most fulfilling of lives is that in which you can buy anything!"} |
+| `effect_json` | {"description_en": "Whenever you enter a ? room, gain 50 Gold.The most fulfilling of lives is that in which you can buy anything!", "description_zh": "每次进入？房间时获得 #b #y金币 。", "flavor": "The most fulfilling of lives is that in which you can buy anything!", "flavor_en": "The most fulfilling of lives is that in which you can buy anything!", "flavor_zh": "最幸福的人生当然就是什么东西都能买得起的土豪生活了！"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 蛇的头 | `single_source` | [蛇的头](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525851&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Ssserpent Head<br>|Image       = SsserpentHead.png<br>|Rarity      = Event<br>|Source      = Face Trader<br>|Description = Whenever you enter a ? room, gain 50 [[Gold]].<br>|Flavor      = The most fulfilling of lives is that in which you can buy anything!<br>}}<br>{{R|Ssserpent Head}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]].<br><br>== Sources ==<br>Can only be obtained from {{E|Face Trader}} by selecting the {{Frame|Trade}} option and randomly... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

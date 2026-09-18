@@ -59,4 +59,4 @@
 | `source.title_text` | 预谋 | `single_source` | [预谋](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536787&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Forethought<br>|Image       = Colorless-Forethought.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Put (a card;any number of cards) from your hand to the bottom of your draw pile. (It costs;They cost) 0 until played.<br>|Keywords    = Hand<br>}}<br>{{C|Forethought}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryL... | `single_source` | [P3 wiki.gg API batch: card 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Carnage|Warcry|Chill|Apotheosis|Double_Energy|Secret_Weapon|Perseverance|Wreath_of_Flame|Crush_Joints|Deva_Form|Hand_of_Greed|Forethought|Caltrops|Storm_of_Steel|Acrobatics|Skim|Good_Instincts|White_Noise|Spot_Weakness|Well-Laid_Plans&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

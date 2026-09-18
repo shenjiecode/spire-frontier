@@ -16,7 +16,7 @@
 | `act` | Act 1 |
 | `hp_min` | 140 |
 | `hp_max` | 140 |
-| `ascension_json` | {"asc_hp": 150} |
+| `ascension_json` | {"ascension_max": 150, "ascension_min": 150, "ascension_raw": "150", "base_max": 140, "base_min": 140, "base_raw": "140"} |
 | `encounter_notes` | Chinese article shows 140;(150;) and a 4+/19+ action table; retain raw text in claims. |
 
 ### 行动
@@ -38,7 +38,7 @@
 
 ## 被哪些条目引用
 
-- `contains_monster` → [第一幕：史莱姆老大 / Exordium: Slime Boss](../encounters/sts1_encounter_exordium_slime_boss.md) 
+- `contains_monster` → [第一幕：史莱姆老大 / Exordium: Slime Boss](../encounters/sts1_encounter_exordium_slime_boss.md)
 
 ## 来源与核对状态
 
@@ -55,6 +55,7 @@
 | `game.monster.moves` | ["猛撞", "准备", "分裂", "黏液喷射"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `monster.hp.ascension` | 150 | `provisional` | [史莱姆老大](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=531529&wiki_id=646570) |
 | `monster.hp.base` | 140 | `provisional` | [史莱姆老大](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=531529&wiki_id=646570) |
+| `monster.hp.range` | {"ascension_max": 150, "ascension_min": 150, "ascension_raw": "150", "base_max": 140, "base_min": 140, "base_raw": "140"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Goop Spray` | {"effect": "Adds (3;5) Slimed into your discard pile.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Preparing` | {"effect": "Does nothing.", "intent": "Unknown"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Slam` | {"effect": "Deals (35;38) damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -70,4 +71,4 @@
 | `source.title_text` | 史莱姆老大 | `single_source` | [史莱姆老大](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=531529&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Slime Boss<br>|Image  = SlimeBoss.png<br>|Icon   = Map-SlimeBoss.png<br>|HP     = 140<br>|AscHP  = 150<br>|Powers = {{BD|Split}}<br>|Debut  = Act 1<br>|Type   = Boss<br>}} {{Power Infobox|Split}}{{Small Card Infobox|Slimed}}<br>'''Slime Boss''' is a [[Boss]] that can appear at the end of [[Act 1]] or the [[Act 3]] event {{E|Mind Bloom}}.<br><br>== Pattern ==<br>{{Intents Table/start|Slime Boss}}<br>{{Intents Table/row<br>|Name   = Goop Spray<br>|Intent = DebuffStr... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

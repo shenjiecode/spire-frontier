@@ -34,4 +34,4 @@
 | `game.status.descriptions` | ["#yEnergy is conserved this turn.", "#yEnergy is conserved for the next #b", " turns."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["在本回合结束时，将多余的 #y能量 留到下回合。", "在接下来 #b", " 个回合结束时，将多余的 #y能量 留到下回合。"] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

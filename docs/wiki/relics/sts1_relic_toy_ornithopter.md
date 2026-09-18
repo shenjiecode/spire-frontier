@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Whenever you use a potion, heal 5 HP.\"This little toy is the perfect companion for the lone adventurer!\"", "flavor": "\"This little toy is the perfect companion for the lone adventurer!\""} |
+| `effect_json` | {"description_en": "Whenever you use a potion, heal 5 HP.\"This little toy is the perfect companion for the lone adventurer!\"", "description_zh": "你每使用一瓶药水，回复 #b 点生命。", "flavor": "\"This little toy is the perfect companion for the lone adventurer!\"", "flavor_en": "\"This little toy is the perfect companion for the lone adventurer!\"", "flavor_zh": "“这个小玩具最适合陪伴孤独一人的冒险者啦！”"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 玩具扑翼飞机 | `single_source` | [玩具扑翼飞机](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494866&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Toy Ornithopter<br>|Image       = ToyOrnithopter.png<br>|Rarity      = Common<br>|Description = Whenever you use a [[Potions|potion]], heal 5 HP.<br>|Flavor      = "This little toy is the perfect companion for the lone adventurer!"<br>}}<br>{{R|Toy Ornithopter}} is a {{QueryLink|Relics|Common:Common|Common}} [[Relic]]. It heals 5 HP whenever a [[Potions|potion]] is used. Discarding a potion will not grant the heal.<br><br>== Sources ==<br>* Can be dropped by ... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

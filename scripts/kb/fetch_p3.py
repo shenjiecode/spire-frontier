@@ -70,7 +70,7 @@ from bootstrap_sample import (  # type: ignore
 )
 
 
-PARSER_VERSION = "kb-p3-content/0.1"
+PARSER_VERSION = "kb-p3-content/0.2"
 XIAO_DELAY = 0.25
 WIKI_DELAY = 0.8
 DEFAULT_KINDS = ("card", "relic", "potion")
@@ -571,18 +571,91 @@ def parse_event_options(wikitext: str) -> list[dict[str, Any]]:
     full wikitext claim remains the source of truth; these summaries are
     conservative structured candidates.
     """
+    # Keep nested headings such as the ownership branches on ``Tomb of Lord
+    # Red Mask``.  ``Practical Options`` on ``Cursed Tome`` is editorial
+    # guidance rather than another set of buttons, so it is an explicit
+    # boundary inside the Options section.
     match = re.search(r"^==\s*Options\s*==\s*$([\s\S]*?)(?=^==[^=]|\Z)", wikitext, flags=re.I | re.M)
     if not match:
         return []
     section = match.group(1)
-    frames = list(re.finditer(r"\{\{\s*Frame\s*\|\s*([^{}|]+?)\s*\}\}", section, flags=re.I))
+    section = re.split(r"^===\s*Practical Options\s*===\s*$", section, maxsplit=1, flags=re.I | re.M)[0]
+
+    def balanced_frame_blocks(text: str) -> list[tuple[int, int, str]]:
+        """Return balanced Frame templates with source offsets.
+
+        A regular expression cannot read labels such as ``Offer: {{R|Golden
+        Idol}}`` because the nested relic template contains its own ``}}``.
+        This small scanner follows the same balanced-template rule used by
+        ``parse_all_template_blocks`` and keeps offsets for option filtering.
+        """
+        marker = re.compile(r"\{\{\s*Frame\b", flags=re.I)
+        blocks: list[tuple[int, int, str]] = []
+        offset = 0
+        while True:
+            found = marker.search(text, offset)
+            if not found:
+                break
+            depth = 0
+            cursor = found.start()
+            end = None
+            while cursor < len(text) - 1:
+                pair = text[cursor : cursor + 2]
+                if pair == "{{":
+                    depth += 1
+                    cursor += 2
+                    continue
+                if pair == "}}":
+                    depth -= 1
+                    cursor += 2
+                    if depth == 0:
+                        end = cursor
+                        break
+                    continue
+                cursor += 1
+            if end is None:
+                break
+            body = text[found.end() : end - 2]
+            blocks.append((found.start(), end, body))
+            offset = end
+        return blocks
+
+    all_frames = balanced_frame_blocks(section)
+    # A Frame at the start of a line is the wiki's option declaration.  Inline
+    # references in bullets and explanatory sentences are not buttons.  Add
+    # only two explicit inline forms that represent real UI branches: a
+    # locked replacement and the follow-up Leave button.
+    line_start_positions = {
+        start
+        for start, _end, _body in all_frames
+        if not section[section.rfind("\n", 0, start) + 1 : start].strip()
+    }
+    first_line_start = min(line_start_positions) if line_start_positions else None
+    inline_frames: list[tuple[int, int, str]] = []
+    for start, end, body in all_frames:
+        prefix = section[max(0, start - 120) : start]
+        line_prefix = section[section.rfind("\n", 0, start) + 1 : start]
+        line_start = not line_prefix.strip()
+        explicit_inline = bool(
+            re.search(r"(?:replaced\s+with(?:\s+the\s+option)?|option\s+to|given\s+the\s+option\s+to)\s*$", prefix, flags=re.I)
+        )
+        # A locked replacement mentioned in a preamble (before the first
+        # actual button) describes the UI but is not itself ordered before the
+        # first button.  Keep later locked branches, whose source position is
+        # attached to the corresponding option.
+        inline_after_options = first_line_start is None or start >= first_line_start
+        if line_start or (explicit_inline and inline_after_options):
+            inline_frames.append((start, end, body))
+
+    frames = inline_frames
     options: list[dict[str, Any]] = []
     for index, frame in enumerate(frames, 1):
-        label = strip_wiki_markup(frame.group(1))
+        start, end, body = frame
+        label = strip_wiki_markup(body.lstrip("|"))
         if not label:
             continue
-        end = frames[index].start() if index < len(frames) else len(section)
-        raw = section[frame.end():end]
+        next_start = frames[index][0] if index < len(frames) else len(section)
+        raw = section[end:next_start]
         text = strip_wiki_markup(raw).strip(" -*\n\t")
         # Bullets immediately following an option are conditions or details;
         # preserving them in the JSON keeps review possible without guessing
@@ -670,7 +743,18 @@ def upsert_structured_noncard(
         if options:
             # Parsed option IDs are namespaced so a later parser revision can
             # coexist with an older raw claim while keeping reruns idempotent.
-            conn.execute("DELETE FROM event_options WHERE event_entity_id=? AND id LIKE 'event_option.%'", (entity_id,))
+            # Rebuild the complete projection for this source page.  The
+            # bootstrap sample used a different ID namespace; leaving those
+            # rows behind creates duplicate options after a real wiki parse.
+            conn.execute("DELETE FROM event_options WHERE event_entity_id=?", (entity_id,))
+            # ``event.option.N`` is a derived projection, not the raw source
+            # claim.  Remove the previous ordinal set as well; otherwise a
+            # parser correction leaves stale ordinals visible in generated
+            # pages alongside the new rows.
+            conn.execute(
+                "DELETE FROM claims WHERE subject_entity_id=? AND field_path LIKE 'event.option.%'",
+                (entity_id,),
+            )
             for option in options:
                 option_id = "event_option." + hashlib.sha256(
                     f"{entity_id}|{option['ordinal']}|{option['label']}|{option['summary']}".encode("utf-8")

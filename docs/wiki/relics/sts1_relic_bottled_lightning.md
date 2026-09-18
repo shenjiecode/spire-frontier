@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.Peering into the swirling maelstrom, you see a part of yourself staring back.", "flavor": "Peering into the swirling maelstrom, you see a part of yourself staring back."} |
+| `effect_json` | {"description_en": "Upon pickup, choose a Skill card. At the start of each combat, this card will be in your hand.Peering into the swirling maelstrom, you see a part of yourself staring back.", "description_zh": "拾起时，选择一张 #y技能牌 。在每场战斗开始时，这张牌会出现在手牌中。选择一张牌 在每场战斗开始时，将  放入你的手牌。", "flavor": "Peering into the swirling maelstrom, you see a part of yourself staring back.", "flavor_en": "Peering into the swirling maelstrom, you see a part of yourself staring back.", "flavor_zh": "细看这团旋转的雷云，你仿佛能看见自己的一部分在回望着你。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 瓶装闪电 | `single_source` | [瓶装闪电](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493814&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Bottled Lightning<br>|Image       = BottledLightning.png<br>|Rarity      = Uncommon<br>|Description = Upon pickup, choose a {{QueryLink|Cards|type:Skill|Skill}} card. <br>At the start of each combat, this card will be in your hand.<br>|Flavor      = Peering into the swirling maelstrom, you see a part of yourself staring back.<br>}}<br>{{R|Bottled Lightning}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be droppe... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

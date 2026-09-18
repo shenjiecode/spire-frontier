@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Shop |
 | `character_entity_id` | sts1.character.silent |
-| `effect_json` | {"description_en": "At the start of each combat, apply 4 Poison to ALL enemies.I wouldn't drink out of it.", "flavor": "I wouldn't drink out of it."} |
+| `effect_json` | {"description_en": "At the start of each combat, apply 4 Poison to ALL enemies.I wouldn't drink out of it.", "description_zh": "在每场战斗开始时，给予所有敌人 #b4 层 #y中毒 。", "flavor": "I wouldn't drink out of it.", "flavor_en": "\"I wouldn't drink out of it.\"", "flavor_zh": "“个人建议不要用这个来喝东西。”"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 扭曲漏斗 | `single_source` | [扭曲漏斗](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494927&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Twisted Funnel<br>|Image       = TwistedFunnel.png<br>|Rarity      = Shop<br>|Character   = Silent<br>|Description = At the start of each combat, apply 4 {{BD|Poison}} to ALL enemies.<br>|Flavor      = I wouldn't drink out of it.<br>}}<br>{{Power Infobox|Poison}}{{R|Twisted Funnel}} is a {{QueryLink|Relics|character:Silent|Silent-exclusive}} {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bou... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

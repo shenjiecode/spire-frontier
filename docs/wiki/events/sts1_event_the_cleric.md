@@ -51,4 +51,4 @@
 | `source.title_text` | 牧师 | `single_source` | [牧师](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15375132&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=The Cleric<br>|Image=Event-Cleric.png<br>}}<br>{{E|The Cleric}} is a {{QueryLink|Events|shrine:Yes|shrine Event}} found exclusively in [[Act 1]]. It is one of the events affected by {{Asc|15|Ascension}}. It can only be encountered if the player has at least 35 [[Gold]]; enough to afford at least one of the options.<br><br>== Options ==<br>{{Frame|Heal}} {{TS|gold||35 [[Gold]]:}} {{TS|positive||Heal X HP.}}<br>* X is equal to 25% of the player's Max HP, rounded down.<b... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

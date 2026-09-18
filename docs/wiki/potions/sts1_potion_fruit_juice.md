@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Gain 5 (10) Max HP.", "flavor": ""} |
+| `effect_json` | {"description_en": "Gain 5 (10) Max HP.", "description_zh": "获得 #b 点最大生命。", "flavor": ""} |
 
 ## 相关条目
 
@@ -42,4 +42,4 @@
 | `source.title_text` | 果汁 | `single_source` | [果汁](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953447&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Fruit Juice<br>|Sequel=		1<br>|Image=			FruitJuice.png<br>|Rarity=		Rare<br>|Description=	Gain (5;10) Max HP.<br>}}<br>{{P|Fruit Juice}} is a {{QueryLink|Potions|rarity:Rare|Rare}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources|nonstandard= true}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of '''Fruit Juice'''.<br><!-- Include any relevant synergies here, with bullet points. Oth... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

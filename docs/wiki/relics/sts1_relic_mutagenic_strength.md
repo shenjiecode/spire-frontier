@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Start each combat with 3 Strength. At the end of your first turn, lose 3 Strength.\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown", "flavor": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown"} |
+| `effect_json` | {"description_en": "Start each combat with 3 Strength. At the end of your first turn, lose 3 Strength.\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown", "description_zh": "在每场战斗开始时获得 #b 点 #y力量 ，在你的第一个回合结束时失去 #b 点 #y力量。", "flavor": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown", "flavor_en": "\"The results seem fleeting, triggering when the subject is in danger.\" - Unknown", "flavor_zh": "“效果似乎稍纵即逝，只在危险时才会触发。”——佚名"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 突变之力 | `single_source` | [突变之力](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525853&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Mutagenic Strength<br>|Image       = MutagenicStrength.png<br>|Rarity      = Event<br>|Source      = Augmenter<br>|Description = Start each combat with 3 {{BD|Strength}}. At the end of your first turn, lose 3 {{BD|Strength}}.<br>|Flavor      = "The results seem fleeting, triggering when the subject is in danger." - Unknown<br>}}<br>{{Power Infobox|Strength}} {{Power Infobox|Strength Down}}<br>{{R|Mutagenic Strength}} is an {{QueryLink|Relics|rarity:Event|Even... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

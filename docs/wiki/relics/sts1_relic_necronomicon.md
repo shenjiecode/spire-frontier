@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "The first Attack played each turn that costs 2 or more is played twice. Upon pickup, obtain a special Curse.Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.", "flavor": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind."} |
+| `effect_json` | {"description_en": "The first Attack played each turn that costs 2 or more is played twice. Upon pickup, obtain a special Curse.Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.", "description_zh": "你每回合打出的第一张耗能大于等于 #b 的  #y攻击牌 将被打出两次。当你拾起这件遗物时，被 #r诅咒 。 的  #y攻击牌 将被打出两次。", "flavor": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.", "flavor_en": "Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.", "flavor_zh": "只有傻瓜才会想要去掌控这种邪恶的力量。你每晚的梦境中都充斥着这本书将你的心智逐渐吞噬的噩梦。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 死灵之书 | `single_source` | [死灵之书](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525852&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Necronomicon<br>|Image       = Necronomicon.png<br>|Rarity      = Event<br>|Source      = Cursed Tome<br>|Description = The first {{QueryLink|Cards|type:Attack|Attack}} played each turn that costs 2 or more is played twice. Upon pickup, obtain a special {{QueryLink|Cards|type:Curse|Curse}}.<br>|Flavor      = Only a fool would try and harness this evil power. At night your dreams are haunted by images of the book devouring your mind.<br>}}<br>{{Small Card Info... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

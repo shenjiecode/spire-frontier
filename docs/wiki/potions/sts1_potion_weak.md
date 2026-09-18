@@ -14,11 +14,11 @@
 | --- | --- |
 | `rarity` | Common |
 | `target` | enemy |
-| `effect_json` | {"weak": 3} |
+| `effect_json` | {"description_en": "Apply (3;6) Weak to target enemy.", "description_zh": "给予3层虚弱。", "weak": 3} |
 
 ## 相关条目
 
-- `applies_status` → [虚弱 / Weak](../statuses/sts1_status_weak.md) 
+- `applies_status` → [虚弱 / Weak](../statuses/sts1_status_weak.md)
 
 ## 被哪些条目引用
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 虚弱药水 | `single_source` | [虚弱药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496923&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Weak Potion<br>|Sequel=		1<br>|Image=			WeakPotion.png<br>|Rarity=		Common<br>|Description=	Apply (3;6) {{BD|Weak}} to target enemy.<br>}}<br>{{Power Infobox|Weak}}<br>{{P|Weak Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of '''Weak Potion'''.<br><!-- Include any relevant syne... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

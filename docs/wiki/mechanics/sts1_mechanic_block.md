@@ -12,7 +12,7 @@
 
 | 字段 | 值 |
 | --- | --- |
-| `definition_json` | {"definition": "Block"} |
+| `definition_json` | {"definition_en": "Until next turn, prevents damage.", "definition_zh": "持续到下回合开始前，阻挡伤害。", "source_kind": "shared_keyword_definition", "wiki_source_page_id": "source_page.wiki_gg.8fc6abbe91af13ec"} |
 
 ## 相关条目
 
@@ -20,7 +20,7 @@
 
 ## 被哪些条目引用
 
-- `uses_mechanic` → [全身撞击 / Body Slam](../cards/sts1_card_ironclad_body_slam.md) 
+- `uses_mechanic` → [全身撞击 / Body Slam](../cards/sts1_card_ironclad_body_slam.md)
 
 ## 来源与核对状态
 
@@ -28,6 +28,7 @@
 
 | 字段 | 值 | 状态 | 来源 |
 | --- | --- | --- | --- |
-| — | 尚无字段级证据 | `unverified` | — |
+| `mechanic.definition` | {"definition_en": "Until next turn, prevents damage."} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
+| `mechanic.definition.zh` | 持续到下回合开始前，阻挡伤害。 | `verified_game` | [Game localization zhs/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/keywords.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

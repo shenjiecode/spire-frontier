@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "When you would die, heal to 50% of your Max HP instead (works once).A fake tail to trick enemies during combat.", "flavor": "A fake tail to trick enemies during combat."} |
+| `effect_json` | {"description_en": "When you would die, heal to 50% of your Max HP instead (works once).A fake tail to trick enemies during combat.", "description_zh": "当你要被杀死时，免死并回复到最大生命值的 #b50% （仅能起效一次）。", "flavor": "A fake tail to trick enemies during combat.", "flavor_en": "A fake tail to trick enemies during combat.", "flavor_zh": "在战斗中可以用来骗过敌人的假尾巴。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 蜥蜴尾巴 | `single_source` | [蜥蜴尾巴](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523670&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Lizard Tail<br>|Image       = LizardTail.png<br>|Rarity      = Rare<br>|Description = When you would die, heal to 50% of your Max HP instead (works once).<br>|Flavor      = A fake tail to trick enemies during combat.<br>}}<br>{{R|Lizard Tail}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Medium Chest]] or [[La... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

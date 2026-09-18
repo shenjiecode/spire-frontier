@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Whenever you obtain a Curse, increase your Max HP by 6The stone draws power from dark energy, converting it into vitality for the wearer.", "flavor": "The stone draws power from dark energy, converting it into vitality for the wearer."} |
+| `effect_json` | {"description_en": "Whenever you obtain a Curse, increase your Max HP by 6The stone draws power from dark energy, converting it into vitality for the wearer.", "description_zh": "黑石护符（Darkstone Periapt）\n稀有度\n罕见\n角色\n通用\n作用\n每当你获得一张诅咒，将你的最大生命值提高6\n说明\n这块黑石能吸取黑暗的能量，将其转化为佩戴者的生命力", "flavor": "The stone draws power from dark energy, converting it into vitality for the wearer.", "flavor_en": "The stone draws power from dark energy, converting it into vitality for the wearer.", "flavor_zh": "这块黑石能吸取黑暗的能量，将其转化为佩戴者的生命力。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 黑石护符 | `single_source` | [黑石护符](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493800&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Darkstone Periapt<br>|Image       = DarkstonePeriapt.png<br>|Rarity      = Uncommon<br>|Description = Whenever you obtain a {{QueryLink|Cards|type:Curse|Curse}}, increase your Max HP by 6<br>|Flavor      = The stone draws power from dark energy, converting it into vitality for the wearer.<br>}}<br>{{R|Darkstone Periapt}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by figh... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

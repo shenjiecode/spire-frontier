@@ -21,11 +21,11 @@
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
 | `Base` | `1.0` | Retain. Deal 4 damage twice. | 保留。造成六点伤害两次。 | 未保存 |
-| `Upgraded` | `1.0` | Retain. Deal 6 damage twice. | 未采集 | 未保存 |
+| `Upgraded` | `1.0` | Retain. Deal 6 damage twice. | 保留。造成六点伤害两次。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md) 
+- `belongs_to_character` → [观者 / Watcher](../characters/sts1_character_watcher.md)
 
 ## 被哪些条目引用
 
@@ -58,4 +58,4 @@
 | `source.title_text` | 流云飞袖 | `single_source` | [流云飞袖](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=2939947&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Flying Sleeves<br>|Image       = Purple-FlyingSleeves.png<br>|Color       = Purple<br>|Type        = Attack<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = {{KW|Retain}}. <br>Deal (4;6) damage twice.<br>}}<br>{{C|Flying Sleeves}} is a 1 {{Icon|PE}}-cost {{QueryLink|Cards|color:Purple|Watcher}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 4 (6 if upgraded) damage twice. It has {{KW|Retain}}, meani... | `single_source` | [P3 wiki.gg API batch: card 16](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Curse_of_the_Bell|Rebound|Rainbow|Fear_No_Evil|Foresight|Mind_Blast|Doom_and_Gloom|Clash|Apparition|Recursion|Heatsinks|Finisher|Flying_Sleeves|Tantrum|Slice|Phantasmal_Killer|Sands_of_Time|Clumsy|Bane|Brilliance&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Uncommon |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "Your rightmost Orb triggers its passive an additional time.\"Interesting! Even automatons are affected by placebo.\" - Ranwid", "flavor": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid"} |
+| `effect_json` | {"description_en": "Your rightmost Orb triggers its passive an additional time.\"Interesting! Even automatons are affected by placebo.\" - Ranwid", "description_zh": "你最右侧的充能球会额外触发一次被动效果。", "flavor": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid", "flavor_en": "\"Interesting! Even automatons are affected by placebo.\" - Ranwid", "flavor_zh": "“有意思！看来就连自动机器人也会有安慰剂效应。”——兰伟德"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 镀金缆线 | `single_source` | [镀金缆线](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493649&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Gold-Plated Cables<br>| Image       = Cables.png<br>| Rarity      = Uncommon<br>| Character   = Defect<br>| Description = Your rightmost {{KW|Orb}} triggers its passive an additional time.<br>| Flavor      = "Interesting! Even automatons are affected by placebo." - Ranwid<br>| InteractsWith = Orb<br>}}<br>{{R|Gold-Plated Cables}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Uncommon|Uncomm... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

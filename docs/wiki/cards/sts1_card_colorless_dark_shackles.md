@@ -59,4 +59,4 @@
 | `source.title_text` | 黑暗镣铐 | `single_source` | [黑暗镣铐](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536788&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Dark Shackles<br>|Image       = Colorless-DarkShackles.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Enemy loses (9;15) {{BD|Strength}} this turn.<br>{{KW|Exhaust}}.<br>|GivesToEnemy = Shackled, Strength (Negative)<br>|GivesToPlayer = Exhaust<br>}}<br>{{Power Infobox|Shackled}} {{Keyword Infobox|Exhaust}}<br>{{C|Dark Shackles}} is a 0 {{Icon|CE}}-cost {{Quer... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

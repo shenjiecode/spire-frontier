@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Cards containing \"Strike\" deal 3 additional damage.It's beat up.", "flavor": "It's beat up."} |
+| `effect_json` | {"description_en": "Cards containing \"Strike\" deal 3 additional damage.It's beat up.", "description_zh": "名字中有“打击”的卡牌造成 #b 点额外伤害。", "flavor": "It's beat up.", "flavor_en": "It's beat up.", "flavor_zh": "被打得破破烂烂的。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 打击木偶 | `single_source` | [打击木偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959086&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Relic Infobox<br>|Name        = Strike Dummy<br>|Image       = StrikeDummy.png<br>|Rarity      = Uncommon<br>|Description = Cards containing "Strike" deal 3 additional damage.<br>|Flavor      = It's beat up.<br>}}<br>{{R|Strike Dummy}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. Any card that contains the word "Strike" in its name deals an additional 3 damage. See [[#Interactions]] for a list of cards this applies to.<br><br>== Sources ==<br>* Ca... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

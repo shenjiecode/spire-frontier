@@ -16,13 +16,13 @@
 
 - 小黑盒候选页：[高塔之心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408927&wiki_id=646570) 的正文描述第三幕结束、钥匙和进入第四幕的门；它与安装包 `localization/eng/events.json` / `localization/zhs/events.json` 的 `Spire Heart` 键和 `高塔之心` 名称、选项（继续/攻击/睡眠/走向门前）一致。
 - 对 `https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=2&titles=Spire%20Heart...` 和 `titles=The%20Heart...` 的查询均返回 `missing: true`。因此没有可用于双源合并的英文 Wiki 实体。
-- 处理决定：确认“游戏本地化条目”和“小黑盒文章”描述的是同一个事件，但继续保留 `sts1.game.candidate.event.spire_heart` 与 `sts1.candidate.zh.event.15408927` 两个候选记录。当前合并工具要求目标是 active canonical entity；把它们合并到 `Corrupt Heart` 或其他事件会错误改变实体类型/来源粒度，故暂不晋升或强行合并。
+- 处理决定：确认“游戏本地化条目”和“小黑盒文章”描述的是同一个事件，并写入一条 `game_local` crosswalk。由于没有独立英文 Wiki 实体，`sts1.game.candidate.event.spire_heart` 与 `sts1.candidate.zh.event.15408927` 仍分别保留为候选证据；不把它们合并到 `Corrupt Heart` 或其他事件，也不把候选晋升为原版 active Wiki 实体。
 
 ## 百夫长 / 神秘术士 / Centurion and Mystic
 
 - wiki.gg 页面 [Centurion and Mystic](https://slaythespire.wiki.gg/wiki/Centurion_and_Mystic) 的同一正文包含两个独立的 `Enemy Infobox`、生命值、行动表和互相的组队说明。API 的 [Centurion](https://slaythespire.wiki.gg/wiki/Centurion) 与 [Mystic](https://slaythespire.wiki.gg/wiki/Mystic) 页面分别是重定向，目标为 `Centurion and Mystic#Centurion` 和 `#Mystic`。
 - 安装包 `monsters.json` 的键是 `Centurion`（简中“百夫长”）和 `Healer`（显示名 `Mystic`，简中“神秘术士”），因此游戏身份粒度是两个怪物；小黑盒也有两个独立中文文章候选页。原始英文合页快照和重定向 API JSON 均保留在上述目录。
-- 处理决定：不把两个游戏候选分别合并到 `sts1.monster.centurion_and_mystic`，也不把两个中文候选折叠成一个实体。这样做会把两个怪物的游戏 ID、生命值或行动错误混到合页实体。待模型支持“合页锚点/子实体”后，再建立 `sts1.monster.centurion` 与 `sts1.monster.mystic`，两者共享来源页面但分别引用对应锚点；当前保持候选并在查询结果中显示来源粒度差异。
+- 处理决定：已经按合页锚点建立并确认 `sts1.monster.centurion` 与 `sts1.monster.mystic` 两个独立实体；两个中文单体目录行分别映射到同一英文合页的对应锚点。组合父页只保留成员关系，不把两个怪物的生命值或行动混到父实体。
 
 ## 游戏内部关键词与状态候选
 
@@ -32,7 +32,8 @@
 
 1. 标有 `DEPRECATED`、`TODO`、`UNKNOWN` 或没有对应 StS1 Wiki 条目的条目继续保留为 `sts1.game.candidate.*`，作为游戏包证据，不作为可供玩家查询的 active Wiki 实体。
 2. 具有同名 active 状态或卡牌的关键词不自动合并；只有找到同类别 Wiki 条目、正文定义和游戏键三者一致时，才新增显式映射决定。
-3. “机器学习（能力）”“以手拒之（能力）”等小黑盒候选没有足够的英文身份证据，继续保持中文来源候选。
+3. “机器学习（能力）”已用小黑盒 Buffs id 与本机 `Machine Learning` 本地化键确认，并记录为 game-local crosswalk；由于英文 wiki 只在 `Buffs#Draw` 下按通用效果展示，仍保留游戏候选，不强行合并为独立 wiki 状态。
+4. “以手拒之（能力）”的英文效果、`Talk to the Hand` Buffs id、wiki.gg `Block Return` 锚点和本机 `BlockReturnPower` 描述一致，已合并到 `sts1.status.block_return`；中文标题作为已审核别名保留。
 
 ## 已确认的对照范围
 

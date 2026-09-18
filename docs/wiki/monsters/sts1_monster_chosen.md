@@ -15,8 +15,8 @@
 | `category` | normal |
 | `act` | Act 2 |
 | `hp_min` | 95 |
-| `hp_max` | 95 |
-| `ascension_json` | {"asc_hp": 98} |
+| `hp_max` | 99 |
+| `ascension_json` | {"ascension_max": 103, "ascension_min": 98, "ascension_raw": "98-103", "base_max": 99, "base_min": 95, "base_raw": "95-99"} |
 
 ### 行动
 
@@ -26,7 +26,7 @@
 | Debilitate | DebuffAttack3 | 10 |  | {"text": "Deals (10;12) damage. Applies 2 Vulnerable."} |
 | Drain | DebuffDefend |  |  | {"text": "Applies 3 Weak. Gain 3 Strength."} |
 | Zap | Attack4 | 18 |  | {"text": "Deals (18;21) damage."} |
-| Poke | Attack3 | 5 |  | {"text": "Deals (5×2;6×2) damage."} |
+| Poke | Attack3 | 5 | 2 | {"text": "Deals (5×2;6×2) damage."} |
 
 ## 相关条目
 
@@ -34,7 +34,9 @@
 
 ## 被哪些条目引用
 
-暂无已确认关系。
+- `contains_monster` → [被拣选者 / Chosen](../encounters/sts1_encounter_act2_easy_chosen.md)
+- `contains_monster` → [被拣选者与异鸟 / Chosen and Byrds](../encounters/sts1_encounter_act2_hard_chosen_and_byrds.md)
+- `contains_monster` → [邪教徒与被拣选者 / Cultist and Chosen](../encounters/sts1_encounter_act2_hard_cultist_and_chosen.md)
 
 ## 来源与核对状态
 
@@ -49,6 +51,7 @@
 | `game.monster.dialog` | ["~挣扎吧……~"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 103, "ascension_min": 98, "ascension_raw": "98-103", "base_max": 99, "base_min": 95, "base_raw": "95-99"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Debilitate` | {"effect": "Deals (10;12) damage. Applies 2 Vulnerable.", "intent": "DebuffAttack3"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Drain` | {"effect": "Applies 3 Weak. Gain 3 Strength.", "intent": "DebuffDefend"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Hex` | {"effect": "Applies Hex.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -59,4 +62,4 @@
 | `source.title_text` | 被拣选者 | `single_source` | [被拣选者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408980&wiki_id=646570) |
 | `source.wikitext` | {{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br><br><br>{{Enemy Infobox<br>|Name   = Chosen<br>|Image  = Chosen.png<br>|HP     = 95-99<br>|AscHP  = 98-103<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox|Hex}}'''The Chosen''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Chosen}}<br>{{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

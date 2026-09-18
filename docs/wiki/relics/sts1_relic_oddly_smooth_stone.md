@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "At the start of each combat, gain 1 Dexterity.You have never seen something so smooth and pristine. This must be the work of the Ancients.", "flavor": "You have never seen something so smooth and pristine. This must be the work of the Ancients."} |
+| `effect_json` | {"description_en": "At the start of each combat, gain 1 Dexterity.You have never seen something so smooth and pristine. This must be the work of the Ancients.", "description_zh": "在每场战斗开始时，获得 #b 点 #y敏捷 。", "flavor": "You have never seen something so smooth and pristine. This must be the work of the Ancients.", "flavor_en": "You have never seen something so smooth and pristine. This must be the work of the Ancients.", "flavor_zh": "你从没有见过这么光滑完好的东西，这一定是出自先古之民的手艺。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 意外光滑的石头 | `single_source` | [意外光滑的石头](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492814&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Oddly Smooth Stone<br>|Image       = OddlySmoothStone.png<br>|Rarity      = Common<br>|Description = At the start of each combat, gain 1 {{BD|Dexterity}}.<br>|Flavor      = You have never seen something so smooth and pristine. This must be the work of the Ancients.<br>}}<br>{{Power Infobox|Dexterity}}{{R|Oddly Smooth Stone}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fight... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

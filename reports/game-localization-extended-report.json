@@ -22,7 +22,7 @@
       "eng",
       "zhs"
     ],
-    "recorded_at": "2026-09-18T04:31:08+00:00",
+    "recorded_at": "2026-09-18T09:40:39+00:00",
     "steam_build_id": "10180494"
   },
   "kinds": {
@@ -47,8 +47,8 @@
     "monster": {
       "english_entries": 72,
       "localized_claims": 72,
-      "matched_canonical": 57,
-      "new_candidates": 15
+      "matched_canonical": 56,
+      "new_candidates": 16
     },
     "status": {
       "english_entries": 178,

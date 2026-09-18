@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 乾坤一掷 | `single_source` | [乾坤一掷](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494139&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Unload<br>|Image       = Green-Unload.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Rare<br>|Cost        = 1<br>|Description = Deal (14;18) damage.<br>Discard all non-Attack cards in your hand.<br>|GivesToPlayer = Discard<br>}}<br>{{C|Unload}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 14 (18 if upgraded) damage, and [[Keyword... | `single_source` | [P3 wiki.gg API batch: card 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bandage_Up|Reflex|Injury|Omniscience|Fiend_Fire|Reprogram|All_for_One|Spirit_Shield|Armaments|Become_Almighty|Finesse|Unload|Doppelganger|Decay|Doubt|Limit_Break|Dark_Shackles|Backflip|Bowling_Bash|Fire_Breathing&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

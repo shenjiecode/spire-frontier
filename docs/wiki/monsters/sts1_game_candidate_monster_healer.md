@@ -1,12 +1,12 @@
-# 神秘术士 / Mystic
+# （暂无中文名） / Healer
 
 > 稳定 ID：`sts1.game.candidate.monster.healer`  
 > 类别：`monster`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
-- 中文：神秘术士
-- English: Mystic
+- 中文：（暂无中文名）
+- English: Healer
 
 ## monster 数据
 
@@ -36,4 +36,4 @@
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

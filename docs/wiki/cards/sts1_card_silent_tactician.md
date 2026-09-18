@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 战术大师 | `single_source` | [战术大师](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494850&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} <br>{{Card Infobox<br>| Name        = Tactician<br>| Image       = Green-Tactician.png<br>| Color       = Green<br>| Type        = Skill<br>| Rarity      = Uncommon<br>| Cost        = -2<br>| Description = {{KW|Unplayable}}.<br>If this card is discarded from your hand, gain ({{Icon|GE}};{{Icon|GE}} {{Icon|GE}}).<br>| GivesToPlayer = Discard, Energy, Unplayable<br>}} <br>{{Keyword Infobox|Unplayable}}<br>{{C|Tactician}} is an unplayable {{QueryLink|Cards|color:Green|S... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

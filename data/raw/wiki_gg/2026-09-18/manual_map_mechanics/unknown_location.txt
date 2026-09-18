@@ -1,0 +1,7 @@
+Slay the Spire 1 — Unknown Location
+
+Unknown Locations are a standard Map Location and appear multiple times on each map.
+
+Unknown encounters have a chance to be an Event, Monster, Merchant or Treasure Room. Any time a specific encounter is not seen, its spawn chance increases; when it is seen, it resets to the original amount. In Custom Mode, Deadly Events also enables Elites in Unknown rooms and increases the chance of a Treasure Room.
+
+Juzu Bracelet prevents Monster encounters from appearing in ? rooms.

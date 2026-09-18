@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Boss |
 | `character_entity_id` | sts1.character.ironclad |
-| `effect_json` | {"description_en": "Replaces Burning Blood. At the end of combat, heal 12 HP.The rage grows darker.", "flavor": "The rage grows darker."} |
+| `effect_json` | {"description_en": "Replaces Burning Blood. At the end of combat, heal 12 HP.The rage grows darker.", "description_zh": "替换 #r燃烧之血 。在战斗结束时，回复 #b 点生命。", "flavor": "The rage grows darker.", "flavor_en": "The rage grows darker.", "flavor_zh": "你的愤怒变得更加黑暗。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 黑暗之血 | `single_source` | [黑暗之血](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523658&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation|1}}<br>{{Relic Infobox<br>|Name        = Black Blood<br>|Image       = BlackBlood.png<br>|Rarity      = Boss<br>|Character   = Ironclad<br>|Description = Replaces {{R|Burning Blood}}. At the end of combat, heal 12 HP.<br>|Flavor      = The rage grows darker.<br>}}<br>{{R|Black Blood}} is an {{QueryLink|Relics|character:Ironclad|Ironclad-exclusive}} {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]]. It's the upgraded form of {{R|Burning Blood}}, and replaces it entirely w... | `single_source` | [P3 wiki.gg API batch: relic 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=White_Beast_Statue|Odd_Mushroom|Teardrop_Locket|Philosopher's_Stone|Runic_Capacitor|Pandora's_Box|Orange_Pellets|Neow's_Lament|N'loth's_Gift|Shovel|Black_Blood|Matryoshka|Ornamental_Fan|Oddly_Smooth_Stone|Pen_Nib|Anchor|N'loth's_Hungry_Face|Cloak_Clasp|Preserved_Insect|Sozu&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

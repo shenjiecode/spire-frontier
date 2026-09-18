@@ -16,7 +16,7 @@
 | `act` | Act 4 |
 | `hp_min` | 750 |
 | `hp_max` | 750 |
-| `ascension_json` | {"asc_hp": 800} |
+| `ascension_json` | {"ascension_max": 800, "ascension_min": 800, "ascension_raw": "800", "base_max": 750, "base_min": 750, "base_raw": "750"} |
 
 ### 行动
 
@@ -24,7 +24,7 @@
 | --- | --- | ---: | ---: | --- |
 | Echo | Attack7 | 40 |  | {"text": "Deals (40;45) damage."} |
 | Debilitate | DebuffStrong |  |  | {"text": "Applies 2 Vulnerable, 2 Weak and 2 Frail. Adds 1 Burn, 1 Dazed, 1 Slimed, 1 Void and 1 Wound into your draw pile."} |
-| Blood Shots | Attack7 | 2 |  | {"text": "Deals (2×12;2×15) damage."} |
+| Blood Shots | Attack7 | 2 | 12 | {"text": "Deals (2×12;2×15) damage."} |
 | Buff | Buff |  |  | {"text": "Loses all negative Strength, then gains 2 Strength. Gains an additional Buff]:"} |
 
 ## 相关条目
@@ -48,6 +48,7 @@
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 800, "ascension_min": 800, "ascension_raw": "800", "base_max": 750, "base_min": 750, "base_raw": "750"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Blood Shots` | {"effect": "Deals (2×12;2×15) damage.", "intent": "Attack7"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Buff` | {"effect": "Loses all negative Strength, then gains 2 Strength. Gains an additional Buff]:", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Debilitate` | {"effect": "Applies 2 Vulnerable, 2 Weak and 2 Frail. Adds 1 Burn, 1 Dazed, 1 Slimed, 1 Void and 1 Wound into your draw pile.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -57,4 +58,4 @@
 | `source.title_text` | 腐化之心 | `single_source` | [腐化之心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408990&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Corrupt Heart<br>|Image  = CorruptHeart.png<br>|Icon   = Map-CorruptHeart.png<br>|HP     = 750<br>|AscHP  = 800<br>|Powers = {{BD|Beat of Death}} 1 ({{Asc|19|2}}) <br> {{BD|Invincible}} 300 ({{Asc|19|200}})<br>|Debut  = Act 4<br>|Type   = Boss<br>}}<br>{{Power Infobox<br>|Name=Beat of Death<br>|Image=Icon_BeatOfDeath.png<br>|Description=Whenever you play a card, take X damage.<br>|Stacks=Intensity<br>|Type=Buff<br>|BetweenTurns=Permanent<br>}}<br>{{Power Infobox<b... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

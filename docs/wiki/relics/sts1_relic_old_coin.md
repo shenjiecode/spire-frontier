@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Upon pickup, gain 300 Gold.Unique coins are highly valued by Merchants for their historical value and rare metallic composition.", "flavor": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition."} |
+| `effect_json` | {"description_en": "Upon pickup, gain 300 Gold.Unique coins are highly valued by Merchants for their historical value and rare metallic composition.", "description_zh": "拾起时，获得 #b300 #y金币 。", "flavor": "Unique coins are highly valued by Merchants for their historical value and rare metallic composition.", "flavor_en": "Unique coins are highly valued by merchants for their historical value and rare metallic composition.", "flavor_zh": "因为其历史价值和稀有金属成分而被商人出以高价的独特钱币。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 古钱币 | `single_source` | [古钱币](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514575&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Old Coin<br>|Image       = OldCoin.png<br>|Rarity      = Rare<br>|Description = Upon pickup, gain 300 [[Gold]].<br>|Flavor      = Unique coins are highly valued by Merchants for their historical value and rare metallic composition.<br>}}<br>{{R|Old Coin}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. Its only function is to give 300 [[Gold]] immediately on pickup.<br><br>== Sources ==<br>* Can be dropped by fighting [[Elit... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer Rest at Rest Sites.\"Yes, another cup please. Back to work. Back to work!\" - The Architect", "flavor": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect"} |
+| `effect_json` | {"description_en": "Gain 1 Energy at the start of your turn. You can no longer Rest at Rest Sites.\"Yes, another cup please. Back to work. Back to work!\" - The Architect", "description_zh": "。 你无法再在休息处 #y休息 。在每回合开始时获得 [E]", "flavor": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect", "flavor_en": "\"Yes, another cup please. Back to work. Back to work!\" - The Architect", "flavor_zh": "“好的，请再来一杯。继续工作，继续工作！”——建筑师"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 咖啡滤杯 | `single_source` | [咖啡滤杯](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=523661&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Coffee Dripper<br>|Image       = CoffeeDripper.png<br>|Rarity      = Boss<br>|Description = Gain 1 {{KW|Energy}} at the start of your turn. You can no longer Rest at Rest Sites.<br>|Flavor      = "Yes, another cup please. Back to work. Back to work!" - The Architect<br>|GivesToPlayer = Energy<br>}}<br>{{Keyword Infobox|Energy}}{{R|Coffee Dripper}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

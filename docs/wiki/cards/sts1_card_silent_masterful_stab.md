@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 精巧刺击 | `single_source` | [精巧刺击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494123&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Masterful Stab<br>|Image       = Green-MasterfulStab.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Costs 1 additional {{Icon|GE}} for each time you lose HP this combat.<br>Deal (12;16) damage.<br>|Keywords    = Energy<br>}}<br>{{C|Masterful Stab}} is a 0 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Attack|Attack... | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

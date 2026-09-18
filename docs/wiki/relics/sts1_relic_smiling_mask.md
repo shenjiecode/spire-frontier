@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "The merchant's card removal service now always costs 50 Gold.Mask worn by the merchant. He must have spares...", "flavor": "Mask worn by the merchant. He must have spares..."} |
+| `effect_json` | {"description_en": "The merchant's card removal service now always costs 50 Gold.Mask worn by the merchant. He must have spares...", "description_zh": "商人的卡牌移除服务现在价格永远是 #b  #y金币 。", "flavor": "Mask worn by the merchant. He must have spares...", "flavor_en": "Mask worn by the Merchant. He must have spares...", "flavor_zh": "商人戴着的面具，看来他有很多备用的……"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 微笑面具 | `single_source` | [微笑面具](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=492809&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Smiling Mask<br>|Image       = SmilingMask.png<br>|Rarity      = Common<br>|Description = The merchant's card removal service now always costs 50 [[Gold]].<br>|Flavor      = Mask worn by the merchant. He must have spares...<br>}}<br>{{R|Smiling Mask}} is a {{QueryLink|Relics|rarity:Common|Common}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], or found in a [[Small Chest]] or [[Medium Chest]]. See Chest and non-Chest chance at [[R... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

@@ -21,11 +21,11 @@
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
 | `Base` | `2.0` | Deal 26 damage to ALL enemies.Lose 3 Focus. | 对所有敌人造成26点伤害。失去3点集中。 超能光束+  对所有敌人造成34点伤害。失去3点集中。 | 未保存 |
-| `Upgraded` | `2.0` | Deal 34 damage to ALL enemies.Lose 3 Focus. | 未采集 | 未保存 |
+| `Upgraded` | `2.0` | Deal 34 damage to ALL enemies.Lose 3 Focus. | 对所有敌人造成26点伤害。失去3点集中。 超能光束+  对所有敌人造成34点伤害。失去3点集中。 | 未保存 |
 
 ## 相关条目
 
-- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md) 
+- `belongs_to_character` → [故障机器人 / Defect](../characters/sts1_character_defect.md)
 
 ## 被哪些条目引用
 
@@ -58,4 +58,4 @@
 | `source.title_text` | 超能光束 | `single_source` | [超能光束](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495562&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Hyperbeam<br>|Image       = Blue-Hyperbeam.png<br>|Color       = Blue<br>|Type        = Attack<br>|Rarity      = Rare<br>|Cost        = 2<br>|Description = Deal (26;34) damage to ALL enemies.<br>Lose 3 {{BD|Focus}}.<br>}}<br>{{C|Hyperbeam}} is a 2 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Attack|Attack}} Card. <!--It does 26 (34) damage to ALL enemies, and rem... | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

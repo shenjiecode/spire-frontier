@@ -59,4 +59,4 @@
 | `source.title_text` | 致盲 | `single_source` | [致盲](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536770&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>|Name        = Blind<br>|Image       = Colorless-Blind.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = Apply 2 {{BD|Weak}}(; to ALL enemies).<br>|GivesToEnemy = Weak<br>}} <br>{{Power Infobox|Weak}}<br>{{C|Blind}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarity:Uncommon|Uncommon}} {{QueryLink|Cards|type:Skill|Skill}} Card. It applies 2 {{BD|Weak}} to the ta... | `single_source` | [P3 wiki.gg API batch: card 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Wish|Charge_Battery|Berserk|Blind|Dark_Embrace|Cold_Snap|Auto-Shields|Wraith_Form|Violence|Flying_Knee|Tactician|Simmering_Fury|Pummel|Sentinel|Dual_Wield|Creative_AI|Eviscerate|Chrysalis|Brutality|Uppercut&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

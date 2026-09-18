@@ -1,0 +1,11 @@
+Slay the Spire 1 — Rest Site
+
+Rest Sites are a standard Map Location. The player must choose one of the available options to prepare for higher floors before proceeding. If one of the standard options is unavailable, it is greyed out; if no other options are allowed, the Leave button appears.
+
+Standard Options
+Rest: Heal for 30% of max health.
+Smith: Upgrade a card.
+Recall: Obtain the Ruby Key. It appears only after Act 4 has been revealed on the current save file and before a previous Recall at a rest site.
+
+Relic modifiers and special options
+Dream Catcher adds a card reward after Resting. Regal Pillow adds 15 HP to Rest. Girya allows Lift for 1 Strength up to three uses; Peace Pipe allows Toke to remove a card; Shovel allows Dig to acquire a random Relic. Only two of these three option relics can be picked up in one run. Eternal Feather restores 3 health for every five cards on entering the rest site. Ancient Tea Set gives two additional Energy on the first turn of the next combat.

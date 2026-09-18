@@ -1,37 +1,26 @@
 # 三机械 / Shapes
 
 > 稳定 ID：`sts1.monster.shapes`  
-> 类别：`monster`；游戏：`sts1`；映射状态：`confirmed`
+> 类别：`monster`；游戏：`sts1`；映射状态：`provisional`
 
 ## 名称
 
 - 中文：三机械
 - English: Shapes
 
-## monster 数据
+## monster 合页上下文
+
+本页对应来源中的组合页，只保留来源正文和 `has_member` 关系。生命值与行动请查看下方成员页面；不会把某个成员的数值投影到父页。
 
 | 字段 | 值 |
 | --- | --- |
-| `category` | normal |
-| `act` | Act 3 |
-| `hp_min` | 30 |
-| `hp_max` | 30 |
-| `ascension_json` | {"asc_hp": 30} |
-
-### 行动
-
-| 名称 | 意图 | 伤害 | 次数 | 效果 |
-| --- | --- | ---: | ---: | --- |
-| Attack | Attack3 | 11 |  | {"text": "Deals (11;13) damage."} |
-| Explode | Unknown | 30 |  | {"text": "Deals 30 damage. Dies."} |
-| Daze | Debuff |  |  | {"text": "Adds 2 Dazed into your draw pile."} |
-| Attack | Attack2 | 9 |  | {"text": "Deals (9;11) damage."} |
-| Buff Thorns | Buff |  |  | {"text": "Gains 2 Thorns."} |
-| Attack | Attack2 | 7 |  | {"text": "Deals (7;9) damage."} |
+| `encounter_notes` | Grouped wiki page only; structured HP/actions live on its has_member child entities. |
 
 ## 相关条目
 
-暂无已确认关系。
+- `has_member` → [爆炸机 / Exploder](sts1_monster_exploder.md)
+- `has_member` → [反冲机 / Repulsor](sts1_monster_repulsor.md)
+- `has_member` → [钉刺机 / Spiker](sts1_monster_spiker.md)
 
 ## 被哪些条目引用
 
@@ -44,12 +33,13 @@
 | 字段 | 值 | 状态 | 来源 |
 | --- | --- | --- | --- |
 | `game.localization.name` | Exploder | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
-| `game.localization.name` | 爆炸机 | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
-| `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Exploder", "kind": "monster", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
+| `game.localization.name` | 反冲机 | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Spiker", "kind": "monster", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.dialog` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 35, "ascension_min": 30, "ascension_raw": "30-35", "base_max": 30, "base_min": 30, "base_raw": "30"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Attack` | {"effect": "Deals (9;11) damage.", "intent": "Attack2"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Buff Thorns` | {"effect": "Gains 2 Thorns.", "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Daze` | {"effect": "Adds 2 Dazed into your draw pile.", "intent": "Debuff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -60,4 +50,4 @@
 | `source.title_text` | 三机械 | `single_source` | [三机械](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408985&wiki_id=646570) |
 | `source.wikitext` | The Shapes are a group of enemies encountered in [[Act 3]].<br><br>== Exploder ==<br>{{Enemy Infobox<br>|Name   = Exploder<br>|Image  = Exploder.png<br>|HP     = 30<br>|AscHP  = 30-35<br>|Powers = {{BD|Explosive}} 3<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Explosive}}<br>Exploders explode. Profound knowledge.<br><br>=== Pattern ===<br>{{Intents Table/start|Exploder}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack2<br>|Effect = Deals (9;{{Asc|2|11}}) dama... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

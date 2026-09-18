@@ -16,7 +16,7 @@
 | `act` | Act 2 |
 | `hp_min` | 282 |
 | `hp_max` | 282 |
-| `ascension_json` | {"asc_hp": 300} |
+| `ascension_json` | {"ascension_max": 300, "ascension_min": 300, "ascension_raw": "300", "base_max": 282, "base_min": 282, "base_raw": "282"} |
 
 ### 行动
 
@@ -30,7 +30,7 @@
 
 ## 相关条目
 
-暂无已确认关系。
+- `has_member` → [火炬头 / Torch Head](sts1_game_candidate_monster_torchhead.md)
 
 ## 被哪些条目引用
 
@@ -49,6 +49,7 @@
 | `game.monster.dialog` | ["@你是我的了！@"] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization eng/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/monsters.json) |
 | `game.monster.moves` | [""] | `verified_game` | [Game localization zhs/monsters.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/monsters.json) |
+| `monster.hp.range` | {"ascension_max": 300, "ascension_min": 300, "ascension_raw": "300", "base_max": 282, "base_min": 282, "base_raw": "282"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Buff` | {"effect": "All enemies gain (3;4 ; 5) Strength. Gains (15;18 ; 23) Block.", "intent": "DefendBuff"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Fireball` | {"effect": "Deals (18;21) damage.", "intent": "Attack4"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `monster.move.Mega Debuff` | {"effect": "Applies (3;5) Weak, (3;5) Vulnerable and (3;5) Frail.", "intent": "DebuffStrong"} | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
@@ -60,4 +61,4 @@
 | `source.title_text` | 收藏家 | `single_source` | [收藏家](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=532023&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Collector<br>|Image  = TheCollector.png<br>|Icon   = Map-Collector.png<br>|HP     = 282<br>|AscHP  = 300<br>|Debut  = Act 2<br>|Type   = Boss<br>}}<br>The Collector is a [[Boss]] found at the end of [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|The Collector}}<br>{{Intents Table/row<br>|Name   = Spawn<br>|Intent = Unknown<br>|Effect = Summons up to 2 {{M|Torch Head|Torch Heads}}.}}<br>{{Intents Table/row<br>|Name   = Fireball<br>|Intent = Attack4<br... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

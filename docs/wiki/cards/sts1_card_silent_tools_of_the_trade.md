@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 必备工具 | `single_source` | [必备工具](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495068&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Tools of the Trade<br>|Image       = Green-ToolsoftheTrade.png<br>|Color       = Green<br>|Type        = Power<br>|Rarity      = Rare<br>|Cost        = 1<br>|CostPlus    = 0<br>|Description = At the start of your turn, draw 1 card and discard 1 card.<br>|Keywords    = Draw, Discard<br>}}<br>{{Power Infobox|Tools Of The Trade}}{{C|Tools of the Trade}} is a 1 (0 if upgraded) {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{Q... | `single_source` | [P3 wiki.gg API batch: card 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bullseye|Corruption|Expunger|Wave_of_the_Hand|Panic_Button|Scrape|Indignation|Cut_Through_Fate|Hemokinesis|Deflect|Sadistic_Nature|Evaluate|Buffer|Tools_of_the_Trade|Wallop|Blasphemy|Ball_Lightning|Bite|Heel_Hook|Die_Die_Die&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

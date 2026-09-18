@@ -58,4 +58,4 @@
 | `source.title_text` | 欧米伽 | `single_source` | [欧米伽](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959378&wiki_id=646570) |
 | `source.wikitext` | #REDIRECT [[Alpha#Omega]] | `single_source` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

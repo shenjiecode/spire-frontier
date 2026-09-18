@@ -55,4 +55,4 @@
 | `source.title_text` | 晕眩 | `single_source` | [眩晕](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536406&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Dazed<br>|Image       = Colorless-Dazed.png<br>|Color       = Colorless<br>|Type        = Status<br>|Rarity      = Status<br>|Cost        = -2<br>|NoUpgrade   = true<br>|Description = {{KW|Unplayable}}.<br>{{KW|Ethereal}}.<br>|GivesToPlayer = Unplayable, Ethereal<br>}}<br>{{Keyword Infobox|Unplayable}} {{Keyword Infobox|Ethereal}}<br>{{C|Dazed}} is an {{KW|Unplayable}} {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards... | `single_source` | [P3 wiki.gg API batch: card 14](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Dazed|Prostrate|Calculated_Gamble|Core_Surge|Bouncing_Flask|Reach_Heaven|Sever_Soul|Reinforced_Body|Footwork|Genetic_Algorithm|Cloak_and_Dagger|Empty_Body|Seek|Rage|Defend_(Defect)|Pressure_Points|Streamline|Equilibrium|Offering|Anger&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

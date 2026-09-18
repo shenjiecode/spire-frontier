@@ -105,7 +105,7 @@ def claim_rows(conn: sqlite3.Connection, entity_id: str) -> list[sqlite3.Row]:
             AND r.variant_id IS c.variant_id
             AND r.field_path=c.field_path
            WHERE c.subject_entity_id=?
-           ORDER BY c.field_path, c.variant_id, c.language, c.created_at""",
+           ORDER BY c.field_path, c.variant_id, c.language, c.created_at DESC, c.id DESC""",
         (entity_id,),
     ).fetchall()
 
@@ -127,6 +127,8 @@ def evidence_section(conn: sqlite3.Connection, entity_id: str, output: Path) -> 
         if len(text) > 500:
             text = text[:497] + "..."
         status = row["resolution_status"] or row["verification_status"]
+        if row["notes"] and "editorial_zh" in row["notes"]:
+            status = f"{status}/editorial_zh"
         variant = f" ({row['variant_id'].split(':')[-1]})" if row["variant_id"] else ""
         lines.append(f"| `{row['field_path']}{variant}` | {text} | `{status}` | {source_label(conn, row['source_page_id'])} |")
     if len(lines) == 6:
@@ -218,9 +220,26 @@ def noncard_details(conn: sqlite3.Connection, entity_id: str, kind: str) -> list
     row = conn.execute(f"SELECT * FROM {table} WHERE entity_id=?", (entity_id,)).fetchone()
     if not row:
         return []
-    lines = [f"## {kind} 数据", "", "| 字段 | 值 |", "| --- | --- |"]
+    group_context = bool(
+        kind == "monster"
+        and row["entity_id"]
+        and conn.execute("SELECT subtype FROM entities WHERE id=?", (entity_id,)).fetchone()[0] == "group_page"
+    )
+    if group_context:
+        lines = [
+            "## monster 合页上下文",
+            "",
+            "本页对应来源中的组合页，只保留来源正文和 `has_member` 关系。生命值与行动请查看下方成员页面；不会把某个成员的数值投影到父页。",
+            "",
+            "| 字段 | 值 |",
+            "| --- | --- |",
+        ]
+    else:
+        lines = [f"## {kind} 数据", "", "| 字段 | 值 |", "| --- | --- |"]
     for key in row.keys():
         if key == "entity_id" or row[key] in (None, ""):
+            continue
+        if group_context and key != "encounter_notes":
             continue
         value = pretty(row[key])
         value = value.replace("\n", "<br>")
@@ -262,7 +281,8 @@ def relation_section(conn: sqlite3.Connection, entity_id: str, output: Path, *, 
         label = " / ".join(x for x in (target_names.get("zh-CN"), target_names.get("en")) if x) or row["other_id"]
         condition = f"；条件：`{pretty(row['condition_json'])}`" if row["condition_json"] else ""
         status = f"（{row['status']}）" if row["status"] != "confirmed" else ""
-        lines.append(f"- `{row['relation_type']}` → [{label}]({rel_link(output, target_path)}) {status}{condition}")
+        suffix = f" {status}{condition}" if status or condition else ""
+        lines.append(f"- `{row['relation_type']}` → [{label}]({rel_link(output, target_path)}){suffix}")
     return lines
 
 
@@ -296,6 +316,89 @@ def write_sources(conn: sqlite3.Connection) -> None:
         snap_link = f"[{Path(snapshot).name}]({rel_link(path, ROOT / snapshot)})" if snapshot and (ROOT / snapshot).exists() else snapshot
         lines.append(f"| [{row['title'] or row['source_page_key']}]({row['url']}) | {row['source_name']} | {row['fetched_at']} | {snap_link} |")
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def write_inventory(conn: sqlite3.Connection) -> None:
+    """Render the current directory snapshot and mapping totals.
+
+    ``discover_inventory.py`` writes the first P2 view, but later review
+    passes add manually confirmed mappings and a few source rows.  Keeping
+    this page generated from SQLite prevents it from showing stale P2
+    counts after a repair/audit run.
+    """
+    path = WIKI_ROOT / "inventory.md"
+    rows = conn.execute(
+        """SELECT source_id, language, entity_kind, status, COUNT(*) AS n
+           FROM inventory_items
+           GROUP BY source_id, language, entity_kind, status
+           ORDER BY source_id, language, entity_kind, status"""
+    ).fetchall()
+    total = conn.execute("SELECT COUNT(*) FROM inventory_items WHERE status != 'excluded'").fetchone()[0]
+    excluded = conn.execute("SELECT COUNT(*) FROM inventory_items WHERE status = 'excluded'").fetchone()[0]
+    confirmed = conn.execute("SELECT COUNT(*) FROM inventory_mappings WHERE status = 'confirmed'").fetchone()[0]
+    candidate = conn.execute("SELECT COUNT(*) FROM inventory_mappings WHERE status = 'candidate'").fetchone()[0]
+    lines = [
+        "# 双源目录与身份审核视图（P2）",
+        "",
+        f"生成时间：{now()}。本页由当前 SQLite 目录重建；目录发现、文章采集和身份确认仍是不同层级。",
+        "",
+        "- [目录 CSV](../../data/exports/inventory.csv)",
+        "- [目录 JSONL](../../data/exports/inventory.jsonl)",
+        "- [中英文映射清单](../../data/exports/name_mapping.csv)",
+        "",
+        "## 目录数量",
+        "",
+        "| 来源 | 语言 | 类别 | 状态 | 数量 |",
+        "| --- | --- | --- | --- | ---: |",
+    ]
+    for row in rows:
+        lines.append(f"| `{row['source_id']}` | `{row['language']}` | `{row['entity_kind']}` | `{row['status']}` | {row['n']} |")
+    lines += [
+        "",
+        "## 读取说明",
+        "",
+        "- wiki.gg 的目录按 StS1 范围保存；小黑盒目录来自用户指定 Wiki 的公开首页 JSON，文章快照保存在 `data/raw/`。",
+        "- `confirmed` 映射是经过英文 Wiki、中文文章和/或本机游戏本地化核对的身份关系；`candidate` 只表示待审线索。",
+        "- 目录行不等于规则事实。规则字段要看对应实体页的 claims、来源和验证状态。",
+        "",
+        "## 当前审核计数",
+        "",
+        f"- 有效目录行：{total}；排除目录行：{excluded}。",
+        f"- 已确认身份映射：{confirmed}；候选映射：{candidate}。",
+        "- [身份审核队列](mapping-review.md)；[三方完整性对照](../../reports/completeness-crosscheck.md)。",
+    ]
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def clean_stale_entity_pages(paths: dict[str, Path]) -> int:
+    """Remove generated entity pages for entities no longer in SQLite.
+
+    Candidate rows can be merged into a canonical entity between runs.  The
+    old Markdown file must not survive that merge, otherwise readers see a
+    second, stale page that is absent from the database and index.
+    """
+    current = {path.resolve() for path in paths.values()}
+    removed = 0
+    for folder in {
+        "cards",
+        "characters",
+        "encounters",
+        "events",
+        "keywords",
+        "mechanics",
+        "monsters",
+        "potions",
+        "relics",
+        "statuses",
+    }:
+        directory = WIKI_ROOT / folder
+        if not directory.exists():
+            continue
+        for candidate in directory.glob("sts1_*.md"):
+            if candidate.resolve() not in current:
+                candidate.unlink()
+                removed += 1
+    return removed
 
 
 def write_coverage(conn: sqlite3.Connection) -> None:
@@ -377,6 +480,8 @@ def write_coverage(conn: sqlite3.Connection) -> None:
         lines += ["", "## 身份审核", "", "- [中英文身份映射审核队列](mapping-review.md)", "- [审核队列 CSV](../../data/decisions/mapping-review.csv)", "- [审核队列 JSON](../../reports/mapping-review.json)"]
     if (WIKI_ROOT / "p4-rule-audit.md").exists():
         lines += ["", "## P4 规则核验", "", "- [P4 机制与规则核验审计](p4-rule-audit.md)", "- [P4 审计 JSON](../../reports/p4-rule-audit.json)"]
+    if (ROOT / "reports" / "completeness-crosscheck.md").exists():
+        lines += ["", "## 三方完整性对照", "", "- [三方数据完整性对照](../../reports/completeness-crosscheck.md)", "- [机器可读对照结果](../../reports/completeness-crosscheck.json)", "- [结构化修复记录](../../reports/structured-repair-report.json)"]
     pending_rows = conn.execute(
         """SELECT entity_kind, language, COUNT(*) AS n
            FROM inventory_items
@@ -418,6 +523,8 @@ def write_index(conn: sqlite3.Connection, paths: dict[str, Path]) -> None:
         lines.append("- [中英文身份映射审核队列](mapping-review.md)")
     if (WIKI_ROOT / "p4-rule-audit.md").exists():
         lines.append("- [P4 机制与规则核验审计](p4-rule-audit.md)")
+    if (ROOT / "reports" / "completeness-crosscheck.md").exists():
+        lines.append("- [三方数据完整性对照](../../reports/completeness-crosscheck.md)")
     if (WIKI_ROOT / "inventory.md").exists():
         lines.append("- [P2 双源目录](inventory.md)")
     lines += ["", "## 读取原则", "", "条目中的规则字段与攻略观点分开；`provisional` 和 `single_source` 需要在回答中带出，不应写成无条件真值。"]
@@ -429,8 +536,11 @@ def write_entity(conn: sqlite3.Connection, row: sqlite3.Row, paths: dict[str, Pa
     output = paths[entity_id]
     output.parent.mkdir(parents=True, exist_ok=True)
     n = names(conn, entity_id)
-    zh = n.get("zh-CN", "未命名")
-    en = n.get("en", "Unnamed")
+    # Runtime candidates occasionally have only a game key or one localized
+    # label.  Use an explicit absence marker instead of the generic
+    # "Unnamed" title, which made it look like a parser failure.
+    zh = n.get("zh-CN") or "（暂无中文名）"
+    en = n.get("en") or row["game_id"] or "（暂无英文名）"
     lines = [f"# {zh} / {en}", "", f"> 稳定 ID：`{entity_id}`  ", f"> 类别：`{row['kind']}`；游戏：`{row['game']}`；映射状态：`{row['mapping_status']}`", "", "## 名称", "", f"- 中文：{zh}", f"- English: {en}"]
     aliases = conn.execute("SELECT language, name, name_kind, verification_status FROM names WHERE entity_id=? AND name_kind IN ('alias','old_alias','candidate') ORDER BY language, name", (entity_id,)).fetchall()
     if aliases:
@@ -461,13 +571,15 @@ def main() -> int:
         previous = reverse_paths.setdefault(path, entity_id)
         if previous != entity_id:
             raise RuntimeError(f"entity page path collision: {previous} and {entity_id} -> {path}")
+    removed = clean_stale_entity_pages(paths)
     for row in conn.execute("SELECT * FROM entities ORDER BY kind, id"):
         write_entity(conn, row, paths)
     write_sources(conn)
+    write_inventory(conn)
     write_coverage(conn)
     write_index(conn, paths)
     conn.close()
-    print(f"generated {len(paths)} entity pages under {WIKI_ROOT}")
+    print(f"generated {len(paths)} entity pages under {WIKI_ROOT}; removed {removed} stale pages")
     return 0
 
 

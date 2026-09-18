@@ -59,4 +59,4 @@
 | `source.title_text` | 闪亮登场 | `single_source` | [闪亮登场](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=536782&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Dramatic Entrance<br>|Image       = Colorless-DramaticEntrance.png<br>|Color       = Colorless<br>|Type        = Attack<br>|Rarity      = Uncommon<br>|Cost        = 0<br>|Description = {{KW|Innate}}.<br>Deal (8;12) damage to ALL enemies.<br>{{KW|Exhaust}}.<br>}}<br>{{Keyword Infobox|Innate}} {{Keyword Infobox|Exhaust}}<br>{{C|Dramatic Entrance}} is a 0 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards... | `single_source` | [P3 wiki.gg API batch: card 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Deceive_Reality|Transmutation|Burn|Smite|Meditate|Reaper|Dash|Impatience|Masterful_Stab|Endless_Agony|Beta|Prepared|Dramatic_Entrance|Impervious|Backstab|Rupture|Worship|Feel_No_Pain|Defend_(Watcher)|Dagger_Throw&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

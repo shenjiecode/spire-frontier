@@ -55,4 +55,4 @@
 | `source.title_text` | 寄生 | `single_source` | [寄生](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537293&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Parasite<br>| Image       = Curse-Parasite.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>If transformed or removed from your deck, lose 3 Max HP.<br>| GivesToPlayer = Unplayable<br>| InteractsWith = Transform<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Parasite}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. If Parasite is {{KW|Transform|... | `single_source` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:43+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

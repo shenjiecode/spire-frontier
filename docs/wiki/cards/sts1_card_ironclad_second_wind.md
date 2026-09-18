@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md) 
+- `belongs_to_character` → [铁甲战士 / Ironclad](../characters/sts1_character_ironclad.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 重振精神 | `single_source` | [重振精神](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=408907&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Second Wind<br>| Image       = Red-SecondWind.png<br>| Color       = Red<br>| Type        = Skill<br>| Rarity      = Uncommon<br>| Cost        = 1<br>| Description = {{KW|Exhaust}} all non-Attack cards in your hand. Gain (5;7) {{KW|Block}} for each card {{KW|Exhaust|Exhausted}}.<br>| GivesToPlayer = Exhaust, Block<br>| InteractsWith = Exhaust<br>}}<br>{{Keyword Infobox|Exhaust}} {{Keyword Infobox|Block}}<br>{{C|Second Wind}} is a ... | `single_source` | [P3 wiki.gg API batch: card 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=True_Grit|Signature_Move|Shrug_It_Off|Blood_for_Blood|Empty_Mind|Machine_Learning|All-Out_Attack|Thunder_Strike|Second_Wind|Strike_(Silent)|Grand_Finale|Collect|Immolate|Omega|Regret|Feed|Safety|Glacier|Deadly_Poison|Burning_Pact&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

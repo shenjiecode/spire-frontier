@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Deal 10 (20) damage to all enemies.", "flavor": ""} |
+| `effect_json` | {"description_en": "Deal 10 (20) damage to all enemies.", "description_zh": "稀有度：普通 角色：通用 对所有敌人造成10点伤害。", "flavor": ""} |
 
 ## 相关条目
 
@@ -43,4 +43,4 @@
 | `source.title_text` | 爆炸药水 | `single_source` | [爆炸药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496810&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Rename|Explosive Potion|Explosive Ampoule}} {{Potion Infobox<br>|Name=			Explosive Potion<br>|Sequel=		1<br>|Image=			ExplosivePotion.png<br>|Rarity=		Common<br>|Description=	Deal (10;20) damage to all enemies.<br>}}<br>{{P|Explosive Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of '''Explosive Potion'''.<br><!-- Include a... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

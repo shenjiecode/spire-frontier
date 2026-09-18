@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "For each Curse in your deck, start each combat with 1 Strength.A doll devised to gain strength from malicious energy.", "flavor": "A doll devised to gain strength from malicious energy."} |
+| `effect_json` | {"description_en": "For each Curse in your deck, start each combat with 1 Strength.A doll devised to gain strength from malicious energy.", "description_zh": "你的牌组中每有一张 #y诅咒 牌，你在战斗开始时就额外获得 #b 点 #y力量 。 你没有 #y诅咒 牌。 你有 #b 张 #y诅咒 牌。", "flavor": "A doll devised to gain strength from malicious energy.", "flavor_en": "A doll devised to gain strength from malicious energy.", "flavor_zh": "一个设计为能从邪恶能量中获得力量的娃娃。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 毒巫娃娃 | `single_source` | [毒巫娃娃](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514560&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Du-Vu Doll<br>|Image       = Du-VuDoll.png<br>|Rarity      = Rare<br>|Description = For each {{QueryLink|Cards|type:Curse|Curse}} in your deck, start each combat with 1 {{BD|Strength}}.<br>|Flavor      = A doll devised to gain strength from malicious energy.<br>|Keywords    = Deck<br>}}<br>{{Power Infobox|Strength}}{{R|Du-Vu Doll}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. Its description also shows the number of {{QueryLink|Cards|type:Curse|Curse... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:21+00:00

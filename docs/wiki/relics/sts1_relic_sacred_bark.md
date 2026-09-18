@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Boss |
-| `effect_json` | {"description_en": "Double the effectiveness of potions.A bark rumored to originate from the World tree.", "flavor": "A bark rumored to originate from the World tree."} |
+| `effect_json` | {"description_en": "Double the effectiveness of potions.A bark rumored to originate from the World tree.", "description_zh": "药水的效果翻倍。", "flavor": "A bark rumored to originate from the World tree.", "flavor_en": "A bark rumored to originate from the World tree.", "flavor_zh": "传说中来自于世界树上的一块树皮。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 神圣树皮 | `single_source` | [神圣树皮](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959094&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Sacred Bark<br>|Image       = SacredBark.png<br>|Rarity      = Boss<br>|Description = Double the effectiveness of [[Potions|potions]].<br>|Flavor      = A bark rumored to originate from the World tree.<br>}}<br>{{R|Sacred Bark}} is a {{QueryLink|Relics|rarity:Boss|Boss}} [[Relic]] that doubles the effects of most [[Potions]].<br><br>== Sources ==<br>* Can be obtained from [[Boss Swap]].<br>* After fighting a [[Boss]], {{R|Sacred Bark}} can be offered as a cho... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:45+00:00
+页面生成时间：2026-09-18T11:10:22+00:00

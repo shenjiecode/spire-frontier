@@ -25,7 +25,7 @@
 
 ## 相关条目
 
-- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md) 
+- `belongs_to_character` → [静默猎手 / Silent](../characters/sts1_character_silent.md)
 
 ## 被哪些条目引用
 
@@ -59,4 +59,4 @@
 | `source.title_text` | 催化剂 | `single_source` | [催化剂](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494843&wiki_id=646570) |
 | `source.wikitext` | {{Card Infobox<br>| Name        = Catalyst<br>| Image       = Green-Catalyst.png<br>| Color       = Green<br>| Type        = Skill<br>| Rarity      = Uncommon<br>| Cost        = 1<br>| Description = (Double;Triple) the enemy's {{BD|Poison}}.<br>{{KW|Exhaust}}.<br>| GivesToPlayer = Exhaust<br>| GivesToEnemy = Poison<br>| InteractsWith = Poison<br>}} <br>{{Power Infobox|Poison}} {{Keyword Infobox|Exhaust}}<br>{{C|Catalyst}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryL... | `single_source` | [P3 wiki.gg API batch: card 17](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=TURBO|Deep_Breath|Demon_Form|Body_Slam|Catalyst|A_Thousand_Cuts|Sword_Boomerang|Bloodletting|Windmill_Strike|Nirvana|Wheel_Kick|Like_Water|Master_of_Strategy|Cleave|Pray|Tranquility|Reboot|Flurry_of_Blows|Consecrate|Secret_Technique&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T04:35:44+00:00
+页面生成时间：2026-09-18T11:10:20+00:00

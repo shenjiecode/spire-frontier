@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" >
+  <meta name="format-detection" content="telephone=no">
+  
+  
+<title>觉醒者</title>
+
+  <link rel="stylesheet" href="/static/wiki/css/common.css?v=1.0.6">
+  <link rel="stylesheet" href="/static/wiki/css/tmp_components.css?v=1.0.5">
+  <link rel="stylesheet" href="/static/wiki/css/page_components.css?v=1.1.16">
+  <style>
+    .article-content h1 {
+      line-height: 40px;
+      background: rgba(0, 122, 232, .1);
+      text-align: center;
+    }
+    .article-content table::before,
+    .article-content table::after,
+    .article-content table th::before,
+    .article-content table th::after,
+    .article-content table td::before,
+    .article-content table td::after {
+      background: rgba(0, 122, 232, .1) !important;
+    }
+    .article-content table th,
+    .article-content table tr:nth-child(odd) {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1 {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1::after {
+      background: rgba(0, 122, 232, .1);
+    }
+  </style>
+  
+<link rel="stylesheet" href="/static/assets/css/hb_article.css?v=1.0.10">
+<link rel="stylesheet" href="/static/wiki/css/article_detail.20190522.css?v=1.0.0">
+<style>
+  .article-header .title {
+    background-color: rgba(0, 122, 232, .1);
+    border-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::before,
+  .article-header .title .cr::before {
+    border-top-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::after,
+  .article-header .title .cr::after {
+    border-bottom-color: rgba(0, 122, 232, .3);
+  }
+  .article-content p br {
+    display: inline;
+  }
+  .tag-table::before,
+  .tag-table::after,
+  .tag-table-inner::before,
+  .tag-table-inner::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  .tag-table .head {
+    background-color: rgba(0, 122, 232, .1);
+  }
+  .reference-panel > .title::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  
+  
+  
+  
+
+  
+  article {
+    padding-top: 54px;
+  }
+  .top-bar {
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+  }
+  .top-bar .btn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    color: #64696e;
+    font-size: 12px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  .top-bar .btn svg {
+    height: 12px;
+    margin-right: 4px;
+  }
+  
+</style>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16e641db29b184261dffedec98f2570b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</head>
+<body class="wiki-646570">
+
+
+
+<section class="full top-bar fix-border-bottom">
+  <div class="search-bar-wrap">
+    <div class="search-bar">
+      <div class="icon"></div>
+      <div class="input">搜索</div>
+    </div>
+    <div class="btn history-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+        <g fill="none" fill-rule="evenodd">
+          <circle cx="6" cy="6" r="6" fill="#64696E"/>
+          <polyline stroke="#FEFEFE" points="6 2 6 6 9.998 6"/>
+        </g>
+      </svg>
+      <span>编辑历史</span>
+    </div>
+    <div class="btn catalogue-btn hide">
+      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" viewBox="0 0 11 12">
+        <g fill="none" fill-rule="evenodd">
+          <rect width="11" height="12" fill="#64696E" rx="1"/>
+          <path stroke="#FFF" d="M1.98544704 3.00548423L8.98544489 3M1.98544704 6.00548423L8.98544489 6M1.98544704 9.00548423L8.98544489 9"/>
+        </g>
+      </svg>
+      <span>目录</span>
+    </div>
+  </div>
+</section>
+
+<article>
+  
+  <div class="article-header">
+    <div class="title">
+      <span class="cl"></span>
+      <span>觉醒者</span>
+      <span class="cr"></span>
+    </div>
+    
+    <div class="editor">
+      <span class="editor-name" data-id="29895288">Dow_</span>编辑于2024年10月09日 14:32
+    </div>
+    
+    
+  </div>
+  
+  <div class="article-content">
+    
+    <h1>
+  觉醒者
+  <br>
+</h1>
+<h2>觉醒前：</h2>
+<table cellspacing="3">
+  <tbody>
+    <tr>
+      <td colspan="2">Monster id: AwakenedOne</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img data-width="150" data-height="150" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/18/55626173dba3f830b6f020b595398ac5.png">
+        <h4 class="img-desc">请输入图片描述</h4>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">怪物信息</th>
+    </tr>
+    <tr>
+      <th scope="row">生命值</th>
+      <td>300;(320;)</td>
+    </tr>
+    <tr>
+      <th scope="row">类型</th>
+      <td>Boss</td>
+    </tr>
+    <tr>
+      <th scope="row">意图</th>
+      <td>劈斩;灵魂打击;重生</td>
+    </tr>
+    <tr>
+      <th scope="row">初始能力</th>
+      <td>
+        <h4 class="img-desc"><a href="https://sts.huijiwiki.com/wiki/%E5%86%8D%E7%94%9F%EF%BC%88%E6%95%8C%E4%BA%BA%EF%BC%89">再生（敌人）
+          </a><span>
+            10（15） </span><a href="https://sts.huijiwiki.com/wiki/%E8%BF%9B%E9%98%B6" title="进阶"><sup>19+</sup>
+          </a><span>
+            ;</span><a href="https://sts.huijiwiki.com/wiki/%E5%A5%BD%E5%A5%87">好奇</a><span>
+            1(2)&nbsp;</span><a href="https://sts.huijiwiki.com/wiki/%E8%BF%9B%E9%98%B6" title="进阶"><sup>19+</sup></a></h4>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">备注</th>
+      <td>
+        战斗开始时，获得4
+        <a href="https://sts.huijiwiki.com/wiki/%E5%8A%9B%E9%87%8F" title="力量">
+          力量
+        </a>
+        &nbsp;
+        <a href="https://sts.huijiwiki.com/wiki/%E8%BF%9B%E9%98%B6" title="进阶">
+          <sup>4+</sup>
+        </a>
+        ;战斗伊始时拥有2个邪教徒协助参战。
+      </td>
+    </tr>
+  </tbody>
+</table><br><img data-width="404" data-height="418" class="lazy" data-original="https://cdn.max-c.com/heybox/dailynews/img/4102ab964a65da3528921260a09d26ab.png">
+<h4 class="img-desc">地图图标</h4>
+<p>
+  战斗开始时​额外有两个邪教徒（咔咔）参加战斗，觉醒者死亡时若咔咔仍存活将会自动撤退；进阶4及以上战斗开始时获得2力量。
+</p>
+<p>
+  <span>觉醒前意图：</span>
+  <br>
+</p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <th>能力/行动&nbsp;</th>
+      <th>进阶4以下&nbsp;</th>
+      <th>进阶4-进阶18&nbsp;</th>
+      <th>进阶19及以上&nbsp;</th>
+    </tr>
+    <tr>
+      <td>&nbsp;好奇</td>
+      <td>&nbsp;每打出一张能力牌，觉醒者获得1力量</td>
+      <td>&nbsp;同前</td>
+      <td>每打出一张能力牌，觉醒者获得2力量</td>
+    </tr>
+    <tr>
+      <td>&nbsp;再生</td>
+      <td>&nbsp;回合结束后回复10生命</td>
+      <td>&nbsp;同前</td>
+      <td>回合结束后回复15生命</td>
+    </tr>
+    <tr>
+      <td>&nbsp;重击</td>
+      <td>&nbsp;造成20伤害</td>
+      <td>&nbsp;同前</td>
+      <td>同前</td>
+    </tr>
+    <tr>
+      <td>&nbsp;灵魂打击</td>
+      <td>&nbsp;造成6×4伤害</td>
+      <td>&nbsp;同前</td>
+      <td>同前&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;觉醒</td>
+      <td>&nbsp;生命值为0时打断自己的意图，下回合满血复活并移除所有负面效果</td>
+      <td>&nbsp;同前</td>
+      <td>同前</td>
+    </tr>
+  </tbody>
+</table>
+<p><span>行动模式：</span></p>
+<p>
+  首回合必定重击，之后的回合有25%概率重击，75%概率灵魂打击，且灵魂打击不会连续两次使用，重击不会连续三次使用。生命值归零后打断自己的意图，下回合觉醒进入二阶段</p>
+<h2>觉醒后</h2>
+<table cellspacing="3">
+  <tbody>
+    <tr>
+      <td colspan="2">Monster id: AwakenedOne_1</td>
+    </tr>
+    <tr>
+      <td colspan="2"><img data-width="150" data-height="150" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/18/08536ee75f4702d13fb40e6673b34c29.png"></td>
+    </tr>
+    <tr>
+      <th colspan="2">怪物信息</th>
+    </tr>
+    <tr>
+      <th scope="row">生命值</th>
+      <td>300;(320;)</td>
+    </tr>
+    <tr>
+      <th scope="row">类型</th>
+      <td>Boss</td>
+    </tr>
+    <tr>
+      <th scope="row">意图</th>
+      <td>黑暗回音;污泥;三连击</td>
+    </tr>
+    <tr>
+      <th scope="row">初始能力</th>
+      <td>无</td>
+    </tr>
+    <tr>
+      <th scope="row">备注</th>
+      <td>无</td>
+    </tr>
+  </tbody>
+</table>
+<p><span>觉醒后意图：</span></p>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tbody>
+    <tr>
+      <th>能力/行动&nbsp;</th>
+      <th>进阶4以下&nbsp;</th>
+      <th>进阶4-进阶18&nbsp;</th>
+      <th>进阶19及以上&nbsp;</th>
+    </tr>
+    <tr>
+      <td>&nbsp;再生</td>
+      <td>&nbsp;回合结束后回复10生命</td>
+      <td>&nbsp;同前</td>
+      <td>&nbsp;回合结束后回复15生命</td>
+    </tr>
+    <tr>
+      <td>&nbsp;黑暗回音</td>
+      <td>&nbsp;造成40伤害</td>
+      <td>&nbsp;同前</td>
+      <td>&nbsp;同前</td>
+    </tr>
+    <tr>
+      <td>&nbsp;三连击</td>
+      <td>&nbsp;造成10×3伤害</td>
+      <td>&nbsp;同前</td>
+      <td>&nbsp;同前</td>
+    </tr>
+    <tr>
+      <td>&nbsp;污泥</td>
+      <td>&nbsp;造成18伤害，将一张虚空洗入抽牌堆</td>
+      <td>&nbsp;同前</td>
+      <td>&nbsp;同前</td>
+    </tr>
+  </tbody>
+</table>
+<p>
+  <span>​行动模式：</span>
+  <br>
+</p>
+<p>
+  复活后首回合必定使用黑暗回音，之后的回合随机使用污泥和连击，且污泥和连击均不能连续三次使用
+</p>
+<h1><span id="注意">注意</span></h1>
+<ul>
+  <li>觉醒者觉醒后<a href="https://sts.huijiwiki.com/wiki/%E5%8A%9B%E9%87%8F" title="力量">力量</a>不会被移除。（如果<a href="https://sts.huijiwiki.com/wiki/%E5%8A%9B%E9%87%8F" title="力量">力量</a>为负数则视为负面状态，会被移除）。</li>
+  <li>觉醒后将失去<a href="https://sts.huijiwiki.com/wiki/%E5%86%8D%E7%94%9F%EF%BC%88%E6%95%8C%E4%BA%BA%EF%BC%89">再生</a>&nbsp;<a href="https://sts.huijiwiki.com/wiki/%E5%A5%BD%E5%A5%87" title="好奇">好奇</a>&nbsp;<a href="https://sts.huijiwiki.com/wiki/%E6%9C%AA%E8%A7%89%E9%86%92" title="未觉醒">未觉醒</a>。</li>
+  <ul>
+    <li>即使两个邪教徒不是<a href="https://sts.huijiwiki.com/wiki/%E7%88%AA%E7%89%99">爪牙</a>，也会在觉醒者彻底死亡后逃跑。</li>
+  </ul>
+</ul>
+<h1><span id="策略">策略</span></h1>
+<ul>
+  <li>在觉醒者觉醒前，因为<a href="https://sts.huijiwiki.com/wiki/%E5%86%8D%E7%94%9F%EF%BC%88%E6%95%8C%E4%BA%BA%EF%BC%89">再生</a>和&nbsp;<a href="https://sts.huijiwiki.com/wiki/%E5%A5%BD%E5%A5%87">好奇</a>，觉醒者不仅有着不错的恢复能力，并且对于一些需要频繁使用能力牌的卡组（如<a href="https://sts.huijiwiki.com/wiki/%E6%95%85%E9%9A%9C%E6%9C%BA%E5%99%A8%E4%BA%BA" title="故障机器人">故障机器人</a>）起到了十足的克制——<a href="https://sts.huijiwiki.com/wiki/%E5%A5%BD%E5%A5%87">好奇</a>获得的大量力量将导致灵魂打击和觉醒后的黑暗回音变得十分致命。</li>
+  <li>觉醒者觉醒后会移除身上的所有<a href="https://sts.huijiwiki.com/wiki/%E8%83%BD%E5%8A%9B" title="能力">负面状态</a>，这使得一些比较依赖的来击杀敌方的卡组（如<a href="https://sts.huijiwiki.com/wiki/%E9%9D%99%E9%BB%98%E7%8C%8E%E6%89%8B" title="静默猎手">静默猎手</a>给予的<a href="https://sts.huijiwiki.com/wiki/%E4%B8%AD%E6%AF%92" title="中毒">中毒</a>）需要拥有更强的运转能力，以保证觉醒后负面状态能够稳定的对觉醒者造成伤害。</li>
+  <li>两名<a href="https://sts.huijiwiki.com/wiki/%E9%82%AA%E6%95%99%E5%BE%92" title="邪教徒">邪教徒</a>如果在战斗时间被拖得过长时也会有着不容小觑的伤害，可以适当的携带一些能造成范围伤害的卡牌，以期攻击觉醒者的同时能够解决邪教徒。</li>
+  <li><a href="https://sts.huijiwiki.com/wiki/%E9%82%AA%E6%95%99%E5%BE%92" title="邪教徒">邪教徒</a>虽然并非爪牙，但二阶段觉醒者死亡后，邪教徒仍会逃跑，当玩家的卡组支持速杀觉醒者时，可以考虑直接无视两名邪教徒直接击杀觉醒者。</li>
+</ul>
+<p><br></p>
+    
+  </div>
+</article>
+
+<div class="tag-panel">
+  
+  <div class="tag-table">
+    <div class="tag-table-inner">
+      <div class="head unfold">
+        <span>Boss</span>
+        <div class="switch">
+          <span>[</span><span class="text">折叠</span><span>]</span>
+        </div>
+      </div>
+      <div class="body">
+        
+        <span class="entry" data-id="531529">史莱姆老大</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="532023">收藏家</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="9957006">觉醒者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15408990">腐化之心</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15421621">守护者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15421622">六火亡魂</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15421630">铜制机械人偶</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15421632">第一勇士</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15432030">时间吞噬者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15432032">甜圈&amp;八体</span>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="feedback-panel">
+  <div class="col-1">
+    <div class="btn positive" data-type="1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M7,11.0149252 C5.06700338,11.0149252 3.5,9.55985068 3.5,7.76492524 C3.5,6.46999981 4.57663635,7.21111235 7,7.21111235 C9.42336365,7.21111235 10.5,6.46999981 10.5,7.76492524 C10.5,9.55985068 8.93299662,11.0149252 7,11.0149252 Z"/>
+        </g>
+      </svg>
+      <span>有帮助</span>
+    </div>
+    <div class="btn negative" data-type="2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>更新不及时</span>
+    </div>
+    <div class="btn negative" data-type="3">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>描述有误</span>
+    </div>
+  </div>
+  
+  <div class="col-2">
+    <div id="feedback" class="btn plain">
+      <span>问题反馈</span>
+    </div>
+  </div>
+  
+</div>
+
+<script>
+isSharePage = false
+</script>
+<script src="https://cdn.max-c.com/js/hkey.js"></script>
+<script src="//cdn.max-c.com/js/zepto/1.2.0/zepto.min.js"></script>
+<script src="/static/wiki/js/common.js?v=1.1.11"></script>
+<script>
+  if (utils.getUrlParam('os_type') !== 'Android' && String(window.screen.height).match(/812|896/)) {
+    document.body.classList.add('iphonex');
+  }
+</script>
+
+<script src="/static/assets/js/img_lazyload_config.js?v=1.0.0"></script>
+<script>
+  var imgDescs = $('.img-desc');
+  imgDescs.each(function () {
+    var ethis = $(this);
+    if (ethis.text() !== '请输入图片描述') {
+      ethis.addClass('show-img-desc')
+    }
+  });
+
+  $('.article-content table').each(function () {
+    if ($(this).parents('.table-wrap').length < 1) {
+      $(this).wrap('<div class="table-wrap"><div class="table-wrap-inner">');
+    }
+  });
+
+  $('.article-content iframe').each(function () {
+    var width = $(this).width();
+    $(this).height(width * 9 / 16);
+  });
+
+  $('.editor-name').on('tap', function () {
+    var PROTOCOL = {
+      'protocol_type': 'openUser',
+      'user_id': $(this).data('id')
+    };
+    window.location.href = 'heybox://' + encodeURI(JSON.stringify(PROTOCOL))
+  });
+
+  $('.tag-table .head').on('tap', function () {
+    if ($(this).hasClass('unfold')) {
+      $(this).removeClass('unfold').find('.switch .text').text('展开')
+    } else {
+      $(this).addClass('unfold').find('.switch .text').text('折叠')
+    }
+  });
+
+  $('.reference-item .desc[data-link]').on('tap', function () {
+    var url = $(this).data('link');
+    W.appOpenWindow({
+      title: title,
+      url: url
+    });
+  });
+
+  $('.feedback-panel .btn:not(.plain)').on('tap', function () {
+    if ($(this).hasClass('done')) {
+      return false
+    }
+    var type = $(this).data('type')
+    var data = {
+      article_id: '9957006'
+    }
+    if (type === 1) {
+      data.useful = 1
+    } else if (type === 2) {
+      data.update_delay = 1
+    } else if (type === 3) {
+      data.content_inaccurate = 1
+    }
+    $.get('/wiki/collect_user_feedback/', data, function (res) {})
+    $(this).addClass('done')
+  })
+</script>
+
+
+<script src="https://cdn.max-c.com/js/iscroll/5.2.0/iscroll-lite.js"></script>
+<script src="/static/wiki/js/catalogue.js?v=1.0.3"></script>
+<script>
+  W.entryLinkHandler('646570', '杀戮尖塔');
+  var $imgs = $('.article-content img');
+  $imgs.on('tap', function () {
+    W.openImage({
+      imgs: $imgs,
+      index: $imgs.index($(this))
+    });
+  });
+
+  $('.search-bar').on('tap', function () {
+    W.appOpenWindow({
+      title: '搜索',
+      url: window.location.origin + '/wiki/search_wiki_page/?wiki_id=646570'
+    });
+  });
+  $('.history-btn').on('tap', function () {
+    W.appOpenWindow({
+      title: '编辑历史',
+      url: window.location.origin + '/wiki/get_article_edit_history/?wiki_id=646570&article_id=9957006'
+    });
+  });
+
+  function refresh () {
+    window.location.reload()
+  }
+
+  $('.tag-table .entry').on('tap', function () {
+    var id = $(this).data('id');
+    var title = $(this).text();
+    W.appOpenWindow({
+      title: title,
+      url: window.location.origin + '/wiki/get_wiki_base_unit_detail_info/?wiki_id=646570&name=' + title
+      // url: window.location.origin + '/wiki/get_article_list_by_category_id/?category_id=' + id
+    });
+  });
+
+  $('#feedback').on('tap', function () {
+    window.location.href = 'heybox://{"protocol_type":"openFeedback"}'
+  })
+</script>
+
+<script src="https://cdn.max-c.com/static/data/js/lazysizes.4.0.1.min.js" async=""></script>
+
+</body>
+</html>

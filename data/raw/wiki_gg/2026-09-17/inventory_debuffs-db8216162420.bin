@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html class="client-nojs view-dark theme-dark skin-theme-clientpref-night" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Debuffs | Slay the Spire 1</title>
+<script>(function(){var className="client-js view-dark theme-dark skin-theme-clientpref-night";var cookie=document.cookie.match(/(?:^|; )commons_enmwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3400c6205a75211ca19b417c","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Debuffs","wgTitle":"Debuffs","wgCurRevisionId":56145,"wgRevisionId":56145,"wgArticleId":1517,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with hatnotes","ToUpdate","Game Mechanics"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Debuffs","wgRelevantArticleId":1517,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCargoDefaultQueryLimit":2000,"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgCiteReferencePreviewsActive":true,"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"wgVisualEditorToolbarScrollOffset":35,"wgEditSubmitButtonLabelPublish":false};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","wgg.skins.vector.styles.search":"ready","jquery.tablesorter.styles":"ready","ext.CookieWarning.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.removeredlinks.styles":"ready","ext.usergroupbadges.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.globalui.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.SimpleTooltip","ext.CookieWarning","ext.removeredlinks","ext.themes.switcher","ext.gadget.collapsibleSidebarSections","ext.gadget.copySectionLink","ext.gadget.flashAnchored","ext.gadget.purge","ext.gadget.responsiveTables","ext.gadget.scrollButtons","ext.gadget.sectionObserver","ext.gadget.stickyToc","ext.gadget.vectorScripts","mmv.bootstrap","ext.checkUser.clientHints","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.globalui"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.CookieWarning.styles%7Cext.globalui.styles%7Cext.removeredlinks.styles%7Cext.usergroupbadges.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwgg.skins.vector.styles.search&amp;only=styles&amp;skin=vector">
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<script async="" src="/load.php?lang=en&amp;skin=vector&amp;modules=ext.themes.apply&amp;only=scripts&amp;skin=vector&amp;raw=1"></script>
+<meta name="generator" content="MediaWiki 1.43.6">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="See also: Buffs&#10;Note: These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.&#10;Intensity Debuffs are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat...">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<style type="text/css">@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}</style>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Debuffs?action=edit">
+<link rel="apple-touch-icon" href="/images/4/4a/Site-favicon.ico">
+<link rel="icon" href="/images/Site-favicon.ico?b2839f">
+<link rel="shortcut icon" href="/images/Site-favicon.ico?b2839f">
+<link rel="search" type="application/opensearchdescription+xml" href="/rest.php/v1/search" title="Slay the Spire Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://slaythespire.wiki.gg/api.php?action=rsd">
+<link rel="canonical" href="https://slaythespire.wiki.gg/wiki/Debuffs">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">
+<link rel="alternate" type="application/atom+xml" title="Slay the Spire Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Debuffs">
+<meta property="og:site_name" content="Slay the Spire Wiki">
+<meta property="og:url" content="https://slaythespire.wiki.gg/wiki/Debuffs">
+<meta property="og:image" content="https://slaythespire.wiki.gg/images/Intent_Debuff.png?14702a">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1200">
+<meta property="og:description" content="See also: Buffs&#10;Note: These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.&#10;Intensity Debuffs are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat...">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","name":"Debuffs","headline":"Debuffs","mainEntityOfPage":"Debuffs","url":"https://slaythespire.wiki.gg/wiki/Debuffs","image":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/Intent_Debuff.png?14702a"},"description":"See also: Buffs\nNote: These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.\nIntensity Debuffs are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat...","datePublished":"2025-08-06T10:56:58Z","author":{"@type":"Organization","name":"Slay the Spire Wiki","url":"https://slaythespire.wiki.gg/","logo":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/Site-logo.png?636805"}},"publisher":{"@type":"Organization","name":"Slay the Spire Wiki","url":"https://slaythespire.wiki.gg/","logo":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/Site-logo.png?636805"}}}</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P68LVFKN');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="wgg-dom-version-1_43 skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Debuffs rootpage-Debuffs skin-vector action-view skin--responsive"><header id="wgg-netbar" class="">
+	<div class="wgg-netbar__left">
+		<div class="wgg-netbar__logo">
+			<a href="/" aria-label="wiki.gg">
+				<img height=25 alt="wiki.gg logo" src="https://commons.wiki.gg/images/Network_header_logo.svg?feeba7">
+			</a>
+		</div>
+			<a
+			    class="wgg-netbar__deals-link"
+			    href="https://www.indiedeals.gg"
+			    target="_blank"
+			    rel="noopener"
+			    title="Indie game deals"
+			>
+			    <img class="wgg-netbar__deals-link__icon" src="https://commons.wiki.gg/images/Network_indiedeals_logo.png?f0e20f" alt="">
+			    <span class="wgg-netbar__deals-link__label">Indie game deals</span>
+			</a>
+	</div>
+
+	<nav class="wgg-netbar__user-links" aria-label="Personal tools">
+		<div id="p-personal" class="mw-portlet mw-portlet-personal"  >
+		    
+		    <ul>
+		            <li id="pt-createaccount" class="mw-list-item wgg-netbar__desktop-only"><a data-mw="interface" class=""  href="/wiki/Special:CreateAccount?returnto=Debuffs" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li>
+		            <li id="pt-login" class="mw-list-item wgg-netbar__desktop-only"><a data-mw="interface" class=""  href="/wiki/Special:UserLogin?returnto=Debuffs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+		    </ul>
+		    
+		</div>
+
+		<div id="wgg-user-menu-overflow" class="wgg-netbar__dropdown">
+			<input type="checkbox"
+				id="wgg-user-menu-overflow-checkbox"
+				role="button"
+				aria-haspopup="true"
+				aria-labelledby="wgg-user-menu-overflow-label"
+			>
+			<label
+				id="wgg-user-menu-overflow-label"
+		        for="wgg-user-menu-overflow-checkbox"
+				class="wgg-netbar__icon-button"
+			><span class="wgg-netbar-icon wgg-netbar-icon--overflow"></span><span>Toggle personal tools menu</span></label>
+
+			<div class="wgg-netbar__dropdown-content">
+				<div id="p-user-menu" class="mw-portlet mw-portlet-user-menu"  >
+				    
+				    <ul>
+				            <li id="pt-anonuserpage" class="mw-list-item"><a data-mw="interface" class="" ><span>Not logged in</span></a></li>
+				            <li id="pt-anontalk" class="mw-list-item"><a data-mw="interface" class=""  href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+				            <li id="pt-anoncontribs" class="mw-list-item"><a data-mw="interface" class=""  href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li>
+				            <li id="pt-createaccount-overflow" class="mw-list-item wgg-netbar__mobile-only"><a data-mw="interface" class=""  href="/wiki/Special:CreateAccount?returnto=Debuffs" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li>
+				            <li id="pt-login-overflow" class="mw-list-item wgg-netbar__mobile-only"><a data-mw="interface" class=""  href="/wiki/Special:UserLogin?returnto=Debuffs" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+				    </ul>
+				    
+				</div>
+			</div>
+		</div>
+</nav>
+
+</header>
+
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div class="content-wrapper">
+	<div id="mw-navigation">
+		<h2>Navigation menu</h2>
+		<div id="mw-head">
+			<div id="left-navigation">
+				
+<div id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vectorTabs vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Debuffs" title="View the content page [c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/wiki/Talk:Debuffs?action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Make A Suggestion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</div>
+			<div id="right-navigation">
+				
+<div id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vectorTabs vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/Debuffs"><span>Read</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/wiki/Debuffs?veaction=edit" title="Edit this page [v]" accesskey="v"><span>Edit</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/wiki/Debuffs?action=edit" title="Edit the source code of this page [e]" accesskey="e"><span>Edit source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/wiki/Debuffs?action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vectorMenu vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div class="vector-typeahead-search-container">
+		<div class="vector-typeahead-search-wrapper">
+			<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+				<form action="/wiki/Special:Search" id="searchform" class="vector-search-box-form cdx-typeahead-search__form">
+					<div id="simpleSearch"
+						class="vector-search-box-inner cdx-search-input cdx-search-input--has-end-button cdx-typeahead-search__input"
+						 data-search-loc="header-navigation">
+						<div class="cdx-search-input__input-wrapper">
+							<div class="cdx-text-input">
+								<input class="vector-search-box-input cdx-text-input__input mw-searchInput"
+									 type="search" name="search" placeholder="Search Slay the Spire Wiki" aria-label="Search Slay the Spire Wiki" autocapitalize="sentences" spellcheck="false" title="Search Slay the Spire Wiki [f]" accesskey="f" id="searchInput"
+									
+								>
+							</div>
+						</div>
+					<button class="cdx-button cdx-search-input__end-button">
+						Search
+					</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+			</div>
+		</div>
+		
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/"
+			title="Visit the main page"></a>
+	</div>
+	
+<div id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/" title="Visit the main page [z]" accesskey="z"><span>Slay the Spire</span></a></li><li id="n-Slay-the-Spire-2" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Main"><span>Slay the Spire 2</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-Editor-Portal" class="mw-list-item"><a href="/wiki/Help:Editor_Portal"><span>Editor Portal</span></a></li><li id="n-Wanted-Updates" class="mw-list-item"><a href="/wiki/Category:ToUpdate"><span>Wanted Updates</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Slay_the_Spire_1" class="mw-portlet mw-portlet-Slay_the_Spire_1 vector-menu-portal portal vector-menu" aria-labelledby="p-Slay_the_Spire_1-label"  >
+	<h3
+		id="p-Slay_the_Spire_1-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Slay the Spire 1</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-The-Ironclad" class="mw-list-item"><a href="/wiki/Ironclad"><span>The Ironclad</span></a></li><li id="n-The-Silent" class="mw-list-item"><a href="/wiki/Silent"><span>The Silent</span></a></li><li id="n-The-Defect" class="mw-list-item"><a href="/wiki/Defect"><span>The Defect</span></a></li><li id="n-The-Watcher" class="mw-list-item"><a href="/wiki/Watcher"><span>The Watcher</span></a></li><li id="n-Acts" class="mw-list-item"><a href="/wiki/Acts"><span>Acts</span></a></li><li id="n-All-Cards" class="mw-list-item"><a href="/wiki/Cards_List"><span>All Cards</span></a></li><li id="n-All-Relics" class="mw-list-item"><a href="/wiki/Relics_List"><span>All Relics</span></a></li><li id="n-All-Potions" class="mw-list-item"><a href="/wiki/Potions_List"><span>All Potions</span></a></li><li id="n-All-Events" class="mw-list-item"><a href="/wiki/Events_List"><span>All Events</span></a></li><li id="n-Patch-Notes" class="mw-list-item"><a href="/wiki/Patch_Notes"><span>Patch Notes</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-Slay_the_Spire_2" class="mw-portlet mw-portlet-Slay_the_Spire_2 vector-menu-portal portal vector-menu" aria-labelledby="p-Slay_the_Spire_2-label"  >
+	<h3
+		id="p-Slay_the_Spire_2-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Slay the Spire 2</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-The-Ironclad" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Ironclad"><span>The Ironclad</span></a></li><li id="n-The-Silent" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Silent"><span>The Silent</span></a></li><li id="n-The-Regent" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Regent"><span>The Regent</span></a></li><li id="n-The-Necrobinder" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Necrobinder"><span>The Necrobinder</span></a></li><li id="n-The-Defect" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Defect"><span>The Defect</span></a></li><li id="n-Ancients" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Ancients"><span>Ancients</span></a></li><li id="n-Timeline" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Timeline"><span>Timeline</span></a></li><li id="n-Acts" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Acts"><span>Acts</span></a></li><li id="n-All-Cards" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Cards_List"><span>All Cards</span></a></li><li id="n-All-Relics" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Relics_List"><span>All Relics</span></a></li><li id="n-All-Potions" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Potions_List"><span>All Potions</span></a></li><li id="n-All-Events" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Events_List"><span>All Events</span></a></li><li id="n-Patch-Notes" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Patch_Notes"><span>Patch Notes</span></a></li><li id="n-Multiplayer" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Multiplayer"><span>Multiplayer</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Debuffs" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Debuffs" rel="nofollow" title="Recent changes in pages linked from this page"><span>Related changes</span></a></li><li id="t-newpage" class="mw-list-item"><a href="/wiki/Special:NewPage" accesskey="]"><span>New page</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-info" class="mw-list-item"><a href="/wiki/Debuffs?action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cargopagevalueslink" class="mw-list-item"><a href="/wiki/Debuffs?action=dbdata"><span>Database data</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+	</div>
+	<div id="content" class="mw-body" role="main">
+		<aside id="wikigg-sl-header" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--lb"
+            data-wgg-unit-type="internal"
+        ></div>
+</aside>
+
+		<div class="content-body">
+			<main>
+				<a id="top"></a>
+				<div id="siteNotice"></div>
+				<div class="mw-indicators">
+				</div>
+				<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Debuffs</span></h1>
+				<div id="bodyContent" class="vector-body">
+					<div id="siteSub" class="noprint">From Slay the Spire Wiki</div>
+					<div id="contentSub"></div>
+					<div id="contentSub2"></div>
+					
+					<div id="jump-to-nav"></div>
+					<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+					<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="game-tabber noexcerpt"><div class="game-tab" style="border: 2px solid var(--wiki-accent-color--hover); border-bottom: none;"><a class="mw-selflink selflink">Slay the Spire</a></div> <div class="game-tab"><a href="/wiki/Slay_the_Spire_2:Debuffs" title="Slay the Spire 2:Debuffs">Slay the Spire 2</a></div></div>
+<div class="ambox" style="--ambox-color: var(--highlight-color-boss);"><div class="ambox-icon metadata"><img alt="" src="/images/thumb/StS2_Icon_Barricade.png/48px-StS2_Icon_Barricade.png?42ed6c" decoding="async" loading="lazy" width="48" height="48" srcset="/images/thumb/StS2_Icon_Barricade.png/72px-StS2_Icon_Barricade.png?42ed6c 1.5x, /images/thumb/StS2_Icon_Barricade.png/96px-StS2_Icon_Barricade.png?42ed6c 2x" data-file-width="256" data-file-height="256" /></div><div class="ambox-content"><p class="ambox-title">WARNING!</p><p class="ambox-text"><i>This page is under construction. Information may be wrong or incomplete.</i></p></div></div> 
+<p><br />
+</p>
+<div class="toclimit-2"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Stack_Types"><span class="tocnumber">1</span> <span class="toctext">Stack Types</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Counter"><span class="tocnumber">2</span> <span class="toctext">Counter</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Debuffs_List"><span class="tocnumber">3</span> <span class="toctext">Debuffs List</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Vulnerable"><span class="tocnumber">3.1</span> <span class="toctext">Vulnerable</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Weak"><span class="tocnumber">3.2</span> <span class="toctext">Weak</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Frail"><span class="tocnumber">3.3</span> <span class="toctext">Frail</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Poison"><span class="tocnumber">3.4</span> <span class="toctext">Poison</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Strength_Down"><span class="tocnumber">3.5</span> <span class="toctext">Strength Down</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Strength_(Negative)"><span class="tocnumber">3.6</span> <span class="toctext">Strength (Negative)</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Shackled"><span class="tocnumber">3.7</span> <span class="toctext">Shackled</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Dexterity_Down"><span class="tocnumber">3.8</span> <span class="toctext">Dexterity Down</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Dexterity_(Negative)"><span class="tocnumber">3.9</span> <span class="toctext">Dexterity (Negative)</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Focus_(Negative)"><span class="tocnumber">3.10</span> <span class="toctext">Focus (Negative)</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Confusion"><span class="tocnumber">3.11</span> <span class="toctext">Confusion</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Choked"><span class="tocnumber">3.12</span> <span class="toctext">Choked</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Corpse_Explosion"><span class="tocnumber">3.13</span> <span class="toctext">Corpse Explosion</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#No_Draw"><span class="tocnumber">3.14</span> <span class="toctext">No Draw</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Wraith_Form"><span class="tocnumber">3.15</span> <span class="toctext">Wraith Form</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Bias"><span class="tocnumber">3.16</span> <span class="toctext">Bias</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Lock-On"><span class="tocnumber">3.17</span> <span class="toctext">Lock-On</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Block_Return"><span class="tocnumber">3.18</span> <span class="toctext">Block Return</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Fasting"><span class="tocnumber">3.19</span> <span class="toctext">Fasting</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Mark"><span class="tocnumber">3.20</span> <span class="toctext">Mark</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#No_Block"><span class="tocnumber">3.21</span> <span class="toctext">No Block</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Constricted"><span class="tocnumber">3.22</span> <span class="toctext">Constricted</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Draw_Reduction"><span class="tocnumber">3.23</span> <span class="toctext">Draw Reduction</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Entangled"><span class="tocnumber">3.24</span> <span class="toctext">Entangled</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Hex"><span class="tocnumber">3.25</span> <span class="toctext">Hex</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Slow"><span class="tocnumber">3.26</span> <span class="toctext">Slow</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<p>See also: <a href="/wiki/Buffs" title="Buffs">Buffs</a>
+</p>
+<h2><span class="mw-headline" id="Stack_Types">Stack Types</span></h2><div class="hatnote"><b>Note:</b> These terms are not officially used by the game and are used by the wiki for better classification and description of their behavior.</div>
+<ul><li><b>Intensity Debuffs</b> are more effective depending on how many stacks of the debuffs you have. These debuffs typically are either permanent for the combat encounter or are consumed on the following turn.</li>
+<li><b>Duration Debuffs</b> last for as many turns as you have stacks of the debuff.</li>
+<li><b>Counter Debuffs</b> activate when an event happens, such as playing a card.</li></ul>
+<p><span class="power-trigger inline-trigger" data-name="Poison" data-sequel="1"><a href="/wiki/Poison" title="Poison"><img alt="Icon Poison.png" src="/images/thumb/Icon_Poison.png/22px-Icon_Poison.png?628f4a" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Poison.png/33px-Icon_Poison.png?628f4a 1.5x, /images/thumb/Icon_Poison.png/44px-Icon_Poison.png?628f4a 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Poison" title="Poison">Poison</a></span> is the ONLY Debuff with both <b>Intensity</b> and <b>Duration</b> stack types.
+</p>
+<h2><span class="mw-headline" id="Counter">Counter</span></h2>
+<ul><li><span class="relic-trigger inline-trigger" data-name="Orange Pellets" data-sequel="1"><a href="/wiki/Orange_Pellets" title="Orange Pellets"><img alt="OrangePellets.png" src="/images/thumb/OrangePellets.png/24px-OrangePellets.png?bbb2d1" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OrangePellets.png/36px-OrangePellets.png?bbb2d1 1.5x, /images/thumb/OrangePellets.png/48px-OrangePellets.png?bbb2d1 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Orange_Pellets" title="Orange Pellets">Orange Pellets</a></span> can cleanse the player of all debuffs.</li>
+<li><span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> negates the application of the next debuff received.
+<ul><li>Gaining <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> does not interact with existing debuffs on the character.</li></ul></li></ul>
+<h2><span class="mw-headline" id="Debuffs_List">Debuffs List</span></h2>
+<p>Debuffs that can be found in multiple sources in the game.
+</p>
+<div id="character-filters"></div>
+<table class="wikitable sortable" id="characterTable" data-filter-label="Applied By">
+<tbody><tr>
+<th>Icon
+</th>
+<th style="width: 7em;">Name
+</th>
+<th style="width: 20em;">Source to Target
+</th>
+<th style="width: 12em;">Source to Self
+</th>
+<th>Description
+</th>
+<th>Notes
+</th>
+<th>Stacking type
+</th>
+<th>Caps at
+</th></tr>
+<tr>
+<td><div id="Vulnerable"><a href="/wiki/File:Icon_Vulnerable.png" class="image"><img alt="Icon Vulnerable.png" src="/images/thumb/Icon_Vulnerable.png/60px-Icon_Vulnerable.png?8c74cd" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Vulnerable.png/90px-Icon_Vulnerable.png?8c74cd 1.5x, /images/Icon_Vulnerable.png?8c74cd 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Vulnerable"><a href="/wiki/Vulnerable" title="Vulnerable">Vulnerable</a></span></h6>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Bash" data-sequel="1"><a href="/wiki/Bash" title="Bash"><img alt="CardIcon Ironclad Attack Common.png" src="/images/thumb/CardIcon_Ironclad_Attack_Common.png/24px-CardIcon_Ironclad_Attack_Common.png?260b96" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Attack_Common.png?260b96 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Bash" title="Bash">Bash</a></span>, <span class="card-trigger inline-trigger" data-name="Thunderclap" data-sequel="1"><a href="/wiki/Thunderclap" title="Thunderclap"><img alt="CardIcon Ironclad Attack Common.png" src="/images/thumb/CardIcon_Ironclad_Attack_Common.png/24px-CardIcon_Ironclad_Attack_Common.png?260b96" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Attack_Common.png?260b96 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Thunderclap" title="Thunderclap">Thunderclap</a></span>, <span class="card-trigger inline-trigger" data-name="Uppercut" data-sequel="1"><a href="/wiki/Uppercut" title="Uppercut"><img alt="CardIcon Ironclad Attack Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Attack_Uncommon.png/24px-CardIcon_Ironclad_Attack_Uncommon.png?d4e46d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Attack_Uncommon.png?d4e46d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Uppercut" title="Uppercut">Uppercut</a></span>, <span class="card-trigger inline-trigger" data-name="Shockwave" data-sequel="1"><a href="/wiki/Shockwave" title="Shockwave"><img alt="CardIcon Ironclad Skill Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Skill_Uncommon.png/24px-CardIcon_Ironclad_Skill_Uncommon.png?64c48d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Uncommon.png?64c48d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Shockwave" title="Shockwave">Shockwave</a></span></span>
+<p><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Terror" data-sequel="1"><a href="/wiki/Terror" title="Terror"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Terror" title="Terror">Terror</a></span></span>
+<span data-text="defect"><span class="card-trigger inline-trigger" data-name="Beam Cell" data-sequel="1"><a href="/wiki/Beam_Cell" title="Beam Cell"><img alt="CardIcon Defect Attack Common.png" src="/images/thumb/CardIcon_Defect_Attack_Common.png/24px-CardIcon_Defect_Attack_Common.png?c26e25" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Attack_Common.png?c26e25 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Beam_Cell" title="Beam Cell">Beam Cell</a></span></span>
+<span data-text="watcher"><span class="card-trigger inline-trigger" data-name="Crush Joints" data-sequel="1"><a href="/wiki/Crush_Joints" title="Crush Joints"><img alt="CardIcon Watcher Attack Common.png" src="/images/thumb/CardIcon_Watcher_Attack_Common.png/24px-CardIcon_Watcher_Attack_Common.png?f67a0c" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Attack_Common.png?f67a0c 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Crush_Joints" title="Crush Joints">Crush Joints</a></span>, <span class="card-trigger inline-trigger" data-name="Indignation" data-sequel="1"><a href="/wiki/Indignation" title="Indignation"><img alt="CardIcon Watcher Skill Uncommon.png" src="/images/thumb/CardIcon_Watcher_Skill_Uncommon.png/24px-CardIcon_Watcher_Skill_Uncommon.png?9f496a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Skill_Uncommon.png?9f496a 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Indignation" title="Indignation">Indignation</a></span></span>
+<span data-text="all"><span class="card-trigger inline-trigger" data-name="Trip" data-sequel="1"><a href="/wiki/Trip" title="Trip"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Trip" title="Trip">Trip</a></span>, <span class="relic-trigger inline-trigger" data-name="Bag of Marbles" data-sequel="1"><a href="/wiki/Bag_of_Marbles" title="Bag of Marbles"><img alt="BagofMarbles.png" src="/images/thumb/BagofMarbles.png/24px-BagofMarbles.png?731ec4" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/BagofMarbles.png/36px-BagofMarbles.png?731ec4 1.5x, /images/thumb/BagofMarbles.png/48px-BagofMarbles.png?731ec4 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Bag_of_Marbles" title="Bag of Marbles">Bag of Marbles</a></span>, <span class="relic-trigger inline-trigger" data-name="Hand Drill" data-sequel="1"><a href="/wiki/Hand_Drill" title="Hand Drill"><img alt="HandDrill.png" src="/images/thumb/HandDrill.png/24px-HandDrill.png?99b253" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/HandDrill.png/36px-HandDrill.png?99b253 1.5x, /images/thumb/HandDrill.png/48px-HandDrill.png?99b253 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Hand_Drill" title="Hand Drill">Hand Drill</a></span>, <span class="inline-trigger potion-trigger" data-name="Fear Potion" data-sequel="1"><a href="/wiki/File:FearPotion.png" class="image"><img alt="FearPotion.png" src="/images/thumb/FearPotion.png/24px-FearPotion.png?7ae539" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/FearPotion.png/36px-FearPotion.png?7ae539 1.5x, /images/thumb/FearPotion.png/48px-FearPotion.png?7ae539 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Fear_Potion" title="Fear Potion">Fear Potion</a></span></span>
+<span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Chosen" data-sequel="1"><a href="/wiki/Chosen#Chosen" title="Chosen"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Chosen#Chosen" title="Chosen">Chosen</a></span>, <span class="enemy-trigger inline-trigger" data-name="Gremlin Nob" data-sequel="1"><a href="/wiki/Gremlin_Nob#Gremlin_Nob" title="Gremlin Nob"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Gremlin_Nob#Gremlin_Nob" title="Gremlin Nob">Gremlin Nob</a></span>, <span class="enemy-trigger inline-trigger" data-name="Red Slaver" data-sequel="1"><a href="/wiki/Slavers#Red_Slaver" title="Slavers"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slavers#Red_Slaver" title="Slavers">Red Slaver</a></span>, <span class="enemy-trigger inline-trigger" data-name="Snecko" data-sequel="1"><a href="/wiki/Snecko#Snecko" title="Snecko"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Snecko#Snecko" title="Snecko">Snecko</a></span>, <span class="enemy-trigger inline-trigger" data-name="Writhing Mass" data-sequel="1"><a href="/wiki/Writhing_Mass#Writhing_Mass" title="Writhing Mass"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Writhing_Mass#Writhing_Mass" title="Writhing Mass">Writhing Mass</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Champ" data-sequel="1"><a href="/wiki/The_Champ#The_Champ" title="The Champ"><img alt="Map-Champ.png" src="/images/thumb/Map-Champ.png/22px-Map-Champ.png?8759b9" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Champ.png/33px-Map-Champ.png?8759b9 1.5x, /images/thumb/Map-Champ.png/44px-Map-Champ.png?8759b9 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Champ#The_Champ" title="The Champ">The Champ</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Collector" data-sequel="1"><a href="/wiki/The_Collector#The_Collector" title="The Collector"><img alt="Map-Collector.png" src="/images/thumb/Map-Collector.png/22px-Map-Collector.png?fd6983" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Collector.png/33px-Map-Collector.png?fd6983 1.5x, /images/thumb/Map-Collector.png/44px-Map-Collector.png?fd6983 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Collector#The_Collector" title="The Collector">The Collector</a></span>, <span class="enemy-trigger inline-trigger" data-name="Corrupt Heart" data-sequel="1"><a href="/wiki/Corrupt_Heart#Corrupt_Heart" title="Corrupt Heart"><img alt="Map-CorruptHeart.png" src="/images/thumb/Map-CorruptHeart.png/22px-Map-CorruptHeart.png?9f6024" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-CorruptHeart.png/33px-Map-CorruptHeart.png?9f6024 1.5x, /images/thumb/Map-CorruptHeart.png/44px-Map-CorruptHeart.png?9f6024 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Corrupt_Heart#Corrupt_Heart" title="Corrupt Heart">Corrupt Heart</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Guardian" data-sequel="1"><a href="/wiki/The_Guardian#The_Guardian" title="The Guardian"><img alt="Map-Guardian.png" src="/images/thumb/Map-Guardian.png/22px-Map-Guardian.png?188be6" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Guardian.png/33px-Map-Guardian.png?188be6 1.5x, /images/thumb/Map-Guardian.png/44px-Map-Guardian.png?188be6 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Guardian#The_Guardian" title="The Guardian">The Guardian</a></span>, <span class="enemy-trigger inline-trigger" data-name="Time Eater" data-sequel="1"><a href="/wiki/Time_Eater#Time_Eater" title="Time Eater"><img alt="Map-TimeEater.png" src="/images/thumb/Map-TimeEater.png/22px-Map-TimeEater.png?74ceb5" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-TimeEater.png/33px-Map-TimeEater.png?74ceb5 1.5x, /images/thumb/Map-TimeEater.png/44px-Map-TimeEater.png?74ceb5 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Time_Eater#Time_Eater" title="Time Eater">Time Eater</a></span></span>
+</p>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Berserk" data-sequel="1"><a href="/wiki/Berserk" title="Berserk"><img alt="CardIcon Ironclad Power Rare.png" src="/images/thumb/CardIcon_Ironclad_Power_Rare.png/24px-CardIcon_Ironclad_Power_Rare.png?baa309" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Power_Rare.png?baa309 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Berserk" title="Berserk">Berserk</a></span></span>
+</td>
+<td>Receive 50% (<span class="relic-trigger inline-trigger" data-name="Odd Mushroom" data-sequel="1"><a href="/wiki/Odd_Mushroom" title="Odd Mushroom"><img alt="OddMushroom.png" src="/images/thumb/OddMushroom.png/24px-OddMushroom.png?387078" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OddMushroom.png/36px-OddMushroom.png?387078 1.5x, /images/thumb/OddMushroom.png/48px-OddMushroom.png?387078 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Odd_Mushroom" title="Odd Mushroom">25%</a></span>) (<span class="relic-trigger inline-trigger" data-name="Paper Phrog" data-sequel="1"><a href="/wiki/Paper_Phrog" title="Paper Phrog"><img alt="PaperFrog.png" src="/images/thumb/PaperFrog.png/24px-PaperFrog.png?a89503" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/PaperFrog.png/36px-PaperFrog.png?a89503 1.5x, /images/thumb/PaperFrog.png/48px-PaperFrog.png?a89503 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Paper_Phrog" title="Paper Phrog">75%</a></span>) more damage from Attacks for X turns.
+</td>
+<td>
+<ul><li>Applied after <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span> and <span class="power-trigger inline-trigger" data-name="Vigor" data-sequel="1"><a href="/wiki/Vigor" title="Vigor"><img alt="Icon Vigor.png" src="/images/thumb/Icon_Vigor.png/22px-Icon_Vigor.png?f2e384" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Vigor.png/33px-Icon_Vigor.png?f2e384 1.5x, /images/thumb/Icon_Vigor.png/44px-Icon_Vigor.png?f2e384 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Vigor" title="Vigor">Vigor</a></span>, then final damage rounds down.</li>
+<li>Effect can be reduced to +25% extra damage with <span class="relic-trigger inline-trigger" data-name="Odd Mushroom" data-sequel="1"><a href="/wiki/Odd_Mushroom" title="Odd Mushroom"><img alt="OddMushroom.png" src="/images/thumb/OddMushroom.png/24px-OddMushroom.png?387078" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OddMushroom.png/36px-OddMushroom.png?387078 1.5x, /images/thumb/OddMushroom.png/48px-OddMushroom.png?387078 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Odd_Mushroom" title="Odd Mushroom">Odd Mushroom</a></span>.</li></ul>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Weak"><a href="/wiki/File:Icon_Weak.png" class="image"><img alt="Icon Weak.png" src="/images/thumb/Icon_Weak.png/60px-Icon_Weak.png?261352" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Weak.png/90px-Icon_Weak.png?261352 1.5x, /images/Icon_Weak.png?261352 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Weak"><a href="/wiki/Weak" title="Weak">Weak</a></span></h6>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Clothesline" data-sequel="1"><a href="/wiki/Clothesline" title="Clothesline"><img alt="CardIcon Ironclad Attack Common.png" src="/images/thumb/CardIcon_Ironclad_Attack_Common.png/24px-CardIcon_Ironclad_Attack_Common.png?260b96" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Attack_Common.png?260b96 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Clothesline" title="Clothesline">Clothesline</a></span>, <span class="card-trigger inline-trigger" data-name="Intimidate" data-sequel="1"><a href="/wiki/Intimidate" title="Intimidate"><img alt="CardIcon Ironclad Skill Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Skill_Uncommon.png/24px-CardIcon_Ironclad_Skill_Uncommon.png?64c48d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Uncommon.png?64c48d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Intimidate" title="Intimidate">Intimidate</a></span>, <span class="card-trigger inline-trigger" data-name="Shockwave" data-sequel="1"><a href="/wiki/Shockwave" title="Shockwave"><img alt="CardIcon Ironclad Skill Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Skill_Uncommon.png/24px-CardIcon_Ironclad_Skill_Uncommon.png?64c48d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Uncommon.png?64c48d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Shockwave" title="Shockwave">Shockwave</a></span>, <span class="card-trigger inline-trigger" data-name="Uppercut" data-sequel="1"><a href="/wiki/Uppercut" title="Uppercut"><img alt="CardIcon Ironclad Attack Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Attack_Uncommon.png/24px-CardIcon_Ironclad_Attack_Uncommon.png?d4e46d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Attack_Uncommon.png?d4e46d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Uppercut" title="Uppercut">Uppercut</a></span></span>
+<p><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Crippling Cloud" data-sequel="1"><a href="/wiki/Crippling_Cloud" title="Crippling Cloud"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Crippling_Cloud" title="Crippling Cloud">Crippling Cloud</a></span>, <span class="card-trigger inline-trigger" data-name="Leg Sweep" data-sequel="1"><a href="/wiki/Leg_Sweep" title="Leg Sweep"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Leg_Sweep" title="Leg Sweep">Leg Sweep</a></span>, <span class="card-trigger inline-trigger" data-name="Malaise" data-sequel="1"><a href="/wiki/Malaise" title="Malaise"><img alt="CardIcon Silent Skill Rare.png" src="/images/thumb/CardIcon_Silent_Skill_Rare.png/24px-CardIcon_Silent_Skill_Rare.png?5a1724" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Rare.png?5a1724 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Malaise" title="Malaise">Malaise</a></span>, <span class="card-trigger inline-trigger" data-name="Neutralize" data-sequel="1"><a href="/wiki/Neutralize" title="Neutralize"><img alt="CardIcon Silent Attack Common.png" src="/images/thumb/CardIcon_Silent_Attack_Common.png/24px-CardIcon_Silent_Attack_Common.png?ba66ad" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Attack_Common.png?ba66ad 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Neutralize" title="Neutralize">Neutralize</a></span>, <span class="card-trigger inline-trigger" data-name="Sucker Punch" data-sequel="1"><a href="/wiki/Sucker_Punch" title="Sucker Punch"><img alt="CardIcon Silent Attack Common.png" src="/images/thumb/CardIcon_Silent_Attack_Common.png/24px-CardIcon_Silent_Attack_Common.png?ba66ad" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Attack_Common.png?ba66ad 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Sucker_Punch" title="Sucker Punch">Sucker Punch</a></span></span>
+<span data-text="defect"><span class="card-trigger inline-trigger" data-name="Go for the Eyes" data-sequel="1"><a href="/wiki/Go_for_the_Eyes" title="Go for the Eyes"><img alt="CardIcon Defect Attack Common.png" src="/images/thumb/CardIcon_Defect_Attack_Common.png/24px-CardIcon_Defect_Attack_Common.png?c26e25" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Attack_Common.png?c26e25 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Go_for_the_Eyes" title="Go for the Eyes">Go for the Eyes</a></span></span>
+<span data-text="watcher"><span class="card-trigger inline-trigger" data-name="Sash Whip" data-sequel="1"><a href="/wiki/Sash_Whip" title="Sash Whip"><img alt="CardIcon Watcher Attack Common.png" src="/images/thumb/CardIcon_Watcher_Attack_Common.png/24px-CardIcon_Watcher_Attack_Common.png?f67a0c" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Attack_Common.png?f67a0c 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Sash_Whip" title="Sash Whip">Sash Whip</a></span>, <span class="card-trigger inline-trigger" data-name="Wave of the Hand" data-sequel="1"><a href="/wiki/Wave_of_the_Hand" title="Wave of the Hand"><img alt="CardIcon Watcher Skill Uncommon.png" src="/images/thumb/CardIcon_Watcher_Skill_Uncommon.png/24px-CardIcon_Watcher_Skill_Uncommon.png?9f496a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Skill_Uncommon.png?9f496a 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Wave_of_the_Hand" title="Wave of the Hand">Wave of the Hand</a></span></span>
+<span data-text="all"><span class="card-trigger inline-trigger" data-name="Blind" data-sequel="1"><a href="/wiki/Blind" title="Blind"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Blind" title="Blind">Blind</a></span>, <span class="relic-trigger inline-trigger" data-name="Red Mask" data-sequel="1"><a href="/wiki/Red_Mask" title="Red Mask"><img alt="RedMask.png" src="/images/thumb/RedMask.png/24px-RedMask.png?af8f76" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/RedMask.png/36px-RedMask.png?af8f76 1.5x, /images/thumb/RedMask.png/48px-RedMask.png?af8f76 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Red_Mask" title="Red Mask">Red Mask</a></span>, <span class="relic-trigger inline-trigger" data-name="Champion Belt" data-sequel="1"><a href="/wiki/Champion_Belt" title="Champion Belt"><img alt="ChampionBelt.png" src="/images/thumb/ChampionBelt.png/24px-ChampionBelt.png?cd2e0b" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/ChampionBelt.png/36px-ChampionBelt.png?cd2e0b 1.5x, /images/thumb/ChampionBelt.png/48px-ChampionBelt.png?cd2e0b 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Champion_Belt" title="Champion Belt">Champion Belt</a></span>, <span class="inline-trigger potion-trigger" data-name="Weak Potion" data-sequel="1"><a href="/wiki/File:WeakPotion.png" class="image"><img alt="WeakPotion.png" src="/images/thumb/WeakPotion.png/24px-WeakPotion.png?91132a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/WeakPotion.png/36px-WeakPotion.png?91132a 1.5x, /images/thumb/WeakPotion.png/48px-WeakPotion.png?91132a 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Weak_Potion" title="Weak Potion">Weak Potion</a></span></span>
+<span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Acid Slime (L)" data-sequel="1"><a href="/wiki/Slimes#Acid_Slime_(L)" title="Slimes"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slimes#Acid_Slime_(L)" title="Slimes">Acid Slime (L)</a></span>, <span class="enemy-trigger inline-trigger" data-name="Acid Slime (M)" data-sequel="1"><a href="/wiki/Slimes#Acid_Slime_(M)" title="Slimes"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slimes#Acid_Slime_(M)" title="Slimes">Acid Slime (M)</a></span>, <span class="enemy-trigger inline-trigger" data-name="Acid Slime (S)" data-sequel="1"><a href="/wiki/Slimes#Acid_Slime_(S)" title="Slimes"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slimes#Acid_Slime_(S)" title="Slimes">Acid Slime (S)</a></span>, <span class="enemy-trigger inline-trigger" data-name="Blue Slaver" data-sequel="1"><a href="/wiki/Slavers#Blue_Slaver" title="Slavers"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slavers#Blue_Slaver" title="Slavers">Blue Slaver</a></span>, <span class="enemy-trigger inline-trigger" data-name="Chosen" data-sequel="1"><a href="/wiki/Chosen#Chosen" title="Chosen"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Chosen#Chosen" title="Chosen">Chosen</a></span>, <span class="enemy-trigger inline-trigger" data-name="Fat Gremlin" data-sequel="1"><a href="/wiki/Gremlins#Fat_Gremlin" title="Gremlins"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Gremlins#Fat_Gremlin" title="Gremlins">Fat Gremlin</a></span>, <span class="enemy-trigger inline-trigger" data-name="Giant Head" data-sequel="1"><a href="/wiki/Giant_Head#Giant_Head" title="Giant Head"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Giant_Head#Giant_Head" title="Giant Head">Giant Head</a></span>, <span class="enemy-trigger inline-trigger" data-name="Green Louse" data-sequel="1"><a href="/wiki/Louses#Green_Louse" title="Louses"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Louses#Green_Louse" title="Louses">Green Louse</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Maw" data-sequel="1"><a href="/wiki/The_Maw#The_Maw" title="The Maw"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/The_Maw#The_Maw" title="The Maw">The Maw</a></span>, <span class="enemy-trigger inline-trigger" data-name="Reptomancer" data-sequel="1"><a href="/wiki/Reptomancer#Reptomancer" title="Reptomancer"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Reptomancer#Reptomancer" title="Reptomancer">Reptomancer</a></span>, <span class="enemy-trigger inline-trigger" data-name="Romeo" data-sequel="1"><a href="/wiki/Masked_Bandits#Romeo" title="Masked Bandits"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Masked_Bandits#Romeo" title="Masked Bandits">Romeo</a></span>, <span class="enemy-trigger inline-trigger" data-name="Snake Plant" data-sequel="1"><a href="/wiki/Snake_Plant#Snake_Plant" title="Snake Plant"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Snake_Plant#Snake_Plant" title="Snake Plant">Snake Plant</a></span>, <span class="enemy-trigger inline-trigger" data-name="Snecko" data-sequel="1"><a href="/wiki/Snecko#Snecko" title="Snecko"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Snecko#Snecko" title="Snecko">Snecko</a></span>, <span class="enemy-trigger inline-trigger" data-name="Writhing Mass" data-sequel="1"><a href="/wiki/Writhing_Mass#Writhing_Mass" title="Writhing Mass"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Writhing_Mass#Writhing_Mass" title="Writhing Mass">Writhing Mass</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Champ" data-sequel="1"><a href="/wiki/The_Champ#The_Champ" title="The Champ"><img alt="Map-Champ.png" src="/images/thumb/Map-Champ.png/22px-Map-Champ.png?8759b9" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Champ.png/33px-Map-Champ.png?8759b9 1.5x, /images/thumb/Map-Champ.png/44px-Map-Champ.png?8759b9 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Champ#The_Champ" title="The Champ">The Champ</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Collector" data-sequel="1"><a href="/wiki/The_Collector#The_Collector" title="The Collector"><img alt="Map-Collector.png" src="/images/thumb/Map-Collector.png/22px-Map-Collector.png?fd6983" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Collector.png/33px-Map-Collector.png?fd6983 1.5x, /images/thumb/Map-Collector.png/44px-Map-Collector.png?fd6983 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Collector#The_Collector" title="The Collector">The Collector</a></span>, <span class="enemy-trigger inline-trigger" data-name="Corrupt Heart" data-sequel="1"><a href="/wiki/Corrupt_Heart#Corrupt_Heart" title="Corrupt Heart"><img alt="Map-CorruptHeart.png" src="/images/thumb/Map-CorruptHeart.png/22px-Map-CorruptHeart.png?9f6024" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-CorruptHeart.png/33px-Map-CorruptHeart.png?9f6024 1.5x, /images/thumb/Map-CorruptHeart.png/44px-Map-CorruptHeart.png?9f6024 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Corrupt_Heart#Corrupt_Heart" title="Corrupt Heart">Corrupt Heart</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Guardian" data-sequel="1"><a href="/wiki/The_Guardian#The_Guardian" title="The Guardian"><img alt="Map-Guardian.png" src="/images/thumb/Map-Guardian.png/22px-Map-Guardian.png?188be6" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-Guardian.png/33px-Map-Guardian.png?188be6 1.5x, /images/thumb/Map-Guardian.png/44px-Map-Guardian.png?188be6 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/The_Guardian#The_Guardian" title="The Guardian">The Guardian</a></span>, <span class="enemy-trigger inline-trigger" data-name="Time Eater" data-sequel="1"><a href="/wiki/Time_Eater#Time_Eater" title="Time Eater"><img alt="Map-TimeEater.png" src="/images/thumb/Map-TimeEater.png/22px-Map-TimeEater.png?74ceb5" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-TimeEater.png/33px-Map-TimeEater.png?74ceb5 1.5x, /images/thumb/Map-TimeEater.png/44px-Map-TimeEater.png?74ceb5 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Time_Eater#Time_Eater" title="Time Eater">Time Eater</a></span></span>
+</p>
+</td>
+<td><span data-text="all"><span class="card-trigger inline-trigger" data-name="Doubt" data-sequel="1"><a href="/wiki/Doubt" title="Doubt"><img alt="CardIcon Curse.png" src="/images/thumb/CardIcon_Curse.png/24px-CardIcon_Curse.png?f11a8c" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Curse.png?f11a8c 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Doubt" title="Doubt">Doubt</a></span>, <span class="relic-trigger inline-trigger" data-name="Gremlin Visage" data-sequel="1"><a href="/wiki/Gremlin_Visage" title="Gremlin Visage"><img alt="GremlinMask.png" src="/images/thumb/GremlinMask.png/24px-GremlinMask.png?176700" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/GremlinMask.png/36px-GremlinMask.png?176700 1.5x, /images/thumb/GremlinMask.png/48px-GremlinMask.png?176700 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Gremlin_Visage" title="Gremlin Visage">Gremlin Visage</a></span></span>
+</td>
+<td>Attacks deal 25% (<span class="relic-trigger inline-trigger" data-name="Paper Krane" data-sequel="1"><a href="/wiki/Paper_Krane" title="Paper Krane"><img alt="PaperCrane.png" src="/images/thumb/PaperCrane.png/24px-PaperCrane.png?fa0333" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/PaperCrane.png/36px-PaperCrane.png?fa0333 1.5x, /images/thumb/PaperCrane.png/48px-PaperCrane.png?fa0333 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Paper_Krane" title="Paper Krane">40%</a></span>) less damage for X turns.
+</td>
+<td>
+<ul><li>Applied after <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span> and <span class="power-trigger inline-trigger" data-name="Vigor" data-sequel="1"><a href="/wiki/Vigor" title="Vigor"><img alt="Icon Vigor.png" src="/images/thumb/Icon_Vigor.png/22px-Icon_Vigor.png?f2e384" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Vigor.png/33px-Icon_Vigor.png?f2e384 1.5x, /images/thumb/Icon_Vigor.png/44px-Icon_Vigor.png?f2e384 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Vigor" title="Vigor">Vigor</a></span>, then final damage rounds down.</li>
+<li>Specifically negated by <span class="relic-trigger inline-trigger" data-name="Ginger" data-sequel="1"><a href="/wiki/Ginger" title="Ginger"><img alt="Ginger.png" src="/images/thumb/Ginger.png/24px-Ginger.png?f09682" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/Ginger.png/36px-Ginger.png?f09682 1.5x, /images/thumb/Ginger.png/48px-Ginger.png?f09682 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Ginger" title="Ginger">Ginger</a></span>.</li></ul>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Frail"><a href="/wiki/File:Icon_Frail.png" class="image"><img alt="Icon Frail.png" src="/images/thumb/Icon_Frail.png/60px-Icon_Frail.png?c2abdd" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Frail.png/90px-Icon_Frail.png?c2abdd 1.5x, /images/Icon_Frail.png?c2abdd 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Frail">Frail</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Fat Gremlin" data-sequel="1"><a href="/wiki/Gremlins#Fat_Gremlin" title="Gremlins"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Gremlins#Fat_Gremlin" title="Gremlins">Fat Gremlin</a></span>, <span class="enemy-trigger inline-trigger" data-name="The Maw" data-sequel="1"><a href="/wiki/The_Maw#The_Maw" title="The Maw"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/The_Maw#The_Maw" title="The Maw">The Maw</a></span>, <span class="enemy-trigger inline-trigger" data-name="Mystic" data-sequel="1"><a href="/wiki/Centurion_and_Mystic#Mystic" title="Centurion and Mystic"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Centurion_and_Mystic#Mystic" title="Centurion and Mystic">Mystic</a></span>, <span class="enemy-trigger inline-trigger" data-name="Shelled Parasite" data-sequel="1"><a href="/wiki/Shelled_Parasite#Shelled_Parasite" title="Shelled Parasite"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Shelled_Parasite#Shelled_Parasite" title="Shelled Parasite">Shelled Parasite</a></span>, <span class="enemy-trigger inline-trigger" data-name="Snake Plant" data-sequel="1"><a href="/wiki/Snake_Plant#Snake_Plant" title="Snake Plant"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Snake_Plant#Snake_Plant" title="Snake Plant">Snake Plant</a></span>, <span class="enemy-trigger inline-trigger" data-name="Spheric Guardian" data-sequel="1"><a href="/wiki/Spheric_Guardian#Spheric_Guardian" title="Spheric Guardian"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Spheric_Guardian#Spheric_Guardian" title="Spheric Guardian">Spheric Guardian</a></span>, <span class="enemy-trigger inline-trigger" data-name="Spike Slime (L)" data-sequel="1"><a href="/wiki/Slimes#Spike_Slime_(L)" title="Slimes"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slimes#Spike_Slime_(L)" title="Slimes">Spike Slime (L)</a></span>, <span class="enemy-trigger inline-trigger" data-name="Spike Slime (M)" data-sequel="1"><a href="/wiki/Slimes#Spike_Slime_(M)" title="Slimes"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slimes#Spike_Slime_(M)" title="Slimes">Spike Slime (M)</a></span></span>
+</td>
+<td><span data-text="all"><span class="card-trigger inline-trigger" data-name="Shame" data-sequel="1"><a href="/wiki/Shame" title="Shame"><img alt="CardIcon Curse.png" src="/images/thumb/CardIcon_Curse.png/24px-CardIcon_Curse.png?f11a8c" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Curse.png?f11a8c 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Shame" title="Shame">Shame</a></span></span>
+</td>
+<td>Gain 25% less Block from cards for X turns.
+</td>
+<td>
+<ul><li>Applied after <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span>, then final <span class="keyword-trigger inline-trigger" data-name="Block" data-sequel="1"><a href="/wiki/Block" title="Block"><img alt="Icon Block.png" src="/images/thumb/Icon_Block.png/18px-Icon_Block.png?de9e7c" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/Icon_Block.png/27px-Icon_Block.png?de9e7c 1.5x, /images/thumb/Icon_Block.png/36px-Icon_Block.png?de9e7c 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Block" title="Block"><span title="">Block</span></a></span> rounds down.</li>
+<li>Specifically negated by <span class="relic-trigger inline-trigger" data-name="Turnip" data-sequel="1"><a href="/wiki/Turnip" title="Turnip"><img alt="Turnip.png" src="/images/thumb/Turnip.png/24px-Turnip.png?2143e1" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/Turnip.png/36px-Turnip.png?2143e1 1.5x, /images/thumb/Turnip.png/48px-Turnip.png?2143e1 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Turnip" title="Turnip">Turnip</a></span>.</li>
+<li>Shares its affected cards with <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span>, rules can be view at <a href="/wiki/Dexterity#Interactions" title="Dexterity">Dexterity#Interactions</a></li></ul>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Poison"><a href="/wiki/File:Icon_Poison.png" class="image"><img alt="Icon Poison.png" src="/images/thumb/Icon_Poison.png/60px-Icon_Poison.png?628f4a" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Poison.png/90px-Icon_Poison.png?628f4a 1.5x, /images/Icon_Poison.png?628f4a 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Poison"><a href="/wiki/Poison" title="Poison">Poison</a></span></h6>
+</td>
+<td><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Deadly Poison" data-sequel="1"><a href="/wiki/Deadly_Poison" title="Deadly Poison"><img alt="CardIcon Silent Skill Common.png" src="/images/thumb/CardIcon_Silent_Skill_Common.png/24px-CardIcon_Silent_Skill_Common.png?711671" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Common.png?711671 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Deadly_Poison" title="Deadly Poison">Deadly Poison</a></span>, <span class="card-trigger inline-trigger" data-name="Poisoned Stab" data-sequel="1"><a href="/wiki/Poisoned_Stab" title="Poisoned Stab"><img alt="CardIcon Silent Attack Common.png" src="/images/thumb/CardIcon_Silent_Attack_Common.png/24px-CardIcon_Silent_Attack_Common.png?ba66ad" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Attack_Common.png?ba66ad 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Poisoned_Stab" title="Poisoned Stab">Poisoned Stab</a></span>, <span class="card-trigger inline-trigger" data-name="Bouncing Flask" data-sequel="1"><a href="/wiki/Bouncing_Flask" title="Bouncing Flask"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Bouncing_Flask" title="Bouncing Flask">Bouncing Flask</a></span>, <span class="card-trigger inline-trigger" data-name="Crippling Cloud" data-sequel="1"><a href="/wiki/Crippling_Cloud" title="Crippling Cloud"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Crippling_Cloud" title="Crippling Cloud">Crippling Cloud</a></span>, <span class="card-trigger inline-trigger" data-name="Corpse Explosion" data-sequel="1"><a href="/wiki/Corpse_Explosion" title="Corpse Explosion"><img alt="CardIcon Silent Skill Rare.png" src="/images/thumb/CardIcon_Silent_Skill_Rare.png/24px-CardIcon_Silent_Skill_Rare.png?5a1724" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Rare.png?5a1724 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Corpse_Explosion" title="Corpse Explosion">Corpse Explosion</a></span>, <span class="card-trigger inline-trigger" data-name="Noxious Fumes" data-sequel="1"><a href="/wiki/Noxious_Fumes" title="Noxious Fumes"><img alt="CardIcon Silent Power Uncommon.png" src="/images/thumb/CardIcon_Silent_Power_Uncommon.png/24px-CardIcon_Silent_Power_Uncommon.png?7d7f97" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Power_Uncommon.png?7d7f97 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Noxious_Fumes" title="Noxious Fumes">Noxious Fumes</a></span>, <span class="card-trigger inline-trigger" data-name="Envenom" data-sequel="1"><a href="/wiki/Envenom" title="Envenom"><img alt="CardIcon Silent Power Rare.png" src="/images/thumb/CardIcon_Silent_Power_Rare.png/24px-CardIcon_Silent_Power_Rare.png?21a00f" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Power_Rare.png?21a00f 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Envenom" title="Envenom">Envenom</a></span>, <span class="card-trigger inline-trigger" data-name="Catalyst" data-sequel="1"><a href="/wiki/Catalyst" title="Catalyst"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Catalyst" title="Catalyst">Catalyst</a></span></span>
+<p><span class="relic-trigger inline-trigger" data-name="Snecko Skull" data-sequel="1"><a href="/wiki/Snecko_Skull" title="Snecko Skull"><img alt="SnakeSkull.png" src="/images/thumb/SnakeSkull.png/24px-SnakeSkull.png?40fc82" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/SnakeSkull.png/36px-SnakeSkull.png?40fc82 1.5x, /images/thumb/SnakeSkull.png/48px-SnakeSkull.png?40fc82 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Snecko_Skull" title="Snecko Skull">Snecko Skull</a></span>, <span class="relic-trigger inline-trigger" data-name="The Specimen" data-sequel="1"><a href="/wiki/The_Specimen" title="The Specimen"><img alt="TheSpecimen.png" src="/images/thumb/TheSpecimen.png/24px-TheSpecimen.png?d3557f" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/TheSpecimen.png/36px-TheSpecimen.png?d3557f 1.5x, /images/thumb/TheSpecimen.png/48px-TheSpecimen.png?d3557f 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/The_Specimen" title="The Specimen">The Specimen</a></span>, <span class="relic-trigger inline-trigger" data-name="Twisted Funnel" data-sequel="1"><a href="/wiki/Twisted_Funnel" title="Twisted Funnel"><img alt="TwistedFunnel.png" src="/images/thumb/TwistedFunnel.png/24px-TwistedFunnel.png?db98b6" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/TwistedFunnel.png/36px-TwistedFunnel.png?db98b6 1.5x, /images/thumb/TwistedFunnel.png/48px-TwistedFunnel.png?db98b6 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Twisted_Funnel" title="Twisted Funnel">Twisted Funnel</a></span>, <span class="inline-trigger potion-trigger" data-name="Poison Potion" data-sequel="1"><a href="/wiki/File:PoisonPotion.png" class="image"><img alt="PoisonPotion.png" src="/images/thumb/PoisonPotion.png/24px-PoisonPotion.png?dd014a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/PoisonPotion.png/36px-PoisonPotion.png?dd014a 1.5x, /images/thumb/PoisonPotion.png/48px-PoisonPotion.png?dd014a 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Poison_Potion" title="Poison Potion">Poison Potion</a></span>
+<span data-show="silent" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>At the start of its turn, lose X HP, then reduce Poison by 1.
+</td>
+<td><span class="card-trigger inline-trigger" data-name="Catalyst" data-sequel="1"><a href="/wiki/Catalyst" title="Catalyst"><img alt="CardIcon Silent Skill Uncommon.png" src="/images/thumb/CardIcon_Silent_Skill_Uncommon.png/24px-CardIcon_Silent_Skill_Uncommon.png?eaedc0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Uncommon.png?eaedc0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Catalyst" title="Catalyst">Catalyst</a></span> counts as a single application for <span class="relic-trigger inline-trigger" data-name="Snecko Skull" data-sequel="1"><a href="/wiki/Snecko_Skull" title="Snecko Skull"><img alt="SnakeSkull.png" src="/images/thumb/SnakeSkull.png/24px-SnakeSkull.png?40fc82" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/SnakeSkull.png/36px-SnakeSkull.png?40fc82 1.5x, /images/thumb/SnakeSkull.png/48px-SnakeSkull.png?40fc82 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Snecko_Skull" title="Snecko Skull">Snecko Skull</a></span> and <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> interactions.
+<p>(only 9999 Poison can be applied as a single instance. This is only relevant to Specimen and having more than 9999 stacks of Noxious Fumes in the base game. This is NOT relevant to Catalyst.)
+</p>
+</td>
+<td>Intensity and Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Strength&#95;Down"><a href="/wiki/File:Icon_StrengthDown.png" class="image"><img alt="Icon StrengthDown.png" src="/images/thumb/Icon_StrengthDown.png/60px-Icon_StrengthDown.png?e0f5b9" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_StrengthDown.png/90px-Icon_StrengthDown.png?e0f5b9 1.5x, /images/Icon_StrengthDown.png?e0f5b9 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Strength_Down"><a href="/wiki/Strength" title="Strength">Strength</a> Down</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Flex" data-sequel="1"><a href="/wiki/Flex" title="Flex"><img alt="CardIcon Ironclad Skill Common.png" src="/images/thumb/CardIcon_Ironclad_Skill_Common.png/24px-CardIcon_Ironclad_Skill_Common.png?e5eaaf" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Common.png?e5eaaf 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Flex" title="Flex">Flex</a></span></span>
+<p><span data-text="all"><span class="relic-trigger inline-trigger" data-name="Mutagenic Strength" data-sequel="1"><a href="/wiki/Mutagenic_Strength" title="Mutagenic Strength"><img alt="MutagenicStrength.png" src="/images/thumb/MutagenicStrength.png/24px-MutagenicStrength.png?86eb1e" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/MutagenicStrength.png/36px-MutagenicStrength.png?86eb1e 1.5x, /images/thumb/MutagenicStrength.png/48px-MutagenicStrength.png?86eb1e 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Mutagenic_Strength" title="Mutagenic Strength">Mutagenic Strength</a></span>, <span class="inline-trigger potion-trigger" data-name="Flex Potion" data-sequel="1"><a href="/wiki/File:FlexPotion.png" class="image"><img alt="FlexPotion.png" src="/images/thumb/FlexPotion.png/24px-FlexPotion.png?742e54" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/FlexPotion.png/36px-FlexPotion.png?742e54 1.5x, /images/thumb/FlexPotion.png/48px-FlexPotion.png?742e54 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Flex_Potion" title="Flex Potion">Flex Potion</a></span></span>
+<span data-show="all" style="display:none"></span>
+</p>
+</td>
+<td>At the end of this turn, lose X Strength.
+</td>
+<td>Internally called Flex.
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Strength&#95;(Negative)"><a href="/wiki/File:Icon_Strength.png" class="image"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/60px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Strength.png/90px-Icon_Strength.png?be60bf 1.5x, /images/Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span id="Strength_.28Negative.29"></span><span class="mw-headline" id="Strength_(Negative)"><a href="/wiki/Strength" title="Strength">Strength</a> (Negative)</span></h6>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Disarm" data-sequel="1"><a href="/wiki/Disarm" title="Disarm"><img alt="CardIcon Ironclad Skill Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Skill_Uncommon.png/24px-CardIcon_Ironclad_Skill_Uncommon.png?64c48d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Uncommon.png?64c48d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Disarm" title="Disarm">Disarm</a></span></span>
+<p><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Piercing Wail" data-sequel="1"><a href="/wiki/Piercing_Wail" title="Piercing Wail"><img alt="CardIcon Silent Skill Common.png" src="/images/thumb/CardIcon_Silent_Skill_Common.png/24px-CardIcon_Silent_Skill_Common.png?711671" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Common.png?711671 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Piercing_Wail" title="Piercing Wail">Piercing Wail</a></span>, <span class="card-trigger inline-trigger" data-name="Malaise" data-sequel="1"><a href="/wiki/Malaise" title="Malaise"><img alt="CardIcon Silent Skill Rare.png" src="/images/thumb/CardIcon_Silent_Skill_Rare.png/24px-CardIcon_Silent_Skill_Rare.png?5a1724" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Rare.png?5a1724 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Malaise" title="Malaise">Malaise</a></span></span>
+<span data-text="all"><span class="card-trigger inline-trigger" data-name="Dark Shackles" data-sequel="1"><a href="/wiki/Dark_Shackles" title="Dark Shackles"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Dark_Shackles" title="Dark Shackles">Dark Shackles</a></span></span>
+<span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Lagavulin" data-sequel="1"><a href="/wiki/Lagavulin#Lagavulin" title="Lagavulin"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Lagavulin#Lagavulin" title="Lagavulin">Lagavulin</a></span>, <span class="enemy-trigger inline-trigger" data-name="Spire Shield" data-sequel="1"><a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear">Spire Shield</a></span></span>
+</p>
+</td>
+<td><span data-text="enemy"><span class="power-trigger inline-trigger" data-name="Shifting" data-sequel="1"><a href="/wiki/Transient" title="Transient"><img alt="Icon Shifting.png" src="/images/thumb/Icon_Shifting.png/22px-Icon_Shifting.png?7c054b" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Shifting.png/33px-Icon_Shifting.png?7c054b 1.5x, /images/thumb/Icon_Shifting.png/44px-Icon_Shifting.png?7c054b 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Transient" title="Transient">Shifting</a></span></span>
+</td>
+<td>Decreases attack damage by X.
+</td>
+<td>All negative <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span> can be cleansed with <span class="relic-trigger inline-trigger" data-name="Orange Pellets" data-sequel="1"><a href="/wiki/Orange_Pellets" title="Orange Pellets"><img alt="OrangePellets.png" src="/images/thumb/OrangePellets.png/24px-OrangePellets.png?bbb2d1" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OrangePellets.png/36px-OrangePellets.png?bbb2d1 1.5x, /images/thumb/OrangePellets.png/48px-OrangePellets.png?bbb2d1 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Orange_Pellets" title="Orange Pellets">Orange Pellets</a></span>, resetting it to 0. <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> can negate 1 instance of negative Strength.
+<p><span data-text="ironclad">No ordering of Orange Pellets and healing can negate the -3 <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span> inflicted by going above half hp for <span class="relic-trigger inline-trigger" data-name="Red Skull" data-sequel="1"><a href="/wiki/Red_Skull" title="Red Skull"><img alt="RedSkull.png" src="/images/thumb/RedSkull.png/24px-RedSkull.png?69d859" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/RedSkull.png/36px-RedSkull.png?69d859 1.5x, /images/thumb/RedSkull.png/48px-RedSkull.png?69d859 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Red_Skull" title="Red Skull">Red Skull</a></span>, however Artifact can.</span>
+</p>
+</td>
+<td>Intensity
+</td>
+<td>-999 to -1
+</td></tr>
+<tr>
+<td><div id="Shackled"><a href="/wiki/File:Icon_Shackled.png" class="image"><img alt="Icon Shackled.png" src="/images/thumb/Icon_Shackled.png/60px-Icon_Shackled.png?64b463" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Shackled.png/90px-Icon_Shackled.png?64b463 1.5x, /images/Icon_Shackled.png?64b463 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Shackled">Shackled</span></h6>
+</td>
+<td><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Piercing Wail" data-sequel="1"><a href="/wiki/Piercing_Wail" title="Piercing Wail"><img alt="CardIcon Silent Skill Common.png" src="/images/thumb/CardIcon_Silent_Skill_Common.png/24px-CardIcon_Silent_Skill_Common.png?711671" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Common.png?711671 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Piercing_Wail" title="Piercing Wail">Piercing Wail</a></span></span> <span data-text="all"><span class="card-trigger inline-trigger" data-name="Dark Shackles" data-sequel="1"><a href="/wiki/Dark_Shackles" title="Dark Shackles"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Dark_Shackles" title="Dark Shackles">Dark Shackles</a></span></span>
+</td>
+<td><span data-text="enemy"><span class="power-trigger inline-trigger" data-name="Shifting" data-sequel="1"><a href="/wiki/Transient" title="Transient"><img alt="Icon Shifting.png" src="/images/thumb/Icon_Shifting.png/22px-Icon_Shifting.png?7c054b" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Shifting.png/33px-Icon_Shifting.png?7c054b 1.5x, /images/thumb/Icon_Shifting.png/44px-Icon_Shifting.png?7c054b 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Transient" title="Transient">Shifting</a></span></span>
+</td>
+<td>At the end of its turn, gains X Strength.
+</td>
+<td>Buff coded as a debuff. As a result, using <span class="card-trigger inline-trigger" data-name="Piercing Wail" data-sequel="1"><a href="/wiki/Piercing_Wail" title="Piercing Wail"><img alt="CardIcon Silent Skill Common.png" src="/images/thumb/CardIcon_Silent_Skill_Common.png/24px-CardIcon_Silent_Skill_Common.png?711671" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Common.png?711671 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Piercing_Wail" title="Piercing Wail">Piercing Wail</a></span> or <span class="card-trigger inline-trigger" data-name="Dark Shackles" data-sequel="1"><a href="/wiki/Dark_Shackles" title="Dark Shackles"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Dark_Shackles" title="Dark Shackles">Dark Shackles</a></span> on the turn the <a href="/wiki/Corrupt_Heart" title="Corrupt Heart">Corrupt Heart</a> cleanses negative <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span> will cause it to gain X <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span>. And using them on the turn <a href="/wiki/Time_Eater" title="Time Eater">Time Eater</a>, <a href="/wiki/Awakened_One" title="Awakened One">Awakened One</a> and <a href="/wiki/The_Champ" title="The Champ">The Champ</a> removes debuffs, makes the strength loss permanent.
+<p>Playing <span class="card-trigger inline-trigger" data-name="Piercing Wail" data-sequel="1"><a href="/wiki/Piercing_Wail" title="Piercing Wail"><img alt="CardIcon Silent Skill Common.png" src="/images/thumb/CardIcon_Silent_Skill_Common.png/24px-CardIcon_Silent_Skill_Common.png?711671" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Common.png?711671 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Piercing_Wail" title="Piercing Wail">Piercing Wail</a></span> or <span class="card-trigger inline-trigger" data-name="Dark Shackles" data-sequel="1"><a href="/wiki/Dark_Shackles" title="Dark Shackles"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Dark_Shackles" title="Dark Shackles">Dark Shackles</a></span> on an Enemy with <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> will cause it to only lose 1 <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span>, despite being 2 Debuffs. 
+</p>
+</td>
+<td>Intensity
+</td>
+<td>0 to 999
+</td></tr>
+<tr>
+<td><div id="Dexterity&#95;Down"><a href="/wiki/File:Icon_StrengthDown.png" class="image"><img alt="Icon StrengthDown.png" src="/images/thumb/Icon_StrengthDown.png/60px-Icon_StrengthDown.png?e0f5b9" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_StrengthDown.png/90px-Icon_StrengthDown.png?e0f5b9 1.5x, /images/Icon_StrengthDown.png?e0f5b9 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Dexterity_Down"><a href="/wiki/Dexterity" title="Dexterity">Dexterity</a> Down</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="all"><span class="inline-trigger potion-trigger" data-name="Speed Potion" data-sequel="1"><a href="/wiki/File:SpeedPotion.png" class="image"><img alt="SpeedPotion.png" src="/images/thumb/SpeedPotion.png/24px-SpeedPotion.png?f82474" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/SpeedPotion.png/36px-SpeedPotion.png?f82474 1.5x, /images/thumb/SpeedPotion.png/48px-SpeedPotion.png?f82474 2x" data-file-width="64" data-file-height="64" /></a> <a href="/wiki/Speed_Potion" title="Speed Potion">Speed Potion</a></span>, <span class="relic-trigger inline-trigger" data-name="Duality" data-sequel="1"><a href="/wiki/Duality" title="Duality"><img alt="Duality.png" src="/images/thumb/Duality.png/24px-Duality.png?91f1da" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/Duality.png/36px-Duality.png?91f1da 1.5x, /images/thumb/Duality.png/48px-Duality.png?91f1da 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Duality" title="Duality">Duality</a></span></span>
+<p><span data-show="all" style="display:none"></span>
+</p>
+</td>
+<td>At the end of your turn, lose X Dexterity.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Dexterity&#95;(Negative)"><a href="/wiki/File:Icon_Dexterity.png" class="image"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/60px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Dexterity.png/90px-Icon_Dexterity.png?83caf7 1.5x, /images/Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span id="Dexterity_.28Negative.29"></span><span class="mw-headline" id="Dexterity_(Negative)"><a href="/wiki/Dexterity" title="Dexterity">Dexterity</a> (Negative)</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Lagavulin" data-sequel="1"><a href="/wiki/Lagavulin#Lagavulin" title="Lagavulin"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Lagavulin#Lagavulin" title="Lagavulin">Lagavulin</a></span></span>
+</td>
+<td><span data-text="silent"><span class="power-trigger inline-trigger" data-name="Wraith Form" data-sequel="1"><a href="/wiki/Wraith_Form" title="Wraith Form"><img alt="Icon WraithForm.png" src="/images/thumb/Icon_WraithForm.png/22px-Icon_WraithForm.png?deb719" decoding="async" loading="lazy" width="22" height="21" srcset="/images/thumb/Icon_WraithForm.png/33px-Icon_WraithForm.png?deb719 1.5x, /images/thumb/Icon_WraithForm.png/44px-Icon_WraithForm.png?deb719 2x" data-file-width="102" data-file-height="96" /></a> <a href="/wiki/Wraith_Form" title="Wraith Form">Wraith Form</a></span></span>
+<p><span data-show="silent enemy" style="display:none"></span>
+</p>
+</td>
+<td>Decreases Block gained from cards by X.
+</td>
+<td>Negative <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span> can be cleansed by <span class="relic-trigger inline-trigger" data-name="Orange Pellets" data-sequel="1"><a href="/wiki/Orange_Pellets" title="Orange Pellets"><img alt="OrangePellets.png" src="/images/thumb/OrangePellets.png/24px-OrangePellets.png?bbb2d1" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OrangePellets.png/36px-OrangePellets.png?bbb2d1 1.5x, /images/thumb/OrangePellets.png/48px-OrangePellets.png?bbb2d1 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Orange_Pellets" title="Orange Pellets">Orange Pellets</a></span>, resetting it to 0. <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> can negate 1 instance of negative Dexterity
+</td>
+<td>Intensity
+</td>
+<td>-999 to -1
+</td></tr>
+<tr>
+<td><div id="Focus&#95;(Negative)"><a href="/wiki/File:Icon_Focus.png" class="image"><img alt="Icon Focus.png" src="/images/thumb/Icon_Focus.png/60px-Icon_Focus.png?abc930" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Focus.png/90px-Icon_Focus.png?abc930 1.5x, /images/Icon_Focus.png?abc930 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span id="Focus_.28Negative.29"></span><span class="mw-headline" id="Focus_(Negative)"><a href="/wiki/Focus" class="mw-redirect" title="Focus">Focus</a> (Negative)</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Spire Shield" data-sequel="1"><a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear">Spire Shield</a></span></span>
+</td>
+<td><span data-text="defect"><span class="power-trigger inline-trigger" data-name="Bias" data-sequel="1"><a href="/wiki/Biased_Cognition" title="Biased Cognition"><img alt="Icon Bias.png" src="/images/thumb/Icon_Bias.png/22px-Icon_Bias.png?93bbdf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Bias.png/33px-Icon_Bias.png?93bbdf 1.5x, /images/thumb/Icon_Bias.png/44px-Icon_Bias.png?93bbdf 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Biased_Cognition" title="Biased Cognition">Bias</a></span>, <span class="card-trigger inline-trigger" data-name="Reprogram" data-sequel="1"><a href="/wiki/Reprogram" title="Reprogram"><img alt="CardIcon Defect Skill Uncommon.png" src="/images/thumb/CardIcon_Defect_Skill_Uncommon.png/24px-CardIcon_Defect_Skill_Uncommon.png?12d106" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Skill_Uncommon.png?12d106 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Reprogram" title="Reprogram">Reprogram</a></span>, <span class="card-trigger inline-trigger" data-name="Hyperbeam" data-sequel="1"><a href="/wiki/Hyperbeam" title="Hyperbeam"><img alt="CardIcon Defect Attack Rare.png" src="/images/thumb/CardIcon_Defect_Attack_Rare.png/24px-CardIcon_Defect_Attack_Rare.png?6575b9" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Attack_Rare.png?6575b9 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Hyperbeam" title="Hyperbeam">Hyperbeam</a></span></span>
+<p><span data-show="defect enemy" style="display:none"></span>
+</p>
+</td>
+<td>Decreases effectiveness of Orbs by X.
+</td>
+<td>Negative <span class="power-trigger inline-trigger" data-name="Focus" data-sequel="1"><a href="/wiki/Orbs" title="Orbs"><img alt="Icon Focus.png" src="/images/thumb/Icon_Focus.png/22px-Icon_Focus.png?abc930" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Focus.png/33px-Icon_Focus.png?abc930 1.5x, /images/thumb/Icon_Focus.png/44px-Icon_Focus.png?abc930 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Orbs" title="Orbs">Focus</a></span> can be cleansed with <span class="relic-trigger inline-trigger" data-name="Orange Pellets" data-sequel="1"><a href="/wiki/Orange_Pellets" title="Orange Pellets"><img alt="OrangePellets.png" src="/images/thumb/OrangePellets.png/24px-OrangePellets.png?bbb2d1" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/OrangePellets.png/36px-OrangePellets.png?bbb2d1 1.5x, /images/thumb/OrangePellets.png/48px-OrangePellets.png?bbb2d1 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Orange_Pellets" title="Orange Pellets">Orange Pellets</a></span>, resetting it to 0. <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span> can negate 1 instance of negative Focus.
+<ul><li><span class="enemy-trigger inline-trigger" data-name="Spire Shield" data-sequel="1"><a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Spire_Shield_and_Spire_Spear#Spire_Shield" title="Spire Shield and Spire Spear">Spire Shield</a></span> only has a chance of applying if Player has an <a href="/wiki/Orb" class="mw-redirect" title="Orb">Orb</a> Slot.</li></ul>
+</td>
+<td>Intensity
+</td>
+<td>-999 to -1
+</td></tr>
+<tr>
+<td><div id="Confusion"><a href="/wiki/File:Icon_Confusion.png" class="image"><img alt="Icon Confusion.png" src="/images/thumb/Icon_Confusion.png/60px-Icon_Confusion.png?b62a97" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Confusion.png/90px-Icon_Confusion.png?b62a97 1.5x, /images/Icon_Confusion.png?b62a97 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Confusion">Confusion</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Snecko" data-sequel="1"><a href="/wiki/Snecko#Snecko" title="Snecko"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Snecko#Snecko" title="Snecko">Snecko</a></span></span>
+</td>
+<td><span data-text="all"><span class="relic-trigger inline-trigger" data-name="Snecko Eye" data-sequel="1"><a href="/wiki/Snecko_Eye" title="Snecko Eye"><img alt="SneckoEye.png" src="/images/thumb/SneckoEye.png/24px-SneckoEye.png?9be98a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/SneckoEye.png/36px-SneckoEye.png?9be98a 1.5x, /images/thumb/SneckoEye.png/48px-SneckoEye.png?9be98a 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Snecko_Eye" title="Snecko Eye">Snecko Eye</a></span></span>
+</td>
+<td>Whenever you draw a card, randomize its cost.
+</td>
+<td>Only drawing into the card changes its cost (0–3). Fetching it with effects like <span class="card-trigger inline-trigger" data-name="Seek" data-sequel="1"><a href="/wiki/Seek" title="Seek"><img alt="CardIcon Defect Skill Rare.png" src="/images/thumb/CardIcon_Defect_Skill_Rare.png/24px-CardIcon_Defect_Skill_Rare.png?abdc6f" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Skill_Rare.png?abdc6f 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Seek" title="Seek">Seek</a></span> keeps its current cost.
+<p><span data-text="all"><span class="power-trigger inline-trigger" data-name="Confused" data-sequel="1"><a href="/wiki/Snecko_Eye" title="Snecko Eye"><img alt="Icon Confused.png" src="/images/thumb/Icon_Confused.png/22px-Icon_Confused.png?dc64fa" decoding="async" loading="lazy" width="22" height="20" srcset="/images/thumb/Icon_Confused.png/33px-Icon_Confused.png?dc64fa 1.5x, /images/thumb/Icon_Confused.png/44px-Icon_Confused.png?dc64fa 2x" data-file-width="88" data-file-height="81" /></a> <a href="/wiki/Snecko_Eye" title="Snecko Eye">Confusion</a></span> from <span class="relic-trigger inline-trigger" data-name="Snecko Eye" data-sequel="1"><a href="/wiki/Snecko_Eye" title="Snecko Eye"><img alt="SneckoEye.png" src="/images/thumb/SneckoEye.png/24px-SneckoEye.png?9be98a" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/SneckoEye.png/36px-SneckoEye.png?9be98a 1.5x, /images/thumb/SneckoEye.png/48px-SneckoEye.png?9be98a 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Snecko_Eye" title="Snecko Eye">Snecko Eye</a></span> is applied at the start of combat and cannot negated by any <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span>, including from <span class="relic-trigger inline-trigger" data-name="Clockwork Souvenir" data-sequel="1"><a href="/wiki/Clockwork_Souvenir" title="Clockwork Souvenir"><img alt="ClockworkSouvenir.png" src="/images/thumb/ClockworkSouvenir.png/24px-ClockworkSouvenir.png?8a3c8b" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/thumb/ClockworkSouvenir.png/36px-ClockworkSouvenir.png?8a3c8b 1.5x, /images/thumb/ClockworkSouvenir.png/48px-ClockworkSouvenir.png?8a3c8b 2x" data-file-width="156" data-file-height="156" /></a> <a href="/wiki/Clockwork_Souvenir" title="Clockwork Souvenir">Clockwork Souvenir</a></span>.</span>
+</p>
+</td>
+<td>Doesn't stack
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><div id="Choked"><a href="/wiki/File:Icon_Choked.png" class="image"><img alt="Icon Choked.png" src="/images/thumb/Icon_Choked.png/60px-Icon_Choked.png?526383" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Choked.png/90px-Icon_Choked.png?526383 1.5x, /images/thumb/Icon_Choked.png/120px-Icon_Choked.png?526383 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Choked">Choked</span></h6>
+</td>
+<td><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Choke" data-sequel="1"><a href="/wiki/Choke" title="Choke"><img alt="CardIcon Silent Attack Uncommon.png" src="/images/thumb/CardIcon_Silent_Attack_Uncommon.png/24px-CardIcon_Silent_Attack_Uncommon.png?280c75" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Attack_Uncommon.png?280c75 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Choke" title="Choke">Choke</a></span></span>
+<p><span data-show="silent" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>Whenever you play a card this turn, the targeted enemy loses X HP.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Corpse&#95;Explosion"><a href="/wiki/File:Icon_CorpseExplosion.png" class="image"><img alt="Icon CorpseExplosion.png" src="/images/thumb/Icon_CorpseExplosion.png/60px-Icon_CorpseExplosion.png?4fe223" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_CorpseExplosion.png/90px-Icon_CorpseExplosion.png?4fe223 1.5x, /images/thumb/Icon_CorpseExplosion.png/120px-Icon_CorpseExplosion.png?4fe223 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Corpse_Explosion">Corpse Explosion</span></h6>
+</td>
+<td><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Corpse Explosion" data-sequel="1"><a href="/wiki/Corpse_Explosion" title="Corpse Explosion"><img alt="CardIcon Silent Skill Rare.png" src="/images/thumb/CardIcon_Silent_Skill_Rare.png/24px-CardIcon_Silent_Skill_Rare.png?5a1724" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Rare.png?5a1724 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Corpse_Explosion" title="Corpse Explosion">Corpse Explosion</a></span></span>
+<p><span data-show="silent" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>On death, the enemy deals X times its Max HP worth of damage to ALL other enemies.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="No&#95;Draw"><a href="/wiki/File:Icon_NoDraw.png" class="image"><img alt="Icon NoDraw.png" src="/images/thumb/Icon_NoDraw.png/60px-Icon_NoDraw.png?b8ba59" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_NoDraw.png/90px-Icon_NoDraw.png?b8ba59 1.5x, /images/Icon_NoDraw.png?b8ba59 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="No_Draw">No Draw</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="ironclad"><span class="card-trigger inline-trigger" data-name="Battle Trance" data-sequel="1"><a href="/wiki/Battle_Trance" title="Battle Trance"><img alt="CardIcon Ironclad Skill Uncommon.png" src="/images/thumb/CardIcon_Ironclad_Skill_Uncommon.png/24px-CardIcon_Ironclad_Skill_Uncommon.png?64c48d" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Ironclad_Skill_Uncommon.png?64c48d 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Battle_Trance" title="Battle Trance">Battle Trance</a></span></span>
+<p><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Bullet Time" data-sequel="1"><a href="/wiki/Bullet_Time" title="Bullet Time"><img alt="CardIcon Silent Skill Rare.png" src="/images/thumb/CardIcon_Silent_Skill_Rare.png/24px-CardIcon_Silent_Skill_Rare.png?5a1724" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Skill_Rare.png?5a1724 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Bullet_Time" title="Bullet Time">Bullet Time</a></span></span>
+<span data-show="ironclad silent" style="display:none"></span>
+</p>
+</td>
+<td>You cannot draw cards this turn.
+</td>
+<td>
+</td>
+<td>Doesn't stack
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><div id="Wraith&#95;Form"><a href="/wiki/File:Icon_WraithForm.png" class="image"><img alt="Icon WraithForm.png" src="/images/thumb/Icon_WraithForm.png/60px-Icon_WraithForm.png?deb719" decoding="async" loading="lazy" width="60" height="56" style="vertical-align: middle" srcset="/images/thumb/Icon_WraithForm.png/90px-Icon_WraithForm.png?deb719 1.5x, /images/Icon_WraithForm.png?deb719 2x" data-file-width="102" data-file-height="96" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Wraith_Form">Wraith Form</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="silent"><span class="card-trigger inline-trigger" data-name="Wraith Form" data-sequel="1"><a href="/wiki/Wraith_Form" title="Wraith Form"><img alt="CardIcon Silent Power Rare.png" src="/images/thumb/CardIcon_Silent_Power_Rare.png/24px-CardIcon_Silent_Power_Rare.png?21a00f" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Silent_Power_Rare.png?21a00f 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Wraith_Form" title="Wraith Form">Wraith Form</a></span></span>
+<p><span data-show="silent" style="display:none"></span>
+</p>
+</td>
+<td>Lose X <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span> at the start of your turn.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Bias"><a href="/wiki/File:Icon_Bias.png" class="image"><img alt="Icon Bias.png" src="/images/thumb/Icon_Bias.png/60px-Icon_Bias.png?93bbdf" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Bias.png/90px-Icon_Bias.png?93bbdf 1.5x, /images/thumb/Icon_Bias.png/120px-Icon_Bias.png?93bbdf 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Bias">Bias</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="defect"><span class="card-trigger inline-trigger" data-name="Biased Cognition" data-sequel="1"><a href="/wiki/Biased_Cognition" title="Biased Cognition"><img alt="CardIcon Defect Power Rare.png" src="/images/thumb/CardIcon_Defect_Power_Rare.png/24px-CardIcon_Defect_Power_Rare.png?a9e6d3" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Power_Rare.png?a9e6d3 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Biased_Cognition" title="Biased Cognition">Biased Cognition</a></span></span>
+<p><span data-show="defect" style="display:none"></span>
+</p>
+</td>
+<td>At the start of your turn, lose X <span class="power-trigger inline-trigger" data-name="Focus" data-sequel="1"><a href="/wiki/Orbs" title="Orbs"><img alt="Icon Focus.png" src="/images/thumb/Icon_Focus.png/22px-Icon_Focus.png?abc930" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Focus.png/33px-Icon_Focus.png?abc930 1.5x, /images/thumb/Icon_Focus.png/44px-Icon_Focus.png?abc930 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Orbs" title="Orbs">Focus</a></span>.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Lock-On"><a href="/wiki/File:Icon_LockOn.png" class="image"><img alt="Icon LockOn.png" src="/images/thumb/Icon_LockOn.png/60px-Icon_LockOn.png?ae43e6" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_LockOn.png/90px-Icon_LockOn.png?ae43e6 1.5x, /images/Icon_LockOn.png?ae43e6 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Lock-On">Lock-On</span></h6>
+</td>
+<td><span data-text="defect"><span class="card-trigger inline-trigger" data-name="Bullseye" data-sequel="1"><a href="/wiki/Bullseye" title="Bullseye"><img alt="CardIcon Defect Attack Uncommon.png" src="/images/thumb/CardIcon_Defect_Attack_Uncommon.png/24px-CardIcon_Defect_Attack_Uncommon.png?b1a937" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Defect_Attack_Uncommon.png?b1a937 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Bullseye" title="Bullseye">Bullseye</a></span></span>
+<p><span data-show="defect" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td><span class="keyword-trigger inline-trigger" data-name="Lightning" data-sequel="1"><a href="/wiki/Lightning" title="Lightning"><img alt="LightningOrb.png" src="/images/thumb/LightningOrb.png/18px-LightningOrb.png?295517" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/LightningOrb.png/27px-LightningOrb.png?295517 1.5x, /images/thumb/LightningOrb.png/36px-LightningOrb.png?295517 2x" data-file-width="70" data-file-height="70" /></a> <a href="/wiki/Lightning" title="Lightning"><span title="">Lightning</span></a></span> and <span class="keyword-trigger inline-trigger" data-name="Dark" data-sequel="1"><a href="/wiki/Dark" title="Dark"><img alt="DarkOrb.png" src="/images/thumb/DarkOrb.png/18px-DarkOrb.png?895273" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/DarkOrb.png/27px-DarkOrb.png?895273 1.5x, /images/thumb/DarkOrb.png/36px-DarkOrb.png?895273 2x" data-file-width="82" data-file-height="82" /></a> <a href="/wiki/Dark" title="Dark"><span title="">Dark</span></a></span> Orbs deal 50% more damage to this enemy.
+</td>
+<td>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Block&#95;Return"><a href="/wiki/File:Icon_BlockReturn.png" class="image"><img alt="Icon BlockReturn.png" src="/images/thumb/Icon_BlockReturn.png/60px-Icon_BlockReturn.png?6fb9fe" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_BlockReturn.png/90px-Icon_BlockReturn.png?6fb9fe 1.5x, /images/thumb/Icon_BlockReturn.png/120px-Icon_BlockReturn.png?6fb9fe 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Block_Return">Block Return</span></h6>
+</td>
+<td><span data-text="watcher"><span class="card-trigger inline-trigger" data-name="Talk to the Hand" data-sequel="1"><a href="/wiki/Talk_to_the_Hand" title="Talk to the Hand"><img alt="CardIcon Watcher Attack Uncommon.png" src="/images/thumb/CardIcon_Watcher_Attack_Uncommon.png/24px-CardIcon_Watcher_Attack_Uncommon.png?f6d4a0" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Attack_Uncommon.png?f6d4a0 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Talk_to_the_Hand" title="Talk to the Hand">Talk to the Hand</a></span></span>
+<p><span data-show="watcher" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>Whenever you attack this enemy, gain X <span class="keyword-trigger inline-trigger" data-name="Block" data-sequel="1"><a href="/wiki/Block" title="Block"><img alt="Icon Block.png" src="/images/thumb/Icon_Block.png/18px-Icon_Block.png?de9e7c" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/Icon_Block.png/27px-Icon_Block.png?de9e7c 1.5x, /images/thumb/Icon_Block.png/36px-Icon_Block.png?de9e7c 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Block" title="Block"><span title="">Block</span></a></span>.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Fasting"><a href="/wiki/File:Icon_Fasting.png" class="image"><img alt="Icon Fasting.png" src="/images/thumb/Icon_Fasting.png/60px-Icon_Fasting.png?ae716a" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Fasting.png/90px-Icon_Fasting.png?ae716a 1.5x, /images/thumb/Icon_Fasting.png/120px-Icon_Fasting.png?ae716a 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Fasting">Fasting</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="watcher"><span class="card-trigger inline-trigger" data-name="Fasting" data-sequel="1"><a href="/wiki/Fasting" title="Fasting"><img alt="CardIcon Watcher Power Uncommon.png" src="/images/thumb/CardIcon_Watcher_Power_Uncommon.png/24px-CardIcon_Watcher_Power_Uncommon.png?ca32e5" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Power_Uncommon.png?ca32e5 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Fasting" title="Fasting">Fasting</a></span></span>
+<p><span data-show="watcher" style="display:none"></span>
+</p>
+</td>
+<td>Gain X less <span class="keyword-trigger inline-trigger" data-name="Energy" data-sequel="1" title=""><a href="/wiki/Keywords#Energy" title="Keywords"><img alt="ColorlessEnergy.png" src="/images/thumb/ColorlessEnergy.png/18px-ColorlessEnergy.png?259ded" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/ColorlessEnergy.png/27px-ColorlessEnergy.png?259ded 1.5x, /images/thumb/ColorlessEnergy.png/36px-ColorlessEnergy.png?259ded 2x" data-file-width="164" data-file-height="164" /></a> <a href="/wiki/Keywords#Energy" title="Keywords">Energy</a></span> at the start of each turn.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Mark"><a href="/wiki/File:Icon_Mark.png" class="image"><img alt="Icon Mark.png" src="/images/thumb/Icon_Mark.png/60px-Icon_Mark.png?18c1b0" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Mark.png/90px-Icon_Mark.png?18c1b0 1.5x, /images/thumb/Icon_Mark.png/120px-Icon_Mark.png?18c1b0 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Mark">Mark</span></h6>
+</td>
+<td><span data-text="watcher"><span class="card-trigger inline-trigger" data-name="Pressure Points" data-sequel="1"><a href="/wiki/Pressure_Points" title="Pressure Points"><img alt="CardIcon Watcher Skill Common.png" src="/images/thumb/CardIcon_Watcher_Skill_Common.png/24px-CardIcon_Watcher_Skill_Common.png?b56679" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Skill_Common.png?b56679 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Pressure_Points" title="Pressure Points">Pressure Points</a></span></span>
+<p><span data-show="watcher" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>Whenever you play <span class="card-trigger inline-trigger" data-name="Pressure Points" data-sequel="1"><a href="/wiki/Pressure_Points" title="Pressure Points"><img alt="CardIcon Watcher Skill Common.png" src="/images/thumb/CardIcon_Watcher_Skill_Common.png/24px-CardIcon_Watcher_Skill_Common.png?b56679" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Watcher_Skill_Common.png?b56679 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Pressure_Points" title="Pressure Points">Pressure Points</a></span>, all enemies with <b>Mark</b> lose X HP.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="No&#95;Block"><a href="/wiki/File:Icon_NoBlock.png" class="image"><img alt="Icon NoBlock.png" src="/images/thumb/Icon_NoBlock.png/60px-Icon_NoBlock.png?255251" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_NoBlock.png/90px-Icon_NoBlock.png?255251 1.5x, /images/thumb/Icon_NoBlock.png/120px-Icon_NoBlock.png?255251 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="No_Block">No Block</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="all"><span class="card-trigger inline-trigger" data-name="Panic Button" data-sequel="1"><a href="/wiki/Panic_Button" title="Panic Button"><img alt="CardIcon Colorless Skill Uncommon.png" src="/images/thumb/CardIcon_Colorless_Skill_Uncommon.png/24px-CardIcon_Colorless_Skill_Uncommon.png?8e5796" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Uncommon.png?8e5796 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Panic_Button" title="Panic Button">Panic Button</a></span></span>
+<p><span data-show="all" style="display:none"></span>
+</p>
+</td>
+<td>You cannot gain <span class="keyword-trigger inline-trigger" data-name="Block" data-sequel="1"><a href="/wiki/Block" title="Block"><img alt="Icon Block.png" src="/images/thumb/Icon_Block.png/18px-Icon_Block.png?de9e7c" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/Icon_Block.png/27px-Icon_Block.png?de9e7c 1.5x, /images/thumb/Icon_Block.png/36px-Icon_Block.png?de9e7c 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Block" title="Block"><span title="">Block</span></a></span> from cards for the next X turns.
+</td>
+<td>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Constricted"><a href="/wiki/File:Icon_Constricted.png" class="image"><img alt="Icon Constricted.png" src="/images/thumb/Icon_Constricted.png/60px-Icon_Constricted.png?49864b" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Constricted.png/90px-Icon_Constricted.png?49864b 1.5x, /images/thumb/Icon_Constricted.png/120px-Icon_Constricted.png?49864b 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Constricted">Constricted</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Spire Growth" data-sequel="1"><a href="/wiki/Spire_Growth#Spire_Growth" title="Spire Growth"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Spire_Growth#Spire_Growth" title="Spire Growth">Spire Growth</a></span></span>
+<p><span data-show="enemy" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>At the end of your turn, take X damage.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Draw&#95;Reduction"><a href="/wiki/File:Icon_DrawReduction.png" class="image"><img alt="Icon DrawReduction.png" src="/images/thumb/Icon_DrawReduction.png/60px-Icon_DrawReduction.png?1aa87d" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_DrawReduction.png/90px-Icon_DrawReduction.png?1aa87d 1.5x, /images/thumb/Icon_DrawReduction.png/120px-Icon_DrawReduction.png?1aa87d 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Draw_Reduction">Draw Reduction</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Time Eater" data-sequel="1"><a href="/wiki/Time_Eater#Time_Eater" title="Time Eater"><img alt="Map-TimeEater.png" src="/images/thumb/Map-TimeEater.png/22px-Map-TimeEater.png?74ceb5" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/Map-TimeEater.png/33px-Map-TimeEater.png?74ceb5 1.5x, /images/thumb/Map-TimeEater.png/44px-Map-TimeEater.png?74ceb5 2x" data-file-width="512" data-file-height="512" /></a> <a href="/wiki/Time_Eater#Time_Eater" title="Time Eater">Time Eater</a></span></span>
+<p><span data-show="enemy" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>Draw 1 less card for the next X turns.
+</td>
+<td>
+</td>
+<td>Duration
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Entangled"><a href="/wiki/File:Icon_Entangled.png" class="image"><img alt="Icon Entangled.png" src="/images/thumb/Icon_Entangled.png/60px-Icon_Entangled.png?79f52b" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Entangled.png/90px-Icon_Entangled.png?79f52b 1.5x, /images/thumb/Icon_Entangled.png/120px-Icon_Entangled.png?79f52b 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Entangled">Entangled</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Red Slaver" data-sequel="1"><a href="/wiki/Slavers#Red_Slaver" title="Slavers"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Slavers#Red_Slaver" title="Slavers">Red Slaver</a></span></span>
+<p><span data-show="enemy" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>You may not play <span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?type=Attack"><span>Attacks</span></a></span> this turn.
+</td>
+<td>
+</td>
+<td>Does not stack
+</td>
+<td>1
+</td></tr>
+<tr>
+<td><div id="Hex"><a href="/wiki/File:Icon_Hex.png" class="image"><img alt="Icon Hex.png" src="/images/thumb/Icon_Hex.png/60px-Icon_Hex.png?79bce0" decoding="async" loading="lazy" width="60" height="60" style="vertical-align: middle" srcset="/images/thumb/Icon_Hex.png/90px-Icon_Hex.png?79bce0 1.5x, /images/thumb/Icon_Hex.png/120px-Icon_Hex.png?79bce0 2x" data-file-width="128" data-file-height="128" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Hex">Hex</span></h6>
+</td>
+<td><span data-text="enemy"><span class="enemy-trigger inline-trigger" data-name="Chosen" data-sequel="1"><a href="/wiki/Chosen#Chosen" title="Chosen"><img alt="MonsterClear.png" src="/images/thumb/MonsterClear.png/22px-MonsterClear.png?a8c7db" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/MonsterClear.png/33px-MonsterClear.png?a8c7db 1.5x, /images/thumb/MonsterClear.png/44px-MonsterClear.png?a8c7db 2x" data-file-width="96" data-file-height="96" /></a> <a href="/wiki/Chosen#Chosen" title="Chosen">Chosen</a></span></span>
+<p><span data-show="enemy" style="display:none"></span>
+</p>
+</td>
+<td>
+</td>
+<td>Whenever you play a non-<span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?type=Attack"><span>Attack</span></a></span> card, add X <span class="card-trigger inline-trigger" data-name="Dazed" data-sequel="1"><a href="/wiki/Dazed" title="Dazed"><img alt="CardIcon Status.png" src="/images/thumb/CardIcon_Status.png/24px-CardIcon_Status.png?5935a6" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Status.png?5935a6 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Dazed" title="Dazed">Dazed</a></span> to your draw pile.
+</td>
+<td>
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr>
+<tr>
+<td><div id="Slow"><a href="/wiki/File:Icon_Slow.png" class="image"><img alt="Icon Slow.png" src="/images/thumb/Icon_Slow.png/60px-Icon_Slow.png?c1df05" decoding="async" loading="lazy" width="60" height="60" srcset="/images/thumb/Icon_Slow.png/90px-Icon_Slow.png?c1df05 1.5x, /images/Icon_Slow.png?c1df05 2x" data-file-width="109" data-file-height="109" /></a></div>
+</td>
+<td style="text-align:center; font-weight:bold;">
+<h6><span class="mw-headline" id="Slow">Slow</span></h6>
+</td>
+<td>
+</td>
+<td><span data-text="enemy"><span class="keyword-trigger inline-trigger" data-name="Time Dilation" data-sequel="1" title=""><a href="/wiki/Custom_Mode#Time_Dilation" title="Custom Mode"><img alt="Mod TimeDilation.png" src="/images/thumb/Mod_TimeDilation.png/18px-Mod_TimeDilation.png?d63fe2" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/Mod_TimeDilation.png/27px-Mod_TimeDilation.png?d63fe2 1.5x, /images/thumb/Mod_TimeDilation.png/36px-Mod_TimeDilation.png?d63fe2 2x" data-file-width="54" data-file-height="54" /></a> <a href="/wiki/Custom_Mode#Time_Dilation" title="Custom Mode">Time Dilation</a></span><span class="enemy-trigger inline-trigger" data-name="Giant Head" data-sequel="1"><a href="/wiki/Giant_Head#Giant_Head" title="Giant Head"><img alt="EliteClear.png" src="/images/thumb/EliteClear.png/22px-EliteClear.png?9888cd" decoding="async" loading="lazy" width="22" height="22" style="vertical-align: middle" srcset="/images/thumb/EliteClear.png/33px-EliteClear.png?9888cd 1.5x, /images/thumb/EliteClear.png/44px-EliteClear.png?9888cd 2x" data-file-width="106" data-file-height="106" /></a> <a href="/wiki/Giant_Head#Giant_Head" title="Giant Head">Giant Head</a></span></span>
+<p><span data-show="enemy" style="display:none"></span>
+</p>
+</td>
+<td>Whenever you play a card, the target receives 10% more damage from Attacks this turn.
+</td>
+<td>X is carried over on the continued turn after Vault is played. While it caps at the integer limit,	the attack damage overflows to -1 long before Slow reaches it. This -1 damage deals no damage.
+</td>
+<td>Intensity
+</td>
+<td>Integer limit
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20260917075510
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.301 seconds
+Real time usage: 0.845 seconds
+Preprocessor visited node count: 3995/1000000
+Revision size: 14892/4194304 bytes
+Post‐expand include size: 57864/4194304 bytes
+Template argument size: 5665/4194304 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/10000000 bytes
+Lua time usage: 0.118/15.000 seconds
+Lua memory usage: 3044236/52428800 bytes
+Number of processed Cargo queries: 175
+Time spent processing Cargo queries: 0.431 s (avg. 0.002 s)
+Number of Cargo row insertion attempts: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  621.278      1 -total
+ 29.48%  183.135     61 Template:C
+ 20.37%  126.548     29 Template:BD
+ 20.18%  125.358     48 Template:M
+ 13.67%   84.917     25 Template:R
+  7.51%   46.629      7 Template:KW
+  3.23%   20.053      5 Template:P
+  1.66%   10.325      1 Template:Sequel_Disambiguation
+  0.80%    4.995      2 Template:QueryLink
+  0.69%    4.314      1 Template:Under_Construction
+-->
+
+<!-- Saved in parser cache with key slaythespire_en:pcache:idhash:1517-0!canonical and timestamp 20260917075509 and revision id 56145. Rendering was triggered because: edit-page
+ -->
+</div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://slaythespire.wiki.gg/wiki/Debuffs?oldid=56145">https://slaythespire.wiki.gg/wiki/Debuffs?oldid=56145</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:ToUpdate" title="Category:ToUpdate">ToUpdate</a></li><li><a href="/wiki/Category:Game_Mechanics" title="Category:Game Mechanics">Game Mechanics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Pages_with_hatnotes" title="Category:Pages with hatnotes">Pages with hatnotes</a></li></ul></div></div>
+				</div>
+			</main>
+			<aside id="wikigg-sl-rail" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mhp"
+            data-wgg-unit-type="pubco"
+        ><div id="adngin-Sidebar-0"></div></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="pubco"
+        ><div id="nn_mpu1"></div></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="internal"
+        ></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="pubco"
+        ><div id="nn_mpu2"></div></div>
+        <div class="wikigg-showcase__report-link">
+            <a href="https://www.wiki.gg/t/bad-ad" target="_blank" rel="nofollow">Report bad advertisement</a>
+        </div>
+</aside>
+
+		</div>
+		<aside id="wikigg-sl-footer" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--lb"
+            data-wgg-unit-type="internal"
+        ></div>
+</aside>
+
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="mw-cookiewarning-container"><div class="mw-cookiewarning-text"><span>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span></div><form method="POST"><div class='oo-ui-layout oo-ui-horizontalLayout'><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' href='https://www.indie.io/privacy-policy' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>More information</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget'><button type='submit' tabindex='0' name='disablecookiewarning' value='OK' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>OK</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div></form></div>
+</div>
+
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 13 September 2026, at 20:30.</li>
+	<li id="footer-info-copyright"><div class="wikigg-copyright-box">Page content is under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-ShareAlike 4.0 License</a> unless otherwise noted.</div></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-wikigg-tos"><a href="https://www.indie.io/terms-of-service">Terms of Service</a></li>
+	<li id="footer-places-wikigg-privacy"><a href="https://www.indie.io/privacy-policy">Privacy policy</a></li>
+	<li id="footer-places-wikigg-support"><a href="https://support.wiki.gg">Support Wiki</a></li>
+	<li id="footer-places-wikigg-servicedesk"><a href="https://wiki.gg/go/servicedesk">Send a ticket to wiki.gg</a></li>
+	<li id="footer-places-wikigg-statuspage"><a href="https://wikiggstatus.com">Status page</a></li>
+	<li id="footer-places-wikigg-pcmp"><a href="#" class="nn-cmp-show" style="display: none">Manage cookie settings</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-sa/4.0" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/CC-BY-SA_footer_badge.svg?d931d3" alt="Creative Commons Attribution-ShareAlike 4.0 License" height="31" width="88" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/CC-BY-SA_footer_badge_dark.svg?55845c" alt="Creative Commons Attribution-ShareAlike 4.0 License" height="31" width="88" loading="lazy" data-theme="dark"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/MediaWiki_footer_badge.svg?8c3a36" alt="Powered by MediaWiki" width="88" height="31" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/MediaWiki_footer_badge_dark.svg?12ec0a" alt="Powered by MediaWiki" width="88" height="31" loading="lazy" data-theme="dark"></a></li>
+	<li id="footer-partofico"><a href="https://wiki.gg" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/d/d1/Network_footer_badge.svg?9d5a96" alt="Part of wiki.gg" height="31" width="88" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/2/23/Network_footer_badge_dark.svg?9cf3e8" alt="Part of wiki.gg" height="31" width="88" loading="lazy" data-theme="dark"></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgPageParseReport":{"limitreport":{"cputime":"0.301","walltime":"0.845","ppvisitednodes":{"value":3995,"limit":1000000},"revisionsize":{"value":14892,"limit":4194304},"postexpandincludesize":{"value":57864,"limit":4194304},"templateargumentsize":{"value":5665,"limit":4194304},"expansiondepth":{"value":6,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":10000000},"timingprofile":["100.00%  621.278      1 -total"," 29.48%  183.135     61 Template:C"," 20.37%  126.548     29 Template:BD"," 20.18%  125.358     48 Template:M"," 13.67%   84.917     25 Template:R","  7.51%   46.629      7 Template:KW","  3.23%   20.053      5 Template:P","  1.66%   10.325      1 Template:Sequel_Disambiguation","  0.80%    4.995      2 Template:QueryLink","  0.69%    4.314      1 Template:Under_Construction"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"15.000"},"limitreport-memusage":{"value":3044236,"limit":52428800}},"librarian":{"limitreport-queries":175,"limitreport-querytime":["0.431 s (avg. 0.002 s)"],"limitreport-insertions":0},"cachereport":{"timestamp":"20260917075510","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(function(){var ck="; "+document.cookie,ci=ck.indexOf("; "+"wgg_aegis"+"="),cv="";if(ci>=0){var cr=ck.slice(ci+"wgg_aegis".length+3),ce=cr.indexOf(";");cv=ce<0?cr:cr.slice(0,ce);}if(cv&&(!true||cv.indexOf("~")>0)){return;}var t0=(performance&&performance.now)?performance.now():Date.now();var s=false,q=false,u=null,dpr=window.devicePixelRatio||1;var evs=['pointermove','pointerdown','pointerup','touchstart','keydown','wheel'];var a={trusted:true,first:0,last:0,moves:0,motion:0,mism:0,hidden:0,oob:0,turns:0,seq:0,sjit:0},P={},px=null,py=null,fx=0,fy=0,pdx=null,pdy=null,ox=null,oy=0;function N(){return (performance&&performance.now)?performance.now():Date.now();}function D(){if(q){return;}q=true;for(var i=0;i<evs.length;i++){removeEventListener(evs[i],H);}removeEventListener('visibilitychange',V);if(u){clearTimeout(u);}var nt=px!==null?Math.sqrt((px-fx)*(px-fx)+(py-fy)*(py-fy)):0;var p={isTrusted:a.trusted,time:Math.round(a.first-t0),span:Math.round(a.last-a.first),moves:a.moves,motion:Math.round(a.motion),mism:a.mism,hidden:a.hidden,oob:a.oob,pt:Object.keys(P).length,str:a.motion>0?Math.round(100*nt/a.motion):0,turns:a.turns,seq:a.seq,sjit:a.sjit};try{fetch("https://aegis-app.wiki.gg/grant",{method:"POST",credentials:"include",headers:{"Content-Type":"application/json"},body:JSON.stringify(p),keepalive:true})}catch(e){}}function H(e){var n=N();if(!s){if(!e.isTrusted){return;}s=true;a.first=n;u=setTimeout(D,700);}if(!e.isTrusted){a.trusted=false;}a.last=n;if(document.hidden){a.hidden++;}if(e.type.charAt(0)==='p'){if(e.pointerType){P[e.pointerType]=1;}var x=e.clientX,y=e.clientY;if(x<0||y<0||x>innerWidth||y>innerHeight){a.oob++;}var qx=e.screenX-x,qy=e.screenY-y;if(qx===0&&qy===0){a.seq++;}if(ox!==null&&(Math.abs(qx-ox)>2||Math.abs(qy-oy)>2)){a.sjit++;}ox=qx;oy=qy;if(e.type==="pointermove"){a.moves++;if(px!==null){var ddx=x-px,ddy=y-py;a.motion+=Math.sqrt(ddx*ddx+ddy*ddy);var mx=e.movementX||0,my=e.movementY||0;var c1=Math.abs(mx-ddx)+Math.abs(my-ddy),c2=Math.abs(mx-ddx*dpr)+Math.abs(my-ddy*dpr);if((c1<c2?c1:c2)>2){a.mism++;}if(pdx!==null&&(ddx*pdx+ddy*pdy)<0){a.turns++;}pdx=ddx;pdy=ddy;}else{fx=x;fy=y;}px=x;py=y;}}if(a.moves>=40){D();}}function V(){if(document.visibilityState==='hidden'&&s){D();}}for(var i=0;i<evs.length;i++){addEventListener(evs[i],H,{passive:true});}addEventListener('visibilitychange',V);addEventListener('pagehide',function(){if(s){D();}},{capture:true});})();</script>
+<script>window.__CF$cv$params={r:'a3c96c108f0f5240',t:'MTc4OTY2MTg1Nw==',u:'01a0b028c6977352ab97ff7c3dd65e58',ut:'9mqsHunl41XKnmoLgngm56ZQf31SRB869fiBvklOUBQ-1789661857-1.2.1.1-suorKog0yDxCLPgCAHg5U9hjoktSlht_9dpiSGd8oio7Ger7qEtyKJjbh7uR1nc4JdIpQQ5ydJ__Na0g.Bk_koF9QhpBGue5bUXCfsRcc9w',i:60};(function(){if(!document.body)return;var s=document.createElement('script');s.src='/cdn-cgi/challenge-platform/scripts/precursor/main.js';document.head.appendChild(s);})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"26b2c6e7c852417d8f9d11b0c7f02309","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" >
+  <meta name="format-detection" content="telephone=no">
+  
+  
+<title>异鸟</title>
+
+  <link rel="stylesheet" href="/static/wiki/css/common.css?v=1.0.6">
+  <link rel="stylesheet" href="/static/wiki/css/tmp_components.css?v=1.0.5">
+  <link rel="stylesheet" href="/static/wiki/css/page_components.css?v=1.1.16">
+  <style>
+    .article-content h1 {
+      line-height: 40px;
+      background: rgba(0, 122, 232, .1);
+      text-align: center;
+    }
+    .article-content table::before,
+    .article-content table::after,
+    .article-content table th::before,
+    .article-content table th::after,
+    .article-content table td::before,
+    .article-content table td::after {
+      background: rgba(0, 122, 232, .1) !important;
+    }
+    .article-content table th,
+    .article-content table tr:nth-child(odd) {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1 {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1::after {
+      background: rgba(0, 122, 232, .1);
+    }
+  </style>
+  
+<link rel="stylesheet" href="/static/assets/css/hb_article.css?v=1.0.10">
+<link rel="stylesheet" href="/static/wiki/css/article_detail.20190522.css?v=1.0.0">
+<style>
+  .article-header .title {
+    background-color: rgba(0, 122, 232, .1);
+    border-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::before,
+  .article-header .title .cr::before {
+    border-top-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::after,
+  .article-header .title .cr::after {
+    border-bottom-color: rgba(0, 122, 232, .3);
+  }
+  .article-content p br {
+    display: inline;
+  }
+  .tag-table::before,
+  .tag-table::after,
+  .tag-table-inner::before,
+  .tag-table-inner::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  .tag-table .head {
+    background-color: rgba(0, 122, 232, .1);
+  }
+  .reference-panel > .title::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  
+  
+  
+  
+
+  
+  article {
+    padding-top: 54px;
+  }
+  .top-bar {
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+  }
+  .top-bar .btn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    color: #64696e;
+    font-size: 12px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  .top-bar .btn svg {
+    height: 12px;
+    margin-right: 4px;
+  }
+  
+</style>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16e641db29b184261dffedec98f2570b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</head>
+<body class="wiki-646570">
+
+
+
+<section class="full top-bar fix-border-bottom">
+  <div class="search-bar-wrap">
+    <div class="search-bar">
+      <div class="icon"></div>
+      <div class="input">搜索</div>
+    </div>
+    <div class="btn history-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+        <g fill="none" fill-rule="evenodd">
+          <circle cx="6" cy="6" r="6" fill="#64696E"/>
+          <polyline stroke="#FEFEFE" points="6 2 6 6 9.998 6"/>
+        </g>
+      </svg>
+      <span>编辑历史</span>
+    </div>
+    <div class="btn catalogue-btn hide">
+      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" viewBox="0 0 11 12">
+        <g fill="none" fill-rule="evenodd">
+          <rect width="11" height="12" fill="#64696E" rx="1"/>
+          <path stroke="#FFF" d="M1.98544704 3.00548423L8.98544489 3M1.98544704 6.00548423L8.98544489 6M1.98544704 9.00548423L8.98544489 9"/>
+        </g>
+      </svg>
+      <span>目录</span>
+    </div>
+  </div>
+</section>
+
+<article>
+  
+  <div class="article-header">
+    <div class="title">
+      <span class="cl"></span>
+      <span>异鸟</span>
+      <span class="cr"></span>
+    </div>
+    
+    <div class="editor">
+      <span class="editor-name" data-id="76983953">悯农</span>编辑于2026年06月02日 18:46
+    </div>
+    
+    
+  </div>
+  
+  <div class="article-content">
+    
+    <h1>异鸟</h1>
+<table cellspacing="3">
+  <tbody>
+    <tr>
+      <td colspan="2">Monster id: Byrd</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img data-width="150" data-height="110" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/18/d78fee4b9cb053952380b53731cb0d3c.png">
+        <h4 class="img-desc">请输入图片描述</h4>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">怪物信息</th>
+    </tr>
+    <tr>
+      <th scope="row">生命值</th>
+      <td>25;31(26;33)</td>
+    </tr>
+    <tr>
+      <th scope="row">类型</th>
+      <td>普通</td>
+    </tr>
+    <tr>
+      <th scope="row">意图</th>
+      <td>强化;连击;俯冲</td>
+    </tr>
+    <tr>
+      <th scope="row">初始能力</th>
+      <td>飞行3（4）</td>
+    </tr>
+    <tr>
+      <th scope="row">备注</th>
+      <td>无</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>行动</h2>
+
+<div>
+  <div>
+    <table>
+      <tbody>
+        <tr>
+          <th>名称</th>
+          <th>效果</th>
+          <th>进阶2+</th>
+          <th>概率</th>
+          <th>备注</th>
+        </tr>
+        <tr>
+          <td>强化</td>
+          <td>获得1点力量</td>
+          <td>获得1点力量&nbsp;</td>
+          <td>
+            第一回合：<br>32.5%,<br>
+            其余回合:30%
+          </td>
+          <td>无法连续使用2次</td>
+        </tr>
+        <tr>
+          <td>连击</td>
+          <td>造成1*5点伤害</td>
+          <td>造成1*6点伤害&nbsp;</td>
+          <td>
+            第一回合：<br>62.5%,<br>
+            其余回合:50%
+          </td>
+          <td>无法连续使用3次</td>
+        </tr>
+        <tr>
+          <td>俯冲</td>
+          <td>造成12点伤害</td>
+          <td>造成14点伤害&nbsp;&nbsp;</td>
+          <td>
+            第一回合:0%,<br>
+            其余回合;20%
+          </td>
+          <td>无法连续使用2次</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p>
+    当飞行被全部打破时，异鸟将会坠落并打断当前意图。
+    关于异鸟坠落后的行动请参见下文。
+  </p>
+  <h1><span id="异鸟（坠落）">异鸟（坠落）</span></h1>
+  <h2>
+    <span id=".E5.BC.82.E9.B8.9F.EF.BC.88.E5.9D.A0.E8.90.BD.EF.BC.89"></span>
+  </h2>
+
+  <table cellspacing="3">
+    <tbody>
+      <tr>
+        <td colspan="2">Monster id: Byrd_1</td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img data-width="150" data-height="74" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/18/a0e9c4e8e9756a1e35a4ecc74a96ed8e.png">
+          <h4 class="img-desc">请输入图片描述</h4>
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2">怪物信息</th>
+      </tr>
+      <tr>
+        <th scope="row">生命值</th>
+        <td>25;31(26;33)</td>
+      </tr>
+      <tr>
+        <th scope="row">类型</th>
+        <td>普通</td>
+      </tr>
+      <tr>
+        <th scope="row">意图</th>
+        <td>飞起;头槌</td>
+      </tr>
+      <tr>
+        <th scope="row">初始能力</th>
+        <td>无</td>
+      </tr>
+      <tr>
+        <th scope="row">备注</th>
+        <td>无</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>它是脱离飞行状态后的异鸟。</p>
+  <h2>行动</h2>
+  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <th>&nbsp;名称</th>
+        <th>效果&nbsp;</th>
+        <th>进阶17+&nbsp;</th>
+        <th>备注&nbsp;</th>
+      </tr>
+      <tr>
+        <td style="text-align: center;">眩晕</td>
+        <td style="text-align: center;">不进行任何行动</td>
+        <td style="text-align: center;">不进行任何行动</td>
+        <td style="text-align: center;">被击落后第一回合</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">头槌</td>
+        <td style="text-align: center;">造成3点伤害</td>
+        <td style="text-align: center;">造成3点伤害</td>
+        <td style="text-align: center;">被击落后第二回合</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;">飞起</td>
+        <td style="text-align: center;">获得3层飞行</td>
+        <td style="text-align: center;">获得4层飞行</td>
+        <td style="text-align: center;">被击落后第三回合</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>第三回合，异鸟获得3层（进阶17以上4层）飞行后，将返回飞行模式。</p>
+  <h2>
+    <span id=".E5.BA.94.E5.AF.B9"></span>
+    <span id="应对">应对</span>
+  </h2>
+  <ul>
+    <li>
+      由于飞行状态下的异鸟所受到的伤害减半，建议在坠落状态下进行高额攻击。
+    </li>
+    <li>
+      使用多段伤害的卡牌是不错的选择，如
+      <a href="https://sts.huijiwiki.com/wiki/%E6%97%8B%E9%A3%8E%E6%96%A9" title="旋风斩">
+        <b>旋风斩</b>
+      </a>
+      ，
+      <a href="https://sts.huijiwiki.com/wiki/%E8%BF%9E%E7%BB%AD%E6%8B%B3" title="连续拳">
+        <b>连续拳</b>
+      </a>
+      。
+      <ul>
+        <li>
+          注意：
+          <a href="https://sts.huijiwiki.com/wiki/%E9%A3%9E%E8%A1%8C" title="飞行">
+            飞行
+          </a>
+          效果在多段伤害全部结束后结算。比如，如果你在飞行只剩一层时用一张牌造成两次伤害，那么两次伤害都会减半。
+        </li>
+      </ul>
+    </li>
+    <li>
+      由于异鸟会使用连击，力量的不断增加是极其致命的，务必尽快将它击杀。
+      <ul>
+        <li>
+          因此，
+          <a href="https://sts.huijiwiki.com/wiki/%E7%A1%AB%E7%A3%BA" title="硫磺">
+            硫磺
+          </a>
+          和
+          <a href="https://sts.huijiwiki.com/wiki/%E8%B4%A4%E8%80%85%E4%B9%8B%E7%9F%B3" title="贤者之石">
+            贤者之石
+          </a>
+          的副作用在它们身上体现得较为明显。当你拿取这些遗物时，最好确保自己有能力应对或已经不会遇到异鸟。
+        </li>
+      </ul>
+    </li>
+    <li>
+      使用
+      <a href="https://sts.huijiwiki.com/wiki/%E8%8D%86%E6%A3%98" title="荆棘">
+        荆棘
+      </a>
+      或
+      <a href="https://sts.huijiwiki.com/wiki/%E7%81%AB%E7%84%B0%E5%B1%8F%E9%9A%9C%EF%BC%88%E8%83%BD%E5%8A%9B%EF%BC%89" title="火焰屏障（能力）">
+        火焰屏障
+      </a>
+      效果能在异鸟使用连击的时候对其造成较高的伤害。
+    </li>
+  </ul>
+</div>
+    
+  </div>
+</article>
+
+<div class="tag-panel">
+  
+  <div class="tag-table">
+    <div class="tag-table-inner">
+      <div class="head unfold">
+        <span>普通怪物</span>
+        <div class="switch">
+          <span>[</span><span class="text">折叠</span><span>]</span>
+        </div>
+      </div>
+      <div class="body">
+        
+        <span class="entry" data-id="15408976">邪教徒</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15408980">被拣选者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15408985">三机械</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15411793">尖刺史莱姆</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15411814">酸液史莱姆</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15411818">小地精</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15411825">虱虫</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15417595">奴隶主</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15420602">大颚虫</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15420669">真菌兽</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15421076">抢劫的</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436694">圆球守护者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436697">百夫长</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436699">神秘术士</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436702">带壳寄生怪</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436704">蛇花</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436731">异蛇</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15436744">异鸟</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15437647">圆球行者</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15438054">巨口</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15438057">小黑</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15438060">倏忽魔</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15438466">扭曲团块</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15438539">塔内增生组织</span>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="feedback-panel">
+  <div class="col-1">
+    <div class="btn positive" data-type="1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M7,11.0149252 C5.06700338,11.0149252 3.5,9.55985068 3.5,7.76492524 C3.5,6.46999981 4.57663635,7.21111235 7,7.21111235 C9.42336365,7.21111235 10.5,6.46999981 10.5,7.76492524 C10.5,9.55985068 8.93299662,11.0149252 7,11.0149252 Z"/>
+        </g>
+      </svg>
+      <span>有帮助</span>
+    </div>
+    <div class="btn negative" data-type="2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>更新不及时</span>
+    </div>
+    <div class="btn negative" data-type="3">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>描述有误</span>
+    </div>
+  </div>
+  
+  <div class="col-2">
+    <div id="feedback" class="btn plain">
+      <span>问题反馈</span>
+    </div>
+  </div>
+  
+</div>
+
+<script>
+isSharePage = false
+</script>
+<script src="https://cdn.max-c.com/js/hkey.js"></script>
+<script src="//cdn.max-c.com/js/zepto/1.2.0/zepto.min.js"></script>
+<script src="/static/wiki/js/common.js?v=1.1.11"></script>
+<script>
+  if (utils.getUrlParam('os_type') !== 'Android' && String(window.screen.height).match(/812|896/)) {
+    document.body.classList.add('iphonex');
+  }
+</script>
+
+<script src="/static/assets/js/img_lazyload_config.js?v=1.0.0"></script>
+<script>
+  var imgDescs = $('.img-desc');
+  imgDescs.each(function () {
+    var ethis = $(this);
+    if (ethis.text() !== '请输入图片描述') {
+      ethis.addClass('show-img-desc')
+    }
+  });
+
+  $('.article-content table').each(function () {
+    if ($(this).parents('.table-wrap').length < 1) {
+      $(this).wrap('<div class="table-wrap"><div class="table-wrap-inner">');
+    }
+  });
+
+  $('.article-content iframe').each(function () {
+    var width = $(this).width();
+    $(this).height(width * 9 / 16);
+  });
+
+  $('.editor-name').on('tap', function () {
+    var PROTOCOL = {
+      'protocol_type': 'openUser',
+      'user_id': $(this).data('id')
+    };
+    window.location.href = 'heybox://' + encodeURI(JSON.stringify(PROTOCOL))
+  });
+
+  $('.tag-table .head').on('tap', function () {
+    if ($(this).hasClass('unfold')) {
+      $(this).removeClass('unfold').find('.switch .text').text('展开')
+    } else {
+      $(this).addClass('unfold').find('.switch .text').text('折叠')
+    }
+  });
+
+  $('.reference-item .desc[data-link]').on('tap', function () {
+    var url = $(this).data('link');
+    W.appOpenWindow({
+      title: title,
+      url: url
+    });
+  });
+
+  $('.feedback-panel .btn:not(.plain)').on('tap', function () {
+    if ($(this).hasClass('done')) {
+      return false
+    }
+    var type = $(this).data('type')
+    var data = {
+      article_id: '15436744'
+    }
+    if (type === 1) {
+      data.useful = 1
+    } else if (type === 2) {
+      data.update_delay = 1
+    } else if (type === 3) {
+      data.content_inaccurate = 1
+    }
+    $.get('/wiki/collect_user_feedback/', data, function (res) {})
+    $(this).addClass('done')
+  })
+</script>
+
+
+<script src="https://cdn.max-c.com/js/iscroll/5.2.0/iscroll-lite.js"></script>
+<script src="/static/wiki/js/catalogue.js?v=1.0.3"></script>
+<script>
+  W.entryLinkHandler('646570', '杀戮尖塔');
+  var $imgs = $('.article-content img');
+  $imgs.on('tap', function () {
+    W.openImage({
+      imgs: $imgs,
+      index: $imgs.index($(this))
+    });
+  });
+
+  $('.search-bar').on('tap', function () {
+    W.appOpenWindow({
+      title: '搜索',
+      url: window.location.origin + '/wiki/search_wiki_page/?wiki_id=646570'
+    });
+  });
+  $('.history-btn').on('tap', function () {
+    W.appOpenWindow({
+      title: '编辑历史',
+      url: window.location.origin + '/wiki/get_article_edit_history/?wiki_id=646570&article_id=15436744'
+    });
+  });
+
+  function refresh () {
+    window.location.reload()
+  }
+
+  $('.tag-table .entry').on('tap', function () {
+    var id = $(this).data('id');
+    var title = $(this).text();
+    W.appOpenWindow({
+      title: title,
+      url: window.location.origin + '/wiki/get_wiki_base_unit_detail_info/?wiki_id=646570&name=' + title
+      // url: window.location.origin + '/wiki/get_article_list_by_category_id/?category_id=' + id
+    });
+  });
+
+  $('#feedback').on('tap', function () {
+    window.location.href = 'heybox://{"protocol_type":"openFeedback"}'
+  })
+</script>
+
+<script src="https://cdn.max-c.com/static/data/js/lazysizes.4.0.1.min.js" async=""></script>
+
+</body>
+</html>

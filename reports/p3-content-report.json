@@ -1,0 +1,311 @@
+{
+  "run_id": "run.p3.20260918T042036Z",
+  "status": "success",
+  "parser_version": "kb-p3-content/0.1",
+  "started_at": "2026-09-18T04:20:36+00:00",
+  "scope": {
+    "kinds": [
+      "monster"
+    ],
+    "languages": [
+      "zh-CN"
+    ],
+    "limit_per_kind": null,
+    "game": "sts1"
+  },
+  "english": {
+    "card": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "relic": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "potion": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "event": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "monster": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "status": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "keyword": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "mechanic": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "character": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "concept": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    }
+  },
+  "chinese": {
+    "card": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "relic": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "potion": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "event": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "monster": {
+      "fetched": 45,
+      "parsed": 45,
+      "structured": 0,
+      "merged": 43,
+      "failed": 0
+    },
+    "status": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "keyword": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "mechanic": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "character": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    },
+    "concept": {
+      "fetched": 0,
+      "parsed": 0,
+      "structured": 0,
+      "merged": 0,
+      "failed": 0
+    }
+  },
+  "notes": [
+    "English card fields come from the audited wiki.gg list boxes; full page wikitext is retained as a batch claim.",
+    "Chinese article text is retained as source evidence. Only already confirmed P2 mappings are merged into an English entity.",
+    "No strategy document is read, imported or linked.",
+    "Image URLs are recorded as evidence; bulk image download awaits per-asset licence review."
+  ],
+  "inventory_status": {
+    "card|en|wiki_gg|parsed": 370,
+    "card|zh-CN|xiaoheihe|parsed": 370,
+    "character|zh-CN|xiaoheihe|parsed": 4,
+    "concept|zh-CN|xiaoheihe|parsed": 10,
+    "event|en|wiki_gg|parsed": 51,
+    "event|zh-CN|xiaoheihe|parsed": 52,
+    "keyword|en|wiki_gg|parsed": 25,
+    "mechanic|en|wiki_gg|parsed": 19,
+    "mechanic|zh-CN|xiaoheihe|parsed": 5,
+    "monster|en|wiki_gg|parsed": 45,
+    "monster|zh-CN|xiaoheihe|parsed": 45,
+    "potion|en|wiki_gg|parsed": 42,
+    "potion|zh-CN|xiaoheihe|parsed": 42,
+    "relic|en|wiki_gg|excluded": 13,
+    "relic|en|wiki_gg|parsed": 180,
+    "relic|zh-CN|xiaoheihe|parsed": 179,
+    "status|en|wiki_gg|parsed": 134,
+    "status|zh-CN|xiaoheihe|parsed": 133
+  },
+  "cumulative": {
+    "english": {
+      "card": {
+        "inventory": 370,
+        "parsed": 370,
+        "failed": 0
+      },
+      "relic": {
+        "inventory": 180,
+        "parsed": 180,
+        "failed": 0
+      },
+      "potion": {
+        "inventory": 42,
+        "parsed": 42,
+        "failed": 0
+      },
+      "event": {
+        "inventory": 51,
+        "parsed": 51,
+        "failed": 0
+      },
+      "monster": {
+        "inventory": 45,
+        "parsed": 45,
+        "failed": 0
+      },
+      "status": {
+        "inventory": 134,
+        "parsed": 134,
+        "failed": 0
+      },
+      "keyword": {
+        "inventory": 25,
+        "parsed": 25,
+        "failed": 0
+      },
+      "mechanic": {
+        "inventory": 19,
+        "parsed": 19,
+        "failed": 0
+      },
+      "character": {
+        "inventory": 0,
+        "parsed": 0,
+        "failed": 0
+      },
+      "concept": {
+        "inventory": 0,
+        "parsed": 0,
+        "failed": 0
+      }
+    },
+    "chinese": {
+      "card": {
+        "inventory": 370,
+        "parsed": 370,
+        "failed": 0
+      },
+      "relic": {
+        "inventory": 179,
+        "parsed": 179,
+        "failed": 0
+      },
+      "potion": {
+        "inventory": 42,
+        "parsed": 42,
+        "failed": 0
+      },
+      "event": {
+        "inventory": 52,
+        "parsed": 52,
+        "failed": 0
+      },
+      "monster": {
+        "inventory": 45,
+        "parsed": 45,
+        "failed": 0
+      },
+      "status": {
+        "inventory": 133,
+        "parsed": 133,
+        "failed": 0
+      },
+      "keyword": {
+        "inventory": 0,
+        "parsed": 0,
+        "failed": 0
+      },
+      "mechanic": {
+        "inventory": 5,
+        "parsed": 5,
+        "failed": 0
+      },
+      "character": {
+        "inventory": 4,
+        "parsed": 4,
+        "failed": 0
+      },
+      "concept": {
+        "inventory": 10,
+        "parsed": 10,
+        "failed": 0
+      }
+    }
+  },
+  "counts": {
+    "entities": 1054,
+    "names": 3751,
+    "claims": 17606,
+    "relations": 324,
+    "cards": 422,
+    "relics": 180,
+    "potions": 42,
+    "monsters": 61,
+    "encounters": 1,
+    "events": 55,
+    "statuses": 182,
+    "mechanics": 25,
+    "inventory_items": 1719,
+    "inventory_mappings": 816,
+    "inventory_csv": 1719,
+    "entity_name_mapping": 1054
+  },
+  "finished_at": "2026-09-18T04:20:48+00:00"
+}

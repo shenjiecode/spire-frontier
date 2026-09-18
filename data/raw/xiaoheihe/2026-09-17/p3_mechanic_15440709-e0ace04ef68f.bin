@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" >
+  <meta name="format-detection" content="telephone=no">
+  
+  
+<title>商人</title>
+
+  <link rel="stylesheet" href="/static/wiki/css/common.css?v=1.0.6">
+  <link rel="stylesheet" href="/static/wiki/css/tmp_components.css?v=1.0.5">
+  <link rel="stylesheet" href="/static/wiki/css/page_components.css?v=1.1.16">
+  <style>
+    .article-content h1 {
+      line-height: 40px;
+      background: rgba(0, 122, 232, .1);
+      text-align: center;
+    }
+    .article-content table::before,
+    .article-content table::after,
+    .article-content table th::before,
+    .article-content table th::after,
+    .article-content table td::before,
+    .article-content table td::after {
+      background: rgba(0, 122, 232, .1) !important;
+    }
+    .article-content table th,
+    .article-content table tr:nth-child(odd) {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1 {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1::after {
+      background: rgba(0, 122, 232, .1);
+    }
+  </style>
+  
+<link rel="stylesheet" href="/static/assets/css/hb_article.css?v=1.0.10">
+<link rel="stylesheet" href="/static/wiki/css/article_detail.20190522.css?v=1.0.0">
+<style>
+  .article-header .title {
+    background-color: rgba(0, 122, 232, .1);
+    border-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::before,
+  .article-header .title .cr::before {
+    border-top-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::after,
+  .article-header .title .cr::after {
+    border-bottom-color: rgba(0, 122, 232, .3);
+  }
+  .article-content p br {
+    display: inline;
+  }
+  .tag-table::before,
+  .tag-table::after,
+  .tag-table-inner::before,
+  .tag-table-inner::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  .tag-table .head {
+    background-color: rgba(0, 122, 232, .1);
+  }
+  .reference-panel > .title::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  
+  
+  
+  
+
+  
+  article {
+    padding-top: 54px;
+  }
+  .top-bar {
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+  }
+  .top-bar .btn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    color: #64696e;
+    font-size: 12px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  .top-bar .btn svg {
+    height: 12px;
+    margin-right: 4px;
+  }
+  
+</style>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16e641db29b184261dffedec98f2570b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</head>
+<body class="wiki-646570">
+
+
+
+<section class="full top-bar fix-border-bottom">
+  <div class="search-bar-wrap">
+    <div class="search-bar">
+      <div class="icon"></div>
+      <div class="input">搜索</div>
+    </div>
+    <div class="btn history-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+        <g fill="none" fill-rule="evenodd">
+          <circle cx="6" cy="6" r="6" fill="#64696E"/>
+          <polyline stroke="#FEFEFE" points="6 2 6 6 9.998 6"/>
+        </g>
+      </svg>
+      <span>编辑历史</span>
+    </div>
+    <div class="btn catalogue-btn hide">
+      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" viewBox="0 0 11 12">
+        <g fill="none" fill-rule="evenodd">
+          <rect width="11" height="12" fill="#64696E" rx="1"/>
+          <path stroke="#FFF" d="M1.98544704 3.00548423L8.98544489 3M1.98544704 6.00548423L8.98544489 6M1.98544704 9.00548423L8.98544489 9"/>
+        </g>
+      </svg>
+      <span>目录</span>
+    </div>
+  </div>
+</section>
+
+<article>
+  
+  <div class="article-header">
+    <div class="title">
+      <span class="cl"></span>
+      <span>商人</span>
+      <span class="cr"></span>
+    </div>
+    
+    <div class="editor">
+      <span class="editor-name" data-id="76983953">悯农</span>编辑于2026年01月13日 18:44
+    </div>
+    
+    
+  </div>
+  
+  <div class="article-content">
+    
+    <p><img data-width="541" data-height="351" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/18/657e63e540994c553dd985532a6ee002.png"></p>
+<h4 class="img-desc">商人是在商店出售物品的友好NPC</h4>
+<p></p>
+
+
+
+
+
+
+
+
+
+
+<h1><img style="max-width:100%;" data-width="52" data-height="50" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/27/f4365d07fe55f76574f8d27fd7d0ce24.png"></h1>
+<h4 class="img-desc">地图标志</h4>
+
+<h1>描述</h1>
+<h1>
+  <p _msttexthash="3486440620" _msthash="172">商人是一个蓝皮肤的男人，坐在蓝绿色的地毯上，旁边是一些<a href="https://slay-the-spire.fandom.com/wiki/Cards" title="Cards" _istranslated="1">卡片</a>、一个小箱子、一个袋子和一把刀。他戴着面具遮住脸（类似于<span _istranslated="1"><a href="https://slay-the-spire.fandom.com/wiki/Smiling_Mask" _istranslated="1">微笑面具</a></span><a href="https://slay-the-spire.fandom.com/wiki/Relic" title="Relic" _istranslated="1">遗物</a>）和一件蓝色斗篷。他对玩家很友好，如果不是有点粗鲁和鲁莽的话，他会在他们查看和购买他的商品时与他们交谈，主要是闲聊，或者透露他的贪婪。</p>
+</h1>
+<h1>待售商品</h1>
+<h4>在 进阶&nbsp;16+ 上，商店价格上涨了 10%</h4>
+<h2><span>5 张彩色卡片（特定类别）</span></h2>
+<p _msttexthash="82781985" _msthash="129">&nbsp;2 张<a href="https://slay-the-spire.fandom.com/wiki/Attack" title="Attack" _istranslated="1">攻击</a>卡、2 张<a href="https://slay-the-spire.fandom.com/wiki/Skill" title="Skill" _istranslated="1">技能</a>卡和 1 张<span style="color: rgb(77, 128, 191);">能力</span>卡。</p>
+<ul>
+  <li _msttexthash="26188201" _msthash="132"><span title="Common Cards (page does not exist)" _istranslated="1">普通：</span>&nbsp;45 - 55&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="26599976" _msthash="133"><span title="Uncommon Cards (page does not exist)" _istranslated="1">罕见</span>： 68 - 82&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="27167049" _msthash="134"><a href="https://slay-the-spire.fandom.com/wiki/Rare_Cards" title="Rare Cards" _istranslated="1">稀有</a>：135 - 165&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="27167049" _msthash="134">
+    <h4>其中一张卡将始终处于打折状态，从而将其成本降低 50%。</h4>
+  </li>
+</ul>
+<h2>2张无色卡片</h2>
+<p _msttexthash="180021179" _msthash="137">左边总会有一张不常见的<a href="https://slay-the-spire.fandom.com/wiki/Colorless_Cards" title="Colorless Cards" _istranslated="1">无色卡</a>，右边会有一张稀有的牌。</p>
+<ul>
+  <li _msttexthash="26600678" _msthash="138"><span title="Uncommon Cards (page does not exist)" _istranslated="1">罕见</span>： 81 - 99&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="27168219" _msthash="139"><a href="https://slay-the-spire.fandom.com/wiki/Rare_Cards" title="Rare Cards" _istranslated="1">稀有</a>： 162 - 198&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+</ul>
+<h2>3 遗物</h2>
+<p _msttexthash="173935879" _msthash="141">右边的<a href="https://slay-the-spire.fandom.com/wiki/Relic" title="Relic" _istranslated="1">遗物</a>将永远是<a href="https://slay-the-spire.fandom.com/wiki/Relics#Shop" title="Relics" _istranslated="1">商店遗物</a>。这是<a href="https://slay-the-spire.fandom.com/wiki/Relics#Shop_Relics" title="Relics" _istranslated="1">商店遗物</a>的唯一来源。</p>
+<ul>
+  <li _msttexthash="27804543" _msthash="142"><a href="https://slay-the-spire.fandom.com/wiki/Relics#Common" title="Relics" _istranslated="1">普通</a>： 143 - 157&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="28215772" _msthash="143"><a href="https://slay-the-spire.fandom.com/wiki/Relics#Uncommon" title="Relics" _istranslated="1">罕见</a>： 238 - 262&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="27167283" _msthash="144"><a href="https://slay-the-spire.fandom.com/wiki/Relics#Rare" title="Relics" _istranslated="1">稀有</a>：285 - 315&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="26086671" _msthash="145"><a href="https://slay-the-spire.fandom.com/wiki/Relics#Shop" title="Relics" _istranslated="1">商店</a>： 143 - 157&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+</ul>
+<h2>3 药水</h2>
+<ul>
+  <li _msttexthash="26188084" _msthash="147">普通： 48 - 52&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="26600171" _msthash="148">罕见： 72 - 78&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+  <li _msttexthash="26358280" _msthash="149">稀有： 95 - 105&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a></li>
+</ul>
+<h2>卡牌移除服务</h2>
+<ul>
+  <li _msttexthash="39729924" _msthash="151">每个商店只能使用一次。</li>
+  <li _msttexthash="145707159" _msthash="152">初始花费 75&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a>，在任何商店每次使用时增加 25&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Gold" title="Gold" _istranslated="1">金币</a>。</li>
+</ul>
+<h1><span id="Interactions" _msttexthash="11139284" _msthash="153">相互作用</span></h1>
+<ul>
+  <li>
+    <font _mstmutation="1" _msttexthash="1507893530" _msthash="155"><span _mstmutation="1" _istranslated="1">&nbsp;<span style="color: rgb(77, 128, 191);">送货员</span></span>：当你购买<a href="https://slay-the-spire.fandom.com/wiki/Cards" title="Cards" _mstmutation="1" _istranslated="1">卡片</a>、<a href="https://slay-the-spire.fandom.com/wiki/Relics" title="Relics" _mstmutation="1" _istranslated="1">遗物</a>或<a href="https://slay-the-spire.fandom.com/wiki/Potions" title="Potions" _mstmutation="1" _istranslated="1">药水</a>时，它会被相同类型的随机物品所取代。此外，所有购买都有 20% 的折扣。这与会员卡（可享受 60% 的折扣）成倍叠加，但卡移除除外（享受更好的折扣）。</font>
+    <ul>
+      <li _msttexthash="475895602" _msthash="156">但是，无色卡牌可能会被不同稀有度的无色卡牌替换，而商店遗物将被普通、不常见或稀有遗物替换。</li>
+    </ul>
+  </li>
+  <li _msttexthash="164226894" _msthash="159"><span _istranslated="1">&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Membership_Card" _istranslated="1">会员卡</a></span>：所有商店商品和服务都有 50% 的折扣，与
+
+    <span>送货员&nbsp;</span> 堆叠。
+  </li>
+  <li _msttexthash="125652267" _msthash="161"><span _istranslated="1">&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Smiling_Mask" _istranslated="1">微笑面具</a></span>：卡片移除服务现在总是花费 50 金币。</li>
+  <li _msttexthash="136370949" _msthash="163"><span _istranslated="1">&nbsp;<a href="https://slay-the-spire.fandom.com/wiki/Meal_Ticket" _istranslated="1">餐券</a></span>：每当你进入商店房间时，治疗 15 点生命值。</li>
+  <li _msttexthash="491380292" _msthash="165"><span _istranslated="1">&nbsp;</span>
+
+    <span style="color: rgb(77, 128, 191);"><span>巨口储蓄罐</span>&nbsp;</span> ：如果您在商店购买物品，此遗物将被禁用，并且不再提供每层 12 金币，这包括卡移除服务。
+  </li>
+</ul>
+    
+  </div>
+</article>
+
+<div class="tag-panel">
+  
+  <div class="tag-table">
+    <div class="tag-table-inner">
+      <div class="head unfold">
+        <span>地图杂项</span>
+        <div class="switch">
+          <span>[</span><span class="text">折叠</span><span>]</span>
+        </div>
+      </div>
+      <div class="body">
+        
+        <span class="entry" data-id="15440709">商人</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15463362">宝箱房</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15463366">休息处</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15539744">怪物</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15624135">问号房</span>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="feedback-panel">
+  <div class="col-1">
+    <div class="btn positive" data-type="1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M7,11.0149252 C5.06700338,11.0149252 3.5,9.55985068 3.5,7.76492524 C3.5,6.46999981 4.57663635,7.21111235 7,7.21111235 C9.42336365,7.21111235 10.5,6.46999981 10.5,7.76492524 C10.5,9.55985068 8.93299662,11.0149252 7,11.0149252 Z"/>
+        </g>
+      </svg>
+      <span>有帮助</span>
+    </div>
+    <div class="btn negative" data-type="2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>更新不及时</span>
+    </div>
+    <div class="btn negative" data-type="3">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>描述有误</span>
+    </div>
+  </div>
+  
+  <div class="col-2">
+    <div id="feedback" class="btn plain">
+      <span>问题反馈</span>
+    </div>
+  </div>
+  
+</div>
+
+<script>
+isSharePage = false
+</script>
+<script src="https://cdn.max-c.com/js/hkey.js"></script>
+<script src="//cdn.max-c.com/js/zepto/1.2.0/zepto.min.js"></script>
+<script src="/static/wiki/js/common.js?v=1.1.11"></script>
+<script>
+  if (utils.getUrlParam('os_type') !== 'Android' && String(window.screen.height).match(/812|896/)) {
+    document.body.classList.add('iphonex');
+  }
+</script>
+
+<script src="/static/assets/js/img_lazyload_config.js?v=1.0.0"></script>
+<script>
+  var imgDescs = $('.img-desc');
+  imgDescs.each(function () {
+    var ethis = $(this);
+    if (ethis.text() !== '请输入图片描述') {
+      ethis.addClass('show-img-desc')
+    }
+  });
+
+  $('.article-content table').each(function () {
+    if ($(this).parents('.table-wrap').length < 1) {
+      $(this).wrap('<div class="table-wrap"><div class="table-wrap-inner">');
+    }
+  });
+
+  $('.article-content iframe').each(function () {
+    var width = $(this).width();
+    $(this).height(width * 9 / 16);
+  });
+
+  $('.editor-name').on('tap', function () {
+    var PROTOCOL = {
+      'protocol_type': 'openUser',
+      'user_id': $(this).data('id')
+    };
+    window.location.href = 'heybox://' + encodeURI(JSON.stringify(PROTOCOL))
+  });
+
+  $('.tag-table .head').on('tap', function () {
+    if ($(this).hasClass('unfold')) {
+      $(this).removeClass('unfold').find('.switch .text').text('展开')
+    } else {
+      $(this).addClass('unfold').find('.switch .text').text('折叠')
+    }
+  });
+
+  $('.reference-item .desc[data-link]').on('tap', function () {
+    var url = $(this).data('link');
+    W.appOpenWindow({
+      title: title,
+      url: url
+    });
+  });
+
+  $('.feedback-panel .btn:not(.plain)').on('tap', function () {
+    if ($(this).hasClass('done')) {
+      return false
+    }
+    var type = $(this).data('type')
+    var data = {
+      article_id: '15440709'
+    }
+    if (type === 1) {
+      data.useful = 1
+    } else if (type === 2) {
+      data.update_delay = 1
+    } else if (type === 3) {
+      data.content_inaccurate = 1
+    }
+    $.get('/wiki/collect_user_feedback/', data, function (res) {})
+    $(this).addClass('done')
+  })
+</script>
+
+
+<script src="https://cdn.max-c.com/js/iscroll/5.2.0/iscroll-lite.js"></script>
+<script src="/static/wiki/js/catalogue.js?v=1.0.3"></script>
+<script>
+  W.entryLinkHandler('646570', '杀戮尖塔');
+  var $imgs = $('.article-content img');
+  $imgs.on('tap', function () {
+    W.openImage({
+      imgs: $imgs,
+      index: $imgs.index($(this))
+    });
+  });
+
+  $('.search-bar').on('tap', function () {
+    W.appOpenWindow({
+      title: '搜索',
+      url: window.location.origin + '/wiki/search_wiki_page/?wiki_id=646570'
+    });
+  });
+  $('.history-btn').on('tap', function () {
+    W.appOpenWindow({
+      title: '编辑历史',
+      url: window.location.origin + '/wiki/get_article_edit_history/?wiki_id=646570&article_id=15440709'
+    });
+  });
+
+  function refresh () {
+    window.location.reload()
+  }
+
+  $('.tag-table .entry').on('tap', function () {
+    var id = $(this).data('id');
+    var title = $(this).text();
+    W.appOpenWindow({
+      title: title,
+      url: window.location.origin + '/wiki/get_wiki_base_unit_detail_info/?wiki_id=646570&name=' + title
+      // url: window.location.origin + '/wiki/get_article_list_by_category_id/?category_id=' + id
+    });
+  });
+
+  $('#feedback').on('tap', function () {
+    window.location.href = 'heybox://{"protocol_type":"openFeedback"}'
+  })
+</script>
+
+<script src="https://cdn.max-c.com/static/data/js/lazysizes.4.0.1.min.js" async=""></script>
+
+</body>
+</html>

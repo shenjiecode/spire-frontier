@@ -1,0 +1,47 @@
+# 勇气投石索 / Sling of Courage
+
+> 稳定 ID：`sts1.relic.sling_of_courage`  
+> 类别：`relic`；游戏：`sts1`；映射状态：`confirmed`
+
+## 名称
+
+- 中文：勇气投石索
+- English: Sling of Courage
+
+## relic 数据
+
+| 字段 | 值 |
+| --- | --- |
+| `rarity` | Shop |
+| `effect_json` | {"description_en": "Start each Elite combat with 2 Strength.A handy tool for dealing with particularly tough opponents.", "flavor": "A handy tool for dealing with particularly tough opponents."} |
+
+## 相关条目
+
+暂无已确认关系。
+
+## 被哪些条目引用
+
+暂无已确认关系。
+
+## 来源与核对状态
+
+字段级证据保留在 SQLite 的 `claims` 表；这里显示已采集的摘要。
+
+| 字段 | 值 | 状态 | 来源 |
+| --- | --- | --- | --- |
+| `game.localization.name` | Sling of Courage | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
+| `game.localization.name` | 勇气投石索 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
+| `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Sling", "kind": "relic", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
+| `game.relic.descriptions` | ["Start each Elite combat with #b", " #yStrength."] | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
+| `game.relic.descriptions` | ["在与精英敌人战斗时，获得 #b", " 点 #y力量 。"] | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
+| `game.relic.flavor` | "A handy tool for dealing with particularly tough opponents." | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
+| `game.relic.flavor` | “对格外强大的对手非常好用的工具。” | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
+| `relic.effect` | Start each Elite combat with 2 Strength.A handy tool for dealing with particularly tough opponents. | `provisional` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `relic.effect` | Start each Elite combat with 2 Strength.A handy tool for dealing with particularly tough opponents. | `provisional` | [勇气投石索](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494907&wiki_id=646570) |
+| `source.article_text` | 勇气投石索<br>（图片未提供文字说明）<br>稀有度<br>商店<br>作用<br>在与精英敌人战斗时，获得2点力量。<br>说明<br>对格外强大的对手非常好用的工具。 | `single_source` | [勇气投石索](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494907&wiki_id=646570) |
+| `source.image_urls` | ["/images/thumb/Sling.png/80px-Sling.png?8257f9"] | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `source.infobox.description` | Start each Elite combat with 2 Strength. | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `source.title_text` | 勇气投石索 | `single_source` | [勇气投石索](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494907&wiki_id=646570) |
+| `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Sling of Courage<br>|Image       = Sling.png<br>|Rarity      = Shop<br>|Description = Start each Elite combat with 2 {{BD|Strength}}.<br>|Flavor      = A handy tool for dealing with particularly tough opponents.<br>}}<br>{{Power Infobox|Strength}}{{R|Sling of Courage}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity:Shop|Shop... | `single_source` | [P3 wiki.gg API batch: relic 9](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Warped_Tongs|Paper_Krane|Pocketwatch|Happy_Flower|Strange_Spoon|Bloody_Idol|Holy_Water|Sling_of_Courage|Girya|The_Courier|The_Abacus|Lee's_Waffle|The_Specimen|Wrist_Blade|Mark_of_the_Bloom|The_Boot|Duality|Twisted_Funnel|Cultist_Headpiece|Bag_of_Marbles&prop=revisions&rvprop=content|ids&rvslots=main) |
+
+页面生成时间：2026-09-18T04:35:45+00:00

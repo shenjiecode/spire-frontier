@@ -1,0 +1,139 @@
+{
+  "generated_at": "2026-09-17T16:27:41+00:00",
+  "status": "success",
+  "parser_version": "kb-inventory/0.1",
+  "sources": [
+    "xiaoheihe",
+    "wiki_gg"
+  ],
+  "scope": "P2 bilingual directory discovery; facts remain un-reconciled",
+  "xiao": {
+    "source_page_id": "source_page.xiaoheihe.1e7870479744c38e",
+    "blocks": {
+      "游戏入门介绍": {
+        "items": 19
+      },
+      "遗物收集": {
+        "items": 179
+      },
+      "铁甲战士": {
+        "items": 75
+      },
+      "观者": {
+        "items": 75
+      },
+      "静默猎手": {
+        "items": 75
+      },
+      "故障机器人": {
+        "items": 75
+      },
+      "无色牌": {
+        "items": 56
+      },
+      "事件": {
+        "items": 52
+      },
+      "诅咒牌": {
+        "items": 14
+      },
+      "怪物图鉴": {
+        "items": 45
+      },
+      "药水": {
+        "items": 42
+      },
+      "能力/Buff": {
+        "items": 133
+      }
+    },
+    "excluded": {
+      "intro:未分类": 0,
+      "intro:新手入门": 3,
+      "intro:尖塔故事杂谈": 4,
+      "遗物选择": 2,
+      "职业打法": 10,
+      "每日挑战随机特殊效果": 80,
+      "常见问题解决": 6,
+      "关于百科": 2
+    }
+  },
+  "wiki": {
+    "counts": {
+      "wiki_card": 370,
+      "wiki_excluded_sts2_relics": 13,
+      "wiki_relic": 193,
+      "wiki_potion": 42,
+      "wiki_event": 51,
+      "wiki_monster": 45,
+      "wiki_keyword": 25,
+      "wiki_mechanic": 19,
+      "wiki_status": 134
+    },
+    "page_ids": {
+      "Cards_List": "source_page.wiki_gg.c7ecbd7a3b1562a9",
+      "Relics_List": "source_page.wiki_gg.66682146bc950223",
+      "Potions_List": "source_page.wiki_gg.552a5f4a2f1cdfe3",
+      "Events_List": "source_page.wiki_gg.33542450d3bd77ab",
+      "Monsters": "source_page.wiki_gg.ce3fa45725aabf96",
+      "Elites": "source_page.wiki_gg.35918a630d24100e",
+      "Bosses": "source_page.wiki_gg.8db928bb7cc8160d",
+      "Keywords": "source_page.wiki_gg.b841faadbfa8abe4",
+      "Mechanics": "source_page.wiki_gg.2dbdc1896cd0923a",
+      "Buffs": "source_page.wiki_gg.60062753fd00a4f8",
+      "Debuffs": "source_page.wiki_gg.a8d6c6328fc1be96"
+    }
+  },
+  "mappings": {
+    "candidate": 10,
+    "confirmed": 7
+  },
+  "inventory_items": 1719,
+  "inventory_active": 1706,
+  "inventory_excluded": 13,
+  "mapping_rows": 1689,
+  "inventory_mapping_records": 17,
+  "mapped_confirmed": 7,
+  "mapped_candidate": 10,
+  "by_kind": {
+    "card": 740,
+    "character": 4,
+    "concept": 10,
+    "event": 103,
+    "keyword": 25,
+    "mechanic": 24,
+    "monster": 90,
+    "potion": 84,
+    "relic": 359,
+    "status": 267
+  },
+  "by_language": {
+    "en": 866,
+    "zh-CN": 840
+  },
+  "by_source_language_kind": {
+    "wiki_gg|en|card": 370,
+    "wiki_gg|en|event": 51,
+    "wiki_gg|en|keyword": 25,
+    "wiki_gg|en|mechanic": 19,
+    "wiki_gg|en|monster": 45,
+    "wiki_gg|en|potion": 42,
+    "wiki_gg|en|relic": 180,
+    "wiki_gg|en|status": 134,
+    "xiaoheihe|zh-CN|card": 370,
+    "xiaoheihe|zh-CN|character": 4,
+    "xiaoheihe|zh-CN|concept": 10,
+    "xiaoheihe|zh-CN|event": 52,
+    "xiaoheihe|zh-CN|mechanic": 5,
+    "xiaoheihe|zh-CN|monster": 45,
+    "xiaoheihe|zh-CN|potion": 42,
+    "xiaoheihe|zh-CN|relic": 179,
+    "xiaoheihe|zh-CN|status": 133
+  },
+  "known_limitations": [
+    "Directory presence is not article-content verification.",
+    "Most Chinese and English names remain unmatched until field-level identity review.",
+    "The Xiaoheihe API response is a directory snapshot; article bodies and images are not fetched in P2.",
+    "wiki.gg list counts are source counts after explicit StS2 Blight exclusion, not a claim about game-version completeness."
+  ]
+}

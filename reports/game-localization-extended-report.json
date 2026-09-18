@@ -1,0 +1,62 @@
+{
+  "cumulative_decision_files": [
+    "data/decisions/mapping-decisions.game-extended.csv",
+    "data/decisions/mapping-decisions.game-extended-status.csv"
+  ],
+  "cumulative_decisions": 211,
+  "decisions": 0,
+  "decisions_path": "data/decisions/mapping-decisions.game-extended.csv",
+  "decisions_preserved": true,
+  "jar": {
+    "jar_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SlayTheSpire\\desktop-1.0.jar",
+    "jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673",
+    "jar_size": 365086855,
+    "kinds": [
+      "event",
+      "monster",
+      "status",
+      "keyword",
+      "character"
+    ],
+    "languages": [
+      "eng",
+      "zhs"
+    ],
+    "recorded_at": "2026-09-18T04:31:08+00:00",
+    "steam_build_id": "10180494"
+  },
+  "kinds": {
+    "character": {
+      "english_entries": 4,
+      "localized_claims": 4,
+      "matched_canonical": 4,
+      "new_candidates": 0
+    },
+    "event": {
+      "english_entries": 54,
+      "localized_claims": 54,
+      "matched_canonical": 51,
+      "new_candidates": 3
+    },
+    "keyword": {
+      "english_entries": 48,
+      "localized_claims": 48,
+      "matched_canonical": 15,
+      "new_candidates": 33
+    },
+    "monster": {
+      "english_entries": 72,
+      "localized_claims": 72,
+      "matched_canonical": 57,
+      "new_candidates": 15
+    },
+    "status": {
+      "english_entries": 178,
+      "localized_claims": 178,
+      "matched_canonical": 132,
+      "new_candidates": 46
+    }
+  },
+  "parser_version": "kb-game-local-extended/0.1",
+  "source_page_id": "source_page.game_local.e6e5d2f2f9ec6f0a"
+}

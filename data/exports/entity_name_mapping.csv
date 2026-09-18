@@ -1,0 +1,1055 @@
+entity_id,kind,zh_name,en_name,mapping_status
+sts1.candidate.zh.concept.15432040,concept,进阶模式,,provisional
+sts1.candidate.zh.concept.15463398,concept,进入心脏战方式,,provisional
+sts1.candidate.zh.concept.15465872,concept,卡牌介绍,,provisional
+sts1.candidate.zh.concept.15465874,concept,药水介绍,,provisional
+sts1.candidate.zh.concept.15543865,concept,敌人意图,,provisional
+sts1.candidate.zh.concept.15715746,concept,卡牌奖励机制,,provisional
+sts1.candidate.zh.concept.15722654,concept,自定义介绍,,provisional
+sts1.candidate.zh.concept.15722655,concept,每日挑战介绍,,provisional
+sts1.candidate.zh.concept.530545,concept,关于游戏,,provisional
+sts1.candidate.zh.concept.9655623,concept,成就列表一览,,provisional
+sts1.candidate.zh.event.15408927,event,高塔之心,,provisional
+sts1.candidate.zh.mechanic.15440709,mechanic,商人,,provisional
+sts1.candidate.zh.mechanic.15463362,mechanic,宝箱房,,provisional
+sts1.candidate.zh.mechanic.15463366,mechanic,休息处,,provisional
+sts1.candidate.zh.mechanic.15539744,mechanic,怪物介绍,,provisional
+sts1.candidate.zh.mechanic.15624135,mechanic,问号房,,provisional
+sts1.candidate.zh.monster.15436697,monster,百夫长,,provisional
+sts1.candidate.zh.monster.15436699,monster,神秘术士,,provisional
+sts1.candidate.zh.status.15448778,status,机器学习（能力）,,provisional
+sts1.candidate.zh.status.15460336,status,以手拒之（能力）,,provisional
+sts1.card.colorless.apotheosis,card,神化,Apotheosis,confirmed
+sts1.card.colorless.apparition,card,灵体,Apparition,confirmed
+sts1.card.colorless.ascender_s_bane,card,进阶之灾,Ascender's Bane,confirmed
+sts1.card.colorless.bandage_up,card,包扎,Bandage Up,confirmed
+sts1.card.colorless.become_almighty,card,力大无穷,Become Almighty,confirmed
+sts1.card.colorless.beta,card,贝塔,Beta,confirmed
+sts1.card.colorless.bite,card,噬咬,Bite,confirmed
+sts1.card.colorless.blind,card,致盲,Blind,confirmed
+sts1.card.colorless.burn,card,灼伤,Burn,confirmed
+sts1.card.colorless.chrysalis,card,结茧,Chrysalis,confirmed
+sts1.card.colorless.clumsy,card,笨拙,Clumsy,confirmed
+sts1.card.colorless.curse_of_the_bell,card,铃铛的诅咒,Curse of the Bell,confirmed
+sts1.card.colorless.dark_shackles,card,黑暗镣铐,Dark Shackles,confirmed
+sts1.card.colorless.dazed,card,晕眩,Dazed,confirmed
+sts1.card.colorless.decay,card,腐朽,Decay,confirmed
+sts1.card.colorless.deep_breath,card,深呼吸,Deep Breath,confirmed
+sts1.card.colorless.discovery,card,发现,Discovery,confirmed
+sts1.card.colorless.doubt,card,疑虑,Doubt,confirmed
+sts1.card.colorless.dramatic_entrance,card,闪亮登场,Dramatic Entrance,confirmed
+sts1.card.colorless.enlightenment,card,开悟,Enlightenment,confirmed
+sts1.card.colorless.expunger,card,灭除之刃,Expunger,confirmed
+sts1.card.colorless.fame_and_fortune,card,名利双收,Fame and Fortune,confirmed
+sts1.card.colorless.finesse,card,妙计,Finesse,confirmed
+sts1.card.colorless.flash_of_steel,card,亮剑,Flash of Steel,confirmed
+sts1.card.colorless.forethought,card,预谋,Forethought,confirmed
+sts1.card.colorless.good_instincts,card,优秀直觉,Good Instincts,confirmed
+sts1.card.colorless.hand_of_greed,card,贪婪之手,Hand of Greed,confirmed
+sts1.card.colorless.impatience,card,急躁,Impatience,confirmed
+sts1.card.colorless.injury,card,受伤,Injury,confirmed
+sts1.card.colorless.insight,card,洞见,Insight,confirmed
+sts1.card.colorless.j_a_x,card,J.A.X.,J.A.X.,confirmed
+sts1.card.colorless.jack_of_all_trades,card,花样百出,Jack of All Trades,confirmed
+sts1.card.colorless.live_forever,card,永生不死,Live Forever,confirmed
+sts1.card.colorless.madness,card,疯狂,Madness,confirmed
+sts1.card.colorless.magnetism,card,磁力,Magnetism,confirmed
+sts1.card.colorless.master_of_strategy,card,战略大师,Master of Strategy,confirmed
+sts1.card.colorless.mayhem,card,乱战,Mayhem,confirmed
+sts1.card.colorless.metamorphosis,card,羽化,Metamorphosis,confirmed
+sts1.card.colorless.mind_blast,card,心灵震慑,Mind Blast,confirmed
+sts1.card.colorless.miracle,card,奇迹,Miracle,confirmed
+sts1.card.colorless.necronomicurse,card,死灵诅咒,Necronomicurse,confirmed
+sts1.card.colorless.normality,card,凡庸,Normality,confirmed
+sts1.card.colorless.omega,card,欧米伽,Omega,confirmed
+sts1.card.colorless.pain,card,疼痛,Pain,confirmed
+sts1.card.colorless.panacea,card,万能药,Panacea,confirmed
+sts1.card.colorless.panache,card,神气制胜,Panache,confirmed
+sts1.card.colorless.panic_button,card,应急按钮,Panic Button,confirmed
+sts1.card.colorless.parasite,card,寄生,Parasite,confirmed
+sts1.card.colorless.pride,card,傲慢,Pride,confirmed
+sts1.card.colorless.purity,card,净化,Purity,confirmed
+sts1.card.colorless.regret,card,悔恨,Regret,confirmed
+sts1.card.colorless.ritual_dagger,card,仪式匕首,Ritual Dagger,confirmed
+sts1.card.colorless.sadistic_nature,card,残虐天性,Sadistic Nature,confirmed
+sts1.card.colorless.safety,card,平安,Safety,confirmed
+sts1.card.colorless.secret_technique,card,秘密技法,Secret Technique,confirmed
+sts1.card.colorless.secret_weapon,card,秘密武器,Secret Weapon,confirmed
+sts1.card.colorless.shame,card,羞耻,Shame,confirmed
+sts1.card.colorless.shiv,card,小刀,Shiv,confirmed
+sts1.card.colorless.slimed,card,黏液,Slimed,confirmed
+sts1.card.colorless.smite,card,惩恶,Smite,confirmed
+sts1.card.colorless.swift_strike,card,迅捷打击,Swift Strike,confirmed
+sts1.card.colorless.the_bomb,card,炸弹,The Bomb,confirmed
+sts1.card.colorless.thinking_ahead,card,深谋远虑,Thinking Ahead,confirmed
+sts1.card.colorless.through_violence,card,以暴易暴,Through Violence,confirmed
+sts1.card.colorless.transmutation,card,转化,Transmutation,confirmed
+sts1.card.colorless.trip,card,绊倒,Trip,confirmed
+sts1.card.colorless.violence,card,暴力,Violence,confirmed
+sts1.card.colorless.void,card,虚空,Void,confirmed
+sts1.card.colorless.wound,card,伤口,Wound,confirmed
+sts1.card.colorless.writhe,card,苦恼,Writhe,confirmed
+sts1.card.defect.aggregate,card,汇集,Aggregate,confirmed
+sts1.card.defect.all_for_one,card,万物一心,All for One,confirmed
+sts1.card.defect.amplify,card,增幅,Amplify,confirmed
+sts1.card.defect.auto_shields,card,自动护盾,Auto-Shields,confirmed
+sts1.card.defect.ball_lightning,card,球状闪电,Ball Lightning,confirmed
+sts1.card.defect.barrage,card,弹幕齐射,Barrage,confirmed
+sts1.card.defect.beam_cell,card,光束射线,Beam Cell,confirmed
+sts1.card.defect.biased_cognition,card,偏差认知,Biased Cognition,confirmed
+sts1.card.defect.blizzard,card,暴雪,Blizzard,confirmed
+sts1.card.defect.boot_sequence,card,启动流程,Boot Sequence,confirmed
+sts1.card.defect.buffer,card,缓冲,Buffer,confirmed
+sts1.card.defect.bullseye,card,瞄准靶心,Bullseye,confirmed
+sts1.card.defect.capacitor,card,扩容,Capacitor,confirmed
+sts1.card.defect.chaos,card,混沌,Chaos,confirmed
+sts1.card.defect.charge_battery,card,充电,Charge Battery,confirmed
+sts1.card.defect.chill,card,冰寒,Chill,confirmed
+sts1.card.defect.claw,card,爪击,Claw,confirmed
+sts1.card.defect.cold_snap,card,寒流,Cold Snap,confirmed
+sts1.card.defect.compile_driver,card,编译冲击,Compile Driver,confirmed
+sts1.card.defect.consume,card,耗尽,Consume,confirmed
+sts1.card.defect.coolheaded,card,冷静头脑,Coolheaded,confirmed
+sts1.card.defect.core_surge,card,核心电涌,Core Surge,confirmed
+sts1.card.defect.creative_ai,card,创造性AI,Creative AI,confirmed
+sts1.card.defect.darkness,card,漆黑,Darkness,confirmed
+sts1.card.defect.defend,card,防御,Defend,confirmed
+sts1.card.defect.defragment,card,碎片整理,Defragment,confirmed
+sts1.card.defect.doom_and_gloom,card,愁云惨淡,Doom and Gloom,confirmed
+sts1.card.defect.double_energy,card,双倍能量,Double Energy,confirmed
+sts1.card.defect.dualcast,card,双重释放,Dualcast,confirmed
+sts1.card.defect.echo_form,card,回响形态,Echo Form,confirmed
+sts1.card.defect.electrodynamics,card,电动力学,Electrodynamics,confirmed
+sts1.card.defect.equilibrium,card,均衡,Equilibrium,confirmed
+sts1.card.defect.fission,card,裂变,Fission,confirmed
+sts1.card.defect.force_field,card,力场,Force Field,confirmed
+sts1.card.defect.ftl,card,超越光速,FTL,confirmed
+sts1.card.defect.fusion,card,聚变,Fusion,confirmed
+sts1.card.defect.genetic_algorithm,card,遗传算法,Genetic Algorithm,confirmed
+sts1.card.defect.glacier,card,冰川,Glacier,confirmed
+sts1.card.defect.go_for_the_eyes,card,眼部攻击,Go for the Eyes,confirmed
+sts1.card.defect.heatsinks,card,散热片,Heatsinks,confirmed
+sts1.card.defect.hello_world,card,你好，世界,Hello World,confirmed
+sts1.card.defect.hologram,card,全息影像,Hologram,confirmed
+sts1.card.defect.hyperbeam,card,超能光束,Hyperbeam,confirmed
+sts1.card.defect.leap,card,飞跃,Leap,confirmed
+sts1.card.defect.loop,card,循环,Loop,confirmed
+sts1.card.defect.machine_learning,card,机器学习,Machine Learning,confirmed
+sts1.card.defect.melter,card,熔化,Melter,confirmed
+sts1.card.defect.meteor_strike,card,陨石打击,Meteor Strike,confirmed
+sts1.card.defect.multi_cast,card,多重释放,Multi-Cast,confirmed
+sts1.card.defect.overclock,card,超频,Overclock,confirmed
+sts1.card.defect.rainbow,card,彩虹,Rainbow,confirmed
+sts1.card.defect.reboot,card,重启,Reboot,confirmed
+sts1.card.defect.rebound,card,弹回,Rebound,confirmed
+sts1.card.defect.recursion,card,递归,Recursion,confirmed
+sts1.card.defect.recycle,card,回收,Recycle,confirmed
+sts1.card.defect.reinforced_body,card,硬化机体,Reinforced Body,confirmed
+sts1.card.defect.reprogram,card,重编程,Reprogram,confirmed
+sts1.card.defect.rip_and_tear,card,狂乱撕扯,Rip and Tear,confirmed
+sts1.card.defect.scrape,card,刮削,Scrape,confirmed
+sts1.card.defect.seek,card,搜寻,Seek,confirmed
+sts1.card.defect.self_repair,card,自我修复,Self Repair,confirmed
+sts1.card.defect.skim,card,快速检索,Skim,confirmed
+sts1.card.defect.stack,card,堆栈,Stack,confirmed
+sts1.card.defect.static_discharge,card,静电释放,Static Discharge,confirmed
+sts1.card.defect.steam_barrier,card,蒸汽护壁,Steam Barrier,confirmed
+sts1.card.defect.storm,card,雷暴,Storm,confirmed
+sts1.card.defect.streamline,card,精简改良,Streamline,confirmed
+sts1.card.defect.strike,card,打击,Strike,confirmed
+sts1.card.defect.sunder,card,分离,Sunder,confirmed
+sts1.card.defect.sweeping_beam,card,扫荡射线,Sweeping Beam,confirmed
+sts1.card.defect.tempest,card,暴风雨,Tempest,confirmed
+sts1.card.defect.thunder_strike,card,雷霆打击,Thunder Strike,confirmed
+sts1.card.defect.turbo,card,内核加速,TURBO,confirmed
+sts1.card.defect.white_noise,card,白噪声,White Noise,confirmed
+sts1.card.defect.zap,card,电击,Zap,confirmed
+sts1.card.ironclad.anger,card,愤怒,Anger,confirmed
+sts1.card.ironclad.armaments,card,武装,Armaments,confirmed
+sts1.card.ironclad.barricade,card,壁垒,Barricade,confirmed
+sts1.card.ironclad.bash,card,痛击,Bash,confirmed
+sts1.card.ironclad.battle_trance,card,战斗专注,Battle Trance,confirmed
+sts1.card.ironclad.berserk,card,狂暴,Berserk,confirmed
+sts1.card.ironclad.blood_for_blood,card,以血还血,Blood for Blood,confirmed
+sts1.card.ironclad.bloodletting,card,放血,Bloodletting,confirmed
+sts1.card.ironclad.bludgeon,card,重锤,Bludgeon,confirmed
+sts1.card.ironclad.body_slam,card,全身撞击,Body Slam,confirmed
+sts1.card.ironclad.brutality,card,残暴,Brutality,confirmed
+sts1.card.ironclad.burning_pact,card,燃烧契约,Burning Pact,confirmed
+sts1.card.ironclad.carnage,card,残杀,Carnage,confirmed
+sts1.card.ironclad.clash,card,交锋,Clash,confirmed
+sts1.card.ironclad.cleave,card,顺劈斩,Cleave,confirmed
+sts1.card.ironclad.clothesline,card,金刚臂,Clothesline,confirmed
+sts1.card.ironclad.combust,card,自燃,Combust,confirmed
+sts1.card.ironclad.corruption,card,腐化,Corruption,confirmed
+sts1.card.ironclad.dark_embrace,card,黑暗之拥,Dark Embrace,confirmed
+sts1.card.ironclad.defend,card,防御,Defend,confirmed
+sts1.card.ironclad.demon_form,card,恶魔形态,Demon Form,confirmed
+sts1.card.ironclad.disarm,card,缴械,Disarm,confirmed
+sts1.card.ironclad.double_tap,card,双发,Double Tap,confirmed
+sts1.card.ironclad.dropkick,card,飞身踢,Dropkick,confirmed
+sts1.card.ironclad.dual_wield,card,双持,Dual Wield,confirmed
+sts1.card.ironclad.entrench,card,巩固,Entrench,confirmed
+sts1.card.ironclad.evolve,card,进化,Evolve,confirmed
+sts1.card.ironclad.exhume,card,发掘,Exhume,confirmed
+sts1.card.ironclad.feed,card,狂宴,Feed,confirmed
+sts1.card.ironclad.feel_no_pain,card,无惧疼痛,Feel No Pain,confirmed
+sts1.card.ironclad.fiend_fire,card,恶魔之焰,Fiend Fire,confirmed
+sts1.card.ironclad.fire_breathing,card,火焰吐息,Fire Breathing,confirmed
+sts1.card.ironclad.flame_barrier,card,火焰屏障,Flame Barrier,confirmed
+sts1.card.ironclad.flex,card,活动肌肉,Flex,confirmed
+sts1.card.ironclad.ghostly_armor,card,幽灵铠甲,Ghostly Armor,confirmed
+sts1.card.ironclad.havoc,card,破灭,Havoc,confirmed
+sts1.card.ironclad.headbutt,card,头槌,Headbutt,confirmed
+sts1.card.ironclad.heavy_blade,card,重刃,Heavy Blade,confirmed
+sts1.card.ironclad.hemokinesis,card,御血术,Hemokinesis,confirmed
+sts1.card.ironclad.immolate,card,燔祭,Immolate,confirmed
+sts1.card.ironclad.impervious,card,岿然不动,Impervious,confirmed
+sts1.card.ironclad.infernal_blade,card,地狱之刃,Infernal Blade,confirmed
+sts1.card.ironclad.inflame,card,燃烧,Inflame,confirmed
+sts1.card.ironclad.intimidate,card,威吓,Intimidate,confirmed
+sts1.card.ironclad.iron_wave,card,铁斩波,Iron Wave,confirmed
+sts1.card.ironclad.juggernaut,card,势不可挡,Juggernaut,confirmed
+sts1.card.ironclad.limit_break,card,突破极限,Limit Break,confirmed
+sts1.card.ironclad.metallicize,card,金属化,Metallicize,confirmed
+sts1.card.ironclad.offering,card,祭品,Offering,confirmed
+sts1.card.ironclad.perfected_strike,card,完美打击,Perfected Strike,confirmed
+sts1.card.ironclad.pommel_strike,card,剑柄打击,Pommel Strike,confirmed
+sts1.card.ironclad.power_through,card,硬撑,Power Through,confirmed
+sts1.card.ironclad.pummel,card,连续拳,Pummel,confirmed
+sts1.card.ironclad.rage,card,狂怒,Rage,confirmed
+sts1.card.ironclad.rampage,card,暴走,Rampage,confirmed
+sts1.card.ironclad.reaper,card,死亡收割,Reaper,confirmed
+sts1.card.ironclad.reckless_charge,card,无谋冲锋,Reckless Charge,confirmed
+sts1.card.ironclad.rupture,card,撕裂,Rupture,confirmed
+sts1.card.ironclad.searing_blow,card,灼热攻击,Searing Blow,confirmed
+sts1.card.ironclad.second_wind,card,重振精神,Second Wind,confirmed
+sts1.card.ironclad.seeing_red,card,盛怒,Seeing Red,confirmed
+sts1.card.ironclad.sentinel,card,哨卫,Sentinel,confirmed
+sts1.card.ironclad.sever_soul,card,断魂斩,Sever Soul,confirmed
+sts1.card.ironclad.shockwave,card,震荡波,Shockwave,confirmed
+sts1.card.ironclad.shrug_it_off,card,耸肩无视,Shrug It Off,confirmed
+sts1.card.ironclad.spot_weakness,card,观察弱点,Spot Weakness,confirmed
+sts1.card.ironclad.strike,card,打击,Strike,confirmed
+sts1.card.ironclad.sword_boomerang,card,飞剑回旋镖,Sword Boomerang,confirmed
+sts1.card.ironclad.thunderclap,card,闪电霹雳,Thunderclap,confirmed
+sts1.card.ironclad.true_grit,card,坚毅,True Grit,confirmed
+sts1.card.ironclad.twin_strike,card,双重打击,Twin Strike,confirmed
+sts1.card.ironclad.uppercut,card,上勾拳,Uppercut,confirmed
+sts1.card.ironclad.warcry,card,战吼,Warcry,confirmed
+sts1.card.ironclad.whirlwind,card,旋风斩,Whirlwind,confirmed
+sts1.card.ironclad.wild_strike,card,狂野打击,Wild Strike,confirmed
+sts1.card.silent.a_thousand_cuts,card,凌迟,A Thousand Cuts,confirmed
+sts1.card.silent.accuracy,card,精准,Accuracy,confirmed
+sts1.card.silent.acrobatics,card,杂技,Acrobatics,confirmed
+sts1.card.silent.adrenaline,card,肾上腺素,Adrenaline,confirmed
+sts1.card.silent.after_image,card,余像,After Image,confirmed
+sts1.card.silent.alchemize,card,炼制药水,Alchemize,confirmed
+sts1.card.silent.all_out_attack,card,全力攻击,All-Out Attack,confirmed
+sts1.card.silent.backflip,card,后空翻,Backflip,confirmed
+sts1.card.silent.backstab,card,背刺,Backstab,confirmed
+sts1.card.silent.bane,card,灾祸,Bane,confirmed
+sts1.card.silent.blade_dance,card,刀刃之舞,Blade Dance,confirmed
+sts1.card.silent.blur,card,残影,Blur,confirmed
+sts1.card.silent.bouncing_flask,card,弹跳药瓶,Bouncing Flask,confirmed
+sts1.card.silent.bullet_time,card,子弹时间,Bullet Time,confirmed
+sts1.card.silent.burst,card,爆发,Burst,confirmed
+sts1.card.silent.calculated_gamble,card,计算下注,Calculated Gamble,confirmed
+sts1.card.silent.caltrops,card,铁蒺藜,Caltrops,confirmed
+sts1.card.silent.catalyst,card,催化剂,Catalyst,confirmed
+sts1.card.silent.choke,card,勒脖,Choke,confirmed
+sts1.card.silent.cloak_and_dagger,card,斗篷与匕首,Cloak and Dagger,confirmed
+sts1.card.silent.concentrate,card,全神贯注,Concentrate,confirmed
+sts1.card.silent.corpse_explosion,card,尸爆术,Corpse Explosion,confirmed
+sts1.card.silent.crippling_cloud,card,致残毒云,Crippling Cloud,confirmed
+sts1.card.silent.dagger_spray,card,匕首雨,Dagger Spray,confirmed
+sts1.card.silent.dagger_throw,card,投掷匕首,Dagger Throw,confirmed
+sts1.card.silent.dash,card,冲刺,Dash,confirmed
+sts1.card.silent.deadly_poison,card,致命毒药,Deadly Poison,confirmed
+sts1.card.silent.defend,card,防御,Defend,confirmed
+sts1.card.silent.deflect,card,偏折,Deflect,confirmed
+sts1.card.silent.die_die_die,card,死吧死吧死吧,Die Die Die,confirmed
+sts1.card.silent.distraction,card,声东击西,Distraction,confirmed
+sts1.card.silent.dodge_and_roll,card,闪躲翻滚,Dodge and Roll,confirmed
+sts1.card.silent.doppelganger,card,双重存在,Doppelganger,confirmed
+sts1.card.silent.endless_agony,card,无尽苦痛,Endless Agony,confirmed
+sts1.card.silent.envenom,card,涂毒,Envenom,confirmed
+sts1.card.silent.escape_plan,card,逃脱计划,Escape Plan,confirmed
+sts1.card.silent.eviscerate,card,内脏切除,Eviscerate,confirmed
+sts1.card.silent.expertise,card,独门技术,Expertise,confirmed
+sts1.card.silent.finisher,card,终结技,Finisher,confirmed
+sts1.card.silent.flechettes,card,飞镖,Flechettes,confirmed
+sts1.card.silent.flying_knee,card,飞膝,Flying Knee,confirmed
+sts1.card.silent.footwork,card,灵动步法,Footwork,confirmed
+sts1.card.silent.glass_knife,card,玻璃刀刃,Glass Knife,confirmed
+sts1.card.silent.grand_finale,card,华丽收场,Grand Finale,confirmed
+sts1.card.silent.heel_hook,card,足跟勾,Heel Hook,confirmed
+sts1.card.silent.infinite_blades,card,无限刀刃,Infinite Blades,confirmed
+sts1.card.silent.leg_sweep,card,扫腿,Leg Sweep,confirmed
+sts1.card.silent.malaise,card,萎靡,Malaise,confirmed
+sts1.card.silent.masterful_stab,card,精巧刺击,Masterful Stab,confirmed
+sts1.card.silent.neutralize,card,中和,Neutralize,confirmed
+sts1.card.silent.nightmare,card,夜魇,Nightmare,confirmed
+sts1.card.silent.noxious_fumes,card,毒雾,Noxious Fumes,confirmed
+sts1.card.silent.outmaneuver,card,抢占先机,Outmaneuver,confirmed
+sts1.card.silent.phantasmal_killer,card,幻影杀手,Phantasmal Killer,confirmed
+sts1.card.silent.piercing_wail,card,尖啸,Piercing Wail,confirmed
+sts1.card.silent.poisoned_stab,card,带毒刺击,Poisoned Stab,confirmed
+sts1.card.silent.predator,card,猎杀者,Predator,confirmed
+sts1.card.silent.prepared,card,早有准备,Prepared,confirmed
+sts1.card.silent.quick_slash,card,快斩,Quick Slash,confirmed
+sts1.card.silent.reflex,card,本能反应,Reflex,confirmed
+sts1.card.silent.riddle_with_holes,card,千穿百刺,Riddle with Holes,confirmed
+sts1.card.silent.setup,card,部署,Setup,confirmed
+sts1.card.silent.skewer,card,串刺,Skewer,confirmed
+sts1.card.silent.slice,card,切割,Slice,confirmed
+sts1.card.silent.sneaky_strike,card,隐秘打击,Sneaky Strike,confirmed
+sts1.card.silent.storm_of_steel,card,钢铁风暴,Storm of Steel,confirmed
+sts1.card.silent.strike,card,打击,Strike,confirmed
+sts1.card.silent.sucker_punch,card,突然一拳,Sucker Punch,confirmed
+sts1.card.silent.survivor,card,生存者,Survivor,confirmed
+sts1.card.silent.tactician,card,战术大师,Tactician,confirmed
+sts1.card.silent.terror,card,恐怖,Terror,confirmed
+sts1.card.silent.tools_of_the_trade,card,必备工具,Tools of the Trade,confirmed
+sts1.card.silent.unload,card,乾坤一掷,Unload,confirmed
+sts1.card.silent.well_laid_plans,card,计划妥当,Well-Laid Plans,confirmed
+sts1.card.silent.wraith_form,card,幽魂形态,Wraith Form,confirmed
+sts1.card.watcher.alpha,card,阿尔法,Alpha,confirmed
+sts1.card.watcher.battle_hymn,card,战歌,Battle Hymn,confirmed
+sts1.card.watcher.blasphemy,card,渎神,Blasphemy,confirmed
+sts1.card.watcher.bowling_bash,card,碰撞连击,Bowling Bash,confirmed
+sts1.card.watcher.brilliance,card,光辉,Brilliance,confirmed
+sts1.card.watcher.carve_reality,card,改造现实,Carve Reality,confirmed
+sts1.card.watcher.collect,card,收集,Collect,confirmed
+sts1.card.watcher.conclude,card,结末,Conclude,confirmed
+sts1.card.watcher.conjure_blade,card,聚能成刃,Conjure Blade,confirmed
+sts1.card.watcher.consecrate,card,供奉,Consecrate,confirmed
+sts1.card.watcher.crescendo,card,渐强,Crescendo,confirmed
+sts1.card.watcher.crush_joints,card,粉碎关节,Crush Joints,confirmed
+sts1.card.watcher.cut_through_fate,card,斩破命运,Cut Through Fate,confirmed
+sts1.card.watcher.deceive_reality,card,欺瞒现实,Deceive Reality,confirmed
+sts1.card.watcher.defend,card,防御,Defend,confirmed
+sts1.card.watcher.deus_ex_machina,card,机械降神,Deus Ex Machina,confirmed
+sts1.card.watcher.deva_form,card,天人形态,Deva Form,confirmed
+sts1.card.watcher.devotion,card,虔信,Devotion,confirmed
+sts1.card.watcher.empty_body,card,化体为空,Empty Body,confirmed
+sts1.card.watcher.empty_fist,card,化拳为空,Empty Fist,confirmed
+sts1.card.watcher.empty_mind,card,化智为空,Empty Mind,confirmed
+sts1.card.watcher.eruption,card,暴怒,Eruption,confirmed
+sts1.card.watcher.establishment,card,确立基础,Establishment,confirmed
+sts1.card.watcher.evaluate,card,评估,Evaluate,confirmed
+sts1.card.watcher.fasting,card,斋戒,Fasting,confirmed
+sts1.card.watcher.fear_no_evil,card,不惧妖邪,Fear No Evil,confirmed
+sts1.card.watcher.flurry_of_blows,card,疾风连击,Flurry of Blows,confirmed
+sts1.card.watcher.flying_sleeves,card,流云飞袖,Flying Sleeves,confirmed
+sts1.card.watcher.follow_up,card,追击,Follow-Up,confirmed
+sts1.card.watcher.foreign_influence,card,他山之石,Foreign Influence,confirmed
+sts1.card.watcher.foresight,card,先见之明,Foresight,confirmed
+sts1.card.watcher.halt,card,停顿,Halt,confirmed
+sts1.card.watcher.indignation,card,义愤填膺,Indignation,confirmed
+sts1.card.watcher.inner_peace,card,内心宁静,Inner Peace,confirmed
+sts1.card.watcher.judgment,card,审判,Judgment,confirmed
+sts1.card.watcher.just_lucky,card,幸运一击,Just Lucky,confirmed
+sts1.card.watcher.lesson_learned,card,勤学精进,Lesson Learned,confirmed
+sts1.card.watcher.like_water,card,如水,Like Water,confirmed
+sts1.card.watcher.master_reality,card,操控现实,Master Reality,confirmed
+sts1.card.watcher.meditate,card,冥想,Meditate,confirmed
+sts1.card.watcher.mental_fortress,card,心灵堡垒,Mental Fortress,confirmed
+sts1.card.watcher.nirvana,card,涅槃,Nirvana,confirmed
+sts1.card.watcher.omniscience,card,通晓万物,Omniscience,confirmed
+sts1.card.watcher.perseverance,card,坚韧,Perseverance,confirmed
+sts1.card.watcher.pray,card,祈祷,Pray,confirmed
+sts1.card.watcher.pressure_points,card,点穴,Pressure Points,confirmed
+sts1.card.watcher.prostrate,card,五体投地,Prostrate,confirmed
+sts1.card.watcher.protect,card,护身,Protect,confirmed
+sts1.card.watcher.ragnarok,card,诸神之黄昏,Ragnarok,confirmed
+sts1.card.watcher.reach_heaven,card,立地升天,Reach Heaven,confirmed
+sts1.card.watcher.rushdown,card,猛虎下山,Rushdown,confirmed
+sts1.card.watcher.sanctity,card,圣洁,Sanctity,confirmed
+sts1.card.watcher.sands_of_time,card,时之沙,Sands of Time,confirmed
+sts1.card.watcher.sash_whip,card,腰带抽打,Sash Whip,confirmed
+sts1.card.watcher.scrawl,card,潦草急就,Scrawl,confirmed
+sts1.card.watcher.signature_move,card,招牌技,Signature Move,confirmed
+sts1.card.watcher.simmering_fury,card,怒火中烧,Simmering Fury,confirmed
+sts1.card.watcher.spirit_shield,card,精神护盾,Spirit Shield,confirmed
+sts1.card.watcher.strike,card,打击,Strike,confirmed
+sts1.card.watcher.study,card,研习,Study,confirmed
+sts1.card.watcher.swivel,card,旋身,Swivel,confirmed
+sts1.card.watcher.talk_to_the_hand,card,以手拒之,Talk to the Hand,confirmed
+sts1.card.watcher.tantrum,card,发泄,Tantrum,confirmed
+sts1.card.watcher.third_eye,card,天眼,Third Eye,confirmed
+sts1.card.watcher.tranquility,card,安宁,Tranquility,confirmed
+sts1.card.watcher.vault,card,腾跃,Vault,confirmed
+sts1.card.watcher.vigilance,card,警惕,Vigilance,confirmed
+sts1.card.watcher.wallop,card,当头棒喝,Wallop,confirmed
+sts1.card.watcher.wave_of_the_hand,card,摆手,Wave of the Hand,confirmed
+sts1.card.watcher.weave,card,迂回,Weave,confirmed
+sts1.card.watcher.wheel_kick,card,回环踢,Wheel Kick,confirmed
+sts1.card.watcher.windmill_strike,card,旋转打击,Windmill Strike,confirmed
+sts1.card.watcher.wish,card,许愿,Wish,confirmed
+sts1.card.watcher.worship,card,敬拜,Worship,confirmed
+sts1.card.watcher.wreath_of_flame,card,火焰纹,Wreath of Flame,confirmed
+sts1.character.defect,character,故障机器人,Defect,confirmed
+sts1.character.ironclad,character,铁甲战士,Ironclad,confirmed
+sts1.character.silent,character,静默猎手,Silent,confirmed
+sts1.character.watcher,character,观者,Watcher,confirmed
+sts1.encounter.exordium.slime_boss,encounter,第一幕：史莱姆老大,Exordium: Slime Boss,confirmed
+sts1.event.a_note_for_yourself,event,留给自己的讯息,A Note For Yourself,confirmed
+sts1.event.ancient_writing,event,古老文字,Ancient Writing,confirmed
+sts1.event.augmenter,event,增益研究者,Augmenter,confirmed
+sts1.event.big_fish,event,大鱼,Big Fish,confirmed
+sts1.event.bonfire_spirits,event,篝火精灵,Bonfire Spirits,confirmed
+sts1.event.council_of_ghosts,event,幽灵会议,Council of Ghosts,confirmed
+sts1.event.cursed_tome,event,诅咒书本,Cursed Tome,confirmed
+sts1.event.dead_adventurer,event,冒险者尸体,Dead Adventurer,confirmed
+sts1.event.designer_in_spire,event,尖端设计师,Designer In-Spire,confirmed
+sts1.event.duplicator,event,复制祭坛,Duplicator,confirmed
+sts1.event.face_trader,event,换脸商,Face Trader,confirmed
+sts1.event.falling,event,坠落,Falling,confirmed
+sts1.event.forgotten_altar,event,被遗忘的祭坛,Forgotten Altar,confirmed
+sts1.event.golden_idol,event,金神像,Golden Idol,confirmed
+sts1.event.golden_shrine,event,金色神龛,Golden Shrine,confirmed
+sts1.event.hypnotizing_colored_mushrooms,event,蘑菇,Hypnotizing Colored Mushrooms,confirmed
+sts1.event.knowing_skull,event,全知头骨,Knowing Skull,confirmed
+sts1.event.lab,event,实验室,Lab,confirmed
+sts1.event.living_wall,event,活墙壁,Living Wall,confirmed
+sts1.event.masked_bandits,event,蒙面强盗,Masked Bandits,confirmed
+sts1.event.match_and_keep,event,对对碰！,Match and Keep,confirmed
+sts1.event.mind_bloom,event,心灵绽放,Mind Bloom,confirmed
+sts1.event.mysterious_sphere,event,神秘圆球,Mysterious Sphere,confirmed
+sts1.event.n_loth,event,恩洛斯,N'loth,confirmed
+sts1.event.old_beggar,event,老乞丐,Old Beggar,confirmed
+sts1.event.ominous_forge,event,邪恶熔炉,Ominous Forge,confirmed
+sts1.event.pleading_vagrant,event,流浪汉的恳求,Pleading Vagrant,confirmed
+sts1.event.purifier,event,净化,Purifier,confirmed
+sts1.event.scrap_ooze,event,破烂软泥,Scrap Ooze,confirmed
+sts1.event.secret_portal,event,秘密传送门,Secret Portal,confirmed
+sts1.event.sensory_stone,event,感知石,Sensory Stone,confirmed
+sts1.event.shining_light,event,闪耀之光,Shining Light,confirmed
+sts1.event.the_cleric,event,牧师,The Cleric,confirmed
+sts1.event.the_colosseum,event,竞技场,The Colosseum,confirmed
+sts1.event.the_divine_fountain,event,神圣泉水,The Divine Fountain,confirmed
+sts1.event.the_joust,event,长枪决斗,The Joust,confirmed
+sts1.event.the_library,event,大图书馆,The Library,confirmed
+sts1.event.the_mausoleum,event,陵墓,The Mausoleum,confirmed
+sts1.event.the_moai_head,event,摩艾石像,The Moai Head,confirmed
+sts1.event.the_nest,event,巢穴,The Nest,confirmed
+sts1.event.the_ssssserpent,event,蛇,The Ssssserpent,confirmed
+sts1.event.the_woman_in_blue,event,蓝衣女子,The Woman in Blue,confirmed
+sts1.event.tomb_of_lord_red_mask,event,红面具大人之墓,Tomb of Lord Red Mask,confirmed
+sts1.event.transmogrifier,event,转化神龛,Transmogrifier,confirmed
+sts1.event.upgrade_shrine,event,升级神龛,Upgrade Shrine,confirmed
+sts1.event.vampires,event,吸血鬼,Vampires,confirmed
+sts1.event.we_meet_again,event,我们又见面了！,We Meet Again!,confirmed
+sts1.event.wheel_of_change,event,变化大转盘,Wheel of Change,confirmed
+sts1.event.winding_halls,event,蜿蜒走廊,Winding Halls,confirmed
+sts1.event.wing_statue,event,翅膀雕像,Wing Statue,confirmed
+sts1.event.world_of_goop,event,黏液世界,World of Goop,confirmed
+sts1.game.candidate.card.allocate,card,分配,Allocate,provisional
+sts1.game.candidate.card.awakenedstrike,card,DEPRECATED Awakened Strike,DEPRECATED Awakened Strike,provisional
+sts1.game.candidate.card.axe_kick,card,下压踢,Axe Kick,provisional
+sts1.game.candidate.card.bigbrain,card,DEPRECATED Big Brain,DEPRECATED Big Brain,provisional
+sts1.game.candidate.card.blaster,card,爆破射线,Blaster,provisional
+sts1.game.candidate.card.blessed,card,DEPRECATED Blessed,DEPRECATED Blessed,provisional
+sts1.game.candidate.card.brillianceaura,card,DEPRECATED Brilliance Aura,DEPRECATED Brilliance Aura,provisional
+sts1.game.candidate.card.calm,card,平静,Calm,provisional
+sts1.game.candidate.card.causality,card,因果始终,Causality,provisional
+sts1.game.candidate.card.clarity,card,明晰,Clarity,provisional
+sts1.game.candidate.card.cleanseevil,card,扫除邪恶,Cleanse Evil,provisional
+sts1.game.candidate.card.crescentkick,card,DEPRECATED Crescent Kick,DEPRECATED Crescent Kick,provisional
+sts1.game.candidate.card.discipline,card,DEPRECATED 戒律,DEPRECATED Discipline,provisional
+sts1.game.candidate.card.energy_pulse,card,能量波动,Energy Pulse,provisional
+sts1.game.candidate.card.experienced,card,DEPRECATED Experienced,DEPRECATED Experienced,provisional
+sts1.game.candidate.card.flamemastery,card,DEPRECATED Flame Mastery,DEPRECATED Flame Mastery,provisional
+sts1.game.candidate.card.flare,card,DEPRECATED Flare,DEPRECATED Flare,provisional
+sts1.game.candidate.card.flick,card,DEPRECATED 轻弹,DEPRECATED Flick,provisional
+sts1.game.candidate.card.flicker,card,DEPRECATED Flicker,DEPRECATED Flicker,provisional
+sts1.game.candidate.card.flow,card,DEPRECATED Flow,DEPRECATED Flow,provisional
+sts1.game.candidate.card.flowstate,card,DEPRECATED 流转,DEPRECATED Flow State,provisional
+sts1.game.candidate.card.flux_capacitor,card,通量电容器,Flux Capacitor,provisional
+sts1.game.candidate.card.furyaura,card,DEPRECATED Fury Aura,DEPRECATED Fury Aura,provisional
+sts1.game.candidate.card.hide,card,躲藏,Hide,provisional
+sts1.game.candidate.card.letfatedecide,card,DEPRECATED Let Fate Decide,DEPRECATED Let Fate Decide,provisional
+sts1.game.candidate.card.mastery,card,精通,Mastery,provisional
+sts1.game.candidate.card.metaphysics,card,DEPRECATED,DEPRECATED,provisional
+sts1.game.candidate.card.palmthatrestrains,card,DEPRECATED Restraining Palm,DEPRECATED Restraining Palm,provisional
+sts1.game.candidate.card.peace,card,和睦,Peace,provisional
+sts1.game.candidate.card.perfectedform,card,DEPRECATED Perfected Form,DEPRECATED Perfected Form,provisional
+sts1.game.candidate.card.polymath,card,DEPRECATED Polymath,DEPRECATED Polymath,provisional
+sts1.game.candidate.card.prediction,card,DEPRECATED Prediction,DEPRECATED Prediction,provisional
+sts1.game.candidate.card.punishment,card,DEPRECATED Punishment,DEPRECATED Punishment,provisional
+sts1.game.candidate.card.retreatinghand,card,DEPRECATED Retreating Hand,DEPRECATED Retreating Hand,provisional
+sts1.game.candidate.card.retribution,card,DEPRECATED Retribution,DEPRECATED Retribution,provisional
+sts1.game.candidate.card.serenity,card,DEPRECATED 宁静,DEPRECATED Serenity,provisional
+sts1.game.candidate.card.shield,card,DEPRECATED Shield,DEPRECATED Shield,provisional
+sts1.game.candidate.card.soothingaura,card,DEPRECATED Soothing Aura,DEPRECATED Soothing Aura,provisional
+sts1.game.candidate.card.stepandstrike,card,跨步打击,DEPRECATED Step and Strike,provisional
+sts1.game.candidate.card.sublimeslice,card,DEPRECATED Sublime Slice,DEPRECATED Sublime Slice,provisional
+sts1.game.candidate.card.survey,card,DEPRECATED Survey,DEPRECATED Survey,provisional
+sts1.game.candidate.card.swipe,card,DEPRECATED Swipe,DEPRECATED Swipe,provisional
+sts1.game.candidate.card.thwack,card,DEPRECATED Thwack,DEPRECATED Thwack,provisional
+sts1.game.candidate.card.torrent,card,DEPRECATED Torrent,DEPRECATED Torrent,provisional
+sts1.game.candidate.card.transcendence,card,超凡脱俗,Transcendence,provisional
+sts1.game.candidate.card.truth,card,真知,Truth,provisional
+sts1.game.candidate.card.unraveling,card,彻悟,Unraveling,provisional
+sts1.game.candidate.card.wardaura,card,DEPRECATED Ward Aura,DEPRECATED Ward Aura,provisional
+sts1.game.candidate.card.waveofthehand2,card,DEPRECATED,DEPRECATED,provisional
+sts1.game.candidate.card.windup,card,DEPRECATED Windup,DEPRECATED Windup,provisional
+sts1.game.candidate.card.wisdom,card,睿智,Wisdom,provisional
+sts1.game.candidate.card.wrath,card,愤怒,Wrath,provisional
+sts1.game.candidate.event.proceed_screen,event,Proceed Screen,Proceed Screen,provisional
+sts1.game.candidate.event.spire_heart,event,高塔之心,Spire Heart,provisional
+sts1.game.candidate.event.thinking_with_puddles,event,水坑难题,Thinking with Puddles,provisional
+sts1.game.candidate.keyword.artifact,keyword,人工制品,artifact,provisional
+sts1.game.candidate.keyword.burn,keyword,灼伤,burn,provisional
+sts1.game.candidate.keyword.calm,keyword,平静,calm,provisional
+sts1.game.candidate.keyword.confused,keyword,混乱,confused,provisional
+sts1.game.candidate.keyword.curse,keyword,诅咒,curse,provisional
+sts1.game.candidate.keyword.dazed,keyword,晕眩,dazed,provisional
+sts1.game.candidate.keyword.dexterity,keyword,敏捷,dexterity,provisional
+sts1.game.candidate.keyword.divinity,keyword,神格,divinity,provisional
+sts1.game.candidate.keyword.fatal,keyword,斩杀,fatal,provisional
+sts1.game.candidate.keyword.frail,keyword,脆弱,frail,provisional
+sts1.game.candidate.keyword.intangible,keyword,无实体,intangible,provisional
+sts1.game.candidate.keyword.lock_on,keyword,跟踪锁定,lock-on,provisional
+sts1.game.candidate.keyword.locked,keyword,锁定,locked,provisional
+sts1.game.candidate.keyword.opener,keyword,opener,opener,provisional
+sts1.game.candidate.keyword.poison,keyword,中毒,poison,provisional
+sts1.game.candidate.keyword.prayer,keyword,真言,mantra,provisional
+sts1.game.candidate.keyword.regen,keyword,再生,regen,provisional
+sts1.game.candidate.keyword.ritual,keyword,仪式,ritual,provisional
+sts1.game.candidate.keyword.shiv,keyword,小刀,shiv,provisional
+sts1.game.candidate.keyword.status,keyword,状态牌,status,provisional
+sts1.game.candidate.keyword.strength,keyword,力量,strength,provisional
+sts1.game.candidate.keyword.strike,keyword,打击,strike,provisional
+sts1.game.candidate.keyword.thorns,keyword,荆棘,thorns,provisional
+sts1.game.candidate.keyword.todo,keyword,todo,todo,provisional
+sts1.game.candidate.keyword.transform,keyword,变化,transform,provisional
+sts1.game.candidate.keyword.unknown,keyword,未知,unknown,provisional
+sts1.game.candidate.keyword.upgrade,keyword,升级,upgrade,provisional
+sts1.game.candidate.keyword.vigor,keyword,活力,vigor,provisional
+sts1.game.candidate.keyword.void,keyword,虚空,void,provisional
+sts1.game.candidate.keyword.vulnerable,keyword,易伤,vulnerable,provisional
+sts1.game.candidate.keyword.weak,keyword,虚弱,weak,provisional
+sts1.game.candidate.keyword.wound,keyword,伤口,wound,provisional
+sts1.game.candidate.keyword.wrath,keyword,愤怒,wrath,provisional
+sts1.game.candidate.monster.apology_slime,monster,抱歉史莱姆,Apology Slime,provisional
+sts1.game.candidate.monster.banditbear,monster,熊,Bear,provisional
+sts1.game.candidate.monster.banditchild,monster,尖尖,Pointy,provisional
+sts1.game.candidate.monster.banditleader,monster,罗密欧,Romeo,provisional
+sts1.game.candidate.monster.bronzeorb,monster,铜球,Orb,provisional
+sts1.game.candidate.monster.centurion,monster,百夫长,Centurion,provisional
+sts1.game.candidate.monster.dagger,monster,匕首,Dagger,provisional
+sts1.game.candidate.monster.fireorb,monster,烈焰球,Fire Orb,provisional
+sts1.game.candidate.monster.flamebruiser,monster,烈焰蛮汉,Flame Bruiser,provisional
+sts1.game.candidate.monster.healer,monster,神秘术士,Mystic,provisional
+sts1.game.candidate.monster.hexaghostbody,monster,HexaghostBody,HexaghostBody,provisional
+sts1.game.candidate.monster.hexaghostorb,monster,HexaghostOrb,HexaghostOrb,provisional
+sts1.game.candidate.monster.puppeteer,monster,人偶师,Puppeteer,provisional
+sts1.game.candidate.monster.theguardianorb,monster,TheGuardianOrb,TheGuardianOrb,provisional
+sts1.game.candidate.monster.torchhead,monster,火炬头,Torch Head,provisional
+sts1.game.candidate.potion.health_potion,potion,生命药水,Health Potion,provisional
+sts1.game.candidate.potion.potion_slot,potion,药水栏,Potion Slot,provisional
+sts1.game.candidate.relic.chameleon_ring,relic,变色龙戒指,Chameleon Ring,provisional
+sts1.game.candidate.relic.derp_rock,relic,Derp Rock,Derp Rock,provisional
+sts1.game.candidate.relic.discerning_monocle,relic,鉴识单片眼镜,Discerning Monocle,provisional
+sts1.game.candidate.relic.dodecahedron,relic,DEPRECATED符文十二面体,DEPRECATED Runic Dodecahedron,provisional
+sts1.game.candidate.relic.living_blade,relic,活刀刃,Living Blade,provisional
+sts1.game.candidate.relic.nullstone_periapt,relic,Nullstone Periapt,Nullstone Periapt,provisional
+sts1.game.candidate.relic.test_1,relic,测试遗物 1,,provisional
+sts1.game.candidate.relic.test_2,relic,测试遗物 2,,provisional
+sts1.game.candidate.relic.test_3,relic,测试遗物 3,,provisional
+sts1.game.candidate.relic.test_4,relic,测试遗物 4,,provisional
+sts1.game.candidate.relic.test_5,relic,测试遗物 5,,provisional
+sts1.game.candidate.relic.test_6,relic,测试遗物 6,,provisional
+sts1.game.candidate.relic.test_7,relic,测试遗物 7,,provisional
+sts1.game.candidate.relic.test_8,relic,测试遗物 8,,provisional
+sts1.game.candidate.relic.yin,relic,阴,DEPRECATED Yin,provisional
+sts1.game.candidate.status.alwaysmad,status,Always Mad,DEPRECATED Always Mad,provisional
+sts1.game.candidate.status.angelform,status,永生不死,Live Forever,provisional
+sts1.game.candidate.status.attack_burn,status,攻击烧毁,Attack Burn,provisional
+sts1.game.candidate.status.bullet_time,status,子弹时间,Bullet Time,provisional
+sts1.game.candidate.status.cannotchangestancepower,status,不能改变姿态,Cannot Change Stance,provisional
+sts1.game.candidate.status.condense,status,DEPRECATED Condense,DEPRECATED Condense,provisional
+sts1.game.candidate.status.conserve,status,保留,Conserve,provisional
+sts1.game.candidate.status.dance_puppet,status,跳舞人偶,Dance Puppet,provisional
+sts1.game.candidate.status.disciplinepower,status,DEPRECATED 戒律,DEPRECATED Discipline,provisional
+sts1.game.candidate.status.emotionalturmoilpower,status,DEPRECATED Emotional Turmoil,DEPRECATED Emotional Turmoil,provisional
+sts1.game.candidate.status.extra_cards,status,额外牌数,Extra Cards,provisional
+sts1.game.candidate.status.flickpower,status,DEPRECATED 轻弹,DEPRECATED Flick,provisional
+sts1.game.candidate.status.flowpower,status,DEPRECATED FlowPower,DEPRECATED FlowPower,provisional
+sts1.game.candidate.status.freetoplaypower,status,DEPRECATED Joy,DEPRECATED FreeToPlayPower,provisional
+sts1.game.candidate.status.gambit,status,布局,Gambit,provisional
+sts1.game.candidate.status.generic_strength_up_power,status,Generic Strength Up Power,Generic Strength Up Power,provisional
+sts1.game.candidate.status.grounded,status,DEPRECATED Grounded,DEPRECATED Grounded,provisional
+sts1.game.candidate.status.growthpower,status,万物生长,Growth,provisional
+sts1.game.candidate.status.hide,status,躲藏,Hide,provisional
+sts1.game.candidate.status.hothot,status,Hot hot,DEPRECATED Hot hot,provisional
+sts1.game.candidate.status.inverted,status,倒转,Inverted,provisional
+sts1.game.candidate.status.knowledge,status,知识,Knowledge,provisional
+sts1.game.candidate.status.machine_learning,status,机器学习,Machine Learning,provisional
+sts1.game.candidate.status.mastery,status,精通,DEPRECATED Mastery,provisional
+sts1.game.candidate.status.no_attack,status,无法攻击,No Attack,provisional
+sts1.game.candidate.status.noskills,status,禁用技能,No Skills,provisional
+sts1.game.candidate.status.nullify_attack,status,无视攻击,Nullify Attack,provisional
+sts1.game.candidate.status.omnisciencepower,status,通晓万物,Omniscience,provisional
+sts1.game.candidate.status.prime,status,预备,Prime,provisional
+sts1.game.candidate.status.primitive,status,原始,Primitive,provisional
+sts1.game.candidate.status.reduce_damage,status,降低伤害,Reduce Damage,provisional
+sts1.game.candidate.status.repulse,status,反冲,Repulse,provisional
+sts1.game.candidate.status.retain_cards,status,保留卡牌,Retain Cards,provisional
+sts1.game.candidate.status.retain_hand,status,保留手牌,Retain Hand,provisional
+sts1.game.candidate.status.retribution,status,DEPRECATED Retribution,DEPRECATED Retribution,provisional
+sts1.game.candidate.status.riposte,status,回刺,Riposte,provisional
+sts1.game.candidate.status.serenity,status,DEPRECATED Serenity,DEPRECATED Serenity,provisional
+sts1.game.candidate.status.serpentine,status,蛇形,Serpentine,provisional
+sts1.game.candidate.status.shriek_from_beyond,status,深渊尖啸,Shriek From Beyond,provisional
+sts1.game.candidate.status.skill_burn,status,技能烧毁,Skill Burn,provisional
+sts1.game.candidate.status.strikeup,status,打击提升,Strike Up,provisional
+sts1.game.candidate.status.timemazepower,status,时间迷宫,Time Maze,provisional
+sts1.game.candidate.status.unstable,status,不稳,Unstable,provisional
+sts1.game.candidate.status.vault,status,腾跃,Vault,provisional
+sts1.game.candidate.status.venomology,status,毒理研究,Venomology,provisional
+sts1.game.candidate.status.waveofthehandpower2,status,DEPRECATED,DEPRECATED,provisional
+sts1.keyword.block,keyword,格挡,Block,confirmed
+sts1.keyword.cards,keyword,,Cards,provisional
+sts1.keyword.channel,keyword,生成,Channel,confirmed
+sts1.keyword.dark,keyword,黑暗,Dark,confirmed
+sts1.keyword.discard,keyword,,Discard,provisional
+sts1.keyword.energy,keyword,,Energy,provisional
+sts1.keyword.ethereal,keyword,虚无,Ethereal,confirmed
+sts1.keyword.evoke,keyword,激发,Evoke,confirmed
+sts1.keyword.exhaust,keyword,消耗,Exhaust,confirmed
+sts1.keyword.focus,keyword,集中,Focus,confirmed
+sts1.keyword.frost,keyword,冰霜,Frost,confirmed
+sts1.keyword.innate,keyword,固有,Innate,confirmed
+sts1.keyword.lightning,keyword,闪电,Lightning,confirmed
+sts1.keyword.orb_types,keyword,,Orb Types,provisional
+sts1.keyword.orbs,keyword,,Orbs,provisional
+sts1.keyword.plasma,keyword,等离子,Plasma,confirmed
+sts1.keyword.retain,keyword,保留,Retain,confirmed
+sts1.keyword.scry,keyword,预见,Scry,confirmed
+sts1.keyword.sources,keyword,,Sources,provisional
+sts1.keyword.stance,keyword,姿态,Stance,confirmed
+sts1.keyword.triggers,keyword,,Triggers,provisional
+sts1.keyword.unplayable,keyword,不能被打出,Unplayable,confirmed
+sts1.mechanic.acts,mechanic,,Acts,provisional
+sts1.mechanic.ascensions,mechanic,,Ascensions,provisional
+sts1.mechanic.block,mechanic,格挡,Block,provisional
+sts1.mechanic.card_piles,mechanic,,Card Piles,provisional
+sts1.mechanic.cards,mechanic,,Cards,provisional
+sts1.mechanic.chests,mechanic,,Chests,provisional
+sts1.mechanic.enemy_turn,mechanic,,Enemy Turn,provisional
+sts1.mechanic.exhaust,mechanic,消耗,Exhaust,provisional
+sts1.mechanic.floors_and_floor_types,mechanic,,Floors and Floor Types,provisional
+sts1.mechanic.gold,mechanic,,Gold,provisional
+sts1.mechanic.hand,mechanic,,Hand,provisional
+sts1.mechanic.hand_size_limit,mechanic,,Hand Size Limit,provisional
+sts1.mechanic.health,mechanic,,Health,provisional
+sts1.mechanic.keys,mechanic,,Keys,provisional
+sts1.mechanic.player_turn,mechanic,,Player Turn,provisional
+sts1.mechanic.potions,mechanic,,Potions,provisional
+sts1.mechanic.relics,mechanic,,Relics,provisional
+sts1.mechanic.transforming,mechanic,,Transforming,provisional
+sts1.mechanic.turns,mechanic,,Turns,provisional
+sts1.mechanic.upgrading,mechanic,,Upgrading,provisional
+sts1.monster.acid_slimes,monster,酸液史莱姆,Acid Slimes,confirmed
+sts1.monster.awakened_one,monster,觉醒者,Awakened One,confirmed
+sts1.monster.book_of_stabbing,monster,扎人的书,Book of Stabbing,confirmed
+sts1.monster.bronze_automaton,monster,铜制机械人偶,Bronze Automaton,confirmed
+sts1.monster.byrd,monster,异鸟,Byrd,confirmed
+sts1.monster.centurion_and_mystic,monster,,Centurion and Mystic,provisional
+sts1.monster.chosen,monster,被拣选者,Chosen,confirmed
+sts1.monster.corrupt_heart,monster,腐化之心,Corrupt Heart,confirmed
+sts1.monster.cultist,monster,邪教徒,Cultist,confirmed
+sts1.monster.darkling,monster,小黑,Darkling,confirmed
+sts1.monster.donu_and_deca,monster,八体/甜圈,Donu and Deca,confirmed
+sts1.monster.fungi_beast,monster,真菌兽,Fungi Beast,confirmed
+sts1.monster.giant_head,monster,大脑袋,Giant Head,confirmed
+sts1.monster.gremlin_leader,monster,地精首领,Gremlin Leader,confirmed
+sts1.monster.gremlin_nob,monster,地精大块头,Gremlin Nob,confirmed
+sts1.monster.gremlins,monster,地精小队,Gremlins,confirmed
+sts1.monster.hexaghost,monster,六火亡魂,Hexaghost,confirmed
+sts1.monster.jaw_worm,monster,大颚虫,Jaw Worm,confirmed
+sts1.monster.lagavulin,monster,乐加维林,Lagavulin,confirmed
+sts1.monster.looter,monster,抢劫的,Looter,confirmed
+sts1.monster.louses,monster,虱虫,Louses,confirmed
+sts1.monster.mugger,monster,打劫的,Mugger,confirmed
+sts1.monster.nemesis,monster,天罚,Nemesis,confirmed
+sts1.monster.orb_walker,monster,圆球行者,Orb Walker,confirmed
+sts1.monster.reptomancer,monster,拜蛇术士,Reptomancer,confirmed
+sts1.monster.sentry,monster,哨位(精英),Sentry,confirmed
+sts1.monster.shapes,monster,三机械,Shapes,confirmed
+sts1.monster.shelled_parasite,monster,带壳寄生怪,Shelled Parasite,confirmed
+sts1.monster.slavers,monster,奴隶主,Slavers,confirmed
+sts1.monster.slime_boss,monster,史莱姆老大,Slime Boss,confirmed
+sts1.monster.snake_plant,monster,蛇花,Snake Plant,confirmed
+sts1.monster.snecko,monster,异蛇,Snecko,confirmed
+sts1.monster.spheric_guardian,monster,圆球守护者,Spheric Guardian,confirmed
+sts1.monster.spike_slimes,monster,尖刺史莱姆,Spike Slimes,confirmed
+sts1.monster.spire_growth,monster,塔内增生组织,Spire Growth,confirmed
+sts1.monster.spire_shield_and_spire_spear,monster,高塔之盾/高塔之矛,Spire Shield and Spire Spear,confirmed
+sts1.monster.taskmaster,monster,奴隶头子,Taskmaster,confirmed
+sts1.monster.the_champ,monster,第一勇士,The Champ,confirmed
+sts1.monster.the_collector,monster,收藏家,The Collector,confirmed
+sts1.monster.the_guardian,monster,守护者,The Guardian,confirmed
+sts1.monster.the_maw,monster,巨口,The Maw,confirmed
+sts1.monster.time_eater,monster,时间吞噬者,Time Eater,confirmed
+sts1.monster.transient,monster,倏忽魔,Transient,confirmed
+sts1.monster.writhing_mass,monster,扭曲团块,Writhing Mass,confirmed
+sts1.potion.ambrosia,potion,仙馔密酒,Ambrosia,confirmed
+sts1.potion.ancient_potion,potion,先古药水,Ancient Potion,confirmed
+sts1.potion.attack_potion,potion,攻击药水,Attack Potion,confirmed
+sts1.potion.blessing_of_the_forge,potion,熔炉的祝福,Blessing of the Forge,confirmed
+sts1.potion.block_potion,potion,格挡药水,Block Potion,confirmed
+sts1.potion.blood_potion,potion,鲜血药水,Blood Potion,confirmed
+sts1.potion.bottled_miracle,potion,瓶装奇迹,Bottled Miracle,confirmed
+sts1.potion.colorless_potion,potion,无色药水,Colorless Potion,confirmed
+sts1.potion.cultist_potion,potion,邪教徒药水,Cultist Potion,confirmed
+sts1.potion.cunning_potion,potion,狡诈药水,Cunning Potion,confirmed
+sts1.potion.dexterity_potion,potion,敏捷药水,Dexterity Potion,confirmed
+sts1.potion.distilled_chaos,potion,精炼混沌,Distilled Chaos,confirmed
+sts1.potion.duplication_potion,potion,复制药水,Duplication Potion,confirmed
+sts1.potion.elixir,potion,万灵药水,Elixir,confirmed
+sts1.potion.energy_potion,potion,能量药水,Energy Potion,confirmed
+sts1.potion.entropic_brew,potion,混沌药水,Entropic Brew,confirmed
+sts1.potion.essence_of_darkness,potion,暗之精华,Essence of Darkness,confirmed
+sts1.potion.essence_of_steel,potion,钢之精华,Essence of Steel,confirmed
+sts1.potion.explosive_potion,potion,爆炸药水,Explosive Potion,confirmed
+sts1.potion.fairy_in_a_bottle,potion,瓶中精灵,Fairy in a Bottle,confirmed
+sts1.potion.fear_potion,potion,恐惧药水,Fear Potion,confirmed
+sts1.potion.fire_potion,potion,火焰药水,Fire Potion,confirmed
+sts1.potion.flex_potion,potion,类固醇药水,Flex Potion,confirmed
+sts1.potion.focus_potion,potion,集中药水,Focus Potion,confirmed
+sts1.potion.fruit_juice,potion,果汁,Fruit Juice,confirmed
+sts1.potion.gambler_s_brew,potion,赌徒特酿,Gambler's Brew,confirmed
+sts1.potion.ghost_in_a_jar,potion,罐装幽灵,Ghost in a Jar,confirmed
+sts1.potion.heart_of_iron,potion,铁之心,Heart of Iron,confirmed
+sts1.potion.liquid_bronze,potion,流动铜液,Liquid Bronze,confirmed
+sts1.potion.liquid_memories,potion,液态记忆,Liquid Memories,confirmed
+sts1.potion.poison_potion,potion,毒药水,Poison Potion,confirmed
+sts1.potion.potion_of_capacity,potion,扩容药水,Potion of Capacity,confirmed
+sts1.potion.power_potion,potion,能力药水,Power Potion,confirmed
+sts1.potion.regen_potion,potion,再生药水,Regen Potion,confirmed
+sts1.potion.skill_potion,potion,技能药水,Skill Potion,confirmed
+sts1.potion.smoke_bomb,potion,烟雾弹,Smoke Bomb,confirmed
+sts1.potion.snecko_oil,potion,异蛇之油,Snecko Oil,confirmed
+sts1.potion.speed_potion,potion,速度药水,Speed Potion,confirmed
+sts1.potion.stance_potion,potion,姿态药水,Stance Potion,confirmed
+sts1.potion.strength_potion,potion,力量药水,Strength Potion,confirmed
+sts1.potion.swift_potion,potion,迅捷药水,Swift Potion,confirmed
+sts1.potion.weak,potion,虚弱药水,Weak Potion,confirmed
+sts1.relic.akabeko,relic,赤牛,Akabeko,confirmed
+sts1.relic.anchor,relic,锚,Anchor,confirmed
+sts1.relic.ancient_tea_set,relic,古茶具套装,Ancient Tea Set,confirmed
+sts1.relic.art_of_war,relic,孙子兵法,Art of War,confirmed
+sts1.relic.astrolabe,relic,星盘,Astrolabe,confirmed
+sts1.relic.bag_of_marbles,relic,弹珠袋,Bag of Marbles,confirmed
+sts1.relic.bag_of_preparation,relic,准备背包,Bag of Preparation,confirmed
+sts1.relic.bird_faced_urn,relic,鸟面瓮,Bird-Faced Urn,confirmed
+sts1.relic.black_blood,relic,黑暗之血,Black Blood,confirmed
+sts1.relic.black_star,relic,黑星,Black Star,confirmed
+sts1.relic.blood_vial,relic,小血瓶,Blood Vial,confirmed
+sts1.relic.bloody_idol,relic,鲜血神像,Bloody Idol,confirmed
+sts1.relic.blue_candle,relic,蓝蜡烛,Blue Candle,confirmed
+sts1.relic.bottled_flame,relic,瓶装火焰,Bottled Flame,confirmed
+sts1.relic.bottled_lightning,relic,瓶装闪电,Bottled Lightning,confirmed
+sts1.relic.bottled_tornado,relic,瓶装旋风,Bottled Tornado,confirmed
+sts1.relic.brimstone,relic,硫磺,Brimstone,confirmed
+sts1.relic.bronze_scales,relic,铜制鳞片,Bronze Scales,confirmed
+sts1.relic.burning_blood,relic,燃烧之血,Burning Blood,confirmed
+sts1.relic.busted_crown,relic,破碎金冠,Busted Crown,confirmed
+sts1.relic.calipers,relic,外卡钳,Calipers,confirmed
+sts1.relic.calling_bell,relic,召唤铃铛,Calling Bell,confirmed
+sts1.relic.captain_s_wheel,relic,舵盘,Captain's Wheel,confirmed
+sts1.relic.cauldron,relic,大锅,Cauldron,confirmed
+sts1.relic.centennial_puzzle,relic,百年积木,Centennial Puzzle,confirmed
+sts1.relic.ceramic_fish,relic,陶瓷小鱼,Ceramic Fish,confirmed
+sts1.relic.champion_belt,relic,冠军腰带,Champion Belt,confirmed
+sts1.relic.charon_s_ashes,relic,卡戎之灰,Charon's Ashes,confirmed
+sts1.relic.chemical_x,relic,化学物X,Chemical X,confirmed
+sts1.relic.circlet,relic,头环,Circlet,confirmed
+sts1.relic.cloak_clasp,relic,斗篷扣,Cloak Clasp,confirmed
+sts1.relic.clockwork_souvenir,relic,工艺机械钟表,Clockwork Souvenir,confirmed
+sts1.relic.coffee_dripper,relic,咖啡滤杯,Coffee Dripper,confirmed
+sts1.relic.cracked_core,relic,破损核心,Cracked Core,confirmed
+sts1.relic.cultist_headpiece,relic,邪教徒头套,Cultist Headpiece,confirmed
+sts1.relic.cursed_key,relic,诅咒钥匙,Cursed Key,confirmed
+sts1.relic.damaru,relic,手摇鼓,Damaru,confirmed
+sts1.relic.darkstone_periapt,relic,黑石护符,Darkstone Periapt,confirmed
+sts1.relic.data_disk,relic,数据磁盘,Data Disk,confirmed
+sts1.relic.dead_branch,relic,枯木树枝,Dead Branch,confirmed
+sts1.relic.dolly_s_mirror,relic,多利之镜,Dolly's Mirror,confirmed
+sts1.relic.dream_catcher,relic,捕梦网,Dream Catcher,confirmed
+sts1.relic.du_vu_doll,relic,毒巫娃娃,Du-Vu Doll,confirmed
+sts1.relic.duality,relic,两仪,Duality,confirmed
+sts1.relic.ectoplasm,relic,灵体外质,Ectoplasm,confirmed
+sts1.relic.emotion_chip,relic,情感芯片,Emotion Chip,confirmed
+sts1.relic.empty_cage,relic,空鸟笼,Empty Cage,confirmed
+sts1.relic.enchiridion,relic,英雄宝典,Enchiridion,confirmed
+sts1.relic.eternal_feather,relic,永恒羽毛,Eternal Feather,confirmed
+sts1.relic.face_of_cleric,relic,牧师的脸,Face of Cleric,confirmed
+sts1.relic.fossilized_helix,relic,螺旋化石,Fossilized Helix,confirmed
+sts1.relic.frozen_core,relic,冻结核心,Frozen Core,confirmed
+sts1.relic.frozen_egg,relic,冻结之蛋,Frozen Egg,confirmed
+sts1.relic.frozen_eye,relic,冻结之眼,Frozen Eye,confirmed
+sts1.relic.fusion_hammer,relic,融合之锤,Fusion Hammer,confirmed
+sts1.relic.gambling_chip,relic,赌博筹码,Gambling Chip,confirmed
+sts1.relic.ginger,relic,生姜,Ginger,confirmed
+sts1.relic.girya,relic,壶铃,Girya,confirmed
+sts1.relic.gold_plated_cables,relic,镀金缆线,Gold-Plated Cables,confirmed
+sts1.relic.golden_eye,relic,黄金眼,Golden Eye,confirmed
+sts1.relic.golden_idol,relic,金神像,Golden Idol,confirmed
+sts1.relic.gremlin_horn,relic,地精之角,Gremlin Horn,confirmed
+sts1.relic.gremlin_visage,relic,地精容貌,Gremlin Visage,confirmed
+sts1.relic.hand_drill,relic,手钻,Hand Drill,confirmed
+sts1.relic.happy_flower,relic,开心小花,Happy Flower,confirmed
+sts1.relic.holy_water,relic,圣水,Holy Water,confirmed
+sts1.relic.horn_cleat,relic,船夹板,Horn Cleat,confirmed
+sts1.relic.hovering_kite,relic,悬浮风筝,Hovering Kite,confirmed
+sts1.relic.ice_cream,relic,冰淇淋,Ice Cream,confirmed
+sts1.relic.incense_burner,relic,香炉,Incense Burner,confirmed
+sts1.relic.ink_bottle,relic,墨水瓶,Ink Bottle,confirmed
+sts1.relic.inserter,relic,机械臂,Inserter,confirmed
+sts1.relic.juzu_bracelet,relic,佛珠手链,Juzu Bracelet,confirmed
+sts1.relic.kunai,relic,苦无,Kunai,confirmed
+sts1.relic.lantern,relic,灯笼,Lantern,confirmed
+sts1.relic.lee_s_waffle,relic,李家华夫饼,Lee's Waffle,confirmed
+sts1.relic.letter_opener,relic,开信刀,Letter Opener,confirmed
+sts1.relic.lizard_tail,relic,蜥蜴尾巴,Lizard Tail,confirmed
+sts1.relic.magic_flower,relic,魔法花,Magic Flower,confirmed
+sts1.relic.mango,relic,芒果,Mango,confirmed
+sts1.relic.mark_of_pain,relic,痛楚印记,Mark of Pain,confirmed
+sts1.relic.mark_of_the_bloom,relic,绽放印记,Mark of the Bloom,confirmed
+sts1.relic.matryoshka,relic,套娃,Matryoshka,confirmed
+sts1.relic.maw_bank,relic,巨口储蓄罐,Maw Bank,confirmed
+sts1.relic.meal_ticket,relic,餐券,Meal Ticket,confirmed
+sts1.relic.meat_on_the_bone,relic,带骨肉,Meat on the Bone,confirmed
+sts1.relic.medical_kit,relic,医药箱,Medical Kit,confirmed
+sts1.relic.melange,relic,美琅脂,Melange,confirmed
+sts1.relic.membership_card,relic,会员卡,Membership Card,confirmed
+sts1.relic.mercury_hourglass,relic,水银沙漏,Mercury Hourglass,confirmed
+sts1.relic.molten_egg,relic,熔火之蛋,Molten Egg,confirmed
+sts1.relic.mummified_hand,relic,干瘪之手,Mummified Hand,confirmed
+sts1.relic.mutagenic_strength,relic,突变之力,Mutagenic Strength,confirmed
+sts1.relic.n_loth_s_gift,relic,恩洛斯的礼物,N'loth's Gift,confirmed
+sts1.relic.n_loth_s_hungry_face,relic,恩洛斯的饥饿的脸,N'loth's Hungry Face,confirmed
+sts1.relic.necronomicon,relic,死灵之书,Necronomicon,confirmed
+sts1.relic.neow_s_lament,relic,涅奥的悲恸,Neow's Lament,confirmed
+sts1.relic.nilry_s_codex,relic,尼利的宝典,Nilry's Codex,confirmed
+sts1.relic.ninja_scroll,relic,忍术卷轴,Ninja Scroll,confirmed
+sts1.relic.nuclear_battery,relic,核能电池,Nuclear Battery,confirmed
+sts1.relic.nunchaku,relic,双节棍,Nunchaku,confirmed
+sts1.relic.odd_mushroom,relic,奇怪蘑菇,Odd Mushroom,confirmed
+sts1.relic.oddly_smooth_stone,relic,意外光滑的石头,Oddly Smooth Stone,confirmed
+sts1.relic.old_coin,relic,古钱币,Old Coin,confirmed
+sts1.relic.omamori,relic,御守,Omamori,confirmed
+sts1.relic.orange_pellets,relic,橙色药丸,Orange Pellets,confirmed
+sts1.relic.orichalcum,relic,奥利哈钢,Orichalcum,confirmed
+sts1.relic.ornamental_fan,relic,精致折扇,Ornamental Fan,confirmed
+sts1.relic.orrery,relic,星系仪,Orrery,confirmed
+sts1.relic.pandora_s_box,relic,潘多拉的魔盒,Pandora's Box,confirmed
+sts1.relic.pantograph,relic,缩放仪,Pantograph,confirmed
+sts1.relic.paper_krane,relic,纸鹤,Paper Krane,confirmed
+sts1.relic.paper_phrog,relic,纸蛙,Paper Phrog,confirmed
+sts1.relic.peace_pipe,relic,宁静烟斗,Peace Pipe,confirmed
+sts1.relic.pear,relic,梨子,Pear,confirmed
+sts1.relic.pen_nib,relic,钢笔尖,Pen Nib,confirmed
+sts1.relic.philosopher_s_stone,relic,贤者之石,Philosopher's Stone,confirmed
+sts1.relic.pocketwatch,relic,怀表,Pocketwatch,confirmed
+sts1.relic.potion_belt,relic,药水腰带,Potion Belt,confirmed
+sts1.relic.prayer_wheel,relic,转经轮,Prayer Wheel,confirmed
+sts1.relic.preserved_insect,relic,昆虫标本,Preserved Insect,confirmed
+sts1.relic.prismatic_shard,relic,棱镜碎片,Prismatic Shard,confirmed
+sts1.relic.pure_water,relic,至纯之水,Pure Water,confirmed
+sts1.relic.question_card,relic,问号牌,Question Card,confirmed
+sts1.relic.red_circlet,relic,红头环,Red Circlet,confirmed
+sts1.relic.red_mask,relic,红面具,Red Mask,confirmed
+sts1.relic.red_skull,relic,红头骨,Red Skull,confirmed
+sts1.relic.regal_pillow,relic,皇家枕头,Regal Pillow,confirmed
+sts1.relic.ring_of_the_serpent,relic,长蛇戒指,Ring of the Serpent,confirmed
+sts1.relic.runic_capacitor,relic,符文电容器,Runic Capacitor,confirmed
+sts1.relic.runic_cube,relic,符文立方体,Runic Cube,confirmed
+sts1.relic.runic_dome,relic,符文圆顶,Runic Dome,confirmed
+sts1.relic.runic_pyramid,relic,符文金字塔,Runic Pyramid,confirmed
+sts1.relic.sacred_bark,relic,神圣树皮,Sacred Bark,confirmed
+sts1.relic.self_forming_clay,relic,自成型黏土,Self-Forming Clay,confirmed
+sts1.relic.shovel,relic,铲子,Shovel,confirmed
+sts1.relic.shuriken,relic,手里剑,Shuriken,confirmed
+sts1.relic.singing_bowl,relic,颂钵,Singing Bowl,confirmed
+sts1.relic.slaver_s_collar,relic,奴隶贩子颈环,Slaver's Collar,confirmed
+sts1.relic.sling_of_courage,relic,勇气投石索,Sling of Courage,confirmed
+sts1.relic.smiling_mask,relic,微笑面具,Smiling Mask,confirmed
+sts1.relic.snake_ring,relic,蛇之戒指,Ring of the Snake,confirmed
+sts1.relic.snecko_eye,relic,异蛇之眼,Snecko Eye,confirmed
+sts1.relic.snecko_skull,relic,异蛇头骨,Snecko Skull,confirmed
+sts1.relic.sozu,relic,添水,Sozu,confirmed
+sts1.relic.spirit_poop,relic,精灵便便,Spirit Poop,confirmed
+sts1.relic.ssserpent_head,relic,蛇的头,Ssserpent Head,confirmed
+sts1.relic.stone_calendar,relic,历石,Stone Calendar,confirmed
+sts1.relic.strange_spoon,relic,奇怪的勺子,Strange Spoon,confirmed
+sts1.relic.strawberry,relic,草莓,Strawberry,confirmed
+sts1.relic.strike_dummy,relic,打击木偶,Strike Dummy,confirmed
+sts1.relic.sundial,relic,日晷,Sundial,confirmed
+sts1.relic.symbiotic_virus,relic,共生病毒,Symbiotic Virus,confirmed
+sts1.relic.teardrop_locket,relic,泪滴吊坠,Teardrop Locket,confirmed
+sts1.relic.the_abacus,relic,算盘,The Abacus,confirmed
+sts1.relic.the_boot,relic,发条靴,The Boot,confirmed
+sts1.relic.the_courier,relic,送货员,The Courier,confirmed
+sts1.relic.the_specimen,relic,生物样本,The Specimen,confirmed
+sts1.relic.thread_and_needle,relic,针线,Thread and Needle,confirmed
+sts1.relic.tingsha,relic,铜钹,Tingsha,confirmed
+sts1.relic.tiny_chest,relic,小宝箱,Tiny Chest,confirmed
+sts1.relic.tiny_house,relic,小屋子,Tiny House,confirmed
+sts1.relic.toolbox,relic,工具箱,Toolbox,confirmed
+sts1.relic.torii,relic,鸟居,Torii,confirmed
+sts1.relic.tough_bandages,relic,结实绷带,Tough Bandages,confirmed
+sts1.relic.toxic_egg,relic,毒素之蛋,Toxic Egg,confirmed
+sts1.relic.toy_ornithopter,relic,玩具扑翼飞机,Toy Ornithopter,confirmed
+sts1.relic.tungsten_rod,relic,钨合金棍,Tungsten Rod,confirmed
+sts1.relic.turnip,relic,萝卜,Turnip,confirmed
+sts1.relic.twisted_funnel,relic,扭曲漏斗,Twisted Funnel,confirmed
+sts1.relic.unceasing_top,relic,不休陀螺,Unceasing Top,confirmed
+sts1.relic.vajra,relic,金刚杵,Vajra,confirmed
+sts1.relic.velvet_choker,relic,天鹅绒颈圈,Velvet Choker,confirmed
+sts1.relic.violet_lotus,relic,紫色莲花,Violet Lotus,confirmed
+sts1.relic.war_paint,relic,战纹涂料,War Paint,confirmed
+sts1.relic.warped_tongs,relic,弯曲铁钳,Warped Tongs,confirmed
+sts1.relic.whetstone,relic,磨刀石,Whetstone,confirmed
+sts1.relic.white_beast_statue,relic,白兽雕像,White Beast Statue,confirmed
+sts1.relic.wing_boots,relic,羽翼之靴,Wing Boots,confirmed
+sts1.relic.wrist_blade,relic,袖剑,Wrist Blade,confirmed
+sts1.status.accuracy,status,精准（能力）,Accuracy,confirmed
+sts1.status.after_image,status,余像（能力）,After Image,confirmed
+sts1.status.amplify,status,增幅,Amplify,confirmed
+sts1.status.angry,status,生气,Angry,confirmed
+sts1.status.artifact,status,人工制品,Artifact,confirmed
+sts1.status.back_attack,status,后方攻击,Back Attack,confirmed
+sts1.status.barricade,status,壁垒（能力）,Barricade,confirmed
+sts1.status.battle_hymn,status,战歌（能力）,Battle Hymn,confirmed
+sts1.status.beat_of_death,status,死亡律动,Beat of Death,confirmed
+sts1.status.berserk,status,狂暴（能力）,Berserk,confirmed
+sts1.status.bias,status,偏差,Bias,confirmed
+sts1.status.blasphemer,status,渎神者,Blasphemer,confirmed
+sts1.status.block_return,status,格挡返还,Block Return,confirmed
+sts1.status.blur,status,残影（能力）,Blur,confirmed
+sts1.status.brutality,status,残暴（能力）,Brutality,confirmed
+sts1.status.buffer,status,缓冲（能力）,Buffer,confirmed
+sts1.status.burst,status,爆发（能力）,Burst,confirmed
+sts1.status.choked,status,勒脖（能力）,Choked,confirmed
+sts1.status.collect,status,收集（能力）,Collect,confirmed
+sts1.status.combust,status,自燃（能力）,Combust,confirmed
+sts1.status.confusion,status,混乱,Confusion,confirmed
+sts1.status.constricted,status,缠绕,Constricted,confirmed
+sts1.status.corpse_explosion,status,尸爆术（能力）,Corpse Explosion,confirmed
+sts1.status.corruption,status,腐化（能力）,Corruption,confirmed
+sts1.status.creative_ai,status,创造性AI（能力）,Creative AI,confirmed
+sts1.status.curiosity,status,好奇,Curiosity,confirmed
+sts1.status.curl_up,status,蜷身,Curl Up,confirmed
+sts1.status.dark_embrace,status,黑暗之拥（能力）,Dark Embrace,confirmed
+sts1.status.demon_form,status,恶魔形态（能力）,Demon Form,confirmed
+sts1.status.deva,status,天人,Deva,confirmed
+sts1.status.devotion,status,虔信（能力）,Devotion,confirmed
+sts1.status.dexterity,status,敏捷,Dexterity,confirmed
+sts1.status.dexterity_down,status,敏捷(负),Dexterity Down,confirmed
+sts1.status.dexterity_negative,status,,Dexterity (Negative),provisional
+sts1.status.double_damage,status,双倍伤害,Double Damage,confirmed
+sts1.status.double_tap,status,双发（能力）,Double Tap,confirmed
+sts1.status.draw,status,抽牌,Draw,confirmed
+sts1.status.draw_card,status,抽牌,Draw Card,confirmed
+sts1.status.draw_reduction,status,抽牌减少,Draw Reduction,confirmed
+sts1.status.duplication,status,复制,Duplication,confirmed
+sts1.status.echo_form,status,回响形态（能力）,Echo Form,confirmed
+sts1.status.electro,status,电动力学（能力）,Electro,confirmed
+sts1.status.energized,status,能量提升,Energized,confirmed
+sts1.status.enrage,status,激怒,Enrage,confirmed
+sts1.status.entangled,status,缠身,Entangled,confirmed
+sts1.status.envenom,status,涂毒（能力）,Envenom,confirmed
+sts1.status.equilibrium,status,均衡（能力）,Equilibrium,confirmed
+sts1.status.establishment,status,确立基础（能力）,Establishment,confirmed
+sts1.status.evolve,status,进化（能力）,Evolve,confirmed
+sts1.status.explosive,status,自爆,Explosive,confirmed
+sts1.status.fading,status,消逝,Fading,confirmed
+sts1.status.fasting,status,斋戒（能力）,Fasting,confirmed
+sts1.status.feel_no_pain,status,无惧疼痛（能力）,Feel No Pain,confirmed
+sts1.status.fire_breathing,status,火焰吐息（能力）,Fire Breathing,confirmed
+sts1.status.flame_barrier,status,火焰屏障（能力）,Flame Barrier,confirmed
+sts1.status.flying,status,飞行,Flying,confirmed
+sts1.status.focus,status,集中,Focus,confirmed
+sts1.status.focus_negative,status,集中(负),Focus (Negative),confirmed
+sts1.status.foresight,status,先见之明（能力）,Foresight,confirmed
+sts1.status.frail,status,脆弱,Frail,confirmed
+sts1.status.free_attack_power,status,免费攻击,Free Attack Power,confirmed
+sts1.status.heatsink,status,散热,Heatsink,confirmed
+sts1.status.hello,status,你好,Hello,confirmed
+sts1.status.hex,status,邪咒,Hex,confirmed
+sts1.status.infinite_blades,status,无限刀刃（能力）,Infinite Blades,confirmed
+sts1.status.intangible,status,无实体,Intangible,confirmed
+sts1.status.invincible,status,坚不可摧,Invincible,confirmed
+sts1.status.juggernaut,status,势不可当（能力）,Juggernaut,confirmed
+sts1.status.life_link,status,生命链接,Life Link,confirmed
+sts1.status.like_water,status,如水（能力）,Like Water,confirmed
+sts1.status.lock_on,status,跟踪锁定,Lock-On,confirmed
+sts1.status.loop,status,循环（能力）,Loop,confirmed
+sts1.status.magnetism,status,磁力（能力）,Magnetism,confirmed
+sts1.status.malleable,status,柔韧,Malleable,confirmed
+sts1.status.mantra,status,真言,Mantra,confirmed
+sts1.status.mark,status,印记,Mark,confirmed
+sts1.status.master_reality,status,操控现实（能力）,Master Reality,confirmed
+sts1.status.mayhem,status,乱战（能力）,Mayhem,confirmed
+sts1.status.mental_fortress,status,心灵堡垒（能力）,Mental Fortress,confirmed
+sts1.status.metallicize,status,金属化,Metallicize,confirmed
+sts1.status.minion,status,爪牙,Minion,confirmed
+sts1.status.mode_shift,status,形态转换,Mode Shift,confirmed
+sts1.status.next_turn_block,status,下回合格挡,Next Turn Block,confirmed
+sts1.status.nightmare,status,夜魇（能力）,Nightmare,confirmed
+sts1.status.nirvana,status,涅槃（能力）,Nirvana,confirmed
+sts1.status.no_block,status,无法格挡,No Block,confirmed
+sts1.status.no_draw,status,不能抽牌,No Draw,confirmed
+sts1.status.noxious_fumes,status,毒雾（能力）,Noxious Fumes,confirmed
+sts1.status.omega,status,欧米伽（能力）,Omega,confirmed
+sts1.status.painful_stabs,status,疼痛戳刺,Painful Stabs,confirmed
+sts1.status.panache,status,神气制胜（能力）,Panache,confirmed
+sts1.status.pen_nib,status,钢笔尖（能力）,Pen Nib,confirmed
+sts1.status.phantasmal,status,幻影（能力）,Phantasmal,confirmed
+sts1.status.plated_armor,status,多重护甲,Plated Armor,confirmed
+sts1.status.poison,status,中毒,Poison,confirmed
+sts1.status.rage,status,愤怒（能力）,Rage,confirmed
+sts1.status.reactive,status,扭动,Reactive,confirmed
+sts1.status.rebound,status,弹回（能力）,Rebound,confirmed
+sts1.status.regen,status,再生,Regen,confirmed
+sts1.status.regenerate,status,再生（敌人）,Regenerate,confirmed
+sts1.status.repair,status,修理,Repair,confirmed
+sts1.status.ritual,status,仪式,Ritual,confirmed
+sts1.status.rupture,status,撕裂（能力）,Rupture,confirmed
+sts1.status.rushdown,status,猛虎下山（能力）,Rushdown,confirmed
+sts1.status.sadistic,status,残虐,Sadistic,confirmed
+sts1.status.shackled,status,镣铐,Shackled,confirmed
+sts1.status.sharp_hide,status,锋利外甲,Sharp Hide,confirmed
+sts1.status.shifting,status,变幻,Shifting,confirmed
+sts1.status.simmering_rage,status,怒火中烧,Simmering Rage,confirmed
+sts1.status.slow,status,缓慢,Slow,confirmed
+sts1.status.split,status,分裂,Split,confirmed
+sts1.status.spore_clouds,status,孢子云,Spore Clouds,confirmed
+sts1.status.stasis,status,凝滞,Stasis,confirmed
+sts1.status.static_discharge,status,静电释放（能力）,Static Discharge,confirmed
+sts1.status.storm,status,雷暴（能力）,Storm,confirmed
+sts1.status.strength,status,力量,Strength,confirmed
+sts1.status.strength_down,status,活动肌肉（能力）,Strength Down,confirmed
+sts1.status.strength_negative,status,力量（负）,Strength (Negative),confirmed
+sts1.status.strength_up,status,力量提升,Strength Up,confirmed
+sts1.status.study,status,研习（能力）,Study,confirmed
+sts1.status.surrounded,status,夹击,Surrounded,confirmed
+sts1.status.the_bomb,status,炸弹（能力）,The Bomb,confirmed
+sts1.status.thievery,status,盗窃,Thievery,confirmed
+sts1.status.thorns,status,荆棘,Thorns,confirmed
+sts1.status.thousand_cuts,status,凌迟（能力）,Thousand Cuts,confirmed
+sts1.status.time_warp,status,时间扭曲,Time Warp,confirmed
+sts1.status.tools_of_the_trade,status,必备工具（能力）,Tools of the Trade,confirmed
+sts1.status.unawakened,status,未觉醒,Unawakened,confirmed
+sts1.status.vigor,status,活力,Vigor,confirmed
+sts1.status.vulnerable,status,易伤,Vulnerable,provisional
+sts1.status.wave_of_the_hand,status,摆手（能力）,Wave of the Hand,confirmed
+sts1.status.weak,status,虚弱,Weak,provisional
+sts1.status.well_laid_plans,status,计划妥当（能力）,Well-Laid Plans,confirmed
+sts1.status.wraith_form,status,幽魂形态（能力）,Wraith Form,confirmed

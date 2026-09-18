@@ -1,0 +1,55 @@
+{"acts_json": "{\"source_category\": \"全部\"}", "appearance_condition_json": null, "entity_id": "sts1.candidate.zh.event.15408927", "notes": "高塔之心是会发生在第三阶段的事件，是没有集齐所有宝石钥匙时通关时的事件,也是在集齐了所有宝石钥匙时进入第四阶段的事件。\n描述\n砰咚……砰咚……砰咚……整个房间里弥漫着脉动的恐惧……这就是高塔的心脏吗？ 这一切邪恶的源头？情况1:你握紧你的长刀……（当角色为铁甲战士时）情况2:你握住你的匕首……（当角色为静默猎手时）情况3:你将你的核心充能到极限……（当角色为故障机器人时）情况4:你将神圣能量注入你的长杖……（当角色为观者时）\n选项\n攻击 ???你造成了 X 点伤害！心脏扭动并流下了血……但最后却依然在跳动。难道连你最强的攻击也还是不够吗？你自问：“我之前曾来过这里吗？”\n情况1\n（当你没有集齐所有宝石钥匙或没有解锁终幕时出现）：你觉得自己对心脏总共曾造成过 X 点伤害。所有挑战心脏的人总共对它造成了 X 点伤害。心跳声越来越响了，你的意识逐渐消散……\n睡眠\n胜利？\n情况2\n（当你集齐了所有宝石钥匙时出现）：心跳声越来越响，你感觉到自己的意识逐渐开始消散……但瞬间一股能量从你体内深处迸发而出，让你一个激灵清醒了过来。心脏朝上方逃跑了！在心脏原先在的位置，出现了一扇巨大的门。\n走向门前\n（", "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.a_note_for_yourself", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.ancient_writing", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.augmenter", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.big_fish", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.bonfire_spirits", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.council_of_ghosts", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.cursed_tome", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.dead_adventurer", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2 , Act 3 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.designer_in_spire", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.duplicator", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1 , Act 2 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.face_trader", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.falling", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.forgotten_altar", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.golden_idol", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.golden_shrine", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.hypnotizing_colored_mushrooms", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.knowing_skull", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.lab", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.living_wall", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.masked_bandits", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.match_and_keep", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.mind_bloom", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.mysterious_sphere", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.n_loth", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.old_beggar", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.ominous_forge", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.pleading_vagrant", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.purifier", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.scrap_ooze", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.secret_portal", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.sensory_stone", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.shining_light", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_cleric", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_colosseum", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_divine_fountain", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2 - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_joust", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_library", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_mausoleum", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_moai_head", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_nest", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_ssssserpent", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.the_woman_in_blue", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.tomb_of_lord_red_mask", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.transmogrifier", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.upgrade_shrine", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 2\"}", "appearance_condition_json": null, "entity_id": "sts1.event.vampires", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": "{\"source\": \"article\", \"status\": \"needs_cross-check\"}", "entity_id": "sts1.event.we_meet_again", "notes": null, "room_type": "?"}
+{"acts_json": "{\"source_category\": \"All Acts - Shrine\"}", "appearance_condition_json": null, "entity_id": "sts1.event.wheel_of_change", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 3\"}", "appearance_condition_json": null, "entity_id": "sts1.event.winding_halls", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.wing_statue", "notes": null, "room_type": "unknown"}
+{"acts_json": "{\"source_category\": \"Act 1\"}", "appearance_condition_json": null, "entity_id": "sts1.event.world_of_goop", "notes": null, "room_type": "unknown"}
+{"acts_json": null, "appearance_condition_json": null, "entity_id": "sts1.game.candidate.event.proceed_screen", "notes": null, "room_type": null}
+{"acts_json": null, "appearance_condition_json": null, "entity_id": "sts1.game.candidate.event.spire_heart", "notes": null, "room_type": null}
+{"acts_json": null, "appearance_condition_json": null, "entity_id": "sts1.game.candidate.event.thinking_with_puddles", "notes": null, "room_type": null}

@@ -23,6 +23,7 @@ downloads/
 logs/
 *.log
 .cynos/
+tmp/
 
 # 系统
 .DS_Store

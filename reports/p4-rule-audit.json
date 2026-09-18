@@ -1,0 +1,576 @@
+{
+  "generated_at": "2026-09-18T04:35:57+00:00",
+  "parser_version": "kb-p4-rule-audit/0.1",
+  "status": "audit_pending_review",
+  "scope": "StS1 basic Wiki only; strategy documents excluded",
+  "coverage": {
+    "card": {
+      "total": 422,
+      "required_complete": 370,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 370,
+          "complete": 370
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 52,
+          "complete": 0
+        }
+      ]
+    },
+    "relic": {
+      "total": 180,
+      "required_complete": 178,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 180,
+          "complete": 178
+        }
+      ]
+    },
+    "potion": {
+      "total": 42,
+      "required_complete": 42,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 42,
+          "complete": 42
+        }
+      ]
+    },
+    "monster": {
+      "total": 61,
+      "required_complete": 44,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 43,
+          "complete": 43
+        },
+        {
+          "lifecycle": "active",
+          "mapping_status": "provisional",
+          "n": 1,
+          "complete": 1
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 17,
+          "complete": 0
+        }
+      ]
+    },
+    "event": {
+      "total": 55,
+      "required_complete": 51,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 51,
+          "complete": 51
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 4,
+          "complete": 0
+        }
+      ]
+    },
+    "status": {
+      "total": 182,
+      "required_complete": 182,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 131,
+          "complete": 131
+        },
+        {
+          "lifecycle": "active",
+          "mapping_status": "provisional",
+          "n": 3,
+          "complete": 3
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 48,
+          "complete": 48
+        }
+      ]
+    },
+    "keyword": {
+      "total": 55,
+      "required_complete": 22,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "confirmed",
+          "n": 15,
+          "complete": 15
+        },
+        {
+          "lifecycle": "active",
+          "mapping_status": "provisional",
+          "n": 7,
+          "complete": 7
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 33,
+          "complete": 0
+        }
+      ]
+    },
+    "mechanic": {
+      "total": 25,
+      "required_complete": 25,
+      "by_lifecycle_mapping": [
+        {
+          "lifecycle": "active",
+          "mapping_status": "provisional",
+          "n": 20,
+          "complete": 20
+        },
+        {
+          "lifecycle": "candidate",
+          "mapping_status": "provisional",
+          "n": 5,
+          "complete": 5
+        }
+      ]
+    }
+  },
+  "unresolved": {
+    "inventory_not_parsed": [],
+    "cards_without_base_variant": [
+      {
+        "id": "sts1.game.candidate.card.allocate",
+        "lifecycle": "candidate",
+        "name": "Allocate"
+      },
+      {
+        "id": "sts1.game.candidate.card.awakenedstrike",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Awakened Strike"
+      },
+      {
+        "id": "sts1.game.candidate.card.axe_kick",
+        "lifecycle": "candidate",
+        "name": "Axe Kick"
+      },
+      {
+        "id": "sts1.game.candidate.card.bigbrain",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Big Brain"
+      },
+      {
+        "id": "sts1.game.candidate.card.blaster",
+        "lifecycle": "candidate",
+        "name": "Blaster"
+      },
+      {
+        "id": "sts1.game.candidate.card.blessed",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Blessed"
+      },
+      {
+        "id": "sts1.game.candidate.card.brillianceaura",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Brilliance Aura"
+      },
+      {
+        "id": "sts1.game.candidate.card.calm",
+        "lifecycle": "candidate",
+        "name": "Calm"
+      },
+      {
+        "id": "sts1.game.candidate.card.causality",
+        "lifecycle": "candidate",
+        "name": "Causality"
+      },
+      {
+        "id": "sts1.game.candidate.card.clarity",
+        "lifecycle": "candidate",
+        "name": "Clarity"
+      },
+      {
+        "id": "sts1.game.candidate.card.cleanseevil",
+        "lifecycle": "candidate",
+        "name": "Cleanse Evil"
+      },
+      {
+        "id": "sts1.game.candidate.card.crescentkick",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Crescent Kick"
+      },
+      {
+        "id": "sts1.game.candidate.card.discipline",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Discipline"
+      },
+      {
+        "id": "sts1.game.candidate.card.energy_pulse",
+        "lifecycle": "candidate",
+        "name": "Energy Pulse"
+      },
+      {
+        "id": "sts1.game.candidate.card.experienced",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Experienced"
+      },
+      {
+        "id": "sts1.game.candidate.card.flamemastery",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flame Mastery"
+      },
+      {
+        "id": "sts1.game.candidate.card.flare",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flare"
+      },
+      {
+        "id": "sts1.game.candidate.card.flick",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flick"
+      },
+      {
+        "id": "sts1.game.candidate.card.flicker",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flicker"
+      },
+      {
+        "id": "sts1.game.candidate.card.flow",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flow"
+      },
+      {
+        "id": "sts1.game.candidate.card.flowstate",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Flow State"
+      },
+      {
+        "id": "sts1.game.candidate.card.flux_capacitor",
+        "lifecycle": "candidate",
+        "name": "Flux Capacitor"
+      },
+      {
+        "id": "sts1.game.candidate.card.furyaura",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Fury Aura"
+      },
+      {
+        "id": "sts1.game.candidate.card.hide",
+        "lifecycle": "candidate",
+        "name": "Hide"
+      },
+      {
+        "id": "sts1.game.candidate.card.letfatedecide",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Let Fate Decide"
+      },
+      {
+        "id": "sts1.game.candidate.card.mastery",
+        "lifecycle": "candidate",
+        "name": "Mastery"
+      },
+      {
+        "id": "sts1.game.candidate.card.metaphysics",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED"
+      },
+      {
+        "id": "sts1.game.candidate.card.palmthatrestrains",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Restraining Palm"
+      },
+      {
+        "id": "sts1.game.candidate.card.peace",
+        "lifecycle": "candidate",
+        "name": "Peace"
+      },
+      {
+        "id": "sts1.game.candidate.card.perfectedform",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Perfected Form"
+      },
+      {
+        "id": "sts1.game.candidate.card.polymath",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Polymath"
+      },
+      {
+        "id": "sts1.game.candidate.card.prediction",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Prediction"
+      },
+      {
+        "id": "sts1.game.candidate.card.punishment",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Punishment"
+      },
+      {
+        "id": "sts1.game.candidate.card.retreatinghand",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Retreating Hand"
+      },
+      {
+        "id": "sts1.game.candidate.card.retribution",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Retribution"
+      },
+      {
+        "id": "sts1.game.candidate.card.serenity",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Serenity"
+      },
+      {
+        "id": "sts1.game.candidate.card.shield",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Shield"
+      },
+      {
+        "id": "sts1.game.candidate.card.soothingaura",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Soothing Aura"
+      },
+      {
+        "id": "sts1.game.candidate.card.stepandstrike",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Step and Strike"
+      },
+      {
+        "id": "sts1.game.candidate.card.sublimeslice",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Sublime Slice"
+      },
+      {
+        "id": "sts1.game.candidate.card.survey",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Survey"
+      },
+      {
+        "id": "sts1.game.candidate.card.swipe",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Swipe"
+      },
+      {
+        "id": "sts1.game.candidate.card.thwack",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Thwack"
+      },
+      {
+        "id": "sts1.game.candidate.card.torrent",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Torrent"
+      },
+      {
+        "id": "sts1.game.candidate.card.transcendence",
+        "lifecycle": "candidate",
+        "name": "Transcendence"
+      },
+      {
+        "id": "sts1.game.candidate.card.truth",
+        "lifecycle": "candidate",
+        "name": "Truth"
+      },
+      {
+        "id": "sts1.game.candidate.card.unraveling",
+        "lifecycle": "candidate",
+        "name": "Unraveling"
+      },
+      {
+        "id": "sts1.game.candidate.card.wardaura",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Ward Aura"
+      },
+      {
+        "id": "sts1.game.candidate.card.waveofthehand2",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED"
+      },
+      {
+        "id": "sts1.game.candidate.card.windup",
+        "lifecycle": "candidate",
+        "name": "DEPRECATED Windup"
+      },
+      {
+        "id": "sts1.game.candidate.card.wisdom",
+        "lifecycle": "candidate",
+        "name": "Wisdom"
+      },
+      {
+        "id": "sts1.game.candidate.card.wrath",
+        "lifecycle": "candidate",
+        "name": "Wrath"
+      }
+    ],
+    "monsters_without_moves": [
+      {
+        "id": "sts1.candidate.zh.monster.15436697",
+        "lifecycle": "candidate",
+        "name": "sts1.candidate.zh.monster.15436697"
+      },
+      {
+        "id": "sts1.candidate.zh.monster.15436699",
+        "lifecycle": "candidate",
+        "name": "sts1.candidate.zh.monster.15436699"
+      },
+      {
+        "id": "sts1.game.candidate.monster.apology_slime",
+        "lifecycle": "candidate",
+        "name": "Apology Slime"
+      },
+      {
+        "id": "sts1.game.candidate.monster.banditbear",
+        "lifecycle": "candidate",
+        "name": "Bear"
+      },
+      {
+        "id": "sts1.game.candidate.monster.banditchild",
+        "lifecycle": "candidate",
+        "name": "Pointy"
+      },
+      {
+        "id": "sts1.game.candidate.monster.banditleader",
+        "lifecycle": "candidate",
+        "name": "Romeo"
+      },
+      {
+        "id": "sts1.game.candidate.monster.bronzeorb",
+        "lifecycle": "candidate",
+        "name": "Orb"
+      },
+      {
+        "id": "sts1.game.candidate.monster.centurion",
+        "lifecycle": "candidate",
+        "name": "Centurion"
+      },
+      {
+        "id": "sts1.game.candidate.monster.dagger",
+        "lifecycle": "candidate",
+        "name": "Dagger"
+      },
+      {
+        "id": "sts1.game.candidate.monster.fireorb",
+        "lifecycle": "candidate",
+        "name": "Fire Orb"
+      },
+      {
+        "id": "sts1.game.candidate.monster.flamebruiser",
+        "lifecycle": "candidate",
+        "name": "Flame Bruiser"
+      },
+      {
+        "id": "sts1.game.candidate.monster.healer",
+        "lifecycle": "candidate",
+        "name": "Mystic"
+      },
+      {
+        "id": "sts1.game.candidate.monster.hexaghostbody",
+        "lifecycle": "candidate",
+        "name": "HexaghostBody"
+      },
+      {
+        "id": "sts1.game.candidate.monster.hexaghostorb",
+        "lifecycle": "candidate",
+        "name": "HexaghostOrb"
+      },
+      {
+        "id": "sts1.game.candidate.monster.puppeteer",
+        "lifecycle": "candidate",
+        "name": "Puppeteer"
+      },
+      {
+        "id": "sts1.game.candidate.monster.theguardianorb",
+        "lifecycle": "candidate",
+        "name": "TheGuardianOrb"
+      },
+      {
+        "id": "sts1.game.candidate.monster.torchhead",
+        "lifecycle": "candidate",
+        "name": "Torch Head"
+      }
+    ],
+    "events_without_options": [
+      {
+        "id": "sts1.candidate.zh.event.15408927",
+        "lifecycle": "candidate",
+        "name": "sts1.candidate.zh.event.15408927"
+      },
+      {
+        "id": "sts1.game.candidate.event.proceed_screen",
+        "lifecycle": "candidate",
+        "name": "Proceed Screen"
+      },
+      {
+        "id": "sts1.game.candidate.event.spire_heart",
+        "lifecycle": "candidate",
+        "name": "Spire Heart"
+      },
+      {
+        "id": "sts1.game.candidate.event.thinking_with_puddles",
+        "lifecycle": "candidate",
+        "name": "Thinking with Puddles"
+      }
+    ]
+  },
+  "suspicious": {
+    "possible_energy_icon_loss": 0,
+    "raw_placeholder_claims": 1979,
+    "unknown_image_licence_assets": 21,
+    "candidate_entities": 186,
+    "confirmed_inventory_mappings": 816,
+    "candidate_inventory_mappings": 0,
+    "strategy_notes": 0,
+    "strategy_links": 0
+  },
+  "numeric_checks": {
+    "card_variant_cost_types": [
+      {
+        "cost_type": "conditional",
+        "n": 30
+      },
+      {
+        "cost_type": "fixed",
+        "n": 672
+      },
+      {
+        "cost_type": "x",
+        "n": 20
+      }
+    ],
+    "cards_with_zero_upgrade_cost": 95,
+    "cards_with_x_cost": 20,
+    "claims_by_verification": [
+      {
+        "verification_status": "single_source",
+        "n": 11824
+      },
+      {
+        "verification_status": "verified_game",
+        "n": 5782
+      }
+    ]
+  },
+  "notes": [
+    "A complete source parse does not mean the bilingual identity or rule field is verified.",
+    "Missing enemy moves/event options are explicit follow-up items; no placeholder values were inserted.",
+    "Energy icon and image-license warnings require visual or licensing review.",
+    "The separate mapping-review queue ranks candidates but does not confirm them."
+  ]
+}

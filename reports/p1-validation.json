@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-09-18T04:35:58+00:00",
+  "status": "passed_with_warnings",
+  "errors": [],
+  "warnings": [
+    "ambiguous name (en/card): defend x4",
+    "ambiguous name (en/card): deprecated x3",
+    "ambiguous name (en/card): strike x4",
+    "ambiguous name (zh-CN/card): deprecated x3",
+    "ambiguous name (zh-CN/card): 愤怒 x2",
+    "ambiguous name (zh-CN/card): 打击 x4",
+    "ambiguous name (zh-CN/card): 防御 x4",
+    "ambiguous name (zh-CN/event): 高塔之心 x2",
+    "ambiguous name (zh-CN/monster): 抢劫的 x2",
+    "ambiguous name (zh-CN/monster): 百夫长 x2",
+    "ambiguous name (zh-CN/monster): 神秘术士 x2",
+    "ambiguous name (zh-CN/status): 再生 x2",
+    "ambiguous name (zh-CN/status): 抽牌 x2",
+    "raw article placeholder text retained in 1979 claim(s); generated summaries should filter it"
+  ],
+  "counts": {
+    "entities": 1054,
+    "names": 3751,
+    "claims": 17606,
+    "relations": 324,
+    "source_pages": 933,
+    "assets": 21,
+    "wiki_pages": 1876,
+    "strategy_notes": 0,
+    "strategy_links": 0
+  }
+}

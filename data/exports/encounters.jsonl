@@ -1,0 +1,1 @@
+{"act": "Exordium", "entity_id": "sts1.encounter.exordium.slime_boss", "pool_type": "boss", "repetition_rules": "One boss encounter; encounter-pool weights are not represented by this sample.", "room_type": "boss", "weight_json": null}

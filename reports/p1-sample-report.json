@@ -1,0 +1,54 @@
+{
+  "run_id": "run.20260917T171614Z",
+  "status": "success",
+  "parser_version": "kb-bootstrap-sample/0.1",
+  "generated_at": "2026-09-17T17:16:30+00:00",
+  "sources": [
+    "wiki_gg",
+    "xiaoheihe"
+  ],
+  "scope": "P1 vertical sample; not a full inventory",
+  "counts": {
+    "entities": 1686,
+    "names": 1721,
+    "claims": 8624,
+    "relations": 604,
+    "cards": 739,
+    "relics": 357,
+    "potions": 83,
+    "monsters": 87,
+    "encounters": 1,
+    "events": 102,
+    "statuses": 266,
+    "mechanics": 25,
+    "inventory_items": 1719,
+    "inventory_mappings": 17,
+    "entity_name_mapping": 1686
+  },
+  "sample_cards": [
+    "sts1.card.ironclad.strike",
+    "sts1.card.ironclad.body_slam",
+    "sts1.card.ironclad.inflame",
+    "sts1.card.ironclad.feel_no_pain",
+    "sts1.card.ironclad.corruption",
+    "sts1.card.ironclad.barricade",
+    "sts1.card.ironclad.searing_blow",
+    "sts1.card.silent.neutralize",
+    "sts1.card.defect.zap",
+    "sts1.card.watcher.eruption"
+  ],
+  "sample_non_cards": [
+    "sts1.relic.burning_blood",
+    "sts1.relic.snake_ring",
+    "sts1.potion.weak",
+    "sts1.monster.slime_boss",
+    "sts1.encounter.exordium.slime_boss",
+    "sts1.event.we_meet_again"
+  ],
+  "known_limitations": [
+    "Chinese category homepage is dynamically rendered; the raw HTML snapshot does not contain the full rendered inventory.",
+    "English list page is used for structured card fields; individual source pages are retained for selected non-card samples.",
+    "Image license_status remains unknown until the source terms and per-asset rights are audited.",
+    "Values marked provisional/single_source are not game-verified."
+  ]
+}

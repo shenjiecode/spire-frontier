@@ -1,2 +1,3 @@
 # spirecomm 已 vendor（MIT，本地路径安装）；bridge/main.py 也自动前置 vendor 路径
 -e ./vendor/spirecomm
+lxml>=5.0

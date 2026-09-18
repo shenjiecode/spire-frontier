@@ -1,0 +1,1114 @@
+# 杀戮尖塔 1 双语知识 Wiki
+
+生成时间：2026-09-18T04:35:46+00:00。当前阶段：P3 双源内容采集首轮。
+
+数据库：[`data/spire.sqlite`](../../data/spire.sqlite)；生成脚本：[`bootstrap_sample.py`](../../scripts/kb/bootstrap_sample.py)、[`discover_inventory.py`](../../scripts/kb/discover_inventory.py)、[`fetch_p3.py`](../../scripts/kb/fetch_p3.py)、[`build_wiki.py`](../../scripts/kb/build_wiki.py)。
+
+## 实体目录
+
+### card
+
+- [神化 / Apotheosis](cards/sts1_card_colorless_apotheosis.md) — `sts1.card.colorless.apotheosis`
+- [灵体 / Apparition](cards/sts1_card_colorless_apparition.md) — `sts1.card.colorless.apparition`
+- [进阶之灾 / Ascender's Bane](cards/sts1_card_colorless_ascender_s_bane.md) — `sts1.card.colorless.ascender_s_bane`
+- [包扎 / Bandage Up](cards/sts1_card_colorless_bandage_up.md) — `sts1.card.colorless.bandage_up`
+- [力大无穷 / Become Almighty](cards/sts1_card_colorless_become_almighty.md) — `sts1.card.colorless.become_almighty`
+- [贝塔 / Beta](cards/sts1_card_colorless_beta.md) — `sts1.card.colorless.beta`
+- [噬咬 / Bite](cards/sts1_card_colorless_bite.md) — `sts1.card.colorless.bite`
+- [致盲 / Blind](cards/sts1_card_colorless_blind.md) — `sts1.card.colorless.blind`
+- [灼伤 / Burn](cards/sts1_card_colorless_burn.md) — `sts1.card.colorless.burn`
+- [结茧 / Chrysalis](cards/sts1_card_colorless_chrysalis.md) — `sts1.card.colorless.chrysalis`
+- [笨拙 / Clumsy](cards/sts1_card_colorless_clumsy.md) — `sts1.card.colorless.clumsy`
+- [铃铛的诅咒 / Curse of the Bell](cards/sts1_card_colorless_curse_of_the_bell.md) — `sts1.card.colorless.curse_of_the_bell`
+- [黑暗镣铐 / Dark Shackles](cards/sts1_card_colorless_dark_shackles.md) — `sts1.card.colorless.dark_shackles`
+- [晕眩 / Dazed](cards/sts1_card_colorless_dazed.md) — `sts1.card.colorless.dazed`
+- [腐朽 / Decay](cards/sts1_card_colorless_decay.md) — `sts1.card.colorless.decay`
+- [深呼吸 / Deep Breath](cards/sts1_card_colorless_deep_breath.md) — `sts1.card.colorless.deep_breath`
+- [发现 / Discovery](cards/sts1_card_colorless_discovery.md) — `sts1.card.colorless.discovery`
+- [疑虑 / Doubt](cards/sts1_card_colorless_doubt.md) — `sts1.card.colorless.doubt`
+- [闪亮登场 / Dramatic Entrance](cards/sts1_card_colorless_dramatic_entrance.md) — `sts1.card.colorless.dramatic_entrance`
+- [开悟 / Enlightenment](cards/sts1_card_colorless_enlightenment.md) — `sts1.card.colorless.enlightenment`
+- [灭除之刃 / Expunger](cards/sts1_card_colorless_expunger.md) — `sts1.card.colorless.expunger`
+- [名利双收 / Fame and Fortune](cards/sts1_card_colorless_fame_and_fortune.md) — `sts1.card.colorless.fame_and_fortune`
+- [妙计 / Finesse](cards/sts1_card_colorless_finesse.md) — `sts1.card.colorless.finesse`
+- [亮剑 / Flash of Steel](cards/sts1_card_colorless_flash_of_steel.md) — `sts1.card.colorless.flash_of_steel`
+- [预谋 / Forethought](cards/sts1_card_colorless_forethought.md) — `sts1.card.colorless.forethought`
+- [优秀直觉 / Good Instincts](cards/sts1_card_colorless_good_instincts.md) — `sts1.card.colorless.good_instincts`
+- [贪婪之手 / Hand of Greed](cards/sts1_card_colorless_hand_of_greed.md) — `sts1.card.colorless.hand_of_greed`
+- [急躁 / Impatience](cards/sts1_card_colorless_impatience.md) — `sts1.card.colorless.impatience`
+- [受伤 / Injury](cards/sts1_card_colorless_injury.md) — `sts1.card.colorless.injury`
+- [洞见 / Insight](cards/sts1_card_colorless_insight.md) — `sts1.card.colorless.insight`
+- [J.A.X. / J.A.X.](cards/sts1_card_colorless_j_a_x.md) — `sts1.card.colorless.j_a_x`
+- [花样百出 / Jack of All Trades](cards/sts1_card_colorless_jack_of_all_trades.md) — `sts1.card.colorless.jack_of_all_trades`
+- [永生不死 / Live Forever](cards/sts1_card_colorless_live_forever.md) — `sts1.card.colorless.live_forever`
+- [疯狂 / Madness](cards/sts1_card_colorless_madness.md) — `sts1.card.colorless.madness`
+- [磁力 / Magnetism](cards/sts1_card_colorless_magnetism.md) — `sts1.card.colorless.magnetism`
+- [战略大师 / Master of Strategy](cards/sts1_card_colorless_master_of_strategy.md) — `sts1.card.colorless.master_of_strategy`
+- [乱战 / Mayhem](cards/sts1_card_colorless_mayhem.md) — `sts1.card.colorless.mayhem`
+- [羽化 / Metamorphosis](cards/sts1_card_colorless_metamorphosis.md) — `sts1.card.colorless.metamorphosis`
+- [心灵震慑 / Mind Blast](cards/sts1_card_colorless_mind_blast.md) — `sts1.card.colorless.mind_blast`
+- [奇迹 / Miracle](cards/sts1_card_colorless_miracle.md) — `sts1.card.colorless.miracle`
+- [死灵诅咒 / Necronomicurse](cards/sts1_card_colorless_necronomicurse.md) — `sts1.card.colorless.necronomicurse`
+- [凡庸 / Normality](cards/sts1_card_colorless_normality.md) — `sts1.card.colorless.normality`
+- [欧米伽 / Omega](cards/sts1_card_colorless_omega.md) — `sts1.card.colorless.omega`
+- [疼痛 / Pain](cards/sts1_card_colorless_pain.md) — `sts1.card.colorless.pain`
+- [万能药 / Panacea](cards/sts1_card_colorless_panacea.md) — `sts1.card.colorless.panacea`
+- [神气制胜 / Panache](cards/sts1_card_colorless_panache.md) — `sts1.card.colorless.panache`
+- [应急按钮 / Panic Button](cards/sts1_card_colorless_panic_button.md) — `sts1.card.colorless.panic_button`
+- [寄生 / Parasite](cards/sts1_card_colorless_parasite.md) — `sts1.card.colorless.parasite`
+- [傲慢 / Pride](cards/sts1_card_colorless_pride.md) — `sts1.card.colorless.pride`
+- [净化 / Purity](cards/sts1_card_colorless_purity.md) — `sts1.card.colorless.purity`
+- [悔恨 / Regret](cards/sts1_card_colorless_regret.md) — `sts1.card.colorless.regret`
+- [仪式匕首 / Ritual Dagger](cards/sts1_card_colorless_ritual_dagger.md) — `sts1.card.colorless.ritual_dagger`
+- [残虐天性 / Sadistic Nature](cards/sts1_card_colorless_sadistic_nature.md) — `sts1.card.colorless.sadistic_nature`
+- [平安 / Safety](cards/sts1_card_colorless_safety.md) — `sts1.card.colorless.safety`
+- [秘密技法 / Secret Technique](cards/sts1_card_colorless_secret_technique.md) — `sts1.card.colorless.secret_technique`
+- [秘密武器 / Secret Weapon](cards/sts1_card_colorless_secret_weapon.md) — `sts1.card.colorless.secret_weapon`
+- [羞耻 / Shame](cards/sts1_card_colorless_shame.md) — `sts1.card.colorless.shame`
+- [小刀 / Shiv](cards/sts1_card_colorless_shiv.md) — `sts1.card.colorless.shiv`
+- [黏液 / Slimed](cards/sts1_card_colorless_slimed.md) — `sts1.card.colorless.slimed`
+- [惩恶 / Smite](cards/sts1_card_colorless_smite.md) — `sts1.card.colorless.smite`
+- [迅捷打击 / Swift Strike](cards/sts1_card_colorless_swift_strike.md) — `sts1.card.colorless.swift_strike`
+- [炸弹 / The Bomb](cards/sts1_card_colorless_the_bomb.md) — `sts1.card.colorless.the_bomb`
+- [深谋远虑 / Thinking Ahead](cards/sts1_card_colorless_thinking_ahead.md) — `sts1.card.colorless.thinking_ahead`
+- [以暴易暴 / Through Violence](cards/sts1_card_colorless_through_violence.md) — `sts1.card.colorless.through_violence`
+- [转化 / Transmutation](cards/sts1_card_colorless_transmutation.md) — `sts1.card.colorless.transmutation`
+- [绊倒 / Trip](cards/sts1_card_colorless_trip.md) — `sts1.card.colorless.trip`
+- [暴力 / Violence](cards/sts1_card_colorless_violence.md) — `sts1.card.colorless.violence`
+- [虚空 / Void](cards/sts1_card_colorless_void.md) — `sts1.card.colorless.void`
+- [伤口 / Wound](cards/sts1_card_colorless_wound.md) — `sts1.card.colorless.wound`
+- [苦恼 / Writhe](cards/sts1_card_colorless_writhe.md) — `sts1.card.colorless.writhe`
+- [汇集 / Aggregate](cards/sts1_card_defect_aggregate.md) — `sts1.card.defect.aggregate`
+- [万物一心 / All for One](cards/sts1_card_defect_all_for_one.md) — `sts1.card.defect.all_for_one`
+- [增幅 / Amplify](cards/sts1_card_defect_amplify.md) — `sts1.card.defect.amplify`
+- [自动护盾 / Auto-Shields](cards/sts1_card_defect_auto_shields.md) — `sts1.card.defect.auto_shields`
+- [球状闪电 / Ball Lightning](cards/sts1_card_defect_ball_lightning.md) — `sts1.card.defect.ball_lightning`
+- [弹幕齐射 / Barrage](cards/sts1_card_defect_barrage.md) — `sts1.card.defect.barrage`
+- [光束射线 / Beam Cell](cards/sts1_card_defect_beam_cell.md) — `sts1.card.defect.beam_cell`
+- [偏差认知 / Biased Cognition](cards/sts1_card_defect_biased_cognition.md) — `sts1.card.defect.biased_cognition`
+- [暴雪 / Blizzard](cards/sts1_card_defect_blizzard.md) — `sts1.card.defect.blizzard`
+- [启动流程 / Boot Sequence](cards/sts1_card_defect_boot_sequence.md) — `sts1.card.defect.boot_sequence`
+- [缓冲 / Buffer](cards/sts1_card_defect_buffer.md) — `sts1.card.defect.buffer`
+- [瞄准靶心 / Bullseye](cards/sts1_card_defect_bullseye.md) — `sts1.card.defect.bullseye`
+- [扩容 / Capacitor](cards/sts1_card_defect_capacitor.md) — `sts1.card.defect.capacitor`
+- [混沌 / Chaos](cards/sts1_card_defect_chaos.md) — `sts1.card.defect.chaos`
+- [充电 / Charge Battery](cards/sts1_card_defect_charge_battery.md) — `sts1.card.defect.charge_battery`
+- [冰寒 / Chill](cards/sts1_card_defect_chill.md) — `sts1.card.defect.chill`
+- [爪击 / Claw](cards/sts1_card_defect_claw.md) — `sts1.card.defect.claw`
+- [寒流 / Cold Snap](cards/sts1_card_defect_cold_snap.md) — `sts1.card.defect.cold_snap`
+- [编译冲击 / Compile Driver](cards/sts1_card_defect_compile_driver.md) — `sts1.card.defect.compile_driver`
+- [耗尽 / Consume](cards/sts1_card_defect_consume.md) — `sts1.card.defect.consume`
+- [冷静头脑 / Coolheaded](cards/sts1_card_defect_coolheaded.md) — `sts1.card.defect.coolheaded`
+- [核心电涌 / Core Surge](cards/sts1_card_defect_core_surge.md) — `sts1.card.defect.core_surge`
+- [创造性AI / Creative AI](cards/sts1_card_defect_creative_ai.md) — `sts1.card.defect.creative_ai`
+- [漆黑 / Darkness](cards/sts1_card_defect_darkness.md) — `sts1.card.defect.darkness`
+- [防御 / Defend](cards/sts1_card_defect_defend.md) — `sts1.card.defect.defend`
+- [碎片整理 / Defragment](cards/sts1_card_defect_defragment.md) — `sts1.card.defect.defragment`
+- [愁云惨淡 / Doom and Gloom](cards/sts1_card_defect_doom_and_gloom.md) — `sts1.card.defect.doom_and_gloom`
+- [双倍能量 / Double Energy](cards/sts1_card_defect_double_energy.md) — `sts1.card.defect.double_energy`
+- [双重释放 / Dualcast](cards/sts1_card_defect_dualcast.md) — `sts1.card.defect.dualcast`
+- [回响形态 / Echo Form](cards/sts1_card_defect_echo_form.md) — `sts1.card.defect.echo_form`
+- [电动力学 / Electrodynamics](cards/sts1_card_defect_electrodynamics.md) — `sts1.card.defect.electrodynamics`
+- [均衡 / Equilibrium](cards/sts1_card_defect_equilibrium.md) — `sts1.card.defect.equilibrium`
+- [裂变 / Fission](cards/sts1_card_defect_fission.md) — `sts1.card.defect.fission`
+- [力场 / Force Field](cards/sts1_card_defect_force_field.md) — `sts1.card.defect.force_field`
+- [超越光速 / FTL](cards/sts1_card_defect_ftl.md) — `sts1.card.defect.ftl`
+- [聚变 / Fusion](cards/sts1_card_defect_fusion.md) — `sts1.card.defect.fusion`
+- [遗传算法 / Genetic Algorithm](cards/sts1_card_defect_genetic_algorithm.md) — `sts1.card.defect.genetic_algorithm`
+- [冰川 / Glacier](cards/sts1_card_defect_glacier.md) — `sts1.card.defect.glacier`
+- [眼部攻击 / Go for the Eyes](cards/sts1_card_defect_go_for_the_eyes.md) — `sts1.card.defect.go_for_the_eyes`
+- [散热片 / Heatsinks](cards/sts1_card_defect_heatsinks.md) — `sts1.card.defect.heatsinks`
+- [你好，世界 / Hello World](cards/sts1_card_defect_hello_world.md) — `sts1.card.defect.hello_world`
+- [全息影像 / Hologram](cards/sts1_card_defect_hologram.md) — `sts1.card.defect.hologram`
+- [超能光束 / Hyperbeam](cards/sts1_card_defect_hyperbeam.md) — `sts1.card.defect.hyperbeam`
+- [飞跃 / Leap](cards/sts1_card_defect_leap.md) — `sts1.card.defect.leap`
+- [循环 / Loop](cards/sts1_card_defect_loop.md) — `sts1.card.defect.loop`
+- [机器学习 / Machine Learning](cards/sts1_card_defect_machine_learning.md) — `sts1.card.defect.machine_learning`
+- [熔化 / Melter](cards/sts1_card_defect_melter.md) — `sts1.card.defect.melter`
+- [陨石打击 / Meteor Strike](cards/sts1_card_defect_meteor_strike.md) — `sts1.card.defect.meteor_strike`
+- [多重释放 / Multi-Cast](cards/sts1_card_defect_multi_cast.md) — `sts1.card.defect.multi_cast`
+- [超频 / Overclock](cards/sts1_card_defect_overclock.md) — `sts1.card.defect.overclock`
+- [彩虹 / Rainbow](cards/sts1_card_defect_rainbow.md) — `sts1.card.defect.rainbow`
+- [重启 / Reboot](cards/sts1_card_defect_reboot.md) — `sts1.card.defect.reboot`
+- [弹回 / Rebound](cards/sts1_card_defect_rebound.md) — `sts1.card.defect.rebound`
+- [递归 / Recursion](cards/sts1_card_defect_recursion.md) — `sts1.card.defect.recursion`
+- [回收 / Recycle](cards/sts1_card_defect_recycle.md) — `sts1.card.defect.recycle`
+- [硬化机体 / Reinforced Body](cards/sts1_card_defect_reinforced_body.md) — `sts1.card.defect.reinforced_body`
+- [重编程 / Reprogram](cards/sts1_card_defect_reprogram.md) — `sts1.card.defect.reprogram`
+- [狂乱撕扯 / Rip and Tear](cards/sts1_card_defect_rip_and_tear.md) — `sts1.card.defect.rip_and_tear`
+- [刮削 / Scrape](cards/sts1_card_defect_scrape.md) — `sts1.card.defect.scrape`
+- [搜寻 / Seek](cards/sts1_card_defect_seek.md) — `sts1.card.defect.seek`
+- [自我修复 / Self Repair](cards/sts1_card_defect_self_repair.md) — `sts1.card.defect.self_repair`
+- [快速检索 / Skim](cards/sts1_card_defect_skim.md) — `sts1.card.defect.skim`
+- [堆栈 / Stack](cards/sts1_card_defect_stack.md) — `sts1.card.defect.stack`
+- [静电释放 / Static Discharge](cards/sts1_card_defect_static_discharge.md) — `sts1.card.defect.static_discharge`
+- [蒸汽护壁 / Steam Barrier](cards/sts1_card_defect_steam_barrier.md) — `sts1.card.defect.steam_barrier`
+- [雷暴 / Storm](cards/sts1_card_defect_storm.md) — `sts1.card.defect.storm`
+- [精简改良 / Streamline](cards/sts1_card_defect_streamline.md) — `sts1.card.defect.streamline`
+- [打击 / Strike](cards/sts1_card_defect_strike.md) — `sts1.card.defect.strike`
+- [分离 / Sunder](cards/sts1_card_defect_sunder.md) — `sts1.card.defect.sunder`
+- [扫荡射线 / Sweeping Beam](cards/sts1_card_defect_sweeping_beam.md) — `sts1.card.defect.sweeping_beam`
+- [暴风雨 / Tempest](cards/sts1_card_defect_tempest.md) — `sts1.card.defect.tempest`
+- [雷霆打击 / Thunder Strike](cards/sts1_card_defect_thunder_strike.md) — `sts1.card.defect.thunder_strike`
+- [内核加速 / TURBO](cards/sts1_card_defect_turbo.md) — `sts1.card.defect.turbo`
+- [白噪声 / White Noise](cards/sts1_card_defect_white_noise.md) — `sts1.card.defect.white_noise`
+- [电击 / Zap](cards/sts1_card_defect_zap.md) — `sts1.card.defect.zap`
+- [愤怒 / Anger](cards/sts1_card_ironclad_anger.md) — `sts1.card.ironclad.anger`
+- [武装 / Armaments](cards/sts1_card_ironclad_armaments.md) — `sts1.card.ironclad.armaments`
+- [壁垒 / Barricade](cards/sts1_card_ironclad_barricade.md) — `sts1.card.ironclad.barricade`
+- [痛击 / Bash](cards/sts1_card_ironclad_bash.md) — `sts1.card.ironclad.bash`
+- [战斗专注 / Battle Trance](cards/sts1_card_ironclad_battle_trance.md) — `sts1.card.ironclad.battle_trance`
+- [狂暴 / Berserk](cards/sts1_card_ironclad_berserk.md) — `sts1.card.ironclad.berserk`
+- [以血还血 / Blood for Blood](cards/sts1_card_ironclad_blood_for_blood.md) — `sts1.card.ironclad.blood_for_blood`
+- [放血 / Bloodletting](cards/sts1_card_ironclad_bloodletting.md) — `sts1.card.ironclad.bloodletting`
+- [重锤 / Bludgeon](cards/sts1_card_ironclad_bludgeon.md) — `sts1.card.ironclad.bludgeon`
+- [全身撞击 / Body Slam](cards/sts1_card_ironclad_body_slam.md) — `sts1.card.ironclad.body_slam`
+- [残暴 / Brutality](cards/sts1_card_ironclad_brutality.md) — `sts1.card.ironclad.brutality`
+- [燃烧契约 / Burning Pact](cards/sts1_card_ironclad_burning_pact.md) — `sts1.card.ironclad.burning_pact`
+- [残杀 / Carnage](cards/sts1_card_ironclad_carnage.md) — `sts1.card.ironclad.carnage`
+- [交锋 / Clash](cards/sts1_card_ironclad_clash.md) — `sts1.card.ironclad.clash`
+- [顺劈斩 / Cleave](cards/sts1_card_ironclad_cleave.md) — `sts1.card.ironclad.cleave`
+- [金刚臂 / Clothesline](cards/sts1_card_ironclad_clothesline.md) — `sts1.card.ironclad.clothesline`
+- [自燃 / Combust](cards/sts1_card_ironclad_combust.md) — `sts1.card.ironclad.combust`
+- [腐化 / Corruption](cards/sts1_card_ironclad_corruption.md) — `sts1.card.ironclad.corruption`
+- [黑暗之拥 / Dark Embrace](cards/sts1_card_ironclad_dark_embrace.md) — `sts1.card.ironclad.dark_embrace`
+- [防御 / Defend](cards/sts1_card_ironclad_defend.md) — `sts1.card.ironclad.defend`
+- [恶魔形态 / Demon Form](cards/sts1_card_ironclad_demon_form.md) — `sts1.card.ironclad.demon_form`
+- [缴械 / Disarm](cards/sts1_card_ironclad_disarm.md) — `sts1.card.ironclad.disarm`
+- [双发 / Double Tap](cards/sts1_card_ironclad_double_tap.md) — `sts1.card.ironclad.double_tap`
+- [飞身踢 / Dropkick](cards/sts1_card_ironclad_dropkick.md) — `sts1.card.ironclad.dropkick`
+- [双持 / Dual Wield](cards/sts1_card_ironclad_dual_wield.md) — `sts1.card.ironclad.dual_wield`
+- [巩固 / Entrench](cards/sts1_card_ironclad_entrench.md) — `sts1.card.ironclad.entrench`
+- [进化 / Evolve](cards/sts1_card_ironclad_evolve.md) — `sts1.card.ironclad.evolve`
+- [发掘 / Exhume](cards/sts1_card_ironclad_exhume.md) — `sts1.card.ironclad.exhume`
+- [狂宴 / Feed](cards/sts1_card_ironclad_feed.md) — `sts1.card.ironclad.feed`
+- [无惧疼痛 / Feel No Pain](cards/sts1_card_ironclad_feel_no_pain.md) — `sts1.card.ironclad.feel_no_pain`
+- [恶魔之焰 / Fiend Fire](cards/sts1_card_ironclad_fiend_fire.md) — `sts1.card.ironclad.fiend_fire`
+- [火焰吐息 / Fire Breathing](cards/sts1_card_ironclad_fire_breathing.md) — `sts1.card.ironclad.fire_breathing`
+- [火焰屏障 / Flame Barrier](cards/sts1_card_ironclad_flame_barrier.md) — `sts1.card.ironclad.flame_barrier`
+- [活动肌肉 / Flex](cards/sts1_card_ironclad_flex.md) — `sts1.card.ironclad.flex`
+- [幽灵铠甲 / Ghostly Armor](cards/sts1_card_ironclad_ghostly_armor.md) — `sts1.card.ironclad.ghostly_armor`
+- [破灭 / Havoc](cards/sts1_card_ironclad_havoc.md) — `sts1.card.ironclad.havoc`
+- [头槌 / Headbutt](cards/sts1_card_ironclad_headbutt.md) — `sts1.card.ironclad.headbutt`
+- [重刃 / Heavy Blade](cards/sts1_card_ironclad_heavy_blade.md) — `sts1.card.ironclad.heavy_blade`
+- [御血术 / Hemokinesis](cards/sts1_card_ironclad_hemokinesis.md) — `sts1.card.ironclad.hemokinesis`
+- [燔祭 / Immolate](cards/sts1_card_ironclad_immolate.md) — `sts1.card.ironclad.immolate`
+- [岿然不动 / Impervious](cards/sts1_card_ironclad_impervious.md) — `sts1.card.ironclad.impervious`
+- [地狱之刃 / Infernal Blade](cards/sts1_card_ironclad_infernal_blade.md) — `sts1.card.ironclad.infernal_blade`
+- [燃烧 / Inflame](cards/sts1_card_ironclad_inflame.md) — `sts1.card.ironclad.inflame`
+- [威吓 / Intimidate](cards/sts1_card_ironclad_intimidate.md) — `sts1.card.ironclad.intimidate`
+- [铁斩波 / Iron Wave](cards/sts1_card_ironclad_iron_wave.md) — `sts1.card.ironclad.iron_wave`
+- [势不可挡 / Juggernaut](cards/sts1_card_ironclad_juggernaut.md) — `sts1.card.ironclad.juggernaut`
+- [突破极限 / Limit Break](cards/sts1_card_ironclad_limit_break.md) — `sts1.card.ironclad.limit_break`
+- [金属化 / Metallicize](cards/sts1_card_ironclad_metallicize.md) — `sts1.card.ironclad.metallicize`
+- [祭品 / Offering](cards/sts1_card_ironclad_offering.md) — `sts1.card.ironclad.offering`
+- [完美打击 / Perfected Strike](cards/sts1_card_ironclad_perfected_strike.md) — `sts1.card.ironclad.perfected_strike`
+- [剑柄打击 / Pommel Strike](cards/sts1_card_ironclad_pommel_strike.md) — `sts1.card.ironclad.pommel_strike`
+- [硬撑 / Power Through](cards/sts1_card_ironclad_power_through.md) — `sts1.card.ironclad.power_through`
+- [连续拳 / Pummel](cards/sts1_card_ironclad_pummel.md) — `sts1.card.ironclad.pummel`
+- [狂怒 / Rage](cards/sts1_card_ironclad_rage.md) — `sts1.card.ironclad.rage`
+- [暴走 / Rampage](cards/sts1_card_ironclad_rampage.md) — `sts1.card.ironclad.rampage`
+- [死亡收割 / Reaper](cards/sts1_card_ironclad_reaper.md) — `sts1.card.ironclad.reaper`
+- [无谋冲锋 / Reckless Charge](cards/sts1_card_ironclad_reckless_charge.md) — `sts1.card.ironclad.reckless_charge`
+- [撕裂 / Rupture](cards/sts1_card_ironclad_rupture.md) — `sts1.card.ironclad.rupture`
+- [灼热攻击 / Searing Blow](cards/sts1_card_ironclad_searing_blow.md) — `sts1.card.ironclad.searing_blow`
+- [重振精神 / Second Wind](cards/sts1_card_ironclad_second_wind.md) — `sts1.card.ironclad.second_wind`
+- [盛怒 / Seeing Red](cards/sts1_card_ironclad_seeing_red.md) — `sts1.card.ironclad.seeing_red`
+- [哨卫 / Sentinel](cards/sts1_card_ironclad_sentinel.md) — `sts1.card.ironclad.sentinel`
+- [断魂斩 / Sever Soul](cards/sts1_card_ironclad_sever_soul.md) — `sts1.card.ironclad.sever_soul`
+- [震荡波 / Shockwave](cards/sts1_card_ironclad_shockwave.md) — `sts1.card.ironclad.shockwave`
+- [耸肩无视 / Shrug It Off](cards/sts1_card_ironclad_shrug_it_off.md) — `sts1.card.ironclad.shrug_it_off`
+- [观察弱点 / Spot Weakness](cards/sts1_card_ironclad_spot_weakness.md) — `sts1.card.ironclad.spot_weakness`
+- [打击 / Strike](cards/sts1_card_ironclad_strike.md) — `sts1.card.ironclad.strike`
+- [飞剑回旋镖 / Sword Boomerang](cards/sts1_card_ironclad_sword_boomerang.md) — `sts1.card.ironclad.sword_boomerang`
+- [闪电霹雳 / Thunderclap](cards/sts1_card_ironclad_thunderclap.md) — `sts1.card.ironclad.thunderclap`
+- [坚毅 / True Grit](cards/sts1_card_ironclad_true_grit.md) — `sts1.card.ironclad.true_grit`
+- [双重打击 / Twin Strike](cards/sts1_card_ironclad_twin_strike.md) — `sts1.card.ironclad.twin_strike`
+- [上勾拳 / Uppercut](cards/sts1_card_ironclad_uppercut.md) — `sts1.card.ironclad.uppercut`
+- [战吼 / Warcry](cards/sts1_card_ironclad_warcry.md) — `sts1.card.ironclad.warcry`
+- [旋风斩 / Whirlwind](cards/sts1_card_ironclad_whirlwind.md) — `sts1.card.ironclad.whirlwind`
+- [狂野打击 / Wild Strike](cards/sts1_card_ironclad_wild_strike.md) — `sts1.card.ironclad.wild_strike`
+- [凌迟 / A Thousand Cuts](cards/sts1_card_silent_a_thousand_cuts.md) — `sts1.card.silent.a_thousand_cuts`
+- [精准 / Accuracy](cards/sts1_card_silent_accuracy.md) — `sts1.card.silent.accuracy`
+- [杂技 / Acrobatics](cards/sts1_card_silent_acrobatics.md) — `sts1.card.silent.acrobatics`
+- [肾上腺素 / Adrenaline](cards/sts1_card_silent_adrenaline.md) — `sts1.card.silent.adrenaline`
+- [余像 / After Image](cards/sts1_card_silent_after_image.md) — `sts1.card.silent.after_image`
+- [炼制药水 / Alchemize](cards/sts1_card_silent_alchemize.md) — `sts1.card.silent.alchemize`
+- [全力攻击 / All-Out Attack](cards/sts1_card_silent_all_out_attack.md) — `sts1.card.silent.all_out_attack`
+- [后空翻 / Backflip](cards/sts1_card_silent_backflip.md) — `sts1.card.silent.backflip`
+- [背刺 / Backstab](cards/sts1_card_silent_backstab.md) — `sts1.card.silent.backstab`
+- [灾祸 / Bane](cards/sts1_card_silent_bane.md) — `sts1.card.silent.bane`
+- [刀刃之舞 / Blade Dance](cards/sts1_card_silent_blade_dance.md) — `sts1.card.silent.blade_dance`
+- [残影 / Blur](cards/sts1_card_silent_blur.md) — `sts1.card.silent.blur`
+- [弹跳药瓶 / Bouncing Flask](cards/sts1_card_silent_bouncing_flask.md) — `sts1.card.silent.bouncing_flask`
+- [子弹时间 / Bullet Time](cards/sts1_card_silent_bullet_time.md) — `sts1.card.silent.bullet_time`
+- [爆发 / Burst](cards/sts1_card_silent_burst.md) — `sts1.card.silent.burst`
+- [计算下注 / Calculated Gamble](cards/sts1_card_silent_calculated_gamble.md) — `sts1.card.silent.calculated_gamble`
+- [铁蒺藜 / Caltrops](cards/sts1_card_silent_caltrops.md) — `sts1.card.silent.caltrops`
+- [催化剂 / Catalyst](cards/sts1_card_silent_catalyst.md) — `sts1.card.silent.catalyst`
+- [勒脖 / Choke](cards/sts1_card_silent_choke.md) — `sts1.card.silent.choke`
+- [斗篷与匕首 / Cloak and Dagger](cards/sts1_card_silent_cloak_and_dagger.md) — `sts1.card.silent.cloak_and_dagger`
+- [全神贯注 / Concentrate](cards/sts1_card_silent_concentrate.md) — `sts1.card.silent.concentrate`
+- [尸爆术 / Corpse Explosion](cards/sts1_card_silent_corpse_explosion.md) — `sts1.card.silent.corpse_explosion`
+- [致残毒云 / Crippling Cloud](cards/sts1_card_silent_crippling_cloud.md) — `sts1.card.silent.crippling_cloud`
+- [匕首雨 / Dagger Spray](cards/sts1_card_silent_dagger_spray.md) — `sts1.card.silent.dagger_spray`
+- [投掷匕首 / Dagger Throw](cards/sts1_card_silent_dagger_throw.md) — `sts1.card.silent.dagger_throw`
+- [冲刺 / Dash](cards/sts1_card_silent_dash.md) — `sts1.card.silent.dash`
+- [致命毒药 / Deadly Poison](cards/sts1_card_silent_deadly_poison.md) — `sts1.card.silent.deadly_poison`
+- [防御 / Defend](cards/sts1_card_silent_defend.md) — `sts1.card.silent.defend`
+- [偏折 / Deflect](cards/sts1_card_silent_deflect.md) — `sts1.card.silent.deflect`
+- [死吧死吧死吧 / Die Die Die](cards/sts1_card_silent_die_die_die.md) — `sts1.card.silent.die_die_die`
+- [声东击西 / Distraction](cards/sts1_card_silent_distraction.md) — `sts1.card.silent.distraction`
+- [闪躲翻滚 / Dodge and Roll](cards/sts1_card_silent_dodge_and_roll.md) — `sts1.card.silent.dodge_and_roll`
+- [双重存在 / Doppelganger](cards/sts1_card_silent_doppelganger.md) — `sts1.card.silent.doppelganger`
+- [无尽苦痛 / Endless Agony](cards/sts1_card_silent_endless_agony.md) — `sts1.card.silent.endless_agony`
+- [涂毒 / Envenom](cards/sts1_card_silent_envenom.md) — `sts1.card.silent.envenom`
+- [逃脱计划 / Escape Plan](cards/sts1_card_silent_escape_plan.md) — `sts1.card.silent.escape_plan`
+- [内脏切除 / Eviscerate](cards/sts1_card_silent_eviscerate.md) — `sts1.card.silent.eviscerate`
+- [独门技术 / Expertise](cards/sts1_card_silent_expertise.md) — `sts1.card.silent.expertise`
+- [终结技 / Finisher](cards/sts1_card_silent_finisher.md) — `sts1.card.silent.finisher`
+- [飞镖 / Flechettes](cards/sts1_card_silent_flechettes.md) — `sts1.card.silent.flechettes`
+- [飞膝 / Flying Knee](cards/sts1_card_silent_flying_knee.md) — `sts1.card.silent.flying_knee`
+- [灵动步法 / Footwork](cards/sts1_card_silent_footwork.md) — `sts1.card.silent.footwork`
+- [玻璃刀刃 / Glass Knife](cards/sts1_card_silent_glass_knife.md) — `sts1.card.silent.glass_knife`
+- [华丽收场 / Grand Finale](cards/sts1_card_silent_grand_finale.md) — `sts1.card.silent.grand_finale`
+- [足跟勾 / Heel Hook](cards/sts1_card_silent_heel_hook.md) — `sts1.card.silent.heel_hook`
+- [无限刀刃 / Infinite Blades](cards/sts1_card_silent_infinite_blades.md) — `sts1.card.silent.infinite_blades`
+- [扫腿 / Leg Sweep](cards/sts1_card_silent_leg_sweep.md) — `sts1.card.silent.leg_sweep`
+- [萎靡 / Malaise](cards/sts1_card_silent_malaise.md) — `sts1.card.silent.malaise`
+- [精巧刺击 / Masterful Stab](cards/sts1_card_silent_masterful_stab.md) — `sts1.card.silent.masterful_stab`
+- [中和 / Neutralize](cards/sts1_card_silent_neutralize.md) — `sts1.card.silent.neutralize`
+- [夜魇 / Nightmare](cards/sts1_card_silent_nightmare.md) — `sts1.card.silent.nightmare`
+- [毒雾 / Noxious Fumes](cards/sts1_card_silent_noxious_fumes.md) — `sts1.card.silent.noxious_fumes`
+- [抢占先机 / Outmaneuver](cards/sts1_card_silent_outmaneuver.md) — `sts1.card.silent.outmaneuver`
+- [幻影杀手 / Phantasmal Killer](cards/sts1_card_silent_phantasmal_killer.md) — `sts1.card.silent.phantasmal_killer`
+- [尖啸 / Piercing Wail](cards/sts1_card_silent_piercing_wail.md) — `sts1.card.silent.piercing_wail`
+- [带毒刺击 / Poisoned Stab](cards/sts1_card_silent_poisoned_stab.md) — `sts1.card.silent.poisoned_stab`
+- [猎杀者 / Predator](cards/sts1_card_silent_predator.md) — `sts1.card.silent.predator`
+- [早有准备 / Prepared](cards/sts1_card_silent_prepared.md) — `sts1.card.silent.prepared`
+- [快斩 / Quick Slash](cards/sts1_card_silent_quick_slash.md) — `sts1.card.silent.quick_slash`
+- [本能反应 / Reflex](cards/sts1_card_silent_reflex.md) — `sts1.card.silent.reflex`
+- [千穿百刺 / Riddle with Holes](cards/sts1_card_silent_riddle_with_holes.md) — `sts1.card.silent.riddle_with_holes`
+- [部署 / Setup](cards/sts1_card_silent_setup.md) — `sts1.card.silent.setup`
+- [串刺 / Skewer](cards/sts1_card_silent_skewer.md) — `sts1.card.silent.skewer`
+- [切割 / Slice](cards/sts1_card_silent_slice.md) — `sts1.card.silent.slice`
+- [隐秘打击 / Sneaky Strike](cards/sts1_card_silent_sneaky_strike.md) — `sts1.card.silent.sneaky_strike`
+- [钢铁风暴 / Storm of Steel](cards/sts1_card_silent_storm_of_steel.md) — `sts1.card.silent.storm_of_steel`
+- [打击 / Strike](cards/sts1_card_silent_strike.md) — `sts1.card.silent.strike`
+- [突然一拳 / Sucker Punch](cards/sts1_card_silent_sucker_punch.md) — `sts1.card.silent.sucker_punch`
+- [生存者 / Survivor](cards/sts1_card_silent_survivor.md) — `sts1.card.silent.survivor`
+- [战术大师 / Tactician](cards/sts1_card_silent_tactician.md) — `sts1.card.silent.tactician`
+- [恐怖 / Terror](cards/sts1_card_silent_terror.md) — `sts1.card.silent.terror`
+- [必备工具 / Tools of the Trade](cards/sts1_card_silent_tools_of_the_trade.md) — `sts1.card.silent.tools_of_the_trade`
+- [乾坤一掷 / Unload](cards/sts1_card_silent_unload.md) — `sts1.card.silent.unload`
+- [计划妥当 / Well-Laid Plans](cards/sts1_card_silent_well_laid_plans.md) — `sts1.card.silent.well_laid_plans`
+- [幽魂形态 / Wraith Form](cards/sts1_card_silent_wraith_form.md) — `sts1.card.silent.wraith_form`
+- [阿尔法 / Alpha](cards/sts1_card_watcher_alpha.md) — `sts1.card.watcher.alpha`
+- [战歌 / Battle Hymn](cards/sts1_card_watcher_battle_hymn.md) — `sts1.card.watcher.battle_hymn`
+- [渎神 / Blasphemy](cards/sts1_card_watcher_blasphemy.md) — `sts1.card.watcher.blasphemy`
+- [碰撞连击 / Bowling Bash](cards/sts1_card_watcher_bowling_bash.md) — `sts1.card.watcher.bowling_bash`
+- [光辉 / Brilliance](cards/sts1_card_watcher_brilliance.md) — `sts1.card.watcher.brilliance`
+- [改造现实 / Carve Reality](cards/sts1_card_watcher_carve_reality.md) — `sts1.card.watcher.carve_reality`
+- [收集 / Collect](cards/sts1_card_watcher_collect.md) — `sts1.card.watcher.collect`
+- [结末 / Conclude](cards/sts1_card_watcher_conclude.md) — `sts1.card.watcher.conclude`
+- [聚能成刃 / Conjure Blade](cards/sts1_card_watcher_conjure_blade.md) — `sts1.card.watcher.conjure_blade`
+- [供奉 / Consecrate](cards/sts1_card_watcher_consecrate.md) — `sts1.card.watcher.consecrate`
+- [渐强 / Crescendo](cards/sts1_card_watcher_crescendo.md) — `sts1.card.watcher.crescendo`
+- [粉碎关节 / Crush Joints](cards/sts1_card_watcher_crush_joints.md) — `sts1.card.watcher.crush_joints`
+- [斩破命运 / Cut Through Fate](cards/sts1_card_watcher_cut_through_fate.md) — `sts1.card.watcher.cut_through_fate`
+- [欺瞒现实 / Deceive Reality](cards/sts1_card_watcher_deceive_reality.md) — `sts1.card.watcher.deceive_reality`
+- [防御 / Defend](cards/sts1_card_watcher_defend.md) — `sts1.card.watcher.defend`
+- [机械降神 / Deus Ex Machina](cards/sts1_card_watcher_deus_ex_machina.md) — `sts1.card.watcher.deus_ex_machina`
+- [天人形态 / Deva Form](cards/sts1_card_watcher_deva_form.md) — `sts1.card.watcher.deva_form`
+- [虔信 / Devotion](cards/sts1_card_watcher_devotion.md) — `sts1.card.watcher.devotion`
+- [化体为空 / Empty Body](cards/sts1_card_watcher_empty_body.md) — `sts1.card.watcher.empty_body`
+- [化拳为空 / Empty Fist](cards/sts1_card_watcher_empty_fist.md) — `sts1.card.watcher.empty_fist`
+- [化智为空 / Empty Mind](cards/sts1_card_watcher_empty_mind.md) — `sts1.card.watcher.empty_mind`
+- [暴怒 / Eruption](cards/sts1_card_watcher_eruption.md) — `sts1.card.watcher.eruption`
+- [确立基础 / Establishment](cards/sts1_card_watcher_establishment.md) — `sts1.card.watcher.establishment`
+- [评估 / Evaluate](cards/sts1_card_watcher_evaluate.md) — `sts1.card.watcher.evaluate`
+- [斋戒 / Fasting](cards/sts1_card_watcher_fasting.md) — `sts1.card.watcher.fasting`
+- [不惧妖邪 / Fear No Evil](cards/sts1_card_watcher_fear_no_evil.md) — `sts1.card.watcher.fear_no_evil`
+- [疾风连击 / Flurry of Blows](cards/sts1_card_watcher_flurry_of_blows.md) — `sts1.card.watcher.flurry_of_blows`
+- [流云飞袖 / Flying Sleeves](cards/sts1_card_watcher_flying_sleeves.md) — `sts1.card.watcher.flying_sleeves`
+- [追击 / Follow-Up](cards/sts1_card_watcher_follow_up.md) — `sts1.card.watcher.follow_up`
+- [他山之石 / Foreign Influence](cards/sts1_card_watcher_foreign_influence.md) — `sts1.card.watcher.foreign_influence`
+- [先见之明 / Foresight](cards/sts1_card_watcher_foresight.md) — `sts1.card.watcher.foresight`
+- [停顿 / Halt](cards/sts1_card_watcher_halt.md) — `sts1.card.watcher.halt`
+- [义愤填膺 / Indignation](cards/sts1_card_watcher_indignation.md) — `sts1.card.watcher.indignation`
+- [内心宁静 / Inner Peace](cards/sts1_card_watcher_inner_peace.md) — `sts1.card.watcher.inner_peace`
+- [审判 / Judgment](cards/sts1_card_watcher_judgment.md) — `sts1.card.watcher.judgment`
+- [幸运一击 / Just Lucky](cards/sts1_card_watcher_just_lucky.md) — `sts1.card.watcher.just_lucky`
+- [勤学精进 / Lesson Learned](cards/sts1_card_watcher_lesson_learned.md) — `sts1.card.watcher.lesson_learned`
+- [如水 / Like Water](cards/sts1_card_watcher_like_water.md) — `sts1.card.watcher.like_water`
+- [操控现实 / Master Reality](cards/sts1_card_watcher_master_reality.md) — `sts1.card.watcher.master_reality`
+- [冥想 / Meditate](cards/sts1_card_watcher_meditate.md) — `sts1.card.watcher.meditate`
+- [心灵堡垒 / Mental Fortress](cards/sts1_card_watcher_mental_fortress.md) — `sts1.card.watcher.mental_fortress`
+- [涅槃 / Nirvana](cards/sts1_card_watcher_nirvana.md) — `sts1.card.watcher.nirvana`
+- [通晓万物 / Omniscience](cards/sts1_card_watcher_omniscience.md) — `sts1.card.watcher.omniscience`
+- [坚韧 / Perseverance](cards/sts1_card_watcher_perseverance.md) — `sts1.card.watcher.perseverance`
+- [祈祷 / Pray](cards/sts1_card_watcher_pray.md) — `sts1.card.watcher.pray`
+- [点穴 / Pressure Points](cards/sts1_card_watcher_pressure_points.md) — `sts1.card.watcher.pressure_points`
+- [五体投地 / Prostrate](cards/sts1_card_watcher_prostrate.md) — `sts1.card.watcher.prostrate`
+- [护身 / Protect](cards/sts1_card_watcher_protect.md) — `sts1.card.watcher.protect`
+- [诸神之黄昏 / Ragnarok](cards/sts1_card_watcher_ragnarok.md) — `sts1.card.watcher.ragnarok`
+- [立地升天 / Reach Heaven](cards/sts1_card_watcher_reach_heaven.md) — `sts1.card.watcher.reach_heaven`
+- [猛虎下山 / Rushdown](cards/sts1_card_watcher_rushdown.md) — `sts1.card.watcher.rushdown`
+- [圣洁 / Sanctity](cards/sts1_card_watcher_sanctity.md) — `sts1.card.watcher.sanctity`
+- [时之沙 / Sands of Time](cards/sts1_card_watcher_sands_of_time.md) — `sts1.card.watcher.sands_of_time`
+- [腰带抽打 / Sash Whip](cards/sts1_card_watcher_sash_whip.md) — `sts1.card.watcher.sash_whip`
+- [潦草急就 / Scrawl](cards/sts1_card_watcher_scrawl.md) — `sts1.card.watcher.scrawl`
+- [招牌技 / Signature Move](cards/sts1_card_watcher_signature_move.md) — `sts1.card.watcher.signature_move`
+- [怒火中烧 / Simmering Fury](cards/sts1_card_watcher_simmering_fury.md) — `sts1.card.watcher.simmering_fury`
+- [精神护盾 / Spirit Shield](cards/sts1_card_watcher_spirit_shield.md) — `sts1.card.watcher.spirit_shield`
+- [打击 / Strike](cards/sts1_card_watcher_strike.md) — `sts1.card.watcher.strike`
+- [研习 / Study](cards/sts1_card_watcher_study.md) — `sts1.card.watcher.study`
+- [旋身 / Swivel](cards/sts1_card_watcher_swivel.md) — `sts1.card.watcher.swivel`
+- [以手拒之 / Talk to the Hand](cards/sts1_card_watcher_talk_to_the_hand.md) — `sts1.card.watcher.talk_to_the_hand`
+- [发泄 / Tantrum](cards/sts1_card_watcher_tantrum.md) — `sts1.card.watcher.tantrum`
+- [天眼 / Third Eye](cards/sts1_card_watcher_third_eye.md) — `sts1.card.watcher.third_eye`
+- [安宁 / Tranquility](cards/sts1_card_watcher_tranquility.md) — `sts1.card.watcher.tranquility`
+- [腾跃 / Vault](cards/sts1_card_watcher_vault.md) — `sts1.card.watcher.vault`
+- [警惕 / Vigilance](cards/sts1_card_watcher_vigilance.md) — `sts1.card.watcher.vigilance`
+- [当头棒喝 / Wallop](cards/sts1_card_watcher_wallop.md) — `sts1.card.watcher.wallop`
+- [摆手 / Wave of the Hand](cards/sts1_card_watcher_wave_of_the_hand.md) — `sts1.card.watcher.wave_of_the_hand`
+- [迂回 / Weave](cards/sts1_card_watcher_weave.md) — `sts1.card.watcher.weave`
+- [回环踢 / Wheel Kick](cards/sts1_card_watcher_wheel_kick.md) — `sts1.card.watcher.wheel_kick`
+- [旋转打击 / Windmill Strike](cards/sts1_card_watcher_windmill_strike.md) — `sts1.card.watcher.windmill_strike`
+- [许愿 / Wish](cards/sts1_card_watcher_wish.md) — `sts1.card.watcher.wish`
+- [敬拜 / Worship](cards/sts1_card_watcher_worship.md) — `sts1.card.watcher.worship`
+- [火焰纹 / Wreath of Flame](cards/sts1_card_watcher_wreath_of_flame.md) — `sts1.card.watcher.wreath_of_flame`
+- [分配 / Allocate](cards/sts1_game_candidate_card_allocate.md) — `sts1.game.candidate.card.allocate`
+- [DEPRECATED Awakened Strike / DEPRECATED Awakened Strike](cards/sts1_game_candidate_card_awakenedstrike.md) — `sts1.game.candidate.card.awakenedstrike`
+- [下压踢 / Axe Kick](cards/sts1_game_candidate_card_axe_kick.md) — `sts1.game.candidate.card.axe_kick`
+- [DEPRECATED Big Brain / DEPRECATED Big Brain](cards/sts1_game_candidate_card_bigbrain.md) — `sts1.game.candidate.card.bigbrain`
+- [爆破射线 / Blaster](cards/sts1_game_candidate_card_blaster.md) — `sts1.game.candidate.card.blaster`
+- [DEPRECATED Blessed / DEPRECATED Blessed](cards/sts1_game_candidate_card_blessed.md) — `sts1.game.candidate.card.blessed`
+- [DEPRECATED Brilliance Aura / DEPRECATED Brilliance Aura](cards/sts1_game_candidate_card_brillianceaura.md) — `sts1.game.candidate.card.brillianceaura`
+- [平静 / Calm](cards/sts1_game_candidate_card_calm.md) — `sts1.game.candidate.card.calm`
+- [因果始终 / Causality](cards/sts1_game_candidate_card_causality.md) — `sts1.game.candidate.card.causality`
+- [明晰 / Clarity](cards/sts1_game_candidate_card_clarity.md) — `sts1.game.candidate.card.clarity`
+- [扫除邪恶 / Cleanse Evil](cards/sts1_game_candidate_card_cleanseevil.md) — `sts1.game.candidate.card.cleanseevil`
+- [DEPRECATED Crescent Kick / DEPRECATED Crescent Kick](cards/sts1_game_candidate_card_crescentkick.md) — `sts1.game.candidate.card.crescentkick`
+- [DEPRECATED 戒律 / DEPRECATED Discipline](cards/sts1_game_candidate_card_discipline.md) — `sts1.game.candidate.card.discipline`
+- [能量波动 / Energy Pulse](cards/sts1_game_candidate_card_energy_pulse.md) — `sts1.game.candidate.card.energy_pulse`
+- [DEPRECATED Experienced / DEPRECATED Experienced](cards/sts1_game_candidate_card_experienced.md) — `sts1.game.candidate.card.experienced`
+- [DEPRECATED Flame Mastery / DEPRECATED Flame Mastery](cards/sts1_game_candidate_card_flamemastery.md) — `sts1.game.candidate.card.flamemastery`
+- [DEPRECATED Flare / DEPRECATED Flare](cards/sts1_game_candidate_card_flare.md) — `sts1.game.candidate.card.flare`
+- [DEPRECATED 轻弹 / DEPRECATED Flick](cards/sts1_game_candidate_card_flick.md) — `sts1.game.candidate.card.flick`
+- [DEPRECATED Flicker / DEPRECATED Flicker](cards/sts1_game_candidate_card_flicker.md) — `sts1.game.candidate.card.flicker`
+- [DEPRECATED Flow / DEPRECATED Flow](cards/sts1_game_candidate_card_flow.md) — `sts1.game.candidate.card.flow`
+- [DEPRECATED 流转 / DEPRECATED Flow State](cards/sts1_game_candidate_card_flowstate.md) — `sts1.game.candidate.card.flowstate`
+- [通量电容器 / Flux Capacitor](cards/sts1_game_candidate_card_flux_capacitor.md) — `sts1.game.candidate.card.flux_capacitor`
+- [DEPRECATED Fury Aura / DEPRECATED Fury Aura](cards/sts1_game_candidate_card_furyaura.md) — `sts1.game.candidate.card.furyaura`
+- [躲藏 / Hide](cards/sts1_game_candidate_card_hide.md) — `sts1.game.candidate.card.hide`
+- [DEPRECATED Let Fate Decide / DEPRECATED Let Fate Decide](cards/sts1_game_candidate_card_letfatedecide.md) — `sts1.game.candidate.card.letfatedecide`
+- [精通 / Mastery](cards/sts1_game_candidate_card_mastery.md) — `sts1.game.candidate.card.mastery`
+- [DEPRECATED / DEPRECATED](cards/sts1_game_candidate_card_metaphysics.md) — `sts1.game.candidate.card.metaphysics`
+- [DEPRECATED Restraining Palm / DEPRECATED Restraining Palm](cards/sts1_game_candidate_card_palmthatrestrains.md) — `sts1.game.candidate.card.palmthatrestrains`
+- [和睦 / Peace](cards/sts1_game_candidate_card_peace.md) — `sts1.game.candidate.card.peace`
+- [DEPRECATED Perfected Form / DEPRECATED Perfected Form](cards/sts1_game_candidate_card_perfectedform.md) — `sts1.game.candidate.card.perfectedform`
+- [DEPRECATED Polymath / DEPRECATED Polymath](cards/sts1_game_candidate_card_polymath.md) — `sts1.game.candidate.card.polymath`
+- [DEPRECATED Prediction / DEPRECATED Prediction](cards/sts1_game_candidate_card_prediction.md) — `sts1.game.candidate.card.prediction`
+- [DEPRECATED Punishment / DEPRECATED Punishment](cards/sts1_game_candidate_card_punishment.md) — `sts1.game.candidate.card.punishment`
+- [DEPRECATED Retreating Hand / DEPRECATED Retreating Hand](cards/sts1_game_candidate_card_retreatinghand.md) — `sts1.game.candidate.card.retreatinghand`
+- [DEPRECATED Retribution / DEPRECATED Retribution](cards/sts1_game_candidate_card_retribution.md) — `sts1.game.candidate.card.retribution`
+- [DEPRECATED 宁静 / DEPRECATED Serenity](cards/sts1_game_candidate_card_serenity.md) — `sts1.game.candidate.card.serenity`
+- [DEPRECATED Shield / DEPRECATED Shield](cards/sts1_game_candidate_card_shield.md) — `sts1.game.candidate.card.shield`
+- [DEPRECATED Soothing Aura / DEPRECATED Soothing Aura](cards/sts1_game_candidate_card_soothingaura.md) — `sts1.game.candidate.card.soothingaura`
+- [跨步打击 / DEPRECATED Step and Strike](cards/sts1_game_candidate_card_stepandstrike.md) — `sts1.game.candidate.card.stepandstrike`
+- [DEPRECATED Sublime Slice / DEPRECATED Sublime Slice](cards/sts1_game_candidate_card_sublimeslice.md) — `sts1.game.candidate.card.sublimeslice`
+- [DEPRECATED Survey / DEPRECATED Survey](cards/sts1_game_candidate_card_survey.md) — `sts1.game.candidate.card.survey`
+- [DEPRECATED Swipe / DEPRECATED Swipe](cards/sts1_game_candidate_card_swipe.md) — `sts1.game.candidate.card.swipe`
+- [DEPRECATED Thwack / DEPRECATED Thwack](cards/sts1_game_candidate_card_thwack.md) — `sts1.game.candidate.card.thwack`
+- [DEPRECATED Torrent / DEPRECATED Torrent](cards/sts1_game_candidate_card_torrent.md) — `sts1.game.candidate.card.torrent`
+- [超凡脱俗 / Transcendence](cards/sts1_game_candidate_card_transcendence.md) — `sts1.game.candidate.card.transcendence`
+- [真知 / Truth](cards/sts1_game_candidate_card_truth.md) — `sts1.game.candidate.card.truth`
+- [彻悟 / Unraveling](cards/sts1_game_candidate_card_unraveling.md) — `sts1.game.candidate.card.unraveling`
+- [DEPRECATED Ward Aura / DEPRECATED Ward Aura](cards/sts1_game_candidate_card_wardaura.md) — `sts1.game.candidate.card.wardaura`
+- [DEPRECATED / DEPRECATED](cards/sts1_game_candidate_card_waveofthehand2.md) — `sts1.game.candidate.card.waveofthehand2`
+- [DEPRECATED Windup / DEPRECATED Windup](cards/sts1_game_candidate_card_windup.md) — `sts1.game.candidate.card.windup`
+- [睿智 / Wisdom](cards/sts1_game_candidate_card_wisdom.md) — `sts1.game.candidate.card.wisdom`
+- [愤怒 / Wrath](cards/sts1_game_candidate_card_wrath.md) — `sts1.game.candidate.card.wrath`
+
+### character
+
+- [故障机器人 / Defect](characters/sts1_character_defect.md) — `sts1.character.defect`
+- [铁甲战士 / Ironclad](characters/sts1_character_ironclad.md) — `sts1.character.ironclad`
+- [静默猎手 / Silent](characters/sts1_character_silent.md) — `sts1.character.silent`
+- [观者 / Watcher](characters/sts1_character_watcher.md) — `sts1.character.watcher`
+
+### concept
+
+- [进阶模式](mechanics/sts1_candidate_zh_concept_15432040.md) — `sts1.candidate.zh.concept.15432040`
+- [进入心脏战方式](mechanics/sts1_candidate_zh_concept_15463398.md) — `sts1.candidate.zh.concept.15463398`
+- [卡牌介绍](mechanics/sts1_candidate_zh_concept_15465872.md) — `sts1.candidate.zh.concept.15465872`
+- [药水介绍](mechanics/sts1_candidate_zh_concept_15465874.md) — `sts1.candidate.zh.concept.15465874`
+- [敌人意图](mechanics/sts1_candidate_zh_concept_15543865.md) — `sts1.candidate.zh.concept.15543865`
+- [卡牌奖励机制](mechanics/sts1_candidate_zh_concept_15715746.md) — `sts1.candidate.zh.concept.15715746`
+- [自定义介绍](mechanics/sts1_candidate_zh_concept_15722654.md) — `sts1.candidate.zh.concept.15722654`
+- [每日挑战介绍](mechanics/sts1_candidate_zh_concept_15722655.md) — `sts1.candidate.zh.concept.15722655`
+- [关于游戏](mechanics/sts1_candidate_zh_concept_530545.md) — `sts1.candidate.zh.concept.530545`
+- [成就列表一览](mechanics/sts1_candidate_zh_concept_9655623.md) — `sts1.candidate.zh.concept.9655623`
+
+### encounter
+
+- [第一幕：史莱姆老大 / Exordium: Slime Boss](encounters/sts1_encounter_exordium_slime_boss.md) — `sts1.encounter.exordium.slime_boss`
+
+### event
+
+- [高塔之心](events/sts1_candidate_zh_event_15408927.md) — `sts1.candidate.zh.event.15408927`
+- [留给自己的讯息 / A Note For Yourself](events/sts1_event_a_note_for_yourself.md) — `sts1.event.a_note_for_yourself`
+- [古老文字 / Ancient Writing](events/sts1_event_ancient_writing.md) — `sts1.event.ancient_writing`
+- [增益研究者 / Augmenter](events/sts1_event_augmenter.md) — `sts1.event.augmenter`
+- [大鱼 / Big Fish](events/sts1_event_big_fish.md) — `sts1.event.big_fish`
+- [篝火精灵 / Bonfire Spirits](events/sts1_event_bonfire_spirits.md) — `sts1.event.bonfire_spirits`
+- [幽灵会议 / Council of Ghosts](events/sts1_event_council_of_ghosts.md) — `sts1.event.council_of_ghosts`
+- [诅咒书本 / Cursed Tome](events/sts1_event_cursed_tome.md) — `sts1.event.cursed_tome`
+- [冒险者尸体 / Dead Adventurer](events/sts1_event_dead_adventurer.md) — `sts1.event.dead_adventurer`
+- [尖端设计师 / Designer In-Spire](events/sts1_event_designer_in_spire.md) — `sts1.event.designer_in_spire`
+- [复制祭坛 / Duplicator](events/sts1_event_duplicator.md) — `sts1.event.duplicator`
+- [换脸商 / Face Trader](events/sts1_event_face_trader.md) — `sts1.event.face_trader`
+- [坠落 / Falling](events/sts1_event_falling.md) — `sts1.event.falling`
+- [被遗忘的祭坛 / Forgotten Altar](events/sts1_event_forgotten_altar.md) — `sts1.event.forgotten_altar`
+- [金神像 / Golden Idol](events/sts1_event_golden_idol.md) — `sts1.event.golden_idol`
+- [金色神龛 / Golden Shrine](events/sts1_event_golden_shrine.md) — `sts1.event.golden_shrine`
+- [蘑菇 / Hypnotizing Colored Mushrooms](events/sts1_event_hypnotizing_colored_mushrooms.md) — `sts1.event.hypnotizing_colored_mushrooms`
+- [全知头骨 / Knowing Skull](events/sts1_event_knowing_skull.md) — `sts1.event.knowing_skull`
+- [实验室 / Lab](events/sts1_event_lab.md) — `sts1.event.lab`
+- [活墙壁 / Living Wall](events/sts1_event_living_wall.md) — `sts1.event.living_wall`
+- [蒙面强盗 / Masked Bandits](events/sts1_event_masked_bandits.md) — `sts1.event.masked_bandits`
+- [对对碰！ / Match and Keep](events/sts1_event_match_and_keep.md) — `sts1.event.match_and_keep`
+- [心灵绽放 / Mind Bloom](events/sts1_event_mind_bloom.md) — `sts1.event.mind_bloom`
+- [神秘圆球 / Mysterious Sphere](events/sts1_event_mysterious_sphere.md) — `sts1.event.mysterious_sphere`
+- [恩洛斯 / N'loth](events/sts1_event_n_loth.md) — `sts1.event.n_loth`
+- [老乞丐 / Old Beggar](events/sts1_event_old_beggar.md) — `sts1.event.old_beggar`
+- [邪恶熔炉 / Ominous Forge](events/sts1_event_ominous_forge.md) — `sts1.event.ominous_forge`
+- [流浪汉的恳求 / Pleading Vagrant](events/sts1_event_pleading_vagrant.md) — `sts1.event.pleading_vagrant`
+- [净化 / Purifier](events/sts1_event_purifier.md) — `sts1.event.purifier`
+- [破烂软泥 / Scrap Ooze](events/sts1_event_scrap_ooze.md) — `sts1.event.scrap_ooze`
+- [秘密传送门 / Secret Portal](events/sts1_event_secret_portal.md) — `sts1.event.secret_portal`
+- [感知石 / Sensory Stone](events/sts1_event_sensory_stone.md) — `sts1.event.sensory_stone`
+- [闪耀之光 / Shining Light](events/sts1_event_shining_light.md) — `sts1.event.shining_light`
+- [牧师 / The Cleric](events/sts1_event_the_cleric.md) — `sts1.event.the_cleric`
+- [竞技场 / The Colosseum](events/sts1_event_the_colosseum.md) — `sts1.event.the_colosseum`
+- [神圣泉水 / The Divine Fountain](events/sts1_event_the_divine_fountain.md) — `sts1.event.the_divine_fountain`
+- [长枪决斗 / The Joust](events/sts1_event_the_joust.md) — `sts1.event.the_joust`
+- [大图书馆 / The Library](events/sts1_event_the_library.md) — `sts1.event.the_library`
+- [陵墓 / The Mausoleum](events/sts1_event_the_mausoleum.md) — `sts1.event.the_mausoleum`
+- [摩艾石像 / The Moai Head](events/sts1_event_the_moai_head.md) — `sts1.event.the_moai_head`
+- [巢穴 / The Nest](events/sts1_event_the_nest.md) — `sts1.event.the_nest`
+- [蛇 / The Ssssserpent](events/sts1_event_the_ssssserpent.md) — `sts1.event.the_ssssserpent`
+- [蓝衣女子 / The Woman in Blue](events/sts1_event_the_woman_in_blue.md) — `sts1.event.the_woman_in_blue`
+- [红面具大人之墓 / Tomb of Lord Red Mask](events/sts1_event_tomb_of_lord_red_mask.md) — `sts1.event.tomb_of_lord_red_mask`
+- [转化神龛 / Transmogrifier](events/sts1_event_transmogrifier.md) — `sts1.event.transmogrifier`
+- [升级神龛 / Upgrade Shrine](events/sts1_event_upgrade_shrine.md) — `sts1.event.upgrade_shrine`
+- [吸血鬼 / Vampires](events/sts1_event_vampires.md) — `sts1.event.vampires`
+- [我们又见面了！ / We Meet Again!](events/sts1_event_we_meet_again.md) — `sts1.event.we_meet_again`
+- [变化大转盘 / Wheel of Change](events/sts1_event_wheel_of_change.md) — `sts1.event.wheel_of_change`
+- [蜿蜒走廊 / Winding Halls](events/sts1_event_winding_halls.md) — `sts1.event.winding_halls`
+- [翅膀雕像 / Wing Statue](events/sts1_event_wing_statue.md) — `sts1.event.wing_statue`
+- [黏液世界 / World of Goop](events/sts1_event_world_of_goop.md) — `sts1.event.world_of_goop`
+- [Proceed Screen / Proceed Screen](events/sts1_game_candidate_event_proceed_screen.md) — `sts1.game.candidate.event.proceed_screen`
+- [高塔之心 / Spire Heart](events/sts1_game_candidate_event_spire_heart.md) — `sts1.game.candidate.event.spire_heart`
+- [水坑难题 / Thinking with Puddles](events/sts1_game_candidate_event_thinking_with_puddles.md) — `sts1.game.candidate.event.thinking_with_puddles`
+
+### keyword
+
+- [人工制品 / artifact](keywords/sts1_game_candidate_keyword_artifact.md) — `sts1.game.candidate.keyword.artifact`
+- [灼伤 / burn](keywords/sts1_game_candidate_keyword_burn.md) — `sts1.game.candidate.keyword.burn`
+- [平静 / calm](keywords/sts1_game_candidate_keyword_calm.md) — `sts1.game.candidate.keyword.calm`
+- [混乱 / confused](keywords/sts1_game_candidate_keyword_confused.md) — `sts1.game.candidate.keyword.confused`
+- [诅咒 / curse](keywords/sts1_game_candidate_keyword_curse.md) — `sts1.game.candidate.keyword.curse`
+- [晕眩 / dazed](keywords/sts1_game_candidate_keyword_dazed.md) — `sts1.game.candidate.keyword.dazed`
+- [敏捷 / dexterity](keywords/sts1_game_candidate_keyword_dexterity.md) — `sts1.game.candidate.keyword.dexterity`
+- [神格 / divinity](keywords/sts1_game_candidate_keyword_divinity.md) — `sts1.game.candidate.keyword.divinity`
+- [斩杀 / fatal](keywords/sts1_game_candidate_keyword_fatal.md) — `sts1.game.candidate.keyword.fatal`
+- [脆弱 / frail](keywords/sts1_game_candidate_keyword_frail.md) — `sts1.game.candidate.keyword.frail`
+- [无实体 / intangible](keywords/sts1_game_candidate_keyword_intangible.md) — `sts1.game.candidate.keyword.intangible`
+- [跟踪锁定 / lock-on](keywords/sts1_game_candidate_keyword_lock_on.md) — `sts1.game.candidate.keyword.lock_on`
+- [锁定 / locked](keywords/sts1_game_candidate_keyword_locked.md) — `sts1.game.candidate.keyword.locked`
+- [opener / opener](keywords/sts1_game_candidate_keyword_opener.md) — `sts1.game.candidate.keyword.opener`
+- [中毒 / poison](keywords/sts1_game_candidate_keyword_poison.md) — `sts1.game.candidate.keyword.poison`
+- [真言 / mantra](keywords/sts1_game_candidate_keyword_prayer.md) — `sts1.game.candidate.keyword.prayer`
+- [再生 / regen](keywords/sts1_game_candidate_keyword_regen.md) — `sts1.game.candidate.keyword.regen`
+- [仪式 / ritual](keywords/sts1_game_candidate_keyword_ritual.md) — `sts1.game.candidate.keyword.ritual`
+- [小刀 / shiv](keywords/sts1_game_candidate_keyword_shiv.md) — `sts1.game.candidate.keyword.shiv`
+- [状态牌 / status](keywords/sts1_game_candidate_keyword_status.md) — `sts1.game.candidate.keyword.status`
+- [力量 / strength](keywords/sts1_game_candidate_keyword_strength.md) — `sts1.game.candidate.keyword.strength`
+- [打击 / strike](keywords/sts1_game_candidate_keyword_strike.md) — `sts1.game.candidate.keyword.strike`
+- [荆棘 / thorns](keywords/sts1_game_candidate_keyword_thorns.md) — `sts1.game.candidate.keyword.thorns`
+- [todo / todo](keywords/sts1_game_candidate_keyword_todo.md) — `sts1.game.candidate.keyword.todo`
+- [变化 / transform](keywords/sts1_game_candidate_keyword_transform.md) — `sts1.game.candidate.keyword.transform`
+- [未知 / unknown](keywords/sts1_game_candidate_keyword_unknown.md) — `sts1.game.candidate.keyword.unknown`
+- [升级 / upgrade](keywords/sts1_game_candidate_keyword_upgrade.md) — `sts1.game.candidate.keyword.upgrade`
+- [活力 / vigor](keywords/sts1_game_candidate_keyword_vigor.md) — `sts1.game.candidate.keyword.vigor`
+- [虚空 / void](keywords/sts1_game_candidate_keyword_void.md) — `sts1.game.candidate.keyword.void`
+- [易伤 / vulnerable](keywords/sts1_game_candidate_keyword_vulnerable.md) — `sts1.game.candidate.keyword.vulnerable`
+- [虚弱 / weak](keywords/sts1_game_candidate_keyword_weak.md) — `sts1.game.candidate.keyword.weak`
+- [伤口 / wound](keywords/sts1_game_candidate_keyword_wound.md) — `sts1.game.candidate.keyword.wound`
+- [愤怒 / wrath](keywords/sts1_game_candidate_keyword_wrath.md) — `sts1.game.candidate.keyword.wrath`
+- [格挡 / Block](keywords/sts1_keyword_block.md) — `sts1.keyword.block`
+- [Cards](keywords/sts1_keyword_cards.md) — `sts1.keyword.cards`
+- [生成 / Channel](keywords/sts1_keyword_channel.md) — `sts1.keyword.channel`
+- [黑暗 / Dark](keywords/sts1_keyword_dark.md) — `sts1.keyword.dark`
+- [Discard](keywords/sts1_keyword_discard.md) — `sts1.keyword.discard`
+- [Energy](keywords/sts1_keyword_energy.md) — `sts1.keyword.energy`
+- [虚无 / Ethereal](keywords/sts1_keyword_ethereal.md) — `sts1.keyword.ethereal`
+- [激发 / Evoke](keywords/sts1_keyword_evoke.md) — `sts1.keyword.evoke`
+- [消耗 / Exhaust](keywords/sts1_keyword_exhaust.md) — `sts1.keyword.exhaust`
+- [集中 / Focus](keywords/sts1_keyword_focus.md) — `sts1.keyword.focus`
+- [冰霜 / Frost](keywords/sts1_keyword_frost.md) — `sts1.keyword.frost`
+- [固有 / Innate](keywords/sts1_keyword_innate.md) — `sts1.keyword.innate`
+- [闪电 / Lightning](keywords/sts1_keyword_lightning.md) — `sts1.keyword.lightning`
+- [Orb Types](keywords/sts1_keyword_orb_types.md) — `sts1.keyword.orb_types`
+- [Orbs](keywords/sts1_keyword_orbs.md) — `sts1.keyword.orbs`
+- [等离子 / Plasma](keywords/sts1_keyword_plasma.md) — `sts1.keyword.plasma`
+- [保留 / Retain](keywords/sts1_keyword_retain.md) — `sts1.keyword.retain`
+- [预见 / Scry](keywords/sts1_keyword_scry.md) — `sts1.keyword.scry`
+- [Sources](keywords/sts1_keyword_sources.md) — `sts1.keyword.sources`
+- [姿态 / Stance](keywords/sts1_keyword_stance.md) — `sts1.keyword.stance`
+- [Triggers](keywords/sts1_keyword_triggers.md) — `sts1.keyword.triggers`
+- [不能被打出 / Unplayable](keywords/sts1_keyword_unplayable.md) — `sts1.keyword.unplayable`
+
+### mechanic
+
+- [商人](mechanics/sts1_candidate_zh_mechanic_15440709.md) — `sts1.candidate.zh.mechanic.15440709`
+- [宝箱房](mechanics/sts1_candidate_zh_mechanic_15463362.md) — `sts1.candidate.zh.mechanic.15463362`
+- [休息处](mechanics/sts1_candidate_zh_mechanic_15463366.md) — `sts1.candidate.zh.mechanic.15463366`
+- [怪物介绍](mechanics/sts1_candidate_zh_mechanic_15539744.md) — `sts1.candidate.zh.mechanic.15539744`
+- [问号房](mechanics/sts1_candidate_zh_mechanic_15624135.md) — `sts1.candidate.zh.mechanic.15624135`
+- [Acts](mechanics/sts1_mechanic_acts.md) — `sts1.mechanic.acts`
+- [Ascensions](mechanics/sts1_mechanic_ascensions.md) — `sts1.mechanic.ascensions`
+- [格挡 / Block](mechanics/sts1_mechanic_block.md) — `sts1.mechanic.block`
+- [Card Piles](mechanics/sts1_mechanic_card_piles.md) — `sts1.mechanic.card_piles`
+- [Cards](mechanics/sts1_mechanic_cards.md) — `sts1.mechanic.cards`
+- [Chests](mechanics/sts1_mechanic_chests.md) — `sts1.mechanic.chests`
+- [Enemy Turn](mechanics/sts1_mechanic_enemy_turn.md) — `sts1.mechanic.enemy_turn`
+- [消耗 / Exhaust](mechanics/sts1_mechanic_exhaust.md) — `sts1.mechanic.exhaust`
+- [Floors and Floor Types](mechanics/sts1_mechanic_floors_and_floor_types.md) — `sts1.mechanic.floors_and_floor_types`
+- [Gold](mechanics/sts1_mechanic_gold.md) — `sts1.mechanic.gold`
+- [Hand](mechanics/sts1_mechanic_hand.md) — `sts1.mechanic.hand`
+- [Hand Size Limit](mechanics/sts1_mechanic_hand_size_limit.md) — `sts1.mechanic.hand_size_limit`
+- [Health](mechanics/sts1_mechanic_health.md) — `sts1.mechanic.health`
+- [Keys](mechanics/sts1_mechanic_keys.md) — `sts1.mechanic.keys`
+- [Player Turn](mechanics/sts1_mechanic_player_turn.md) — `sts1.mechanic.player_turn`
+- [Potions](mechanics/sts1_mechanic_potions.md) — `sts1.mechanic.potions`
+- [Relics](mechanics/sts1_mechanic_relics.md) — `sts1.mechanic.relics`
+- [Transforming](mechanics/sts1_mechanic_transforming.md) — `sts1.mechanic.transforming`
+- [Turns](mechanics/sts1_mechanic_turns.md) — `sts1.mechanic.turns`
+- [Upgrading](mechanics/sts1_mechanic_upgrading.md) — `sts1.mechanic.upgrading`
+
+### monster
+
+- [百夫长](monsters/sts1_candidate_zh_monster_15436697.md) — `sts1.candidate.zh.monster.15436697`
+- [神秘术士](monsters/sts1_candidate_zh_monster_15436699.md) — `sts1.candidate.zh.monster.15436699`
+- [抱歉史莱姆 / Apology Slime](monsters/sts1_game_candidate_monster_apology_slime.md) — `sts1.game.candidate.monster.apology_slime`
+- [熊 / Bear](monsters/sts1_game_candidate_monster_banditbear.md) — `sts1.game.candidate.monster.banditbear`
+- [尖尖 / Pointy](monsters/sts1_game_candidate_monster_banditchild.md) — `sts1.game.candidate.monster.banditchild`
+- [罗密欧 / Romeo](monsters/sts1_game_candidate_monster_banditleader.md) — `sts1.game.candidate.monster.banditleader`
+- [铜球 / Orb](monsters/sts1_game_candidate_monster_bronzeorb.md) — `sts1.game.candidate.monster.bronzeorb`
+- [百夫长 / Centurion](monsters/sts1_game_candidate_monster_centurion.md) — `sts1.game.candidate.monster.centurion`
+- [匕首 / Dagger](monsters/sts1_game_candidate_monster_dagger.md) — `sts1.game.candidate.monster.dagger`
+- [烈焰球 / Fire Orb](monsters/sts1_game_candidate_monster_fireorb.md) — `sts1.game.candidate.monster.fireorb`
+- [烈焰蛮汉 / Flame Bruiser](monsters/sts1_game_candidate_monster_flamebruiser.md) — `sts1.game.candidate.monster.flamebruiser`
+- [神秘术士 / Mystic](monsters/sts1_game_candidate_monster_healer.md) — `sts1.game.candidate.monster.healer`
+- [HexaghostBody / HexaghostBody](monsters/sts1_game_candidate_monster_hexaghostbody.md) — `sts1.game.candidate.monster.hexaghostbody`
+- [HexaghostOrb / HexaghostOrb](monsters/sts1_game_candidate_monster_hexaghostorb.md) — `sts1.game.candidate.monster.hexaghostorb`
+- [人偶师 / Puppeteer](monsters/sts1_game_candidate_monster_puppeteer.md) — `sts1.game.candidate.monster.puppeteer`
+- [TheGuardianOrb / TheGuardianOrb](monsters/sts1_game_candidate_monster_theguardianorb.md) — `sts1.game.candidate.monster.theguardianorb`
+- [火炬头 / Torch Head](monsters/sts1_game_candidate_monster_torchhead.md) — `sts1.game.candidate.monster.torchhead`
+- [酸液史莱姆 / Acid Slimes](monsters/sts1_monster_acid_slimes.md) — `sts1.monster.acid_slimes`
+- [觉醒者 / Awakened One](monsters/sts1_monster_awakened_one.md) — `sts1.monster.awakened_one`
+- [扎人的书 / Book of Stabbing](monsters/sts1_monster_book_of_stabbing.md) — `sts1.monster.book_of_stabbing`
+- [铜制机械人偶 / Bronze Automaton](monsters/sts1_monster_bronze_automaton.md) — `sts1.monster.bronze_automaton`
+- [异鸟 / Byrd](monsters/sts1_monster_byrd.md) — `sts1.monster.byrd`
+- [Centurion and Mystic](monsters/sts1_monster_centurion_and_mystic.md) — `sts1.monster.centurion_and_mystic`
+- [被拣选者 / Chosen](monsters/sts1_monster_chosen.md) — `sts1.monster.chosen`
+- [腐化之心 / Corrupt Heart](monsters/sts1_monster_corrupt_heart.md) — `sts1.monster.corrupt_heart`
+- [邪教徒 / Cultist](monsters/sts1_monster_cultist.md) — `sts1.monster.cultist`
+- [小黑 / Darkling](monsters/sts1_monster_darkling.md) — `sts1.monster.darkling`
+- [八体/甜圈 / Donu and Deca](monsters/sts1_monster_donu_and_deca.md) — `sts1.monster.donu_and_deca`
+- [真菌兽 / Fungi Beast](monsters/sts1_monster_fungi_beast.md) — `sts1.monster.fungi_beast`
+- [大脑袋 / Giant Head](monsters/sts1_monster_giant_head.md) — `sts1.monster.giant_head`
+- [地精首领 / Gremlin Leader](monsters/sts1_monster_gremlin_leader.md) — `sts1.monster.gremlin_leader`
+- [地精大块头 / Gremlin Nob](monsters/sts1_monster_gremlin_nob.md) — `sts1.monster.gremlin_nob`
+- [地精小队 / Gremlins](monsters/sts1_monster_gremlins.md) — `sts1.monster.gremlins`
+- [六火亡魂 / Hexaghost](monsters/sts1_monster_hexaghost.md) — `sts1.monster.hexaghost`
+- [大颚虫 / Jaw Worm](monsters/sts1_monster_jaw_worm.md) — `sts1.monster.jaw_worm`
+- [乐加维林 / Lagavulin](monsters/sts1_monster_lagavulin.md) — `sts1.monster.lagavulin`
+- [抢劫的 / Looter](monsters/sts1_monster_looter.md) — `sts1.monster.looter`
+- [虱虫 / Louses](monsters/sts1_monster_louses.md) — `sts1.monster.louses`
+- [打劫的 / Mugger](monsters/sts1_monster_mugger.md) — `sts1.monster.mugger`
+- [天罚 / Nemesis](monsters/sts1_monster_nemesis.md) — `sts1.monster.nemesis`
+- [圆球行者 / Orb Walker](monsters/sts1_monster_orb_walker.md) — `sts1.monster.orb_walker`
+- [拜蛇术士 / Reptomancer](monsters/sts1_monster_reptomancer.md) — `sts1.monster.reptomancer`
+- [哨位(精英) / Sentry](monsters/sts1_monster_sentry.md) — `sts1.monster.sentry`
+- [三机械 / Shapes](monsters/sts1_monster_shapes.md) — `sts1.monster.shapes`
+- [带壳寄生怪 / Shelled Parasite](monsters/sts1_monster_shelled_parasite.md) — `sts1.monster.shelled_parasite`
+- [奴隶主 / Slavers](monsters/sts1_monster_slavers.md) — `sts1.monster.slavers`
+- [史莱姆老大 / Slime Boss](monsters/sts1_monster_slime_boss.md) — `sts1.monster.slime_boss`
+- [蛇花 / Snake Plant](monsters/sts1_monster_snake_plant.md) — `sts1.monster.snake_plant`
+- [异蛇 / Snecko](monsters/sts1_monster_snecko.md) — `sts1.monster.snecko`
+- [圆球守护者 / Spheric Guardian](monsters/sts1_monster_spheric_guardian.md) — `sts1.monster.spheric_guardian`
+- [尖刺史莱姆 / Spike Slimes](monsters/sts1_monster_spike_slimes.md) — `sts1.monster.spike_slimes`
+- [塔内增生组织 / Spire Growth](monsters/sts1_monster_spire_growth.md) — `sts1.monster.spire_growth`
+- [高塔之盾/高塔之矛 / Spire Shield and Spire Spear](monsters/sts1_monster_spire_shield_and_spire_spear.md) — `sts1.monster.spire_shield_and_spire_spear`
+- [奴隶头子 / Taskmaster](monsters/sts1_monster_taskmaster.md) — `sts1.monster.taskmaster`
+- [第一勇士 / The Champ](monsters/sts1_monster_the_champ.md) — `sts1.monster.the_champ`
+- [收藏家 / The Collector](monsters/sts1_monster_the_collector.md) — `sts1.monster.the_collector`
+- [守护者 / The Guardian](monsters/sts1_monster_the_guardian.md) — `sts1.monster.the_guardian`
+- [巨口 / The Maw](monsters/sts1_monster_the_maw.md) — `sts1.monster.the_maw`
+- [时间吞噬者 / Time Eater](monsters/sts1_monster_time_eater.md) — `sts1.monster.time_eater`
+- [倏忽魔 / Transient](monsters/sts1_monster_transient.md) — `sts1.monster.transient`
+- [扭曲团块 / Writhing Mass](monsters/sts1_monster_writhing_mass.md) — `sts1.monster.writhing_mass`
+
+### potion
+
+- [生命药水 / Health Potion](potions/sts1_game_candidate_potion_health_potion.md) — `sts1.game.candidate.potion.health_potion`
+- [药水栏 / Potion Slot](potions/sts1_game_candidate_potion_potion_slot.md) — `sts1.game.candidate.potion.potion_slot`
+- [仙馔密酒 / Ambrosia](potions/sts1_potion_ambrosia.md) — `sts1.potion.ambrosia`
+- [先古药水 / Ancient Potion](potions/sts1_potion_ancient_potion.md) — `sts1.potion.ancient_potion`
+- [攻击药水 / Attack Potion](potions/sts1_potion_attack_potion.md) — `sts1.potion.attack_potion`
+- [熔炉的祝福 / Blessing of the Forge](potions/sts1_potion_blessing_of_the_forge.md) — `sts1.potion.blessing_of_the_forge`
+- [格挡药水 / Block Potion](potions/sts1_potion_block_potion.md) — `sts1.potion.block_potion`
+- [鲜血药水 / Blood Potion](potions/sts1_potion_blood_potion.md) — `sts1.potion.blood_potion`
+- [瓶装奇迹 / Bottled Miracle](potions/sts1_potion_bottled_miracle.md) — `sts1.potion.bottled_miracle`
+- [无色药水 / Colorless Potion](potions/sts1_potion_colorless_potion.md) — `sts1.potion.colorless_potion`
+- [邪教徒药水 / Cultist Potion](potions/sts1_potion_cultist_potion.md) — `sts1.potion.cultist_potion`
+- [狡诈药水 / Cunning Potion](potions/sts1_potion_cunning_potion.md) — `sts1.potion.cunning_potion`
+- [敏捷药水 / Dexterity Potion](potions/sts1_potion_dexterity_potion.md) — `sts1.potion.dexterity_potion`
+- [精炼混沌 / Distilled Chaos](potions/sts1_potion_distilled_chaos.md) — `sts1.potion.distilled_chaos`
+- [复制药水 / Duplication Potion](potions/sts1_potion_duplication_potion.md) — `sts1.potion.duplication_potion`
+- [万灵药水 / Elixir](potions/sts1_potion_elixir.md) — `sts1.potion.elixir`
+- [能量药水 / Energy Potion](potions/sts1_potion_energy_potion.md) — `sts1.potion.energy_potion`
+- [混沌药水 / Entropic Brew](potions/sts1_potion_entropic_brew.md) — `sts1.potion.entropic_brew`
+- [暗之精华 / Essence of Darkness](potions/sts1_potion_essence_of_darkness.md) — `sts1.potion.essence_of_darkness`
+- [钢之精华 / Essence of Steel](potions/sts1_potion_essence_of_steel.md) — `sts1.potion.essence_of_steel`
+- [爆炸药水 / Explosive Potion](potions/sts1_potion_explosive_potion.md) — `sts1.potion.explosive_potion`
+- [瓶中精灵 / Fairy in a Bottle](potions/sts1_potion_fairy_in_a_bottle.md) — `sts1.potion.fairy_in_a_bottle`
+- [恐惧药水 / Fear Potion](potions/sts1_potion_fear_potion.md) — `sts1.potion.fear_potion`
+- [火焰药水 / Fire Potion](potions/sts1_potion_fire_potion.md) — `sts1.potion.fire_potion`
+- [类固醇药水 / Flex Potion](potions/sts1_potion_flex_potion.md) — `sts1.potion.flex_potion`
+- [集中药水 / Focus Potion](potions/sts1_potion_focus_potion.md) — `sts1.potion.focus_potion`
+- [果汁 / Fruit Juice](potions/sts1_potion_fruit_juice.md) — `sts1.potion.fruit_juice`
+- [赌徒特酿 / Gambler's Brew](potions/sts1_potion_gambler_s_brew.md) — `sts1.potion.gambler_s_brew`
+- [罐装幽灵 / Ghost in a Jar](potions/sts1_potion_ghost_in_a_jar.md) — `sts1.potion.ghost_in_a_jar`
+- [铁之心 / Heart of Iron](potions/sts1_potion_heart_of_iron.md) — `sts1.potion.heart_of_iron`
+- [流动铜液 / Liquid Bronze](potions/sts1_potion_liquid_bronze.md) — `sts1.potion.liquid_bronze`
+- [液态记忆 / Liquid Memories](potions/sts1_potion_liquid_memories.md) — `sts1.potion.liquid_memories`
+- [毒药水 / Poison Potion](potions/sts1_potion_poison_potion.md) — `sts1.potion.poison_potion`
+- [扩容药水 / Potion of Capacity](potions/sts1_potion_potion_of_capacity.md) — `sts1.potion.potion_of_capacity`
+- [能力药水 / Power Potion](potions/sts1_potion_power_potion.md) — `sts1.potion.power_potion`
+- [再生药水 / Regen Potion](potions/sts1_potion_regen_potion.md) — `sts1.potion.regen_potion`
+- [技能药水 / Skill Potion](potions/sts1_potion_skill_potion.md) — `sts1.potion.skill_potion`
+- [烟雾弹 / Smoke Bomb](potions/sts1_potion_smoke_bomb.md) — `sts1.potion.smoke_bomb`
+- [异蛇之油 / Snecko Oil](potions/sts1_potion_snecko_oil.md) — `sts1.potion.snecko_oil`
+- [速度药水 / Speed Potion](potions/sts1_potion_speed_potion.md) — `sts1.potion.speed_potion`
+- [姿态药水 / Stance Potion](potions/sts1_potion_stance_potion.md) — `sts1.potion.stance_potion`
+- [力量药水 / Strength Potion](potions/sts1_potion_strength_potion.md) — `sts1.potion.strength_potion`
+- [迅捷药水 / Swift Potion](potions/sts1_potion_swift_potion.md) — `sts1.potion.swift_potion`
+- [虚弱药水 / Weak Potion](potions/sts1_potion_weak.md) — `sts1.potion.weak`
+
+### relic
+
+- [变色龙戒指 / Chameleon Ring](relics/sts1_game_candidate_relic_chameleon_ring.md) — `sts1.game.candidate.relic.chameleon_ring`
+- [Derp Rock / Derp Rock](relics/sts1_game_candidate_relic_derp_rock.md) — `sts1.game.candidate.relic.derp_rock`
+- [鉴识单片眼镜 / Discerning Monocle](relics/sts1_game_candidate_relic_discerning_monocle.md) — `sts1.game.candidate.relic.discerning_monocle`
+- [DEPRECATED符文十二面体 / DEPRECATED Runic Dodecahedron](relics/sts1_game_candidate_relic_dodecahedron.md) — `sts1.game.candidate.relic.dodecahedron`
+- [活刀刃 / Living Blade](relics/sts1_game_candidate_relic_living_blade.md) — `sts1.game.candidate.relic.living_blade`
+- [Nullstone Periapt / Nullstone Periapt](relics/sts1_game_candidate_relic_nullstone_periapt.md) — `sts1.game.candidate.relic.nullstone_periapt`
+- [测试遗物 1](relics/sts1_game_candidate_relic_test_1.md) — `sts1.game.candidate.relic.test_1`
+- [测试遗物 2](relics/sts1_game_candidate_relic_test_2.md) — `sts1.game.candidate.relic.test_2`
+- [测试遗物 3](relics/sts1_game_candidate_relic_test_3.md) — `sts1.game.candidate.relic.test_3`
+- [测试遗物 4](relics/sts1_game_candidate_relic_test_4.md) — `sts1.game.candidate.relic.test_4`
+- [测试遗物 5](relics/sts1_game_candidate_relic_test_5.md) — `sts1.game.candidate.relic.test_5`
+- [测试遗物 6](relics/sts1_game_candidate_relic_test_6.md) — `sts1.game.candidate.relic.test_6`
+- [测试遗物 7](relics/sts1_game_candidate_relic_test_7.md) — `sts1.game.candidate.relic.test_7`
+- [测试遗物 8](relics/sts1_game_candidate_relic_test_8.md) — `sts1.game.candidate.relic.test_8`
+- [阴 / DEPRECATED Yin](relics/sts1_game_candidate_relic_yin.md) — `sts1.game.candidate.relic.yin`
+- [赤牛 / Akabeko](relics/sts1_relic_akabeko.md) — `sts1.relic.akabeko`
+- [锚 / Anchor](relics/sts1_relic_anchor.md) — `sts1.relic.anchor`
+- [古茶具套装 / Ancient Tea Set](relics/sts1_relic_ancient_tea_set.md) — `sts1.relic.ancient_tea_set`
+- [孙子兵法 / Art of War](relics/sts1_relic_art_of_war.md) — `sts1.relic.art_of_war`
+- [星盘 / Astrolabe](relics/sts1_relic_astrolabe.md) — `sts1.relic.astrolabe`
+- [弹珠袋 / Bag of Marbles](relics/sts1_relic_bag_of_marbles.md) — `sts1.relic.bag_of_marbles`
+- [准备背包 / Bag of Preparation](relics/sts1_relic_bag_of_preparation.md) — `sts1.relic.bag_of_preparation`
+- [鸟面瓮 / Bird-Faced Urn](relics/sts1_relic_bird_faced_urn.md) — `sts1.relic.bird_faced_urn`
+- [黑暗之血 / Black Blood](relics/sts1_relic_black_blood.md) — `sts1.relic.black_blood`
+- [黑星 / Black Star](relics/sts1_relic_black_star.md) — `sts1.relic.black_star`
+- [小血瓶 / Blood Vial](relics/sts1_relic_blood_vial.md) — `sts1.relic.blood_vial`
+- [鲜血神像 / Bloody Idol](relics/sts1_relic_bloody_idol.md) — `sts1.relic.bloody_idol`
+- [蓝蜡烛 / Blue Candle](relics/sts1_relic_blue_candle.md) — `sts1.relic.blue_candle`
+- [瓶装火焰 / Bottled Flame](relics/sts1_relic_bottled_flame.md) — `sts1.relic.bottled_flame`
+- [瓶装闪电 / Bottled Lightning](relics/sts1_relic_bottled_lightning.md) — `sts1.relic.bottled_lightning`
+- [瓶装旋风 / Bottled Tornado](relics/sts1_relic_bottled_tornado.md) — `sts1.relic.bottled_tornado`
+- [硫磺 / Brimstone](relics/sts1_relic_brimstone.md) — `sts1.relic.brimstone`
+- [铜制鳞片 / Bronze Scales](relics/sts1_relic_bronze_scales.md) — `sts1.relic.bronze_scales`
+- [燃烧之血 / Burning Blood](relics/sts1_relic_burning_blood.md) — `sts1.relic.burning_blood`
+- [破碎金冠 / Busted Crown](relics/sts1_relic_busted_crown.md) — `sts1.relic.busted_crown`
+- [外卡钳 / Calipers](relics/sts1_relic_calipers.md) — `sts1.relic.calipers`
+- [召唤铃铛 / Calling Bell](relics/sts1_relic_calling_bell.md) — `sts1.relic.calling_bell`
+- [舵盘 / Captain's Wheel](relics/sts1_relic_captain_s_wheel.md) — `sts1.relic.captain_s_wheel`
+- [大锅 / Cauldron](relics/sts1_relic_cauldron.md) — `sts1.relic.cauldron`
+- [百年积木 / Centennial Puzzle](relics/sts1_relic_centennial_puzzle.md) — `sts1.relic.centennial_puzzle`
+- [陶瓷小鱼 / Ceramic Fish](relics/sts1_relic_ceramic_fish.md) — `sts1.relic.ceramic_fish`
+- [冠军腰带 / Champion Belt](relics/sts1_relic_champion_belt.md) — `sts1.relic.champion_belt`
+- [卡戎之灰 / Charon's Ashes](relics/sts1_relic_charon_s_ashes.md) — `sts1.relic.charon_s_ashes`
+- [化学物X / Chemical X](relics/sts1_relic_chemical_x.md) — `sts1.relic.chemical_x`
+- [头环 / Circlet](relics/sts1_relic_circlet.md) — `sts1.relic.circlet`
+- [斗篷扣 / Cloak Clasp](relics/sts1_relic_cloak_clasp.md) — `sts1.relic.cloak_clasp`
+- [工艺机械钟表 / Clockwork Souvenir](relics/sts1_relic_clockwork_souvenir.md) — `sts1.relic.clockwork_souvenir`
+- [咖啡滤杯 / Coffee Dripper](relics/sts1_relic_coffee_dripper.md) — `sts1.relic.coffee_dripper`
+- [破损核心 / Cracked Core](relics/sts1_relic_cracked_core.md) — `sts1.relic.cracked_core`
+- [邪教徒头套 / Cultist Headpiece](relics/sts1_relic_cultist_headpiece.md) — `sts1.relic.cultist_headpiece`
+- [诅咒钥匙 / Cursed Key](relics/sts1_relic_cursed_key.md) — `sts1.relic.cursed_key`
+- [手摇鼓 / Damaru](relics/sts1_relic_damaru.md) — `sts1.relic.damaru`
+- [黑石护符 / Darkstone Periapt](relics/sts1_relic_darkstone_periapt.md) — `sts1.relic.darkstone_periapt`
+- [数据磁盘 / Data Disk](relics/sts1_relic_data_disk.md) — `sts1.relic.data_disk`
+- [枯木树枝 / Dead Branch](relics/sts1_relic_dead_branch.md) — `sts1.relic.dead_branch`
+- [多利之镜 / Dolly's Mirror](relics/sts1_relic_dolly_s_mirror.md) — `sts1.relic.dolly_s_mirror`
+- [捕梦网 / Dream Catcher](relics/sts1_relic_dream_catcher.md) — `sts1.relic.dream_catcher`
+- [毒巫娃娃 / Du-Vu Doll](relics/sts1_relic_du_vu_doll.md) — `sts1.relic.du_vu_doll`
+- [两仪 / Duality](relics/sts1_relic_duality.md) — `sts1.relic.duality`
+- [灵体外质 / Ectoplasm](relics/sts1_relic_ectoplasm.md) — `sts1.relic.ectoplasm`
+- [情感芯片 / Emotion Chip](relics/sts1_relic_emotion_chip.md) — `sts1.relic.emotion_chip`
+- [空鸟笼 / Empty Cage](relics/sts1_relic_empty_cage.md) — `sts1.relic.empty_cage`
+- [英雄宝典 / Enchiridion](relics/sts1_relic_enchiridion.md) — `sts1.relic.enchiridion`
+- [永恒羽毛 / Eternal Feather](relics/sts1_relic_eternal_feather.md) — `sts1.relic.eternal_feather`
+- [牧师的脸 / Face of Cleric](relics/sts1_relic_face_of_cleric.md) — `sts1.relic.face_of_cleric`
+- [螺旋化石 / Fossilized Helix](relics/sts1_relic_fossilized_helix.md) — `sts1.relic.fossilized_helix`
+- [冻结核心 / Frozen Core](relics/sts1_relic_frozen_core.md) — `sts1.relic.frozen_core`
+- [冻结之蛋 / Frozen Egg](relics/sts1_relic_frozen_egg.md) — `sts1.relic.frozen_egg`
+- [冻结之眼 / Frozen Eye](relics/sts1_relic_frozen_eye.md) — `sts1.relic.frozen_eye`
+- [融合之锤 / Fusion Hammer](relics/sts1_relic_fusion_hammer.md) — `sts1.relic.fusion_hammer`
+- [赌博筹码 / Gambling Chip](relics/sts1_relic_gambling_chip.md) — `sts1.relic.gambling_chip`
+- [生姜 / Ginger](relics/sts1_relic_ginger.md) — `sts1.relic.ginger`
+- [壶铃 / Girya](relics/sts1_relic_girya.md) — `sts1.relic.girya`
+- [镀金缆线 / Gold-Plated Cables](relics/sts1_relic_gold_plated_cables.md) — `sts1.relic.gold_plated_cables`
+- [黄金眼 / Golden Eye](relics/sts1_relic_golden_eye.md) — `sts1.relic.golden_eye`
+- [金神像 / Golden Idol](relics/sts1_relic_golden_idol.md) — `sts1.relic.golden_idol`
+- [地精之角 / Gremlin Horn](relics/sts1_relic_gremlin_horn.md) — `sts1.relic.gremlin_horn`
+- [地精容貌 / Gremlin Visage](relics/sts1_relic_gremlin_visage.md) — `sts1.relic.gremlin_visage`
+- [手钻 / Hand Drill](relics/sts1_relic_hand_drill.md) — `sts1.relic.hand_drill`
+- [开心小花 / Happy Flower](relics/sts1_relic_happy_flower.md) — `sts1.relic.happy_flower`
+- [圣水 / Holy Water](relics/sts1_relic_holy_water.md) — `sts1.relic.holy_water`
+- [船夹板 / Horn Cleat](relics/sts1_relic_horn_cleat.md) — `sts1.relic.horn_cleat`
+- [悬浮风筝 / Hovering Kite](relics/sts1_relic_hovering_kite.md) — `sts1.relic.hovering_kite`
+- [冰淇淋 / Ice Cream](relics/sts1_relic_ice_cream.md) — `sts1.relic.ice_cream`
+- [香炉 / Incense Burner](relics/sts1_relic_incense_burner.md) — `sts1.relic.incense_burner`
+- [墨水瓶 / Ink Bottle](relics/sts1_relic_ink_bottle.md) — `sts1.relic.ink_bottle`
+- [机械臂 / Inserter](relics/sts1_relic_inserter.md) — `sts1.relic.inserter`
+- [佛珠手链 / Juzu Bracelet](relics/sts1_relic_juzu_bracelet.md) — `sts1.relic.juzu_bracelet`
+- [苦无 / Kunai](relics/sts1_relic_kunai.md) — `sts1.relic.kunai`
+- [灯笼 / Lantern](relics/sts1_relic_lantern.md) — `sts1.relic.lantern`
+- [李家华夫饼 / Lee's Waffle](relics/sts1_relic_lee_s_waffle.md) — `sts1.relic.lee_s_waffle`
+- [开信刀 / Letter Opener](relics/sts1_relic_letter_opener.md) — `sts1.relic.letter_opener`
+- [蜥蜴尾巴 / Lizard Tail](relics/sts1_relic_lizard_tail.md) — `sts1.relic.lizard_tail`
+- [魔法花 / Magic Flower](relics/sts1_relic_magic_flower.md) — `sts1.relic.magic_flower`
+- [芒果 / Mango](relics/sts1_relic_mango.md) — `sts1.relic.mango`
+- [痛楚印记 / Mark of Pain](relics/sts1_relic_mark_of_pain.md) — `sts1.relic.mark_of_pain`
+- [绽放印记 / Mark of the Bloom](relics/sts1_relic_mark_of_the_bloom.md) — `sts1.relic.mark_of_the_bloom`
+- [套娃 / Matryoshka](relics/sts1_relic_matryoshka.md) — `sts1.relic.matryoshka`
+- [巨口储蓄罐 / Maw Bank](relics/sts1_relic_maw_bank.md) — `sts1.relic.maw_bank`
+- [餐券 / Meal Ticket](relics/sts1_relic_meal_ticket.md) — `sts1.relic.meal_ticket`
+- [带骨肉 / Meat on the Bone](relics/sts1_relic_meat_on_the_bone.md) — `sts1.relic.meat_on_the_bone`
+- [医药箱 / Medical Kit](relics/sts1_relic_medical_kit.md) — `sts1.relic.medical_kit`
+- [美琅脂 / Melange](relics/sts1_relic_melange.md) — `sts1.relic.melange`
+- [会员卡 / Membership Card](relics/sts1_relic_membership_card.md) — `sts1.relic.membership_card`
+- [水银沙漏 / Mercury Hourglass](relics/sts1_relic_mercury_hourglass.md) — `sts1.relic.mercury_hourglass`
+- [熔火之蛋 / Molten Egg](relics/sts1_relic_molten_egg.md) — `sts1.relic.molten_egg`
+- [干瘪之手 / Mummified Hand](relics/sts1_relic_mummified_hand.md) — `sts1.relic.mummified_hand`
+- [突变之力 / Mutagenic Strength](relics/sts1_relic_mutagenic_strength.md) — `sts1.relic.mutagenic_strength`
+- [恩洛斯的礼物 / N'loth's Gift](relics/sts1_relic_n_loth_s_gift.md) — `sts1.relic.n_loth_s_gift`
+- [恩洛斯的饥饿的脸 / N'loth's Hungry Face](relics/sts1_relic_n_loth_s_hungry_face.md) — `sts1.relic.n_loth_s_hungry_face`
+- [死灵之书 / Necronomicon](relics/sts1_relic_necronomicon.md) — `sts1.relic.necronomicon`
+- [涅奥的悲恸 / Neow's Lament](relics/sts1_relic_neow_s_lament.md) — `sts1.relic.neow_s_lament`
+- [尼利的宝典 / Nilry's Codex](relics/sts1_relic_nilry_s_codex.md) — `sts1.relic.nilry_s_codex`
+- [忍术卷轴 / Ninja Scroll](relics/sts1_relic_ninja_scroll.md) — `sts1.relic.ninja_scroll`
+- [核能电池 / Nuclear Battery](relics/sts1_relic_nuclear_battery.md) — `sts1.relic.nuclear_battery`
+- [双节棍 / Nunchaku](relics/sts1_relic_nunchaku.md) — `sts1.relic.nunchaku`
+- [奇怪蘑菇 / Odd Mushroom](relics/sts1_relic_odd_mushroom.md) — `sts1.relic.odd_mushroom`
+- [意外光滑的石头 / Oddly Smooth Stone](relics/sts1_relic_oddly_smooth_stone.md) — `sts1.relic.oddly_smooth_stone`
+- [古钱币 / Old Coin](relics/sts1_relic_old_coin.md) — `sts1.relic.old_coin`
+- [御守 / Omamori](relics/sts1_relic_omamori.md) — `sts1.relic.omamori`
+- [橙色药丸 / Orange Pellets](relics/sts1_relic_orange_pellets.md) — `sts1.relic.orange_pellets`
+- [奥利哈钢 / Orichalcum](relics/sts1_relic_orichalcum.md) — `sts1.relic.orichalcum`
+- [精致折扇 / Ornamental Fan](relics/sts1_relic_ornamental_fan.md) — `sts1.relic.ornamental_fan`
+- [星系仪 / Orrery](relics/sts1_relic_orrery.md) — `sts1.relic.orrery`
+- [潘多拉的魔盒 / Pandora's Box](relics/sts1_relic_pandora_s_box.md) — `sts1.relic.pandora_s_box`
+- [缩放仪 / Pantograph](relics/sts1_relic_pantograph.md) — `sts1.relic.pantograph`
+- [纸鹤 / Paper Krane](relics/sts1_relic_paper_krane.md) — `sts1.relic.paper_krane`
+- [纸蛙 / Paper Phrog](relics/sts1_relic_paper_phrog.md) — `sts1.relic.paper_phrog`
+- [宁静烟斗 / Peace Pipe](relics/sts1_relic_peace_pipe.md) — `sts1.relic.peace_pipe`
+- [梨子 / Pear](relics/sts1_relic_pear.md) — `sts1.relic.pear`
+- [钢笔尖 / Pen Nib](relics/sts1_relic_pen_nib.md) — `sts1.relic.pen_nib`
+- [贤者之石 / Philosopher's Stone](relics/sts1_relic_philosopher_s_stone.md) — `sts1.relic.philosopher_s_stone`
+- [怀表 / Pocketwatch](relics/sts1_relic_pocketwatch.md) — `sts1.relic.pocketwatch`
+- [药水腰带 / Potion Belt](relics/sts1_relic_potion_belt.md) — `sts1.relic.potion_belt`
+- [转经轮 / Prayer Wheel](relics/sts1_relic_prayer_wheel.md) — `sts1.relic.prayer_wheel`
+- [昆虫标本 / Preserved Insect](relics/sts1_relic_preserved_insect.md) — `sts1.relic.preserved_insect`
+- [棱镜碎片 / Prismatic Shard](relics/sts1_relic_prismatic_shard.md) — `sts1.relic.prismatic_shard`
+- [至纯之水 / Pure Water](relics/sts1_relic_pure_water.md) — `sts1.relic.pure_water`
+- [问号牌 / Question Card](relics/sts1_relic_question_card.md) — `sts1.relic.question_card`
+- [红头环 / Red Circlet](relics/sts1_relic_red_circlet.md) — `sts1.relic.red_circlet`
+- [红面具 / Red Mask](relics/sts1_relic_red_mask.md) — `sts1.relic.red_mask`
+- [红头骨 / Red Skull](relics/sts1_relic_red_skull.md) — `sts1.relic.red_skull`
+- [皇家枕头 / Regal Pillow](relics/sts1_relic_regal_pillow.md) — `sts1.relic.regal_pillow`
+- [长蛇戒指 / Ring of the Serpent](relics/sts1_relic_ring_of_the_serpent.md) — `sts1.relic.ring_of_the_serpent`
+- [符文电容器 / Runic Capacitor](relics/sts1_relic_runic_capacitor.md) — `sts1.relic.runic_capacitor`
+- [符文立方体 / Runic Cube](relics/sts1_relic_runic_cube.md) — `sts1.relic.runic_cube`
+- [符文圆顶 / Runic Dome](relics/sts1_relic_runic_dome.md) — `sts1.relic.runic_dome`
+- [符文金字塔 / Runic Pyramid](relics/sts1_relic_runic_pyramid.md) — `sts1.relic.runic_pyramid`
+- [神圣树皮 / Sacred Bark](relics/sts1_relic_sacred_bark.md) — `sts1.relic.sacred_bark`
+- [自成型黏土 / Self-Forming Clay](relics/sts1_relic_self_forming_clay.md) — `sts1.relic.self_forming_clay`
+- [铲子 / Shovel](relics/sts1_relic_shovel.md) — `sts1.relic.shovel`
+- [手里剑 / Shuriken](relics/sts1_relic_shuriken.md) — `sts1.relic.shuriken`
+- [颂钵 / Singing Bowl](relics/sts1_relic_singing_bowl.md) — `sts1.relic.singing_bowl`
+- [奴隶贩子颈环 / Slaver's Collar](relics/sts1_relic_slaver_s_collar.md) — `sts1.relic.slaver_s_collar`
+- [勇气投石索 / Sling of Courage](relics/sts1_relic_sling_of_courage.md) — `sts1.relic.sling_of_courage`
+- [微笑面具 / Smiling Mask](relics/sts1_relic_smiling_mask.md) — `sts1.relic.smiling_mask`
+- [蛇之戒指 / Ring of the Snake](relics/sts1_relic_snake_ring.md) — `sts1.relic.snake_ring`
+- [异蛇之眼 / Snecko Eye](relics/sts1_relic_snecko_eye.md) — `sts1.relic.snecko_eye`
+- [异蛇头骨 / Snecko Skull](relics/sts1_relic_snecko_skull.md) — `sts1.relic.snecko_skull`
+- [添水 / Sozu](relics/sts1_relic_sozu.md) — `sts1.relic.sozu`
+- [精灵便便 / Spirit Poop](relics/sts1_relic_spirit_poop.md) — `sts1.relic.spirit_poop`
+- [蛇的头 / Ssserpent Head](relics/sts1_relic_ssserpent_head.md) — `sts1.relic.ssserpent_head`
+- [历石 / Stone Calendar](relics/sts1_relic_stone_calendar.md) — `sts1.relic.stone_calendar`
+- [奇怪的勺子 / Strange Spoon](relics/sts1_relic_strange_spoon.md) — `sts1.relic.strange_spoon`
+- [草莓 / Strawberry](relics/sts1_relic_strawberry.md) — `sts1.relic.strawberry`
+- [打击木偶 / Strike Dummy](relics/sts1_relic_strike_dummy.md) — `sts1.relic.strike_dummy`
+- [日晷 / Sundial](relics/sts1_relic_sundial.md) — `sts1.relic.sundial`
+- [共生病毒 / Symbiotic Virus](relics/sts1_relic_symbiotic_virus.md) — `sts1.relic.symbiotic_virus`
+- [泪滴吊坠 / Teardrop Locket](relics/sts1_relic_teardrop_locket.md) — `sts1.relic.teardrop_locket`
+- [算盘 / The Abacus](relics/sts1_relic_the_abacus.md) — `sts1.relic.the_abacus`
+- [发条靴 / The Boot](relics/sts1_relic_the_boot.md) — `sts1.relic.the_boot`
+- [送货员 / The Courier](relics/sts1_relic_the_courier.md) — `sts1.relic.the_courier`
+- [生物样本 / The Specimen](relics/sts1_relic_the_specimen.md) — `sts1.relic.the_specimen`
+- [针线 / Thread and Needle](relics/sts1_relic_thread_and_needle.md) — `sts1.relic.thread_and_needle`
+- [铜钹 / Tingsha](relics/sts1_relic_tingsha.md) — `sts1.relic.tingsha`
+- [小宝箱 / Tiny Chest](relics/sts1_relic_tiny_chest.md) — `sts1.relic.tiny_chest`
+- [小屋子 / Tiny House](relics/sts1_relic_tiny_house.md) — `sts1.relic.tiny_house`
+- [工具箱 / Toolbox](relics/sts1_relic_toolbox.md) — `sts1.relic.toolbox`
+- [鸟居 / Torii](relics/sts1_relic_torii.md) — `sts1.relic.torii`
+- [结实绷带 / Tough Bandages](relics/sts1_relic_tough_bandages.md) — `sts1.relic.tough_bandages`
+- [毒素之蛋 / Toxic Egg](relics/sts1_relic_toxic_egg.md) — `sts1.relic.toxic_egg`
+- [玩具扑翼飞机 / Toy Ornithopter](relics/sts1_relic_toy_ornithopter.md) — `sts1.relic.toy_ornithopter`
+- [钨合金棍 / Tungsten Rod](relics/sts1_relic_tungsten_rod.md) — `sts1.relic.tungsten_rod`
+- [萝卜 / Turnip](relics/sts1_relic_turnip.md) — `sts1.relic.turnip`
+- [扭曲漏斗 / Twisted Funnel](relics/sts1_relic_twisted_funnel.md) — `sts1.relic.twisted_funnel`
+- [不休陀螺 / Unceasing Top](relics/sts1_relic_unceasing_top.md) — `sts1.relic.unceasing_top`
+- [金刚杵 / Vajra](relics/sts1_relic_vajra.md) — `sts1.relic.vajra`
+- [天鹅绒颈圈 / Velvet Choker](relics/sts1_relic_velvet_choker.md) — `sts1.relic.velvet_choker`
+- [紫色莲花 / Violet Lotus](relics/sts1_relic_violet_lotus.md) — `sts1.relic.violet_lotus`
+- [战纹涂料 / War Paint](relics/sts1_relic_war_paint.md) — `sts1.relic.war_paint`
+- [弯曲铁钳 / Warped Tongs](relics/sts1_relic_warped_tongs.md) — `sts1.relic.warped_tongs`
+- [磨刀石 / Whetstone](relics/sts1_relic_whetstone.md) — `sts1.relic.whetstone`
+- [白兽雕像 / White Beast Statue](relics/sts1_relic_white_beast_statue.md) — `sts1.relic.white_beast_statue`
+- [羽翼之靴 / Wing Boots](relics/sts1_relic_wing_boots.md) — `sts1.relic.wing_boots`
+- [袖剑 / Wrist Blade](relics/sts1_relic_wrist_blade.md) — `sts1.relic.wrist_blade`
+
+### status
+
+- [机器学习（能力）](statuses/sts1_candidate_zh_status_15448778.md) — `sts1.candidate.zh.status.15448778`
+- [以手拒之（能力）](statuses/sts1_candidate_zh_status_15460336.md) — `sts1.candidate.zh.status.15460336`
+- [Always Mad / DEPRECATED Always Mad](statuses/sts1_game_candidate_status_alwaysmad.md) — `sts1.game.candidate.status.alwaysmad`
+- [永生不死 / Live Forever](statuses/sts1_game_candidate_status_angelform.md) — `sts1.game.candidate.status.angelform`
+- [攻击烧毁 / Attack Burn](statuses/sts1_game_candidate_status_attack_burn.md) — `sts1.game.candidate.status.attack_burn`
+- [子弹时间 / Bullet Time](statuses/sts1_game_candidate_status_bullet_time.md) — `sts1.game.candidate.status.bullet_time`
+- [不能改变姿态 / Cannot Change Stance](statuses/sts1_game_candidate_status_cannotchangestancepower.md) — `sts1.game.candidate.status.cannotchangestancepower`
+- [DEPRECATED Condense / DEPRECATED Condense](statuses/sts1_game_candidate_status_condense.md) — `sts1.game.candidate.status.condense`
+- [保留 / Conserve](statuses/sts1_game_candidate_status_conserve.md) — `sts1.game.candidate.status.conserve`
+- [跳舞人偶 / Dance Puppet](statuses/sts1_game_candidate_status_dance_puppet.md) — `sts1.game.candidate.status.dance_puppet`
+- [DEPRECATED 戒律 / DEPRECATED Discipline](statuses/sts1_game_candidate_status_disciplinepower.md) — `sts1.game.candidate.status.disciplinepower`
+- [DEPRECATED Emotional Turmoil / DEPRECATED Emotional Turmoil](statuses/sts1_game_candidate_status_emotionalturmoilpower.md) — `sts1.game.candidate.status.emotionalturmoilpower`
+- [额外牌数 / Extra Cards](statuses/sts1_game_candidate_status_extra_cards.md) — `sts1.game.candidate.status.extra_cards`
+- [DEPRECATED 轻弹 / DEPRECATED Flick](statuses/sts1_game_candidate_status_flickpower.md) — `sts1.game.candidate.status.flickpower`
+- [DEPRECATED FlowPower / DEPRECATED FlowPower](statuses/sts1_game_candidate_status_flowpower.md) — `sts1.game.candidate.status.flowpower`
+- [DEPRECATED Joy / DEPRECATED FreeToPlayPower](statuses/sts1_game_candidate_status_freetoplaypower.md) — `sts1.game.candidate.status.freetoplaypower`
+- [布局 / Gambit](statuses/sts1_game_candidate_status_gambit.md) — `sts1.game.candidate.status.gambit`
+- [Generic Strength Up Power / Generic Strength Up Power](statuses/sts1_game_candidate_status_generic_strength_up_power.md) — `sts1.game.candidate.status.generic_strength_up_power`
+- [DEPRECATED Grounded / DEPRECATED Grounded](statuses/sts1_game_candidate_status_grounded.md) — `sts1.game.candidate.status.grounded`
+- [万物生长 / Growth](statuses/sts1_game_candidate_status_growthpower.md) — `sts1.game.candidate.status.growthpower`
+- [躲藏 / Hide](statuses/sts1_game_candidate_status_hide.md) — `sts1.game.candidate.status.hide`
+- [Hot hot / DEPRECATED Hot hot](statuses/sts1_game_candidate_status_hothot.md) — `sts1.game.candidate.status.hothot`
+- [倒转 / Inverted](statuses/sts1_game_candidate_status_inverted.md) — `sts1.game.candidate.status.inverted`
+- [知识 / Knowledge](statuses/sts1_game_candidate_status_knowledge.md) — `sts1.game.candidate.status.knowledge`
+- [机器学习 / Machine Learning](statuses/sts1_game_candidate_status_machine_learning.md) — `sts1.game.candidate.status.machine_learning`
+- [精通 / DEPRECATED Mastery](statuses/sts1_game_candidate_status_mastery.md) — `sts1.game.candidate.status.mastery`
+- [无法攻击 / No Attack](statuses/sts1_game_candidate_status_no_attack.md) — `sts1.game.candidate.status.no_attack`
+- [禁用技能 / No Skills](statuses/sts1_game_candidate_status_noskills.md) — `sts1.game.candidate.status.noskills`
+- [无视攻击 / Nullify Attack](statuses/sts1_game_candidate_status_nullify_attack.md) — `sts1.game.candidate.status.nullify_attack`
+- [通晓万物 / Omniscience](statuses/sts1_game_candidate_status_omnisciencepower.md) — `sts1.game.candidate.status.omnisciencepower`
+- [预备 / Prime](statuses/sts1_game_candidate_status_prime.md) — `sts1.game.candidate.status.prime`
+- [原始 / Primitive](statuses/sts1_game_candidate_status_primitive.md) — `sts1.game.candidate.status.primitive`
+- [降低伤害 / Reduce Damage](statuses/sts1_game_candidate_status_reduce_damage.md) — `sts1.game.candidate.status.reduce_damage`
+- [反冲 / Repulse](statuses/sts1_game_candidate_status_repulse.md) — `sts1.game.candidate.status.repulse`
+- [保留卡牌 / Retain Cards](statuses/sts1_game_candidate_status_retain_cards.md) — `sts1.game.candidate.status.retain_cards`
+- [保留手牌 / Retain Hand](statuses/sts1_game_candidate_status_retain_hand.md) — `sts1.game.candidate.status.retain_hand`
+- [DEPRECATED Retribution / DEPRECATED Retribution](statuses/sts1_game_candidate_status_retribution.md) — `sts1.game.candidate.status.retribution`
+- [回刺 / Riposte](statuses/sts1_game_candidate_status_riposte.md) — `sts1.game.candidate.status.riposte`
+- [DEPRECATED Serenity / DEPRECATED Serenity](statuses/sts1_game_candidate_status_serenity.md) — `sts1.game.candidate.status.serenity`
+- [蛇形 / Serpentine](statuses/sts1_game_candidate_status_serpentine.md) — `sts1.game.candidate.status.serpentine`
+- [深渊尖啸 / Shriek From Beyond](statuses/sts1_game_candidate_status_shriek_from_beyond.md) — `sts1.game.candidate.status.shriek_from_beyond`
+- [技能烧毁 / Skill Burn](statuses/sts1_game_candidate_status_skill_burn.md) — `sts1.game.candidate.status.skill_burn`
+- [打击提升 / Strike Up](statuses/sts1_game_candidate_status_strikeup.md) — `sts1.game.candidate.status.strikeup`
+- [时间迷宫 / Time Maze](statuses/sts1_game_candidate_status_timemazepower.md) — `sts1.game.candidate.status.timemazepower`
+- [不稳 / Unstable](statuses/sts1_game_candidate_status_unstable.md) — `sts1.game.candidate.status.unstable`
+- [腾跃 / Vault](statuses/sts1_game_candidate_status_vault.md) — `sts1.game.candidate.status.vault`
+- [毒理研究 / Venomology](statuses/sts1_game_candidate_status_venomology.md) — `sts1.game.candidate.status.venomology`
+- [DEPRECATED / DEPRECATED](statuses/sts1_game_candidate_status_waveofthehandpower2.md) — `sts1.game.candidate.status.waveofthehandpower2`
+- [精准（能力） / Accuracy](statuses/sts1_status_accuracy.md) — `sts1.status.accuracy`
+- [余像（能力） / After Image](statuses/sts1_status_after_image.md) — `sts1.status.after_image`
+- [增幅 / Amplify](statuses/sts1_status_amplify.md) — `sts1.status.amplify`
+- [生气 / Angry](statuses/sts1_status_angry.md) — `sts1.status.angry`
+- [人工制品 / Artifact](statuses/sts1_status_artifact.md) — `sts1.status.artifact`
+- [后方攻击 / Back Attack](statuses/sts1_status_back_attack.md) — `sts1.status.back_attack`
+- [壁垒（能力） / Barricade](statuses/sts1_status_barricade.md) — `sts1.status.barricade`
+- [战歌（能力） / Battle Hymn](statuses/sts1_status_battle_hymn.md) — `sts1.status.battle_hymn`
+- [死亡律动 / Beat of Death](statuses/sts1_status_beat_of_death.md) — `sts1.status.beat_of_death`
+- [狂暴（能力） / Berserk](statuses/sts1_status_berserk.md) — `sts1.status.berserk`
+- [偏差 / Bias](statuses/sts1_status_bias.md) — `sts1.status.bias`
+- [渎神者 / Blasphemer](statuses/sts1_status_blasphemer.md) — `sts1.status.blasphemer`
+- [格挡返还 / Block Return](statuses/sts1_status_block_return.md) — `sts1.status.block_return`
+- [残影（能力） / Blur](statuses/sts1_status_blur.md) — `sts1.status.blur`
+- [残暴（能力） / Brutality](statuses/sts1_status_brutality.md) — `sts1.status.brutality`
+- [缓冲（能力） / Buffer](statuses/sts1_status_buffer.md) — `sts1.status.buffer`
+- [爆发（能力） / Burst](statuses/sts1_status_burst.md) — `sts1.status.burst`
+- [勒脖（能力） / Choked](statuses/sts1_status_choked.md) — `sts1.status.choked`
+- [收集（能力） / Collect](statuses/sts1_status_collect.md) — `sts1.status.collect`
+- [自燃（能力） / Combust](statuses/sts1_status_combust.md) — `sts1.status.combust`
+- [混乱 / Confusion](statuses/sts1_status_confusion.md) — `sts1.status.confusion`
+- [缠绕 / Constricted](statuses/sts1_status_constricted.md) — `sts1.status.constricted`
+- [尸爆术（能力） / Corpse Explosion](statuses/sts1_status_corpse_explosion.md) — `sts1.status.corpse_explosion`
+- [腐化（能力） / Corruption](statuses/sts1_status_corruption.md) — `sts1.status.corruption`
+- [创造性AI（能力） / Creative AI](statuses/sts1_status_creative_ai.md) — `sts1.status.creative_ai`
+- [好奇 / Curiosity](statuses/sts1_status_curiosity.md) — `sts1.status.curiosity`
+- [蜷身 / Curl Up](statuses/sts1_status_curl_up.md) — `sts1.status.curl_up`
+- [黑暗之拥（能力） / Dark Embrace](statuses/sts1_status_dark_embrace.md) — `sts1.status.dark_embrace`
+- [恶魔形态（能力） / Demon Form](statuses/sts1_status_demon_form.md) — `sts1.status.demon_form`
+- [天人 / Deva](statuses/sts1_status_deva.md) — `sts1.status.deva`
+- [虔信（能力） / Devotion](statuses/sts1_status_devotion.md) — `sts1.status.devotion`
+- [敏捷 / Dexterity](statuses/sts1_status_dexterity.md) — `sts1.status.dexterity`
+- [敏捷(负) / Dexterity Down](statuses/sts1_status_dexterity_down.md) — `sts1.status.dexterity_down`
+- [Dexterity (Negative)](statuses/sts1_status_dexterity_negative.md) — `sts1.status.dexterity_negative`
+- [双倍伤害 / Double Damage](statuses/sts1_status_double_damage.md) — `sts1.status.double_damage`
+- [双发（能力） / Double Tap](statuses/sts1_status_double_tap.md) — `sts1.status.double_tap`
+- [抽牌 / Draw](statuses/sts1_status_draw.md) — `sts1.status.draw`
+- [抽牌 / Draw Card](statuses/sts1_status_draw_card.md) — `sts1.status.draw_card`
+- [抽牌减少 / Draw Reduction](statuses/sts1_status_draw_reduction.md) — `sts1.status.draw_reduction`
+- [复制 / Duplication](statuses/sts1_status_duplication.md) — `sts1.status.duplication`
+- [回响形态（能力） / Echo Form](statuses/sts1_status_echo_form.md) — `sts1.status.echo_form`
+- [电动力学（能力） / Electro](statuses/sts1_status_electro.md) — `sts1.status.electro`
+- [能量提升 / Energized](statuses/sts1_status_energized.md) — `sts1.status.energized`
+- [激怒 / Enrage](statuses/sts1_status_enrage.md) — `sts1.status.enrage`
+- [缠身 / Entangled](statuses/sts1_status_entangled.md) — `sts1.status.entangled`
+- [涂毒（能力） / Envenom](statuses/sts1_status_envenom.md) — `sts1.status.envenom`
+- [均衡（能力） / Equilibrium](statuses/sts1_status_equilibrium.md) — `sts1.status.equilibrium`
+- [确立基础（能力） / Establishment](statuses/sts1_status_establishment.md) — `sts1.status.establishment`
+- [进化（能力） / Evolve](statuses/sts1_status_evolve.md) — `sts1.status.evolve`
+- [自爆 / Explosive](statuses/sts1_status_explosive.md) — `sts1.status.explosive`
+- [消逝 / Fading](statuses/sts1_status_fading.md) — `sts1.status.fading`
+- [斋戒（能力） / Fasting](statuses/sts1_status_fasting.md) — `sts1.status.fasting`
+- [无惧疼痛（能力） / Feel No Pain](statuses/sts1_status_feel_no_pain.md) — `sts1.status.feel_no_pain`
+- [火焰吐息（能力） / Fire Breathing](statuses/sts1_status_fire_breathing.md) — `sts1.status.fire_breathing`
+- [火焰屏障（能力） / Flame Barrier](statuses/sts1_status_flame_barrier.md) — `sts1.status.flame_barrier`
+- [飞行 / Flying](statuses/sts1_status_flying.md) — `sts1.status.flying`
+- [集中 / Focus](statuses/sts1_status_focus.md) — `sts1.status.focus`
+- [集中(负) / Focus (Negative)](statuses/sts1_status_focus_negative.md) — `sts1.status.focus_negative`
+- [先见之明（能力） / Foresight](statuses/sts1_status_foresight.md) — `sts1.status.foresight`
+- [脆弱 / Frail](statuses/sts1_status_frail.md) — `sts1.status.frail`
+- [免费攻击 / Free Attack Power](statuses/sts1_status_free_attack_power.md) — `sts1.status.free_attack_power`
+- [散热 / Heatsink](statuses/sts1_status_heatsink.md) — `sts1.status.heatsink`
+- [你好 / Hello](statuses/sts1_status_hello.md) — `sts1.status.hello`
+- [邪咒 / Hex](statuses/sts1_status_hex.md) — `sts1.status.hex`
+- [无限刀刃（能力） / Infinite Blades](statuses/sts1_status_infinite_blades.md) — `sts1.status.infinite_blades`
+- [无实体 / Intangible](statuses/sts1_status_intangible.md) — `sts1.status.intangible`
+- [坚不可摧 / Invincible](statuses/sts1_status_invincible.md) — `sts1.status.invincible`
+- [势不可当（能力） / Juggernaut](statuses/sts1_status_juggernaut.md) — `sts1.status.juggernaut`
+- [生命链接 / Life Link](statuses/sts1_status_life_link.md) — `sts1.status.life_link`
+- [如水（能力） / Like Water](statuses/sts1_status_like_water.md) — `sts1.status.like_water`
+- [跟踪锁定 / Lock-On](statuses/sts1_status_lock_on.md) — `sts1.status.lock_on`
+- [循环（能力） / Loop](statuses/sts1_status_loop.md) — `sts1.status.loop`
+- [磁力（能力） / Magnetism](statuses/sts1_status_magnetism.md) — `sts1.status.magnetism`
+- [柔韧 / Malleable](statuses/sts1_status_malleable.md) — `sts1.status.malleable`
+- [真言 / Mantra](statuses/sts1_status_mantra.md) — `sts1.status.mantra`
+- [印记 / Mark](statuses/sts1_status_mark.md) — `sts1.status.mark`
+- [操控现实（能力） / Master Reality](statuses/sts1_status_master_reality.md) — `sts1.status.master_reality`
+- [乱战（能力） / Mayhem](statuses/sts1_status_mayhem.md) — `sts1.status.mayhem`
+- [心灵堡垒（能力） / Mental Fortress](statuses/sts1_status_mental_fortress.md) — `sts1.status.mental_fortress`
+- [金属化 / Metallicize](statuses/sts1_status_metallicize.md) — `sts1.status.metallicize`
+- [爪牙 / Minion](statuses/sts1_status_minion.md) — `sts1.status.minion`
+- [形态转换 / Mode Shift](statuses/sts1_status_mode_shift.md) — `sts1.status.mode_shift`
+- [下回合格挡 / Next Turn Block](statuses/sts1_status_next_turn_block.md) — `sts1.status.next_turn_block`
+- [夜魇（能力） / Nightmare](statuses/sts1_status_nightmare.md) — `sts1.status.nightmare`
+- [涅槃（能力） / Nirvana](statuses/sts1_status_nirvana.md) — `sts1.status.nirvana`
+- [无法格挡 / No Block](statuses/sts1_status_no_block.md) — `sts1.status.no_block`
+- [不能抽牌 / No Draw](statuses/sts1_status_no_draw.md) — `sts1.status.no_draw`
+- [毒雾（能力） / Noxious Fumes](statuses/sts1_status_noxious_fumes.md) — `sts1.status.noxious_fumes`
+- [欧米伽（能力） / Omega](statuses/sts1_status_omega.md) — `sts1.status.omega`
+- [疼痛戳刺 / Painful Stabs](statuses/sts1_status_painful_stabs.md) — `sts1.status.painful_stabs`
+- [神气制胜（能力） / Panache](statuses/sts1_status_panache.md) — `sts1.status.panache`
+- [钢笔尖（能力） / Pen Nib](statuses/sts1_status_pen_nib.md) — `sts1.status.pen_nib`
+- [幻影（能力） / Phantasmal](statuses/sts1_status_phantasmal.md) — `sts1.status.phantasmal`
+- [多重护甲 / Plated Armor](statuses/sts1_status_plated_armor.md) — `sts1.status.plated_armor`
+- [中毒 / Poison](statuses/sts1_status_poison.md) — `sts1.status.poison`
+- [愤怒（能力） / Rage](statuses/sts1_status_rage.md) — `sts1.status.rage`
+- [扭动 / Reactive](statuses/sts1_status_reactive.md) — `sts1.status.reactive`
+- [弹回（能力） / Rebound](statuses/sts1_status_rebound.md) — `sts1.status.rebound`
+- [再生 / Regen](statuses/sts1_status_regen.md) — `sts1.status.regen`
+- [再生（敌人） / Regenerate](statuses/sts1_status_regenerate.md) — `sts1.status.regenerate`
+- [修理 / Repair](statuses/sts1_status_repair.md) — `sts1.status.repair`
+- [仪式 / Ritual](statuses/sts1_status_ritual.md) — `sts1.status.ritual`
+- [撕裂（能力） / Rupture](statuses/sts1_status_rupture.md) — `sts1.status.rupture`
+- [猛虎下山（能力） / Rushdown](statuses/sts1_status_rushdown.md) — `sts1.status.rushdown`
+- [残虐 / Sadistic](statuses/sts1_status_sadistic.md) — `sts1.status.sadistic`
+- [镣铐 / Shackled](statuses/sts1_status_shackled.md) — `sts1.status.shackled`
+- [锋利外甲 / Sharp Hide](statuses/sts1_status_sharp_hide.md) — `sts1.status.sharp_hide`
+- [变幻 / Shifting](statuses/sts1_status_shifting.md) — `sts1.status.shifting`
+- [怒火中烧 / Simmering Rage](statuses/sts1_status_simmering_rage.md) — `sts1.status.simmering_rage`
+- [缓慢 / Slow](statuses/sts1_status_slow.md) — `sts1.status.slow`
+- [分裂 / Split](statuses/sts1_status_split.md) — `sts1.status.split`
+- [孢子云 / Spore Clouds](statuses/sts1_status_spore_clouds.md) — `sts1.status.spore_clouds`
+- [凝滞 / Stasis](statuses/sts1_status_stasis.md) — `sts1.status.stasis`
+- [静电释放（能力） / Static Discharge](statuses/sts1_status_static_discharge.md) — `sts1.status.static_discharge`
+- [雷暴（能力） / Storm](statuses/sts1_status_storm.md) — `sts1.status.storm`
+- [力量 / Strength](statuses/sts1_status_strength.md) — `sts1.status.strength`
+- [活动肌肉（能力） / Strength Down](statuses/sts1_status_strength_down.md) — `sts1.status.strength_down`
+- [力量（负） / Strength (Negative)](statuses/sts1_status_strength_negative.md) — `sts1.status.strength_negative`
+- [力量提升 / Strength Up](statuses/sts1_status_strength_up.md) — `sts1.status.strength_up`
+- [研习（能力） / Study](statuses/sts1_status_study.md) — `sts1.status.study`
+- [夹击 / Surrounded](statuses/sts1_status_surrounded.md) — `sts1.status.surrounded`
+- [炸弹（能力） / The Bomb](statuses/sts1_status_the_bomb.md) — `sts1.status.the_bomb`
+- [盗窃 / Thievery](statuses/sts1_status_thievery.md) — `sts1.status.thievery`
+- [荆棘 / Thorns](statuses/sts1_status_thorns.md) — `sts1.status.thorns`
+- [凌迟（能力） / Thousand Cuts](statuses/sts1_status_thousand_cuts.md) — `sts1.status.thousand_cuts`
+- [时间扭曲 / Time Warp](statuses/sts1_status_time_warp.md) — `sts1.status.time_warp`
+- [必备工具（能力） / Tools of the Trade](statuses/sts1_status_tools_of_the_trade.md) — `sts1.status.tools_of_the_trade`
+- [未觉醒 / Unawakened](statuses/sts1_status_unawakened.md) — `sts1.status.unawakened`
+- [活力 / Vigor](statuses/sts1_status_vigor.md) — `sts1.status.vigor`
+- [易伤 / Vulnerable](statuses/sts1_status_vulnerable.md) — `sts1.status.vulnerable`
+- [摆手（能力） / Wave of the Hand](statuses/sts1_status_wave_of_the_hand.md) — `sts1.status.wave_of_the_hand`
+- [虚弱 / Weak](statuses/sts1_status_weak.md) — `sts1.status.weak`
+- [计划妥当（能力） / Well-Laid Plans](statuses/sts1_status_well_laid_plans.md) — `sts1.status.well_laid_plans`
+- [幽魂形态（能力） / Wraith Form](statuses/sts1_status_wraith_form.md) — `sts1.status.wraith_form`
+
+## 资料与状态
+
+- [来源与许可](sources.md)
+- [覆盖与缺口](coverage.md)
+- [中英文映射 CSV](../../data/exports/name_mapping.csv)
+- [实体映射 CSV](../../data/exports/entity_name_mapping.csv)
+- [审核决定说明](../../data/decisions/README.md)
+- [P1 样本报告](../../reports/p1-sample-report.json)
+- [P3 内容采集报告](../../reports/p3-content-report.json)
+- [游戏本地化导入报告](../../reports/game-localization-report.json)
+- [游戏本地化扩展导入报告](../../reports/game-localization-extended-report.json)
+- [实体身份复核记录](../../reports/entity-resolution-review.md)
+- [中英文身份映射审核队列](mapping-review.md)
+- [P4 机制与规则核验审计](p4-rule-audit.md)
+- [P2 双源目录](inventory.md)
+
+## 读取原则
+
+条目中的规则字段与攻略观点分开；`provisional` 和 `single_source` 需要在回答中带出，不应写成无条件真值。

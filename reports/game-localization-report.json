@@ -1,0 +1,42 @@
+{
+  "decisions": 587,
+  "decisions_path": "data/decisions/mapping-decisions.game-local.csv",
+  "jar": {
+    "jar_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SlayTheSpire\\desktop-1.0.jar",
+    "jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673",
+    "jar_size": 365086855,
+    "kinds": [
+      "card",
+      "relic",
+      "potion"
+    ],
+    "languages": [
+      "eng",
+      "zhs"
+    ],
+    "recorded_at": "2026-09-18T03:40:23+00:00",
+    "steam_build_id": "10180494"
+  },
+  "kinds": {
+    "card": {
+      "english_entries": 423,
+      "localized_claims": 423,
+      "matched_canonical": 373,
+      "new_candidates": 50
+    },
+    "potion": {
+      "english_entries": 45,
+      "localized_claims": 45,
+      "matched_canonical": 43,
+      "new_candidates": 2
+    },
+    "relic": {
+      "english_entries": 195,
+      "localized_claims": 195,
+      "matched_canonical": 180,
+      "new_candidates": 15
+    }
+  },
+  "parser_version": "kb-game-local/0.1",
+  "source_page_id": "source_page.game_local.86f0c227d7cff9e0"
+}

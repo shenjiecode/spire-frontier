@@ -1,0 +1,62 @@
+# 发现 / Discovery
+
+> 稳定 ID：`sts1.card.colorless.discovery`  
+> 类别：`card`；游戏：`sts1`；映射状态：`confirmed`
+
+## 名称
+
+- 中文：发现
+- English: Discovery
+
+## 卡牌属性
+
+- 颜色：`Colorless`
+- 类型：`Skill`
+- 稀有度：`Uncommon`
+- 可获得性：`card_list`
+- 标签：`["Exhaust", "Hand"]`
+
+## 变体
+
+| 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
+| --- | --- | --- | --- | --- |
+| `Base` | `1.0` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.Exhaust. | 从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。消耗。 | 未保存 |
+| `Upgraded` | `1.0` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. | 从3张随机牌中选择一张加入你的手牌手牌。这张牌在本回合耗能变为0。 | 未保存 |
+
+## 相关条目
+
+暂无已确认关系。
+
+## 被哪些条目引用
+
+暂无已确认关系。
+
+## 来源与核对状态
+
+字段级证据保留在 SQLite 的 `claims` 表；这里显示已采集的摘要。
+
+| 字段 | 值 | 状态 | 来源 |
+| --- | --- | --- | --- |
+| `card.color` | Colorless | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.cost (base)` | 1 | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.cost (upgrade)` | 1 | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.Exhaust. | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (base)` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.Exhaust. | `provisional` | [发现](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959373&wiki_id=646570) |
+| `card.description (upgrade)` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.description (upgrade)` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. | `provisional` | [发现](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959373&wiki_id=646570) |
+| `card.rarity` | Uncommon | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.tags` | ["Exhaust", "Hand"] | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `game.card.description` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn. NL Exhaust. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
+| `game.card.description` | 从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。 NL 消耗 。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
+| `game.localization.name` | Discovery | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
+| `game.localization.name` | 发现 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
+| `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Discovery", "kind": "card", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
+| `source.article_text` | 发现<br>从3张随机牌中选择1张加入你的手牌。这张牌在本回合耗能变为0。消耗。<br>发现+<br>从3张随机牌中选择一张加入你的手牌手牌。这张牌在本回合耗能变为0。<br>测试画风<br>（图片未提供文字说明） | `single_source` | [发现](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959373&wiki_id=646570) |
+| `source.image_urls` | {"base": "https://slaythespire.wiki.gg/images/thumb/Colorless-Discovery.png/150px-Colorless-Discovery.png?935dc9", "upgrade": "https://slaythespire.wiki.gg/images/thumb/Colorless-DiscoveryPlus.png/150px-Colorless-DiscoveryPlus.png?c1e9df"} | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `source.image_urls` | ["https://imgheybox.max-c.com/web/bbs/2024/08/25/2ec1521de643441c2b78011e189ff402.png"] | `single_source` | [发现](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959373&wiki_id=646570) |
+| `source.infobox.description` | Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.( Exhaust.;) | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `source.title_text` | 发现 | `single_source` | [发现](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959373&wiki_id=646570) |
+| `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Discovery<br>|Image       = Colorless-Discovery.png<br>|Color       = Colorless<br>|Type        = Skill<br>|Rarity      = Uncommon<br>|Cost        = 1<br>|Description = Choose 1 of 3 random cards to add into your hand. It costs 0 this turn.(<br>{{KW|Exhaust}}.;)<br>|Keywords    = Hand<br>}}<br>{{Keyword Infobox|Exhaust}}<br>{{C|Discovery}} is a 1 {{Icon|CE}}-cost {{QueryLink|Cards|color:Colorless|Colorless}} {{QueryLink|Cards|rarit... | `single_source` | [P3 wiki.gg API batch: card 10](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Shiv|Discovery|Power_Through|Noxious_Fumes|Biased_Cognition|Study|Devotion|Talk_to_the_Hand|Melter|Hyperbeam|Reckless_Charge|Through_Violence|Juggernaut|Glass_Knife|Fusion|Panache|Consume|Vigilance|Rip_and_Tear|Stack&prop=revisions&rvprop=content|ids&rvslots=main) |
+
+页面生成时间：2026-09-18T04:35:43+00:00

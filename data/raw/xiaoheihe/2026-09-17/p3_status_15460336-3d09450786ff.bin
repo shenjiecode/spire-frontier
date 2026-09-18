@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no" >
+  <meta name="format-detection" content="telephone=no">
+  
+  
+<title>以手拒之（能力）</title>
+
+  <link rel="stylesheet" href="/static/wiki/css/common.css?v=1.0.6">
+  <link rel="stylesheet" href="/static/wiki/css/tmp_components.css?v=1.0.5">
+  <link rel="stylesheet" href="/static/wiki/css/page_components.css?v=1.1.16">
+  <style>
+    .article-content h1 {
+      line-height: 40px;
+      background: rgba(0, 122, 232, .1);
+      text-align: center;
+    }
+    .article-content table::before,
+    .article-content table::after,
+    .article-content table th::before,
+    .article-content table th::after,
+    .article-content table td::before,
+    .article-content table td::after {
+      background: rgba(0, 122, 232, .1) !important;
+    }
+    .article-content table th,
+    .article-content table tr:nth-child(odd) {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1 {
+      background: rgba(0, 122, 232, .1);
+    }
+    .catalogue-list-item.h1::after {
+      background: rgba(0, 122, 232, .1);
+    }
+  </style>
+  
+<link rel="stylesheet" href="/static/assets/css/hb_article.css?v=1.0.10">
+<link rel="stylesheet" href="/static/wiki/css/article_detail.20190522.css?v=1.0.0">
+<style>
+  .article-header .title {
+    background-color: rgba(0, 122, 232, .1);
+    border-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::before,
+  .article-header .title .cr::before {
+    border-top-color: rgba(0, 122, 232, .3);
+  }
+  .article-header .title .cl::after,
+  .article-header .title .cr::after {
+    border-bottom-color: rgba(0, 122, 232, .3);
+  }
+  .article-content p br {
+    display: inline;
+  }
+  .tag-table::before,
+  .tag-table::after,
+  .tag-table-inner::before,
+  .tag-table-inner::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  .tag-table .head {
+    background-color: rgba(0, 122, 232, .1);
+  }
+  .reference-panel > .title::after {
+    background-color: rgba(0, 122, 232, .3);
+  }
+  
+  
+  
+  
+
+  
+  article {
+    padding-top: 54px;
+  }
+  .top-bar {
+    position: fixed;
+    z-index: 200;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+  }
+  .top-bar .btn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+            align-items: center;
+    color: #64696e;
+    font-size: 12px;
+    height: 30px;
+    margin-left: 10px;
+  }
+  .top-bar .btn svg {
+    height: 12px;
+    margin-right: 4px;
+  }
+  
+</style>
+
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?16e641db29b184261dffedec98f2570b";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+</head>
+<body class="wiki-646570">
+
+
+
+<section class="full top-bar fix-border-bottom">
+  <div class="search-bar-wrap">
+    <div class="search-bar">
+      <div class="icon"></div>
+      <div class="input">搜索</div>
+    </div>
+    <div class="btn history-btn">
+      <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+        <g fill="none" fill-rule="evenodd">
+          <circle cx="6" cy="6" r="6" fill="#64696E"/>
+          <polyline stroke="#FEFEFE" points="6 2 6 6 9.998 6"/>
+        </g>
+      </svg>
+      <span>编辑历史</span>
+    </div>
+    <div class="btn catalogue-btn hide">
+      <svg xmlns="http://www.w3.org/2000/svg" width="11" height="12" viewBox="0 0 11 12">
+        <g fill="none" fill-rule="evenodd">
+          <rect width="11" height="12" fill="#64696E" rx="1"/>
+          <path stroke="#FFF" d="M1.98544704 3.00548423L8.98544489 3M1.98544704 6.00548423L8.98544489 6M1.98544704 9.00548423L8.98544489 9"/>
+        </g>
+      </svg>
+      <span>目录</span>
+    </div>
+  </div>
+</section>
+
+<article>
+  
+  <div class="article-header">
+    <div class="title">
+      <span class="cl"></span>
+      <span>以手拒之（能力）</span>
+      <span class="cr"></span>
+    </div>
+    
+    <div class="editor">
+      <span class="editor-name" data-id="29895288">Dow_</span>编辑于2024年08月21日 04:50
+    </div>
+    
+    
+  </div>
+  
+  <div class="article-content">
+    
+    <table cellspacing="3">
+  <tbody>
+    <tr>
+      <th colspan="2">以手拒之</th>
+    </tr>
+    <tr>
+      <td colspan="2">Buffs id: Talk to the Hand</td>
+    </tr>
+    <tr>
+      <td colspan="2"><img data-width="64" data-height="64" class="lazy" data-original="https://imgheybox.max-c.com/web/bbs/2024/08/20/bef5c7dd5c05ecea79e2bf0954f2a849.png">
+        <h4 class="img-desc">请输入图片描述</h4>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Buffs信息</th>
+    </tr>
+    <tr>
+      <th scope="row">效果中文描述</th>
+      <td>每当玩家攻击敌人时，获得X点格挡</td>
+    </tr>
+    <tr>
+      <th scope="row">效果英文描述</th>
+      <td>Whenever you attack this enemy,gain&nbsp;X&nbsp;Block.</td>
+    </tr>
+    <tr>
+      <th scope="row">类型</th>
+      <td>敌方Debuff</td>
+    </tr>
+    <tr>
+      <td colspan="2">可叠加</td>
+    </tr>
+  </tbody>
+</table>
+<h1><span id="策略">策略</span></h1>
+<ul>
+  <li>攻击拥有以手拒之的敌人，并且造成伤害（被格挡的伤害也会计入次数）可以令玩家获得等同于层数的格挡。因此，用多段攻击（如<a href="https://sts.huijiwiki.com/wiki/%E5%8F%91%E6%B3%84" title="发泄"><b>发泄</b></a>或<a href="https://sts.huijiwiki.com/wiki/%E8%AF%B8%E7%A5%9E%E4%B9%8B%E9%BB%84%E6%98%8F"><b>诸神之黄昏</b></a>等）搭配以手拒之，可以将收益最大化。</li>
+</ul>
+<h1><span id="轶事">轶事</span></h1>
+<h2><span id=".E8.BD.B6.E4.BA.8B"></span></h2>
+<ul>
+  <li>若玩家通过非常规手段令自身获得以手拒之，那么当玩家受到伤害时，立即获得等同于层数的格挡</li>
+</ul>
+    
+  </div>
+</article>
+
+<div class="tag-panel">
+  
+  <div class="tag-table">
+    <div class="tag-table-inner">
+      <div class="head unfold">
+        <span>敌方负面buff</span>
+        <div class="switch">
+          <span>[</span><span class="text">折叠</span><span>]</span>
+        </div>
+      </div>
+      <div class="body">
+        
+        <span class="entry" data-id="501550">中毒</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460298">消逝</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460304">变幻</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460322">凝滞</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460336">以手拒之（能力）</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460337">缓慢</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460339">勒脖（能力）</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460341">跟踪锁定</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460343">镣铐</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460345">尸爆术（能力）</span>
+        
+        <span>·</span>
+        
+        
+        <span class="entry" data-id="15460347">印记</span>
+        
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+<div class="feedback-panel">
+  <div class="col-1">
+    <div class="btn positive" data-type="1">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M7,11.0149252 C5.06700338,11.0149252 3.5,9.55985068 3.5,7.76492524 C3.5,6.46999981 4.57663635,7.21111235 7,7.21111235 C9.42336365,7.21111235 10.5,6.46999981 10.5,7.76492524 C10.5,9.55985068 8.93299662,11.0149252 7,11.0149252 Z"/>
+        </g>
+      </svg>
+      <span>有帮助</span>
+    </div>
+    <div class="btn negative" data-type="2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>更新不及时</span>
+    </div>
+    <div class="btn negative" data-type="3">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+        <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+          <circle cx="7" cy="7" r="7" stroke="#008EE8" stroke-width=".933"/>
+          <path fill="#008EE8" d="M4.5,5.5 C3.94771525,5.5 3.5,4.94035594 3.5,4.25 C3.5,3.55964406 3.94771525,3 4.5,3 C5.05228475,3 5.5,3.55964406 5.5,4.25 C5.5,4.94035594 5.05228475,5.5 4.5,5.5 Z M9.5,5.5 C8.94771525,5.5 8.5,4.94035594 8.5,4.25 C8.5,3.55964406 8.94771525,3 9.5,3 C10.0522847,3 10.5,3.55964406 10.5,4.25 C10.5,4.94035594 10.0522847,5.5 9.5,5.5 Z M10.3523955,9.75231872 C10.3671775,9.8009987 10.3754173,9.85092829 10.3754173,9.90000258 C10.3754173,10.1577355 10.1738456,10.4390596 9.878841,10.4390596 C9.64448394,10.4390596 9.48146931,10.218032 9.42434851,9.99793714 C8.97215902,9.10152009 8.10729246,8.46022174 7.11468075,8.46022174 C6.12357698,8.46022174 5.25983053,9.0995731 4.80707669,9.9938535 C4.80483119,10.0048586 4.80203333,10.0159619 4.79855275,10.027181 C4.73399918,10.2352586 4.56073762,10.4390596 4.33866023,10.4390596 C4.04365566,10.4390596 3.84208395,10.1577355 3.84208395,9.90000258 C3.84208395,9.81590709 3.86628055,9.72929998 3.90613071,9.65077347 C4.37096957,8.37870348 5.63197957,7.46666667 7.11468075,7.46666667 C8.6354634,7.46666667 9.92302085,8.42615432 10.357462,9.74949154 L10.3523955,9.75231872 Z"/>
+        </g>
+      </svg>
+      <span>描述有误</span>
+    </div>
+  </div>
+  
+  <div class="col-2">
+    <div id="feedback" class="btn plain">
+      <span>问题反馈</span>
+    </div>
+  </div>
+  
+</div>
+
+<script>
+isSharePage = false
+</script>
+<script src="https://cdn.max-c.com/js/hkey.js"></script>
+<script src="//cdn.max-c.com/js/zepto/1.2.0/zepto.min.js"></script>
+<script src="/static/wiki/js/common.js?v=1.1.11"></script>
+<script>
+  if (utils.getUrlParam('os_type') !== 'Android' && String(window.screen.height).match(/812|896/)) {
+    document.body.classList.add('iphonex');
+  }
+</script>
+
+<script src="/static/assets/js/img_lazyload_config.js?v=1.0.0"></script>
+<script>
+  var imgDescs = $('.img-desc');
+  imgDescs.each(function () {
+    var ethis = $(this);
+    if (ethis.text() !== '请输入图片描述') {
+      ethis.addClass('show-img-desc')
+    }
+  });
+
+  $('.article-content table').each(function () {
+    if ($(this).parents('.table-wrap').length < 1) {
+      $(this).wrap('<div class="table-wrap"><div class="table-wrap-inner">');
+    }
+  });
+
+  $('.article-content iframe').each(function () {
+    var width = $(this).width();
+    $(this).height(width * 9 / 16);
+  });
+
+  $('.editor-name').on('tap', function () {
+    var PROTOCOL = {
+      'protocol_type': 'openUser',
+      'user_id': $(this).data('id')
+    };
+    window.location.href = 'heybox://' + encodeURI(JSON.stringify(PROTOCOL))
+  });
+
+  $('.tag-table .head').on('tap', function () {
+    if ($(this).hasClass('unfold')) {
+      $(this).removeClass('unfold').find('.switch .text').text('展开')
+    } else {
+      $(this).addClass('unfold').find('.switch .text').text('折叠')
+    }
+  });
+
+  $('.reference-item .desc[data-link]').on('tap', function () {
+    var url = $(this).data('link');
+    W.appOpenWindow({
+      title: title,
+      url: url
+    });
+  });
+
+  $('.feedback-panel .btn:not(.plain)').on('tap', function () {
+    if ($(this).hasClass('done')) {
+      return false
+    }
+    var type = $(this).data('type')
+    var data = {
+      article_id: '15460336'
+    }
+    if (type === 1) {
+      data.useful = 1
+    } else if (type === 2) {
+      data.update_delay = 1
+    } else if (type === 3) {
+      data.content_inaccurate = 1
+    }
+    $.get('/wiki/collect_user_feedback/', data, function (res) {})
+    $(this).addClass('done')
+  })
+</script>
+
+
+<script src="https://cdn.max-c.com/js/iscroll/5.2.0/iscroll-lite.js"></script>
+<script src="/static/wiki/js/catalogue.js?v=1.0.3"></script>
+<script>
+  W.entryLinkHandler('646570', '杀戮尖塔');
+  var $imgs = $('.article-content img');
+  $imgs.on('tap', function () {
+    W.openImage({
+      imgs: $imgs,
+      index: $imgs.index($(this))
+    });
+  });
+
+  $('.search-bar').on('tap', function () {
+    W.appOpenWindow({
+      title: '搜索',
+      url: window.location.origin + '/wiki/search_wiki_page/?wiki_id=646570'
+    });
+  });
+  $('.history-btn').on('tap', function () {
+    W.appOpenWindow({
+      title: '编辑历史',
+      url: window.location.origin + '/wiki/get_article_edit_history/?wiki_id=646570&article_id=15460336'
+    });
+  });
+
+  function refresh () {
+    window.location.reload()
+  }
+
+  $('.tag-table .entry').on('tap', function () {
+    var id = $(this).data('id');
+    var title = $(this).text();
+    W.appOpenWindow({
+      title: title,
+      url: window.location.origin + '/wiki/get_wiki_base_unit_detail_info/?wiki_id=646570&name=' + title
+      // url: window.location.origin + '/wiki/get_article_list_by_category_id/?category_id=' + id
+    });
+  });
+
+  $('#feedback').on('tap', function () {
+    window.location.href = 'heybox://{"protocol_type":"openFeedback"}'
+  })
+</script>
+
+<script src="https://cdn.max-c.com/static/data/js/lazysizes.4.0.1.min.js" async=""></script>
+
+</body>
+</html>

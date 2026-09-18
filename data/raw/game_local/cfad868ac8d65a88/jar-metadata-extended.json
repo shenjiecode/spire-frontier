@@ -1,0 +1,18 @@
+{
+  "jar_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\SlayTheSpire\\desktop-1.0.jar",
+  "jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673",
+  "jar_size": 365086855,
+  "kinds": [
+    "event",
+    "monster",
+    "status",
+    "keyword",
+    "character"
+  ],
+  "languages": [
+    "eng",
+    "zhs"
+  ],
+  "recorded_at": "2026-09-18T04:31:08+00:00",
+  "steam_build_id": "10180494"
+}

@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html class="client-nojs view-dark theme-dark skin-theme-clientpref-night" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Potions List | Slay the Spire 1</title>
+<script>(function(){var className="client-js view-dark theme-dark skin-theme-clientpref-night";var cookie=document.cookie.match(/(?:^|; )commons_enmwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"2f20ba922c032f8753c39ce7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Potions_List","wgTitle":"Potions List","wgCurRevisionId":23480,"wgRevisionId":23480,"wgArticleId":1659,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Potions"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Potions_List","wgRelevantArticleId":1659,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgCargoDefaultQueryLimit":2000,"wgCargoMonthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgCiteReferencePreviewsActive":true,"wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"wgVisualEditorToolbarScrollOffset":35,"wgEditSubmitButtonLabelPublish":false};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","wgg.skins.vector.styles.search":"ready","ext.CookieWarning.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.removeredlinks.styles":"ready","ext.usergroupbadges.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.globalui.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.SimpleTooltip","ext.CookieWarning","ext.removeredlinks","ext.themes.switcher","ext.gadget.collapsibleSidebarSections","ext.gadget.copySectionLink","ext.gadget.flashAnchored","ext.gadget.purge","ext.gadget.responsiveTables","ext.gadget.scrollButtons","ext.gadget.sectionObserver","ext.gadget.stickyToc","ext.gadget.vectorScripts","mmv.bootstrap","ext.checkUser.clientHints","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.globalui"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.CookieWarning.styles%7Cext.globalui.styles%7Cext.removeredlinks.styles%7Cext.usergroupbadges.styles%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwgg.skins.vector.styles.search&amp;only=styles&amp;skin=vector">
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<script async="" src="/load.php?lang=en&amp;skin=vector&amp;modules=ext.themes.apply&amp;only=scripts&amp;skin=vector&amp;raw=1"></script>
+<meta name="generator" content="MediaWiki 1.43.6">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="A sortable and searchable list of every Potion in Slay the Spire.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<style type="text/css">@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Nunito';font-style:normal;font-weight:400;src:url(/cf-fonts/v/nunito/5.2.7/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}</style>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/wiki/Potions_List?action=edit">
+<link rel="apple-touch-icon" href="/images/4/4a/Site-favicon.ico">
+<link rel="icon" href="/images/Site-favicon.ico?b2839f">
+<link rel="shortcut icon" href="/images/Site-favicon.ico?b2839f">
+<link rel="search" type="application/opensearchdescription+xml" href="/rest.php/v1/search" title="Slay the Spire Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://slaythespire.wiki.gg/api.php?action=rsd">
+<link rel="canonical" href="https://slaythespire.wiki.gg/wiki/Potions_List">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">
+<link rel="alternate" type="application/atom+xml" title="Slay the Spire Wiki Atom feed" href="/wiki/Special:RecentChanges?feed=atom">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Potions List">
+<meta property="og:site_name" content="Slay the Spire Wiki">
+<meta property="og:url" content="https://slaythespire.wiki.gg/wiki/Potions_List">
+<meta property="og:image" content="https://slaythespire.wiki.gg/images/PotionLab.jpg?70d85d">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="780">
+<meta property="og:description" content="A sortable and searchable list of every Potion in Slay the Spire.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","name":"Potions List","headline":"Potions List","mainEntityOfPage":"Potions List","url":"https://slaythespire.wiki.gg/wiki/Potions_List","image":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/PotionLab.jpg?70d85d"},"description":"A sortable and searchable list of every Potion in Slay the Spire.","datePublished":"2025-08-16T00:28:32Z","author":{"@type":"Organization","name":"Slay the Spire Wiki","url":"https://slaythespire.wiki.gg/","logo":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/Site-logo.png?636805"}},"publisher":{"@type":"Organization","name":"Slay the Spire Wiki","url":"https://slaythespire.wiki.gg/","logo":{"@type":"ImageObject","url":"https://slaythespire.wiki.gg/images/Site-logo.png?636805"}}}</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P68LVFKN');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="wgg-dom-version-1_43 skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Potions_List rootpage-Potions_List skin-vector action-view skin--responsive"><header id="wgg-netbar" class="">
+	<div class="wgg-netbar__left">
+		<div class="wgg-netbar__logo">
+			<a href="/" aria-label="wiki.gg">
+				<img height=25 alt="wiki.gg logo" src="https://commons.wiki.gg/images/Network_header_logo.svg?feeba7">
+			</a>
+		</div>
+			<a
+			    class="wgg-netbar__deals-link"
+			    href="https://www.indiedeals.gg"
+			    target="_blank"
+			    rel="noopener"
+			    title="Indie game deals"
+			>
+			    <img class="wgg-netbar__deals-link__icon" src="https://commons.wiki.gg/images/Network_indiedeals_logo.png?f0e20f" alt="">
+			    <span class="wgg-netbar__deals-link__label">Indie game deals</span>
+			</a>
+	</div>
+
+	<nav class="wgg-netbar__user-links" aria-label="Personal tools">
+		<div id="p-personal" class="mw-portlet mw-portlet-personal"  >
+		    
+		    <ul>
+		            <li id="pt-createaccount" class="mw-list-item wgg-netbar__desktop-only"><a data-mw="interface" class=""  href="/wiki/Special:CreateAccount?returnto=Potions+List" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li>
+		            <li id="pt-login" class="mw-list-item wgg-netbar__desktop-only"><a data-mw="interface" class=""  href="/wiki/Special:UserLogin?returnto=Potions+List" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+		    </ul>
+		    
+		</div>
+
+		<div id="wgg-user-menu-overflow" class="wgg-netbar__dropdown">
+			<input type="checkbox"
+				id="wgg-user-menu-overflow-checkbox"
+				role="button"
+				aria-haspopup="true"
+				aria-labelledby="wgg-user-menu-overflow-label"
+			>
+			<label
+				id="wgg-user-menu-overflow-label"
+		        for="wgg-user-menu-overflow-checkbox"
+				class="wgg-netbar__icon-button"
+			><span class="wgg-netbar-icon wgg-netbar-icon--overflow"></span><span>Toggle personal tools menu</span></label>
+
+			<div class="wgg-netbar__dropdown-content">
+				<div id="p-user-menu" class="mw-portlet mw-portlet-user-menu"  >
+				    
+				    <ul>
+				            <li id="pt-anonuserpage" class="mw-list-item"><a data-mw="interface" class="" ><span>Not logged in</span></a></li>
+				            <li id="pt-anontalk" class="mw-list-item"><a data-mw="interface" class=""  href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+				            <li id="pt-anoncontribs" class="mw-list-item"><a data-mw="interface" class=""  href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li>
+				            <li id="pt-createaccount-overflow" class="mw-list-item wgg-netbar__mobile-only"><a data-mw="interface" class=""  href="/wiki/Special:CreateAccount?returnto=Potions+List" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li>
+				            <li id="pt-login-overflow" class="mw-list-item wgg-netbar__mobile-only"><a data-mw="interface" class=""  href="/wiki/Special:UserLogin?returnto=Potions+List" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o"><span>Log in</span></a></li>
+				    </ul>
+				    
+				</div>
+			</div>
+		</div>
+</nav>
+
+</header>
+
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div class="content-wrapper">
+	<div id="mw-navigation">
+		<h2>Navigation menu</h2>
+		<div id="mw-head">
+			<div id="left-navigation">
+				
+<div id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vectorTabs vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Potions_List" title="View the content page [c]" accesskey="c"><span>Page</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/wiki/Talk:Potions_List?action=edit&amp;redlink=1" rel="discussion" class="new" title="Discussion about the content page (page does not exist) [t]" accesskey="t"><span>Make A Suggestion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</div>
+			<div id="right-navigation">
+				
+<div id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vectorTabs vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/Potions_List"><span>Read</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/wiki/Potions_List?veaction=edit" title="Edit this page [v]" accesskey="v"><span>Edit</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/wiki/Potions_List?action=edit" title="Edit the source code of this page [e]" accesskey="e"><span>Edit source</span></a></li><li id="ca-history" class="mw-list-item"><a href="/wiki/Potions_List?action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vectorMenu vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div class="vector-typeahead-search-container">
+		<div class="vector-typeahead-search-wrapper">
+			<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+				<form action="/wiki/Special:Search" id="searchform" class="vector-search-box-form cdx-typeahead-search__form">
+					<div id="simpleSearch"
+						class="vector-search-box-inner cdx-search-input cdx-search-input--has-end-button cdx-typeahead-search__input"
+						 data-search-loc="header-navigation">
+						<div class="cdx-search-input__input-wrapper">
+							<div class="cdx-text-input">
+								<input class="vector-search-box-input cdx-text-input__input mw-searchInput"
+									 type="search" name="search" placeholder="Search Slay the Spire Wiki" aria-label="Search Slay the Spire Wiki" autocapitalize="sentences" spellcheck="false" title="Search Slay the Spire Wiki [f]" accesskey="f" id="searchInput"
+									
+								>
+							</div>
+						</div>
+					<button class="cdx-button cdx-search-input__end-button">
+						Search
+					</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+			</div>
+		</div>
+		
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/"
+			title="Visit the main page"></a>
+	</div>
+	
+<div id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/" title="Visit the main page [z]" accesskey="z"><span>Slay the Spire</span></a></li><li id="n-Slay-the-Spire-2" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Main"><span>Slay the Spire 2</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-Editor-Portal" class="mw-list-item"><a href="/wiki/Help:Editor_Portal"><span>Editor Portal</span></a></li><li id="n-Wanted-Updates" class="mw-list-item"><a href="/wiki/Category:ToUpdate"><span>Wanted Updates</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Slay_the_Spire_1" class="mw-portlet mw-portlet-Slay_the_Spire_1 vector-menu-portal portal vector-menu" aria-labelledby="p-Slay_the_Spire_1-label"  >
+	<h3
+		id="p-Slay_the_Spire_1-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Slay the Spire 1</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-The-Ironclad" class="mw-list-item"><a href="/wiki/Ironclad"><span>The Ironclad</span></a></li><li id="n-The-Silent" class="mw-list-item"><a href="/wiki/Silent"><span>The Silent</span></a></li><li id="n-The-Defect" class="mw-list-item"><a href="/wiki/Defect"><span>The Defect</span></a></li><li id="n-The-Watcher" class="mw-list-item"><a href="/wiki/Watcher"><span>The Watcher</span></a></li><li id="n-Acts" class="mw-list-item"><a href="/wiki/Acts"><span>Acts</span></a></li><li id="n-All-Cards" class="mw-list-item"><a href="/wiki/Cards_List"><span>All Cards</span></a></li><li id="n-All-Relics" class="mw-list-item"><a href="/wiki/Relics_List"><span>All Relics</span></a></li><li id="n-All-Potions" class="mw-list-item"><a href="/wiki/Potions_List"><span>All Potions</span></a></li><li id="n-All-Events" class="mw-list-item"><a href="/wiki/Events_List"><span>All Events</span></a></li><li id="n-Patch-Notes" class="mw-list-item"><a href="/wiki/Patch_Notes"><span>Patch Notes</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-Slay_the_Spire_2" class="mw-portlet mw-portlet-Slay_the_Spire_2 vector-menu-portal portal vector-menu" aria-labelledby="p-Slay_the_Spire_2-label"  >
+	<h3
+		id="p-Slay_the_Spire_2-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Slay the Spire 2</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="n-The-Ironclad" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Ironclad"><span>The Ironclad</span></a></li><li id="n-The-Silent" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Silent"><span>The Silent</span></a></li><li id="n-The-Regent" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Regent"><span>The Regent</span></a></li><li id="n-The-Necrobinder" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Necrobinder"><span>The Necrobinder</span></a></li><li id="n-The-Defect" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Defect"><span>The Defect</span></a></li><li id="n-Ancients" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Ancients"><span>Ancients</span></a></li><li id="n-Timeline" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Timeline"><span>Timeline</span></a></li><li id="n-Acts" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Acts"><span>Acts</span></a></li><li id="n-All-Cards" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Cards_List"><span>All Cards</span></a></li><li id="n-All-Relics" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Relics_List"><span>All Relics</span></a></li><li id="n-All-Potions" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Potions_List"><span>All Potions</span></a></li><li id="n-All-Events" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Events_List"><span>All Events</span></a></li><li id="n-Patch-Notes" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Patch_Notes"><span>Patch Notes</span></a></li><li id="n-Multiplayer" class="mw-list-item"><a href="/wiki/Slay_the_Spire_2:Multiplayer"><span>Multiplayer</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content body">
+		
+		<ul class="vector-menu-content-list menu">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Potions_List" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Potions_List" rel="nofollow" title="Recent changes in pages linked from this page"><span>Related changes</span></a></li><li id="t-newpage" class="mw-list-item"><a href="/wiki/Special:NewPage" accesskey="]"><span>New page</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="t-info" class="mw-list-item"><a href="/wiki/Potions_List?action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cargopagevalueslink" class="mw-list-item"><a href="/wiki/Potions_List?action=dbdata"><span>Database data</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+</div>
+
+	</div>
+	<div id="content" class="mw-body" role="main">
+		<aside id="wikigg-sl-header" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--lb"
+            data-wgg-unit-type="internal"
+        ></div>
+</aside>
+
+		<div class="content-body">
+			<main>
+				<a id="top"></a>
+				<div id="siteNotice"></div>
+				<div class="mw-indicators">
+				</div>
+				<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Potions List</span></h1>
+				<div id="bodyContent" class="vector-body">
+					<div id="siteSub" class="noprint">From Slay the Spire Wiki</div>
+					<div id="contentSub"></div>
+					<div id="contentSub2"></div>
+					
+					<div id="jump-to-nav"></div>
+					<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+					<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="game-tabber noexcerpt"><div class="game-tab" style="border: 2px solid var(--wiki-accent-color--hover); border-bottom: none;"><a class="mw-selflink selflink">Slay the Spire</a></div> <div class="game-tab"><a href="/wiki/Slay_the_Spire_2:Potions_List" title="Slay the Spire 2:Potions List">Slay the Spire 2</a></div></div>
+<div class="ambox" style="--ambox-color: var(--highlight-color-shop);"><div class="ambox-icon metadata"><img alt="" src="/images/thumb/FruitJuice.png/48px-FruitJuice.png?c7e082" decoding="async" loading="lazy" width="48" height="48" srcset="/images/FruitJuice.png?c7e082 1.5x" data-file-width="64" data-file-height="64" /></div><div class="ambox-content"><p class="ambox-text"><i>This is the list of every <b>Potion</b> in Slay the Spire. Information about <b>Potions</b> can be found at <a href="/wiki/Potions" title="Potions">Potions</a>.</i></p></div></div>
+<div><div id="potion-filters"></div><div id="results"><div id="sortingResults">Default sorting</div><div id="numResults">Showing 42 results</div></div><div id="potionsContainer" class="list-container" data-sequel="1"><div class="potion-box" data-name="Attack Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Attack_Potion" title="Attack Potion"><img alt="AttackPotion.png" src="/images/AttackPotion.png?3865be" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Attack_Potion" title="Attack Potion">Attack Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Choose 1 of 3 random <span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?type=Attack"><span>Attack</span></a></span> cards to add (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">two copies of it</a></span>) to your hand. It costs (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">They cost</a></span>) 0 this turn.</div></div></div></div><div class="potion-box" data-name="Blessing of the Forge" data-rarity="Common" data-character="Any" data-tags="Upgrade"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Blessing_of_the_Forge" title="Blessing of the Forge"><img alt="BlessingoftheForge.png" src="/images/BlessingoftheForge.png?41a515" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Blessing_of_the_Forge" title="Blessing of the Forge">Blessing of the Forge</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc"><span class="keyword-trigger inline-trigger" data-name="Upgrade" data-sequel="1" title=""><a href="/wiki/Upgrade" title="Upgrade">Upgrade</a></span> all cards in your hand for the rest of combat.</div></div></div></div><div class="potion-box" data-name="Block Potion" data-rarity="Common" data-character="Any" data-tags="Block"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Block_Potion" title="Block Potion"><img alt="BlockPotion.png" src="/images/BlockPotion.png?18aa53" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Block_Potion" title="Block Potion">Block Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 12 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">24</a></span>) <span class="keyword-trigger inline-trigger" data-name="Block" data-sequel="1"><a href="/wiki/Block" title="Block"><img alt="Icon Block.png" src="/images/thumb/Icon_Block.png/18px-Icon_Block.png?de9e7c" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/Icon_Block.png/27px-Icon_Block.png?de9e7c 1.5x, /images/thumb/Icon_Block.png/36px-Icon_Block.png?de9e7c 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Block" title="Block"><span title="">Block</span></a></span>.</div></div></div></div><div class="potion-box" data-name="Colorless Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Colorless_Potion" title="Colorless Potion"><img alt="ColorlessPotion.png" src="/images/ColorlessPotion.png?cb8939" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Colorless_Potion" title="Colorless Potion">Colorless Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Choose 1 of 3 random <span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?color=Colorless"><span>Colorless</span></a></span> cards to add (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2 copies of</a></span>) to your hand. It costs (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">They cost</a></span>) 0 this turn.</div></div></div></div><div class="potion-box" data-name="Dexterity Potion" data-rarity="Common" data-character="Any" data-tags="Dexterity"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Dexterity_Potion" title="Dexterity Potion"><img alt="DexterityPotion.png" src="/images/DexterityPotion.png?24de00" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Dexterity_Potion" title="Dexterity Potion">Dexterity Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span>.</div></div></div></div><div class="potion-box" data-name="Energy Potion" data-rarity="Common" data-character="Any" data-tags="Energy"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Energy_Potion" title="Energy Potion"><img alt="EnergyPotion.png" src="/images/EnergyPotion.png?1b3b03" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Energy_Potion" title="Energy Potion">Energy Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="keyword-trigger inline-trigger" data-name="Energy" data-sequel="1" title=""><a href="/wiki/Keywords#Energy" title="Keywords"><img alt="ColorlessEnergy.png" src="/images/thumb/ColorlessEnergy.png/18px-ColorlessEnergy.png?259ded" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/ColorlessEnergy.png/27px-ColorlessEnergy.png?259ded 1.5x, /images/thumb/ColorlessEnergy.png/36px-ColorlessEnergy.png?259ded 2x" data-file-width="164" data-file-height="164" /></a> <a href="/wiki/Keywords#Energy" title="Keywords">Energy</a></span>.</div></div></div></div><div class="potion-box" data-name="Explosive Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Explosive_Potion" title="Explosive Potion"><img alt="ExplosivePotion.png" src="/images/ExplosivePotion.png?59f61e" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Explosive_Potion" title="Explosive Potion">Explosive Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Deal 10 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">20</a></span>) damage to all enemies.</div></div></div></div><div class="potion-box" data-name="Fear Potion" data-rarity="Common" data-character="Any" data-tags="Vulnerable"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Fear_Potion" title="Fear Potion"><img alt="FearPotion.png" src="/images/FearPotion.png?7ae539" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Fear_Potion" title="Fear Potion">Fear Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Apply 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) <span class="power-trigger inline-trigger" data-name="Vulnerable" data-sequel="1"><a href="/wiki/Vulnerable" title="Vulnerable"><img alt="Icon Vulnerable.png" src="/images/thumb/Icon_Vulnerable.png/22px-Icon_Vulnerable.png?8c74cd" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Vulnerable.png/33px-Icon_Vulnerable.png?8c74cd 1.5x, /images/thumb/Icon_Vulnerable.png/44px-Icon_Vulnerable.png?8c74cd 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Vulnerable" title="Vulnerable">Vulnerable</a></span> to target enemy.</div></div></div></div><div class="potion-box" data-name="Fire Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Fire_Potion" title="Fire Potion"><img alt="FirePotion.png" src="/images/FirePotion.png?c606de" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Fire_Potion" title="Fire Potion">Fire Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Deal 20 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">40</a></span>) damage to target enemy.</div></div></div></div><div class="potion-box" data-name="Flex Potion" data-rarity="Common" data-character="Any" data-tags="Strength"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Flex_Potion" title="Flex Potion"><img alt="FlexPotion.png" src="/images/FlexPotion.png?742e54" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Flex_Potion" title="Flex Potion">Flex Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span>. At the end of your turn, lose 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span>.</div></div></div></div><div class="potion-box" data-name="Power Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Power_Potion" title="Power Potion"><img alt="PowerPotion.png" src="/images/PowerPotion.png?e979b4" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Power_Potion" title="Power Potion">Power Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Choose 1 of 3 random <span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?type=Power"><span>Power</span></a></span> cards to add (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">two copies of it</a></span>) to your hand. It costs (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">They cost</a></span>) 0 this turn.</div></div></div></div><div class="potion-box" data-name="Skill Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Skill_Potion" title="Skill Potion"><img alt="SkillPotion.png" src="/images/SkillPotion.png?b6ae4a" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Skill_Potion" title="Skill Potion">Skill Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Choose 1 of 3 random <span class="plainlink" data-name="Cards"><a class="text" href="https://slaythespire.wiki.gg/wiki/Cards_List?type=Skill"><span>Skill</span></a></span> cards to add (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">two copies of</a></span>) to your hand. It costs (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">They cost</a></span>) 0 this turn.</div></div></div></div><div class="potion-box" data-name="Speed Potion" data-rarity="Common" data-character="Any" data-tags="Dexterity"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Speed_Potion" title="Speed Potion"><img alt="SpeedPotion.png" src="/images/SpeedPotion.png?f82474" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Speed_Potion" title="Speed Potion">Speed Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span>. At the end of your turn, lose 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <span class="power-trigger inline-trigger" data-name="Dexterity" data-sequel="1"><a href="/wiki/Dexterity" title="Dexterity"><img alt="Icon Dexterity.png" src="/images/thumb/Icon_Dexterity.png/22px-Icon_Dexterity.png?83caf7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Dexterity.png/33px-Icon_Dexterity.png?83caf7 1.5x, /images/thumb/Icon_Dexterity.png/44px-Icon_Dexterity.png?83caf7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Dexterity" title="Dexterity">Dexterity</a></span>.</div></div></div></div><div class="potion-box" data-name="Strength Potion" data-rarity="Common" data-character="Any" data-tags="Strength"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Strength_Potion" title="Strength Potion"><img alt="StrengthPotion.png" src="/images/StrengthPotion.png?182d6f" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Strength_Potion" title="Strength Potion">Strength Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="power-trigger inline-trigger" data-name="Strength" data-sequel="1"><a href="/wiki/Strength" title="Strength"><img alt="Icon Strength.png" src="/images/thumb/Icon_Strength.png/22px-Icon_Strength.png?be60bf" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Strength.png/33px-Icon_Strength.png?be60bf 1.5x, /images/thumb/Icon_Strength.png/44px-Icon_Strength.png?be60bf 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Strength" title="Strength">Strength</a></span>.</div></div></div></div><div class="potion-box" data-name="Swift Potion" data-rarity="Common" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Swift_Potion" title="Swift Potion"><img alt="SwiftPotion.png" src="/images/SwiftPotion.png?dfc570" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Swift_Potion" title="Swift Potion">Swift Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Draw 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) cards.</div></div></div></div><div class="potion-box" data-name="Weak Potion" data-rarity="Common" data-character="Any" data-tags="Weak"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Weak_Potion" title="Weak Potion"><img alt="WeakPotion.png" src="/images/WeakPotion.png?91132a" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Weak_Potion" title="Weak Potion">Weak Potion</a></div><div class="potion-meta">Common - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Apply 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) <span class="power-trigger inline-trigger" data-name="Weak" data-sequel="1"><a href="/wiki/Weak" title="Weak"><img alt="Icon Weak.png" src="/images/thumb/Icon_Weak.png/22px-Icon_Weak.png?261352" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Weak.png/33px-Icon_Weak.png?261352 1.5x, /images/thumb/Icon_Weak.png/44px-Icon_Weak.png?261352 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Weak" title="Weak">Weak</a></span> to target enemy.</div></div></div></div><div class="potion-box" data-name="Blood Potion" data-rarity="Common" data-character="Ironclad" data-tags="Heal"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Blood_Potion" title="Blood Potion"><img alt="BloodPotion.png" src="/images/BloodPotion.png?c309c5" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Blood_Potion" title="Blood Potion">Blood Potion</a></div><div class="potion-meta">Common - Ironclad</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Heal for 20% (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">40%</a></span>) of your Max HP.</div></div></div></div><div class="potion-box" data-name="Poison Potion" data-rarity="Common" data-character="Silent" data-tags="Poison"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Poison_Potion" title="Poison Potion"><img alt="PoisonPotion.png" src="/images/PoisonPotion.png?dd014a" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Poison_Potion" title="Poison Potion">Poison Potion</a></div><div class="potion-meta">Common - Silent</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Apply 6 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">12</a></span>) <span class="power-trigger inline-trigger" data-name="Poison" data-sequel="1"><a href="/wiki/Poison" title="Poison"><img alt="Icon Poison.png" src="/images/thumb/Icon_Poison.png/22px-Icon_Poison.png?628f4a" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Poison.png/33px-Icon_Poison.png?628f4a 1.5x, /images/thumb/Icon_Poison.png/44px-Icon_Poison.png?628f4a 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Poison" title="Poison">Poison</a></span> to target enemy.</div></div></div></div><div class="potion-box" data-name="Focus Potion" data-rarity="Common" data-character="Defect" data-tags="Focus"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Focus_Potion" title="Focus Potion"><img alt="FocusPotion.png" src="/images/FocusPotion.png?950a2f" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Focus_Potion" title="Focus Potion">Focus Potion</a></div><div class="potion-meta">Common - Defect</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="power-trigger inline-trigger" data-name="Focus" data-sequel="1"><a href="/wiki/Orbs" title="Orbs"><img alt="Icon Focus.png" src="/images/thumb/Icon_Focus.png/22px-Icon_Focus.png?abc930" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Focus.png/33px-Icon_Focus.png?abc930 1.5x, /images/thumb/Icon_Focus.png/44px-Icon_Focus.png?abc930 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Orbs" title="Orbs">Focus</a></span>.</div></div></div></div><div class="potion-box" data-name="Bottled Miracle" data-rarity="Common" data-character="Watcher" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Bottled_Miracle" title="Bottled Miracle"><img alt="BottledMiracle.png" src="/images/BottledMiracle.png?94e285" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Bottled_Miracle" title="Bottled Miracle">Bottled Miracle</a></div><div class="potion-meta">Common - Watcher</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Add 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="card-trigger inline-trigger" data-name="Miracle" data-sequel="1"><a href="/wiki/Miracle" title="Miracle"><img alt="CardIcon Colorless Skill Common.png" src="/images/thumb/CardIcon_Colorless_Skill_Common.png/24px-CardIcon_Colorless_Skill_Common.png?9ab8b5" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Skill_Common.png?9ab8b5 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Miracle" title="Miracle">Miracles</a></span> to your hand.</div></div></div></div><div class="potion-box" data-name="Ancient Potion" data-rarity="Uncommon" data-character="Any" data-tags="Artifact"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Ancient_Potion" title="Ancient Potion"><img alt="AncientPotion.png" src="/images/AncientPotion.png?fd6abd" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Ancient_Potion" title="Ancient Potion">Ancient Potion</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 1 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2</a></span>) <span class="power-trigger inline-trigger" data-name="Artifact" data-sequel="1"><a href="/wiki/Artifact" title="Artifact"><img alt="Icon Artifact.png" src="/images/thumb/Icon_Artifact.png/22px-Icon_Artifact.png?d7c3d0" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Artifact.png/33px-Icon_Artifact.png?d7c3d0 1.5x, /images/thumb/Icon_Artifact.png/44px-Icon_Artifact.png?d7c3d0 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Artifact" title="Artifact">Artifact</a></span>.</div></div></div></div><div class="potion-box" data-name="Distilled Chaos" data-rarity="Uncommon" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Distilled_Chaos" title="Distilled Chaos"><img alt="DistilledChaos.png" src="/images/DistilledChaos.png?e71b17" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Distilled_Chaos" title="Distilled Chaos">Distilled Chaos</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Play the top 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) cards of your draw pile.</div></div></div></div><div class="potion-box" data-name="Duplication Potion" data-rarity="Uncommon" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Duplication_Potion" title="Duplication Potion"><img alt="DuplicationPotion.png" src="/images/DuplicationPotion.png?94e49d" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Duplication_Potion" title="Duplication Potion">Duplication Potion</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">This turn, your next card is (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">two cards are</a></span>) played twice.</div></div></div></div><div class="potion-box" data-name="Essence of Steel" data-rarity="Uncommon" data-character="Any" data-tags="Plated Armor"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Essence_of_Steel" title="Essence of Steel"><img alt="EssenceofSteel.png" src="/images/EssenceofSteel.png?f34691" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Essence_of_Steel" title="Essence of Steel">Essence of Steel</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 4 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">8</a></span>) <span class="power-trigger inline-trigger" data-name="Plated Armor" data-sequel="1"><a href="/wiki/Plated_Armor" title="Plated Armor"><img alt="Icon PlatedArmor.png" src="/images/thumb/Icon_PlatedArmor.png/22px-Icon_PlatedArmor.png?647bdc" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_PlatedArmor.png/33px-Icon_PlatedArmor.png?647bdc 1.5x, /images/thumb/Icon_PlatedArmor.png/44px-Icon_PlatedArmor.png?647bdc 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Plated_Armor" title="Plated Armor">Plated Armor</a></span>.</div></div></div></div><div class="potion-box" data-name="Gambler&#39;s Brew" data-rarity="Uncommon" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Gambler%27s_Brew" title="Gambler&#39;s Brew"><img alt="GamblersBrew.png" src="/images/GamblersBrew.png?d503cc" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Gambler%27s_Brew" title="Gambler&#39;s Brew">Gambler's Brew</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Discard any number of cards, then draw that many.</div></div></div></div><div class="potion-box" data-name="Liquid Bronze" data-rarity="Uncommon" data-character="Any" data-tags="Thorns"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Liquid_Bronze" title="Liquid Bronze"><img alt="LiquidBronze.png" src="/images/LiquidBronze.png?d14b46" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Liquid_Bronze" title="Liquid Bronze">Liquid Bronze</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) <span class="power-trigger inline-trigger" data-name="Thorns" data-sequel="1"><a href="/wiki/Buffs#Thorns" title="Buffs"><img alt="Icon Thorns.png" src="/images/thumb/Icon_Thorns.png/22px-Icon_Thorns.png?8d2a8b" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Thorns.png/33px-Icon_Thorns.png?8d2a8b 1.5x, /images/thumb/Icon_Thorns.png/44px-Icon_Thorns.png?8d2a8b 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Buffs#Thorns" title="Buffs">Thorns</a></span>.</div></div></div></div><div class="potion-box" data-name="Liquid Memories" data-rarity="Uncommon" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Liquid_Memories" title="Liquid Memories"><img alt="LiquidMemories.png" src="/images/LiquidMemories.png?c2a353" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Liquid_Memories" title="Liquid Memories">Liquid Memories</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Choose a card (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2 cards</a></span>) in your discard pile and return it to your hand. It costs (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">They cost</a></span>) 0 this turn.</div></div></div></div><div class="potion-box" data-name="Regen Potion" data-rarity="Uncommon" data-character="Any" data-tags="Regen"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Regen_Potion" title="Regen Potion"><img alt="RegenPotion.png" src="/images/RegenPotion.png?474343" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Regen_Potion" title="Regen Potion">Regen Potion</a></div><div class="potion-meta">Uncommon - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <span class="power-trigger inline-trigger" data-name="Regen" data-sequel="1"><a href="/wiki/Buffs#Regen" title="Buffs"><img alt="Icon Regen.png" src="/images/thumb/Icon_Regen.png/22px-Icon_Regen.png?59dc78" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Regen.png/33px-Icon_Regen.png?59dc78 1.5x, /images/thumb/Icon_Regen.png/44px-Icon_Regen.png?59dc78 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Buffs#Regen" title="Buffs">Regen</a></span>.</div></div></div></div><div class="potion-box" data-name="Elixir" data-rarity="Uncommon" data-character="Ironclad" data-tags="Exhaust"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Elixir" title="Elixir"><img alt="Elixir.png" src="/images/Elixir.png?b185d9" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Elixir" title="Elixir">Elixir</a></div><div class="potion-meta">Uncommon - Ironclad</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc"><span class="keyword-trigger inline-trigger" data-name="Exhaust" data-sequel="1" title=""><a href="/wiki/Keywords#Exhaust" title="Keywords">Exhaust</a></span> any number of cards in your hand.</div></div></div></div><div class="potion-box" data-name="Cunning Potion" data-rarity="Uncommon" data-character="Silent" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Cunning_Potion" title="Cunning Potion"><img alt="CunningPotion.png" src="/images/CunningPotion.png?c91c63" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Cunning_Potion" title="Cunning Potion">Cunning Potion</a></div><div class="potion-meta">Uncommon - Silent</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Add 3 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">6</a></span>) <span class="card-trigger inline-trigger" data-name="Shiv" data-sequel="1"><a href="/wiki/Shiv" title="Shiv"><img alt="CardIcon Colorless Attack Common.png" src="/images/thumb/CardIcon_Colorless_Attack_Common.png/24px-CardIcon_Colorless_Attack_Common.png?4d1ee4" decoding="async" loading="lazy" width="24" height="24" style="vertical-align: middle" srcset="/images/CardIcon_Colorless_Attack_Common.png?4d1ee4 1.5x" data-file-width="32" data-file-height="32" /></a> <a href="/wiki/Shiv" title="Shiv">Shivs+</a></span> to your hand.</div></div></div></div><div class="potion-box" data-name="Potion of Capacity" data-rarity="Uncommon" data-character="Defect" data-tags="Orb Slot"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Potion_of_Capacity" title="Potion of Capacity"><img alt="PotionOfCapacity.png" src="/images/PotionOfCapacity.png?bbf6be" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Potion_of_Capacity" title="Potion of Capacity">Potion of Capacity</a></div><div class="potion-meta">Uncommon - Defect</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 2 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">4</a></span>) <span class="keyword-trigger inline-trigger" data-name="Orb Slot" data-sequel="1" title=""><a href="/wiki/Orbs#Orb_Slots" title="Orbs"><img alt="OrbSlot.png" src="/images/thumb/OrbSlot.png/18px-OrbSlot.png?41c2a3" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/OrbSlot.png/27px-OrbSlot.png?41c2a3 1.5x, /images/thumb/OrbSlot.png/36px-OrbSlot.png?41c2a3 2x" data-file-width="128" data-file-height="128" /></a> <a href="/wiki/Orbs#Orb_Slots" title="Orbs">Orb Slots</a></span>.</div></div></div></div><div class="potion-box" data-name="Stance Potion" data-rarity="Uncommon" data-character="Watcher" data-tags="Calm Wrath"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Stance_Potion" title="Stance Potion"><img alt="StancePotion.png" src="/images/StancePotion.png?d6d727" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Stance_Potion" title="Stance Potion">Stance Potion</a></div><div class="potion-meta">Uncommon - Watcher</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Enter <span class="keyword-trigger inline-trigger" data-name="Calm" data-sequel="1" title=""><a href="/wiki/Keywords#Stance" title="Keywords">Calm</a></span> or <span class="keyword-trigger inline-trigger" data-name="Wrath" data-sequel="1" title=""><a href="/wiki/Keywords#Stance" title="Keywords">Wrath</a></span>.</div></div></div></div><div class="potion-box" data-name="Cultist Potion" data-rarity="Rare" data-character="Any" data-tags="Ritual"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Cultist_Potion" title="Cultist Potion"><img alt="CultistPotion.png" src="/images/CultistPotion.png?ef0c3d" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Cultist_Potion" title="Cultist Potion">Cultist Potion</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 1 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2</a></span>) <span class="power-trigger inline-trigger" data-name="Ritual" data-sequel="1"><a href="/wiki/Ritual" title="Ritual"><img alt="Icon Ritual.png" src="/images/thumb/Icon_Ritual.png/22px-Icon_Ritual.png?d3f4d6" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Ritual.png/33px-Icon_Ritual.png?d3f4d6 1.5x, /images/thumb/Icon_Ritual.png/44px-Icon_Ritual.png?d3f4d6 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Ritual" title="Ritual">Ritual</a></span>.</div></div></div></div><div class="potion-box" data-name="Entropic Brew" data-rarity="Rare" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Entropic_Brew" title="Entropic Brew"><img alt="EntropicBrew.png" src="/images/EntropicBrew.png?7ce109" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Entropic_Brew" title="Entropic Brew">Entropic Brew</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Fill all your empty potion slots with random potions.</div></div></div></div><div class="potion-box" data-name="Fairy in a Bottle" data-rarity="Rare" data-character="Any" data-tags="Heal"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Fairy_in_a_Bottle" title="Fairy in a Bottle"><img alt="FairyinaBottle.png" src="/images/FairyinaBottle.png?79cb22" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Fairy_in_a_Bottle" title="Fairy in a Bottle">Fairy in a Bottle</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">When you would die, heal to 30% (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">60%</a></span>) of your Max HP instead and discard this potion.</div></div></div></div><div class="potion-box" data-name="Fruit Juice" data-rarity="Rare" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Fruit_Juice" title="Fruit Juice"><img alt="FruitJuice.png" src="/images/FruitJuice.png?c7e082" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Fruit_Juice" title="Fruit Juice">Fruit Juice</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) Max HP.</div></div></div></div><div class="potion-box" data-name="Smoke Bomb" data-rarity="Rare" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Smoke_Bomb" title="Smoke Bomb"><img alt="SmokeBomb.png" src="/images/SmokeBomb.png?3e3429" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Smoke_Bomb" title="Smoke Bomb">Smoke Bomb</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Escape from a non-boss combat. Receive no rewards.</div></div></div></div><div class="potion-box" data-name="Snecko Oil" data-rarity="Rare" data-character="Any" data-tags=""><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Snecko_Oil" title="Snecko Oil"><img alt="SneckoOil.png" src="/images/SneckoOil.png?e50f6d" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Snecko_Oil" title="Snecko Oil">Snecko Oil</a></div><div class="potion-meta">Rare - Any</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Draw 5 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">10</a></span>) <a href="/wiki/Cards" title="Cards">Cards</a>. Randomize the cost of cards in your hand</div></div></div></div><div class="potion-box" data-name="Heart of Iron" data-rarity="Rare" data-character="Ironclad" data-tags="Metallicize"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Heart_of_Iron" title="Heart of Iron"><img alt="HeartofIron.png" src="/images/HeartofIron.png?2748c8" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Heart_of_Iron" title="Heart of Iron">Heart of Iron</a></div><div class="potion-meta">Rare - Ironclad</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 6 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">12</a></span>) <span class="power-trigger inline-trigger" data-name="Metallicize" data-sequel="1"><a href="/wiki/Metallicize" title="Metallicize"><img alt="Icon Metallicize.png" src="/images/thumb/Icon_Metallicize.png/22px-Icon_Metallicize.png?8d7d44" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Metallicize.png/33px-Icon_Metallicize.png?8d7d44 1.5x, /images/thumb/Icon_Metallicize.png/44px-Icon_Metallicize.png?8d7d44 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Metallicize" title="Metallicize">Metallicize</a></span>.</div></div></div></div><div class="potion-box" data-name="Ghost in a Jar" data-rarity="Rare" data-character="Silent" data-tags="Intangible"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Ghost_in_a_Jar" title="Ghost in a Jar"><img alt="GhostinaJar.png" src="/images/GhostinaJar.png?b73f87" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Ghost_in_a_Jar" title="Ghost in a Jar">Ghost in a Jar</a></div><div class="potion-meta">Rare - Silent</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Gain 1 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2</a></span>) <span class="power-trigger inline-trigger" data-name="Intangible" data-sequel="1"><a href="/wiki/Buffs#Intangible" title="Buffs"><img alt="Icon Intangible.png" src="/images/thumb/Icon_Intangible.png/22px-Icon_Intangible.png?3d82d7" decoding="async" loading="lazy" width="22" height="22" srcset="/images/thumb/Icon_Intangible.png/33px-Icon_Intangible.png?3d82d7 1.5x, /images/thumb/Icon_Intangible.png/44px-Icon_Intangible.png?3d82d7 2x" data-file-width="109" data-file-height="109" /></a> <a href="/wiki/Buffs#Intangible" title="Buffs">Intangible</a></span>.</div></div></div></div><div class="potion-box" data-name="Essence of Darkness" data-rarity="Rare" data-character="Defect" data-tags="Dark"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Essence_of_Darkness" title="Essence of Darkness"><img alt="EssenceOfDarkness.png" src="/images/EssenceOfDarkness.png?7660c5" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Essence_of_Darkness" title="Essence of Darkness">Essence of Darkness</a></div><div class="potion-meta">Rare - Defect</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Channel 1 (<span class="stat-golden"><a href="/wiki/Sacred_Bark" title="Sacred Bark">2</a></span>) <span class="keyword-trigger inline-trigger" data-name="Dark" data-sequel="1"><a href="/wiki/Dark" title="Dark"><img alt="DarkOrb.png" src="/images/thumb/DarkOrb.png/18px-DarkOrb.png?895273" decoding="async" loading="lazy" width="18" height="18" srcset="/images/thumb/DarkOrb.png/27px-DarkOrb.png?895273 1.5x, /images/thumb/DarkOrb.png/36px-DarkOrb.png?895273 2x" data-file-width="82" data-file-height="82" /></a> <a href="/wiki/Dark" title="Dark"><span title="">Dark</span></a></span> for each orb slot.</div></div></div></div><div class="potion-box" data-name="Ambrosia" data-rarity="Rare" data-character="Watcher" data-tags="Divinity"><span class="potion-image-wrap"><span class="img-base"><a href="/wiki/Ambrosia" title="Ambrosia"><img alt="Ambrosia.png" src="/images/Ambrosia.png?5d0e1c" decoding="async" loading="lazy" width="80" height="80" data-file-width="64" data-file-height="64" /></a></span></span><div class="potion-text"><div class="potion-title compendium-cell-title"><a href="/wiki/Ambrosia" title="Ambrosia">Ambrosia</a></div><div class="potion-meta">Rare - Watcher</div><div class="potion-desc"><div class="potion-desc compendium-cell-desc">Enter <span class="keyword-trigger inline-trigger" data-name="Divinity" data-sequel="1" title=""><a href="/wiki/Keywords#Stance" title="Keywords">Divinity</a></span>.</div></div></div></div></div></div>
+<!-- 
+NewPP limit report
+Cached time: 20260917075512
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.073 seconds
+Real time usage: 0.197 seconds
+Preprocessor visited node count: 528/1000000
+Revision size: 414/4194304 bytes
+Post‐expand include size: 29602/4194304 bytes
+Template argument size: 192/4194304 bytes
+Highest expansion depth: 6/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/10000000 bytes
+Lua time usage: 0.007/15.000 seconds
+Lua memory usage: 1081931/52428800 bytes
+Number of processed Cargo queries: 2
+Time spent processing Cargo queries: 0.007 s (avg. 0.004 s)
+Number of Cargo row insertion attempts: 0
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   16.872      1 -total
+ 78.37%   13.223      1 Template:Sequel_Disambiguation
+ 21.36%    3.604      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key slaythespire_en:pcache:idhash:1659-0!canonical and timestamp 20260917075512 and revision id 23480. Rendering was triggered because: edit-page
+ -->
+</div>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://slaythespire.wiki.gg/wiki/Potions_List?oldid=23480">https://slaythespire.wiki.gg/wiki/Potions_List?oldid=23480</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Potions" title="Category:Potions">Potions</a></li></ul></div></div>
+				</div>
+			</main>
+			<aside id="wikigg-sl-rail" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mhp"
+            data-wgg-unit-type="pubco"
+        ><div id="adngin-Sidebar-0"></div></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="pubco"
+        ><div id="nn_mpu1"></div></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="internal"
+        ></div>
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--mrec"
+            data-wgg-unit-type="pubco"
+        ><div id="nn_mpu2"></div></div>
+        <div class="wikigg-showcase__report-link">
+            <a href="https://www.wiki.gg/t/bad-ad" target="_blank" rel="nofollow">Report bad advertisement</a>
+        </div>
+</aside>
+
+		</div>
+		<aside id="wikigg-sl-footer" data-mw="WggShowcaseLayout">
+        <div
+            class="wikigg-showcase__unit wikigg-showcase__reserved--lb"
+            data-wgg-unit-type="internal"
+        ></div>
+</aside>
+
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="mw-cookiewarning-container"><div class="mw-cookiewarning-text"><span>Cookies help us deliver our services. By using our services, you agree to our use of cookies.</span></div><form method="POST"><div class='oo-ui-layout oo-ui-horizontalLayout'><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget'><a role='button' tabindex='0' href='https://www.indie.io/privacy-policy' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>More information</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span><span class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget'><button type='submit' tabindex='0' name='disablecookiewarning' value='OK' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>OK</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div></form></div>
+</div>
+
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 1 April 2026, at 21:13.</li>
+	<li id="footer-info-copyright"><div class="wikigg-copyright-box">Page content is under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0">Creative Commons Attribution-ShareAlike 4.0 License</a> unless otherwise noted.</div></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-wikigg-tos"><a href="https://www.indie.io/terms-of-service">Terms of Service</a></li>
+	<li id="footer-places-wikigg-privacy"><a href="https://www.indie.io/privacy-policy">Privacy policy</a></li>
+	<li id="footer-places-wikigg-support"><a href="https://support.wiki.gg">Support Wiki</a></li>
+	<li id="footer-places-wikigg-servicedesk"><a href="https://wiki.gg/go/servicedesk">Send a ticket to wiki.gg</a></li>
+	<li id="footer-places-wikigg-statuspage"><a href="https://wikiggstatus.com">Status page</a></li>
+	<li id="footer-places-wikigg-pcmp"><a href="#" class="nn-cmp-show" style="display: none">Manage cookie settings</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://creativecommons.org/licenses/by-sa/4.0" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/CC-BY-SA_footer_badge.svg?d931d3" alt="Creative Commons Attribution-ShareAlike 4.0 License" height="31" width="88" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/CC-BY-SA_footer_badge_dark.svg?55845c" alt="Creative Commons Attribution-ShareAlike 4.0 License" height="31" width="88" loading="lazy" data-theme="dark"></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/MediaWiki_footer_badge.svg?8c3a36" alt="Powered by MediaWiki" width="88" height="31" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/MediaWiki_footer_badge_dark.svg?12ec0a" alt="Powered by MediaWiki" width="88" height="31" loading="lazy" data-theme="dark"></a></li>
+	<li id="footer-partofico"><a href="https://wiki.gg" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><img src="https://commons.wiki.gg/images/d/d1/Network_footer_badge.svg?9d5a96" alt="Part of wiki.gg" height="31" width="88" loading="lazy" data-theme="light"><img src="https://commons.wiki.gg/images/2/23/Network_footer_badge_dark.svg?9cf3e8" alt="Part of wiki.gg" height="31" width="88" loading="lazy" data-theme="dark"></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgPageParseReport":{"limitreport":{"cputime":"0.073","walltime":"0.197","ppvisitednodes":{"value":528,"limit":1000000},"revisionsize":{"value":414,"limit":4194304},"postexpandincludesize":{"value":29602,"limit":4194304},"templateargumentsize":{"value":192,"limit":4194304},"expansiondepth":{"value":6,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":10000000},"timingprofile":["100.00%   16.872      1 -total"," 78.37%   13.223      1 Template:Sequel_Disambiguation"," 21.36%    3.604      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.007","limit":"15.000"},"limitreport-memusage":{"value":1081931,"limit":52428800}},"librarian":{"limitreport-queries":2,"limitreport-querytime":["0.007 s (avg. 0.004 s)"],"limitreport-insertions":0},"cachereport":{"timestamp":"20260917075512","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(function(){var ck="; "+document.cookie,ci=ck.indexOf("; "+"wgg_aegis"+"="),cv="";if(ci>=0){var cr=ck.slice(ci+"wgg_aegis".length+3),ce=cr.indexOf(";");cv=ce<0?cr:cr.slice(0,ce);}if(cv&&(!true||cv.indexOf("~")>0)){return;}var t0=(performance&&performance.now)?performance.now():Date.now();var s=false,q=false,u=null,dpr=window.devicePixelRatio||1;var evs=['pointermove','pointerdown','pointerup','touchstart','keydown','wheel'];var a={trusted:true,first:0,last:0,moves:0,motion:0,mism:0,hidden:0,oob:0,turns:0,seq:0,sjit:0},P={},px=null,py=null,fx=0,fy=0,pdx=null,pdy=null,ox=null,oy=0;function N(){return (performance&&performance.now)?performance.now():Date.now();}function D(){if(q){return;}q=true;for(var i=0;i<evs.length;i++){removeEventListener(evs[i],H);}removeEventListener('visibilitychange',V);if(u){clearTimeout(u);}var nt=px!==null?Math.sqrt((px-fx)*(px-fx)+(py-fy)*(py-fy)):0;var p={isTrusted:a.trusted,time:Math.round(a.first-t0),span:Math.round(a.last-a.first),moves:a.moves,motion:Math.round(a.motion),mism:a.mism,hidden:a.hidden,oob:a.oob,pt:Object.keys(P).length,str:a.motion>0?Math.round(100*nt/a.motion):0,turns:a.turns,seq:a.seq,sjit:a.sjit};try{fetch("https://aegis-app.wiki.gg/grant",{method:"POST",credentials:"include",headers:{"Content-Type":"application/json"},body:JSON.stringify(p),keepalive:true})}catch(e){}}function H(e){var n=N();if(!s){if(!e.isTrusted){return;}s=true;a.first=n;u=setTimeout(D,700);}if(!e.isTrusted){a.trusted=false;}a.last=n;if(document.hidden){a.hidden++;}if(e.type.charAt(0)==='p'){if(e.pointerType){P[e.pointerType]=1;}var x=e.clientX,y=e.clientY;if(x<0||y<0||x>innerWidth||y>innerHeight){a.oob++;}var qx=e.screenX-x,qy=e.screenY-y;if(qx===0&&qy===0){a.seq++;}if(ox!==null&&(Math.abs(qx-ox)>2||Math.abs(qy-oy)>2)){a.sjit++;}ox=qx;oy=qy;if(e.type==="pointermove"){a.moves++;if(px!==null){var ddx=x-px,ddy=y-py;a.motion+=Math.sqrt(ddx*ddx+ddy*ddy);var mx=e.movementX||0,my=e.movementY||0;var c1=Math.abs(mx-ddx)+Math.abs(my-ddy),c2=Math.abs(mx-ddx*dpr)+Math.abs(my-ddy*dpr);if((c1<c2?c1:c2)>2){a.mism++;}if(pdx!==null&&(ddx*pdx+ddy*pdy)<0){a.turns++;}pdx=ddx;pdy=ddy;}else{fx=x;fy=y;}px=x;py=y;}}if(a.moves>=40){D();}}function V(){if(document.visibilityState==='hidden'&&s){D();}}for(var i=0;i<evs.length;i++){addEventListener(evs[i],H,{passive:true});}addEventListener('visibilitychange',V);addEventListener('pagehide',function(){if(s){D();}},{capture:true});})();</script>
+<script>window.__CF$cv$params={r:'a3c96b98be8c85bb',t:'MTc4OTY2MTgzOA==',u:'01a0b0287baa75c2b6bb6315a3b083e1',ut:'0jeYwhcY6PxbTsWGThyOoNMk0cplH4JzKoScV8pOMXA-1789661838-1.2.1.1-HDe44X8Rf0oyh_540kzhzH8awCf_qpQ8myU8icW1A8niNM8nUkfnJ67cTHVUDu3llH.XwmfWeIGIUjYXEegLLX7rb1SxRmh9qVFjn0qUe64',i:60};(function(){if(!document.body)return;var s=document.createElement('script');s.src='/cdn-cgi/challenge-platform/scripts/precursor/main.js';document.head.appendChild(s);})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495" integrity="sha512-iIg7k2xntmwu6/uSb5tpc/hySgZc4eoL31yB29W6tJFo2akwjPWcEqnCEdJvGexCL0KEQwVYv5BlowfhVz26hg==" data-cf-beacon='{"version":"2024.11.0","token":"26b2c6e7c852417d8f9d11b0c7f02309","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-09-18T04:20:48+00:00",
+  "parser_version": "kb-bootstrap-sample/0.1",
+  "counts": {
+    "entities": 1054,
+    "names": 3751,
+    "claims": 17606,
+    "relations": 324,
+    "cards": 422,
+    "relics": 180,
+    "potions": 42,
+    "monsters": 61,
+    "encounters": 1,
+    "events": 55,
+    "statuses": 182,
+    "mechanics": 25,
+    "inventory_items": 1719,
+    "inventory_mappings": 816,
+    "inventory_csv": 1719,
+    "entity_name_mapping": 1054
+  }
+}

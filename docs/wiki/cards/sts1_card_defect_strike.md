@@ -20,8 +20,8 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `1.0` | Deal 6 damage. | ​ 造成6伤害。 | 未保存 |
-| `Upgraded` | `1.0` | Deal 9 damage. | ​​​​造成9点伤害。 | 未保存 |
+| `Base` | `1.0` | Deal 6 damage. | 造成6点伤害。 | 未保存 |
+| `Upgraded` | `1.0` | Deal 9 damage. | 造成9点伤害。 | 未保存 |
 
 ## 相关条目
 
@@ -40,12 +40,15 @@
 | `card.color` | Blue | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (base)` | 1 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 1 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Deal 6 damage. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Deal 6 damage. | `provisional` | [打击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=412596&wiki_id=646570) |
-| `card.description (upgrade)` | Deal 9 damage. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (upgrade)` | Deal 9 damage. | `provisional` | [打击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=412596&wiki_id=646570) |
+| `card.description (base)` | Deal 6 damage. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (base)` | Deal 6 damage. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Deal 9 damage. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Deal 9 damage. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (base)` | {"class_name": "com/megacrit/cardcrawl/cards/blue/Strike_Blue.class", "class_sha256": "20ee4db26b2eaabcbd15cc8976977ff7e5322b7e4830af99f5840a0f8d4300b4", "constructor_offsets": {"damage": 36}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {"damage": 6}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (upgrade)` | {"class_name": "com/megacrit/cardcrawl/cards/blue/Strike_Blue.class", "class_sha256": "20ee4db26b2eaabcbd15cc8976977ff7e5322b7e4830af99f5840a0f8d4300b4", "constructor_offsets": {"damage": 36}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {"damage": 9}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.rarity` | Basic | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | [] | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.target` | ENEMY | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.type` | Attack | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | Deal !D! damage. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.card.description` | 造成 !D! 点伤害。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
@@ -59,4 +62,4 @@
 | `source.title_text` | 打击 | `single_source` | [打击](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=412596&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation|1|1}} <br>{{Card Infobox<br>|Name        = Strike (Defect)<br>|DisplayName = Strike<br>|Image       = Blue-Strike.png<br>|Color       = Blue<br>|Type        = Attack<br>|Rarity      = Basic<br>|Cost        = 1<br>|Description = Deal (6;9) damage.<br>}}<br>{{C|Strike (Defect)|Strike}} is a 1 {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Basic|Basic}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 6 (9 if upgraded) damage.<br><br>... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:20+00:00
+页面生成时间：2026-09-18T14:55:07+00:00

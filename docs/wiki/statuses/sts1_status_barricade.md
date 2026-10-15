@@ -39,4 +39,4 @@
 | `status.description` | Block is not removed at the start of your turn. | `single_source` | [P3 wiki.gg API batch: status 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Dexterity|Strength|Buffs|Buffs|Buffs|Buffs|Debuffs|Debuffs|Buffs|Debuffs|Buffs|Debuffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 格挡 不会在你的回合开始时消失。 | `single_source` | [壁垒（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460434&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

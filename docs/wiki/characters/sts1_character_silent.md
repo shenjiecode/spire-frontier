@@ -138,4 +138,4 @@
 | `source.page_title.en` | Silent | `single_source` | [Cards List | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Cards_List) |
 | `source.title_text` | 静默猎手 | `single_source` | [静默猎手](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15589144&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

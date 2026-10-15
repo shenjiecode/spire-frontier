@@ -32,4 +32,4 @@
 | `keyword.definition.zh` | 充能球是故障机器人的专属机制。它们占据充能球栏位，并在回合结束触发被动效果；栏位已满时生成新的充能球会先激发最右侧的球。激发会消耗最右侧的球并触发其激发效果。 | `single_source/editorial_zh` | [P3 wiki.gg API batch: keyword 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Plasma|Keywords|Keywords|Keywords|Keywords&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br>{{TOC limit|3}}<br><br>== Common to all characters ==<br>=== Block ===<br>{{Hatnote|See [[Block]] for more info on its sources and interactions.}}<br>{{KW|Block}} is a resource used by all characters as well as a number of enemies to reduce damage taken in a turn. Block is removed at the star... | `single_source` | [P3 wiki.gg API batch: keyword 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Plasma|Keywords|Keywords|Keywords|Keywords&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

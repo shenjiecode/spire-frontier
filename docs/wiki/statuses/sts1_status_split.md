@@ -39,4 +39,4 @@
 | `status.description` | When its HP is at or below 50%, will split into 2 smaller slimes with's current HP. | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 当生命值等于或低于 50% 时，将会分裂成 2 只较小的史莱姆，每只都拥有当前的生命值。 | `single_source` | [分裂](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460316&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

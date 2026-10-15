@@ -19,6 +19,7 @@ def now() -> str:
 
 
 EXPORT_TABLES = (
+    "characters",
     "sources",
     "source_pages",
     "entities",
@@ -111,7 +112,9 @@ def main() -> int:
     # base.  ``inventory.jsonl`` is a compatibility alias for the canonical
     # ``inventory_items.jsonl`` and must contain the same rows.
     export_counts: dict[str, int | None] = {}
-    for table in EXPORT_TABLES:
+    extra_tables = tuple(t for t in ('entity_understanding', 'understanding_sources', 'xiao_directory', 'xiao_page_review', 'xiao_entity_pages', 'xiao_field_checks', 'xiao_corrections')
+                         if conn.execute('SELECT 1 FROM sqlite_master WHERE name=?', (t,)).fetchone())
+    for table in EXPORT_TABLES + extra_tables:
         path = ROOT / "data" / "exports" / f"{table}.jsonl"
         actual = jsonl_count(path)
         expected = conn.execute(f"SELECT COUNT(*) FROM {table}").fetchone()[0]
@@ -143,7 +146,7 @@ def main() -> int:
             # Source links can point to the web or to a versioned local game
             # resource.  The latter is deliberately recorded as provenance,
             # not treated as a Markdown-relative file path.
-            if target.startswith(("http://", "https://", "mailto:", "file://", "game://")):
+            if target.startswith(("http://", "https://", "mailto:", "file://", "game://", "game-local://")):
                 continue
             local = target.split("#", 1)[0]
             if not local:

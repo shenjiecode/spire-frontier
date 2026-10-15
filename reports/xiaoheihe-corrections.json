@@ -1,0 +1,11 @@
+{
+  "changes_this_run": {
+    "identity.xiao_article": 1,
+    "variants.base.description_zh": 1,
+    "variants.upgrade.description_zh": 2,
+    "relic.description_en": 161,
+    "relic.description_zh": 4,
+    "potion.description_zh": 2
+  },
+  "total_logged": 411
+}

@@ -1,0 +1,157 @@
+{
+  "directory_articles": 895,
+  "directory_memberships": 1763,
+  "article_status": {
+    "historical_fallback": 99,
+    "parsed": 796
+  },
+  "field_status": {
+    "match": 2854,
+    "requires_semantic_review": 114,
+    "not_in_source_text": 844,
+    "shared_page_or_name_difference": 2,
+    "equivalent_wording": 82,
+    "resolved_source_difference": 42,
+    "equivalent_notation": 59,
+    "rule_difference_pending": 1,
+    "source_annotation": 22,
+    "source_editorial_error": 26,
+    "renderer_corrected": 3,
+    "member_specific_review_required": 25,
+    "no_direct_xiao_article": 254
+  },
+  "scope": [
+    {
+      "scope": "daily_modifier",
+      "articles": 40
+    },
+    {
+      "scope": "foundation",
+      "articles": 839
+    },
+    {
+      "scope": "site_or_intro",
+      "articles": 11
+    },
+    {
+      "scope": "wiki_strategy",
+      "articles": 7
+    }
+  ],
+  "by_kind": [
+    {
+      "kind": "card",
+      "lifecycle": "active",
+      "total": 370,
+      "with_page": 370
+    },
+    {
+      "kind": "card",
+      "lifecycle": "candidate",
+      "total": 52,
+      "with_page": 0
+    },
+    {
+      "kind": "character",
+      "lifecycle": "active",
+      "total": 4,
+      "with_page": 4
+    },
+    {
+      "kind": "concept",
+      "lifecycle": "candidate",
+      "total": 10,
+      "with_page": 10
+    },
+    {
+      "kind": "encounter",
+      "lifecycle": "active",
+      "total": 39,
+      "with_page": 0
+    },
+    {
+      "kind": "event",
+      "lifecycle": "active",
+      "total": 51,
+      "with_page": 51
+    },
+    {
+      "kind": "event",
+      "lifecycle": "candidate",
+      "total": 4,
+      "with_page": 1
+    },
+    {
+      "kind": "keyword",
+      "lifecycle": "active",
+      "total": 22,
+      "with_page": 0
+    },
+    {
+      "kind": "keyword",
+      "lifecycle": "candidate",
+      "total": 33,
+      "with_page": 0
+    },
+    {
+      "kind": "mechanic",
+      "lifecycle": "active",
+      "total": 61,
+      "with_page": 41
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "active",
+      "total": 71,
+      "with_page": 70
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "candidate",
+      "total": 10,
+      "with_page": 0
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "deprecated",
+      "total": 10,
+      "with_page": 2
+    },
+    {
+      "kind": "potion",
+      "lifecycle": "active",
+      "total": 42,
+      "with_page": 42
+    },
+    {
+      "kind": "potion",
+      "lifecycle": "candidate",
+      "total": 2,
+      "with_page": 0
+    },
+    {
+      "kind": "relic",
+      "lifecycle": "active",
+      "total": 180,
+      "with_page": 179
+    },
+    {
+      "kind": "relic",
+      "lifecycle": "candidate",
+      "total": 15,
+      "with_page": 0
+    },
+    {
+      "kind": "status",
+      "lifecycle": "active",
+      "total": 134,
+      "with_page": 132
+    },
+    {
+      "kind": "status",
+      "lifecycle": "candidate",
+      "total": 47,
+      "with_page": 1
+    }
+  ]
+}

@@ -32,4 +32,4 @@
 | `source.article_text` | （图片未提供文字说明）<br>怪物分布<br>（图片未提供文字说明）<br>行动类型<br>（图片未提供文字说明）<br>行动规律<br>（图片未提供文字说明）<br>如果有人受伤，必定使用治疗。但不会连续使用三次。<br>只要可能，强化的概率略高于脆弱打击<br>进阶 3以下<br>不可能连续使用三次脆弱打击；不可能连续使用三次强化。<br>进阶 17+<br>脆弱打击后必定强化；不可能连续使用三次强化。 | `single_source` | [神秘术士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436699&wiki_id=646570) |
 | `source.title_text` | 神秘术士 | `single_source` | [神秘术士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436699&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

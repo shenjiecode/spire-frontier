@@ -35,4 +35,4 @@
 | `encounter.name.en` | Exordium: Slime Boss | `single_source` | [Slime Boss | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Slime_Boss) |
 | `encounter.name.zh` | 第一幕：史莱姆老大 | `single_source/editorial_zh` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

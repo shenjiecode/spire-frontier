@@ -55,4 +55,4 @@
 | `source.title_text` | 蛇花 | `single_source` | [蛇花](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436704&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Snake Plant<br>|Image  = SnakePlant.png<br>|HP     = 75-79<br>|AscHP  = 78-82<br>|Powers = {{BD|Malleable}} 3<br>|Debut  = Act 2<br>|Type   = Normal<br>}} {{Power Infobox|Malleable}}<br>Snake Plant is a normal [[Monsters|Enemy]] found only in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Snake Plant}}<br>{{Intents Table/row<br>|Name   = Chomp Chomp<br>|Intent = Attack5<br>|Effect = Deals (7×3;{{Asc|2|8×3}}) damage.}}<br>{{Intents Table/row<br>|Name   = ... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

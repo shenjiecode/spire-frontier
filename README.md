@@ -2,12 +2,14 @@
 
 从《杀戮尖塔 1》的双语 Wiki 建立可追溯的基础知识库，并为后续自动打塔 Agent 提供结构化事实。
 
-当前知识库采用 SQLite 主库 + 自动生成的互链 Markdown Wiki；不使用 RAG 或向量召回。双主源是用户指定的[小黑盒 Wiki](https://web.xiaoheihe.cn/wiki/home?wiki_id=646570)和英文 [wiki.gg](https://slaythespire.wiki.gg/)。此前整理的两份攻略保持独立，当前不与基础 Wiki 建立关联。
+当前以 SQLite 数据库为主，按类别提供可直接读取的 JSONL 记录，Markdown Wiki 是辅助浏览产物；不使用 RAG 或向量召回。双主源是用户指定的[小黑盒 Wiki](https://web.xiaoheihe.cn/wiki/home?wiki_id=646570)和英文 [wiki.gg](https://slaythespire.wiki.gg/)。此前整理的两份攻略保持独立，当前不与基础库建立关联。
+
+数据库使用方式见 [数据库记录说明](docs/数据库记录说明.md)。`data/records/` 导出 974 个 active 实体的中英文名称、游戏 ID、分类、固定字段和理解；理解从小黑盒明确的建议章节提取，保留出处，无内容时为 `null`。当前 35 个实体有理解，卡牌的理解暂未提取到。584 个卡牌变体含直接确认的游戏数值，714 个变体可生成官方双语描述；动态和条件效果尚未全部拆成可计算字段。
 
 ## 当前知识库状态
 
-- [双语知识 Wiki](docs/wiki/index.md)：SQLite 中有 1,121 个 StS1 实体，已生成可读页面和互链；其中 938 个为 active 实体，173 个为保留待审的 candidate 实体，10 个为保留审计轨迹的 deprecated 记录。
-- 当前数据库统计：3,802 个名称、18,569 条 claims、426 条关系、938 个来源页面、21 个图片资源；生成 Wiki 共 1,127 个 Markdown 页面。纯合页父记录只保留来源和成员关系，怪物数值放在拆分后的成员页。
+- [小黑盒全目录审核](reports/xiaoheihe-full-review.md)：895篇文章、1,763条目录归属；796篇本次获取、99篇使用历史快照。页面覆盖不等同于所有字段已完成语义核验，逐字段差异和冲突保留在数据库。
+- [双语知识 Wiki](docs/wiki/index.md)：SQLite 中有 1,157 个 StS1 实体；其中 974 个为 active，173 个为 candidate，10 个为 deprecated。新增36个每日/自定义模式修饰符。精确表计数见 [导出清单](data/exports/manifest.json)。
 - 身份审核：830 条目录映射已确认，其中 828 条指向 wiki.gg、2 条保留为本机游戏本地化 crosswalk；未确认的 10 条中文目录行均为小黑盒独有的概念/说明页。未确认的游戏内部条目仍保留 candidate，不因中英文名称同时存在而晋升。
 - [P1 样本报告](reports/p1-sample-report.json)：最初的纵向样本、来源快照和图片证据。
 - [P0 来源审计](reports/source-audit.md)：访问方式、解析风险、许可和已保存快照。
@@ -44,6 +46,7 @@ python scripts/kb/apply_mapping_decisions.py --file data/decisions/mapping-decis
 python scripts/kb/apply_mapping_decisions.py --file data/decisions/mapping-decisions.status-manual.csv
 python scripts/kb/apply_mapping_decisions.py --file data/decisions/mapping-decisions.image-review.csv
 python scripts/kb/repair_structured_data.py
+python scripts/kb/build_records.py
 python scripts/kb/cross_source_audit.py
 python scripts/kb/build_wiki.py
 python scripts/kb/audit_mappings.py

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Combat reward screens now contain Colorless cards and cards from other colors.Looking through the shard, you are able to see entirely new perspectives.", "description_zh": "战斗奖励掉落的卡牌现在会包括无色牌和其他颜色的牌。", "flavor": "Looking through the shard, you are able to see entirely new perspectives.", "flavor_en": "Looking through the shard, you are able to see entirely new perspectives.", "flavor_zh": "通过碎片，你能以全新的视角观察这个世界。"} |
+| `effect_json` | {"description_en": "Combat reward screens now contain Colorless cards and cards from other colors.", "description_zh": "战斗奖励掉落的卡牌现在会包括无色牌和其他颜色的牌。", "flavor": "Looking through the shard, you are able to see entirely new perspectives.", "flavor_en": "Looking through the shard, you are able to see entirely new perspectives.", "flavor_zh": "通过碎片，你能以全新的视角观察这个世界。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 棱镜碎片 | `single_source` | [棱镜碎片](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494912&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Prismatic Shard<br>|Image       = PrismaticShard.png<br>|Rarity      = Shop<br>|Description = Combat reward screens now contain {{QueryLink|Cards|color:Colorless|Colorless}} cards and cards from other colors.<br>|Flavor      = Looking through the shard, you are able to see entirely new perspectives.<br>}}<br>{{R|Prismatic Shard}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]]. It allows all card rewards to contain {{QueryLink|Cards|color:Colorless|Color... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -59,4 +59,4 @@
 | `source.title_text` | 大颚虫 | `single_source` | [大颚虫](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15420602&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>| Name   = Jaw Worm<br>| Image  = JawWorm.png<br>| HP     = 40-44<br>| AscHP  = 42-46<br>| Debut  = Act 1<br>| Type   = Normal<br>}}<br>{{Enemy Infobox<br>| Name   = Jaw Worm (Hard)<br>| Image  = JawWorm.png<br>| HP     = 40-44<br>| AscHP  = 42-46<br>| Powers = {{BD|Strength}} 3 ({{Asc|2|4}}/{{Asc|17|5}})<br> {{BD|Block}}  6 ({{Asc|17|9}})<br>| Debut  = Act 3<br>| Type   = Normal<br>}}<br>'''Jaw Worm''' is a normal [[Monsters|Enemy]] that can show up in Act 1, and has a har... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -1,11 +1,11 @@
-# 敏捷(负) / Dexterity Down
+# 敏捷下降 / Dexterity Down
 
 > 稳定 ID：`sts1.status.dexterity_down`  
 > 类别：`status`；游戏：`sts1`；映射状态：`confirmed`
 
 ## 名称
 
-- 中文：敏捷(负)
+- 中文：敏捷下降
 - English: Dexterity Down
 
 ## status 数据
@@ -42,4 +42,4 @@
 | `status.description` | At the end of this turn, lose X Dexterity. | `single_source/editorial_zh` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 | `status.description` | 在本回合结束时失去 X 点敏捷。 | `single_source/editorial_zh` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

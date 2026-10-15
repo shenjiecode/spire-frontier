@@ -23,9 +23,7 @@
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
 | Spawn Dagger | Unknown |  |  | {"text": "Summons (1 Dagger;2 Daggers) (up to a maximum of 4)."} |
-| Wound | DebuffAttack2 | 9 |  | {"text": "Deals 9 damage. Adds a Wound into your discard pile."} |
 | Big Bite | Attack7 | 30 |  | {"text": "Deals (30;34) damage."} |
-| Explode | Attack6 | 25 |  | {"text": "Deals 25 damage. Dies"} |
 | Snake Strike | DebuffAttack6 | 13 | 2 | {"text": "Deals (13×2;16×2) damage. Applies 1 Weak."} |
 
 ## 相关条目
@@ -61,4 +59,4 @@
 | `source.title_text` | 拜蛇术士 | `single_source` | [拜蛇术士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436794&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Reptomancer<br>|Image  = Reptomancer.png<br>|HP     = 180-190<br>|AscHP  = 190-200<br>|Debut  = Act 3<br>|Type   = Elite<br>}}<br>Reptomancer is an [[Elite]] enemy found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Reptomancer}}<br>{{Intents Table/row<br>|Name   = Spawn Dagger<br>|Intent = Unknown<br>|Effect = Summons (1 {{M|Dagger}};{{Asc|18|2}} {{M|Dagger|Daggers}}) (up to a maximum of 4).}}<br>{{Intents Table/row<br>|Name   = Big Bite... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

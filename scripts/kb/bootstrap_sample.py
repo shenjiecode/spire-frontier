@@ -912,7 +912,7 @@ def export_data(conn: sqlite3.Connection) -> dict[str, int]:
         "sources", "source_pages", "entities", "names", "claims", "relations", "resolutions",
         "entity_variants", "card_variants", "monster_moves", "event_options",
         "encounter_members", "assets", "entity_assets",
-        "cards", "relics", "potions", "monsters", "encounters", "events",
+        "characters", "cards", "relics", "potions", "monsters", "encounters", "events",
         "statuses", "keywords", "mechanics", "inventory_items", "inventory_mappings",
         "strategy_notes", "strategy_links",
     ):
@@ -936,6 +936,15 @@ def export_data(conn: sqlite3.Connection) -> dict[str, int]:
             legacy_path.write_text("\n".join(serialized) + ("\n" if serialized else ""), encoding="utf-8")
             counts["inventory_jsonl"] = len(rows)
         counts[table] = len(rows)
+
+    for table in ("entity_understanding", "understanding_sources", "xiao_directory", "xiao_page_review", "xiao_entity_pages", "xiao_field_checks", "xiao_corrections"):
+        if conn.execute("SELECT 1 FROM sqlite_master WHERE type='table' AND name=?", (table,)).fetchone():
+            cursor = conn.execute(f"SELECT * FROM {table} ORDER BY 1")
+            columns = [d[0] for d in cursor.description]
+            rows = [dict(zip(columns, row)) for row in cursor.fetchall()]
+            (export_dir / f"{table}.jsonl").write_text(
+                ''.join(json.dumps(row, ensure_ascii=False, sort_keys=True) + '\n' for row in rows), encoding='utf-8')
+            counts[table] = len(rows)
 
     # ``fetch_p3.py`` updates inventory status in place.  Keep the human-facing
     # CSV in lockstep with the database even when the P2 discovery script is

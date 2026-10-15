@@ -64,4 +64,4 @@
 | `source.title_text` | 异鸟 | `single_source` | [异鸟](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436744&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Byrd<br>|Image  = Byrd.png<br>|HP     = 25-31<br>|AscHP  = 26-33<br>|Powers = {{BD|Flying}} 3 ({{Asc|17|4}})<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox<br>|Name         = Flying<br>|Image        = Icon Flying.png<br>|Description  = Takes 50% less attack damage. Cancelled if dealt attack damage X times in one turn. Resets charges at the start of next turn if not fully removed.<br>|Type         = Buff<br>|Stacks       = Intensity<br>|BetweenTurn... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

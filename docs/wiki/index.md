@@ -1,6 +1,6 @@
 # 杀戮尖塔 1 双语知识 Wiki
 
-生成时间：2026-09-18T11:10:22+00:00。当前阶段：P3 双源内容采集首轮。
+生成时间：2026-09-18T14:55:10+00:00。当前阶段：P3 双源内容采集首轮。
 
 数据库：[`data/spire.sqlite`](../../data/spire.sqlite)；生成脚本：[`bootstrap_sample.py`](../../scripts/kb/bootstrap_sample.py)、[`discover_inventory.py`](../../scripts/kb/discover_inventory.py)、[`fetch_p3.py`](../../scripts/kb/fetch_p3.py)、[`build_wiki.py`](../../scripts/kb/build_wiki.py)。
 
@@ -626,6 +626,42 @@
 - [生命 / Health](mechanics/sts1_mechanic_health.md) — `sts1.mechanic.health`
 - [钥匙 / Keys](mechanics/sts1_mechanic_keys.md) — `sts1.mechanic.keys`
 - [商人 / Merchant](mechanics/sts1_mechanic_merchant.md) — `sts1.mechanic.merchant`
+- [选牌 / Draft](mechanics/sts1_mechanic_modifier_15460536.md) — `sts1.mechanic.modifier.15460536`
+- [现开套牌 / Sealed Deck](mechanics/sts1_mechanic_modifier_15460538.md) — `sts1.mechanic.modifier.15460538`
+- [囤积癖 / Hoarder](mechanics/sts1_mechanic_modifier_15460540.md) — `sts1.mechanic.modifier.15460540`
+- [精神错乱 / Insanity](mechanics/sts1_mechanic_modifier_15460542.md) — `sts1.mechanic.modifier.15460542`
+- [奇美拉 / Chimera](mechanics/sts1_mechanic_modifier_15460544.md) — `sts1.mechanic.modifier.15460544`
+- [金光闪闪 / Shiny](mechanics/sts1_mechanic_modifier_15460546.md) — `sts1.mechanic.modifier.15460546`
+- [专精 / Specialized](mechanics/sts1_mechanic_modifier_15460548.md) — `sts1.mechanic.modifier.15460548`
+- [上等好货 / Vintage](mechanics/sts1_mechanic_modifier_15460550.md) — `sts1.mechanic.modifier.15460550`
+- [乱中有序 / Controlled Chaos](mechanics/sts1_mechanic_modifier_15460552.md) — `sts1.mechanic.modifier.15460552`
+- [全明星 / All Star](mechanics/sts1_mechanic_modifier_15460554.md) — `sts1.mechanic.modifier.15460554`
+- [涉猎广泛 / Diverse](mechanics/sts1_mechanic_modifier_15460556.md) — `sts1.mechanic.modifier.15460556`
+- [红色牌 / Red Cards](mechanics/sts1_mechanic_modifier_15460558.md) — `sts1.mechanic.modifier.15460558`
+- [绿色牌 / Green Cards](mechanics/sts1_mechanic_modifier_15460560.md) — `sts1.mechanic.modifier.15460560`
+- [蓝色牌 / Blue Cards](mechanics/sts1_mechanic_modifier_15460562.md) — `sts1.mechanic.modifier.15460562`
+- [紫色牌 / Purple Cards](mechanics/sts1_mechanic_modifier_15460564.md) — `sts1.mechanic.modifier.15460564`
+- [无色牌 / Colorless Cards](mechanics/sts1_mechanic_modifier_15460566.md) — `sts1.mechanic.modifier.15460566`
+- [传家宝 / Heirloom](mechanics/sts1_mechanic_modifier_15460568.md) — `sts1.mechanic.modifier.15460568`
+- [时间膨胀 / Time Dilation](mechanics/sts1_mechanic_modifier_15460570.md) — `sts1.mechanic.modifier.15460570`
+- [致命事件 / Deadly Events](mechanics/sts1_mechanic_modifier_15460573.md) — `sts1.mechanic.modifier.15460573`
+- [两者择一 / Binary](mechanics/sts1_mechanic_modifier_15460575.md) — `sts1.mechanic.modifier.15460575`
+- [诅咒局 / Cursed Run](mechanics/sts1_mechanic_modifier_15460577.md) — `sts1.mechanic.modifier.15460577`
+- [精英猎手 / Big Game Hunter](mechanics/sts1_mechanic_modifier_15460579.md) — `sts1.mechanic.modifier.15460579`
+- [死斗 / Lethality](mechanics/sts1_mechanic_modifier_15460581.md) — `sts1.mechanic.modifier.15460581`
+- [点金手 / Midas](mechanics/sts1_mechanic_modifier_15460583.md) — `sts1.mechanic.modifier.15460583`
+- [暗夜惊魂 / Night Terrors](mechanics/sts1_mechanic_modifier_15460585.md) — `sts1.mechanic.modifier.15460585`
+- [身患绝症 / Terminal](mechanics/sts1_mechanic_modifier_15460587.md) — `sts1.mechanic.modifier.15460587`
+- [前路已定 / Certain Future](mechanics/sts1_mechanic_modifier_15460589.md) — `sts1.mechanic.modifier.15460589`
+- [飞行 / Flight](mechanics/sts1_mechanic_modifier_15627169.md) — `sts1.mechanic.modifier.15627169`
+- [日常特效 / Daily Mods](mechanics/sts1_mechanic_modifier_15762210.md) — `sts1.mechanic.modifier.15762210`
+- [终幕 / The Ending](mechanics/sts1_mechanic_modifier_15762212.md) — `sts1.mechanic.modifier.15762212`
+- [荒疫箱 / Blight Chests](mechanics/sts1_mechanic_modifier_15762214.md) — `sts1.mechanic.modifier.15762214`
+- [赞美异蛇 / Praise Snecko](mechanics/sts1_mechanic_modifier_15762216.md) — `sts1.mechanic.modifier.15762216`
+- [盗梦空间 / Inception](mechanics/sts1_mechanic_modifier_15762218.md) — `sts1.mechanic.modifier.15762218`
+- [完美形态 / My True Form](mechanics/sts1_mechanic_modifier_15762220.md) — `sts1.mechanic.modifier.15762220`
+- [一血传奇 / One Hit Wonder](mechanics/sts1_mechanic_modifier_15762222.md) — `sts1.mechanic.modifier.15762222`
+- [初始牌组 / Starter Deck](mechanics/sts1_mechanic_modifier_15762224.md) — `sts1.mechanic.modifier.15762224`
 - [怪物介绍 / Monsters](mechanics/sts1_mechanic_monsters.md) — `sts1.mechanic.monsters`
 - [玩家回合 / Player Turn](mechanics/sts1_mechanic_player_turn.md) — `sts1.mechanic.player_turn`
 - [药水 / Potions](mechanics/sts1_mechanic_potions.md) — `sts1.mechanic.potions`
@@ -1057,7 +1093,7 @@
 - [天人 / Deva](statuses/sts1_status_deva.md) — `sts1.status.deva`
 - [虔信（能力） / Devotion](statuses/sts1_status_devotion.md) — `sts1.status.devotion`
 - [敏捷 / Dexterity](statuses/sts1_status_dexterity.md) — `sts1.status.dexterity`
-- [敏捷(负) / Dexterity Down](statuses/sts1_status_dexterity_down.md) — `sts1.status.dexterity_down`
+- [敏捷下降 / Dexterity Down](statuses/sts1_status_dexterity_down.md) — `sts1.status.dexterity_down`
 - [敏捷（负面） / Dexterity (Negative)](statuses/sts1_status_dexterity_negative.md) — `sts1.status.dexterity_negative`
 - [双倍伤害 / Double Damage](statuses/sts1_status_double_damage.md) — `sts1.status.double_damage`
 - [双发（能力） / Double Tap](statuses/sts1_status_double_tap.md) — `sts1.status.double_tap`

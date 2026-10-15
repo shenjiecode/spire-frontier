@@ -28,6 +28,9 @@ def entity(conn: sqlite3.Connection, entity_id: str) -> dict:
     if not row:
         return {}
     result = dict(row)
+    if conn.execute("SELECT 1 FROM sqlite_master WHERE name='entity_records'").fetchone():
+        from build_records import record
+        result = record(conn, conn.execute('SELECT * FROM entity_records WHERE id=?', (entity_id,)).fetchone())
     result["names"] = names(conn, entity_id)
     result["relations_out"] = [dict(r) for r in conn.execute("SELECT relation_type, target_entity_id, status, condition_json FROM relations WHERE source_entity_id=? AND status!='rejected' ORDER BY relation_type, target_entity_id", (entity_id,))]
     result["relations_in"] = [dict(r) for r in conn.execute("SELECT relation_type, source_entity_id, status, condition_json FROM relations WHERE target_entity_id=? AND status!='rejected' ORDER BY relation_type, source_entity_id", (entity_id,))]
@@ -36,6 +39,21 @@ def entity(conn: sqlite3.Connection, entity_id: str) -> dict:
 
 
 def find_entities(conn: sqlite3.Connection, text: str, kind: str | None = None, character: str | None = None) -> list[sqlite3.Row]:
+    # Game IDs are case-sensitive and are scoped by entity kind (a card and
+    # its power can share an ID). Preserve ambiguity when kind is omitted.
+    sql = 'SELECT e.* FROM entities e WHERE e.game_id=? AND e.lifecycle=\'active\''
+    params = [text]
+    if kind:
+        sql += ' AND e.kind=?'
+        params.append(kind)
+    if character:
+        sql += """ AND e.kind='card' AND EXISTS (
+                    SELECT 1 FROM cards c JOIN names cn ON cn.entity_id=c.character_entity_id
+                    WHERE c.entity_id=e.id AND cn.language='en' AND cn.normalized=?)"""
+        params.append(character.casefold())
+    exact = conn.execute(sql + ' ORDER BY kind,id', params).fetchall()
+    if exact:
+        return exact
     params: list[str] = [text.casefold()]
     sql = """SELECT DISTINCT e.* FROM entities e JOIN names n ON n.entity_id=e.id
              WHERE n.normalized=?"""

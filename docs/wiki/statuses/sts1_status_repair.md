@@ -39,4 +39,4 @@
 | `status.description` | At the end of combat, heal X HP. | `single_source` | [P3 wiki.gg API batch: status 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Dexterity|Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Minion|Debuffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 在战斗结束时，回复 X 点生命。 | `single_source` | [修理](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454301&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

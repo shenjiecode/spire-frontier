@@ -37,4 +37,4 @@
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "DIVINITY", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `keyword.definition` | {"definition_en": "Upon entering this stance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn.", "definition_zh": "进入这一 #y姿态 时，获得 [W] [W] [W] 。你的攻击造成三倍伤害。你在下一回合开始时自动离开这一 #y姿态 。", "wiki_sections": []} | `single_source` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

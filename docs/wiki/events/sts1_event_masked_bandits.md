@@ -50,4 +50,4 @@
 | `source.title_text` | 蒙面强盗 | `single_source` | [蒙面强盗](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408886&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=Masked Bandits<br>|Image=Event-MaskedBandits.png<br>}} {{Small Relic Infobox|Red Mask}}<br>{{E|Masked Bandits}} is an [[Event]] found exclusively in [[Act 2]]. This Event and {{E|Tomb of Lord Red Mask}} are the only ways to obtain {{R|Red Mask}}.<br><br>== Options ==<br>{{Frame|Pay}} {{TS|negative||Lose ALL}} of your {{TS|gold||Gold.}}<br><br><br><br><br>{{Frame|Fight!}} <br>* Starts a combat against [[#Bandits|the three bandits]] ({{M|Pointy}}, {{M|Romeo}}, and {{M|B... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

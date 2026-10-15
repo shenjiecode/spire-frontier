@@ -42,4 +42,4 @@
 | `status.description` | Whenever you attack this enemy,gain X Block. | `single_source` | [P3 wiki.gg API batch: status 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Strength|Buffs|Strength|Debuffs|Buffs|Plated_Armor|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 每当玩家攻击敌人时，获得X点格挡 | `single_source` | [以手拒之（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460336&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

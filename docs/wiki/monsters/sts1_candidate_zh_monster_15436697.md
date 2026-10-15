@@ -32,4 +32,4 @@
 | `source.article_text` | 怪物分布<br>行动类型<br>行动规律<br>只要可能，保护的概率是攻击的两倍。<br>不可能连续三次攻击；不可能连续三次保护。<br>神秘术士死亡后，不再保护而是连击。<br>（图片未提供文字说明） | `single_source` | [百夫长](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436697&wiki_id=646570) |
 | `source.title_text` | 百夫长 | `single_source` | [百夫长](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436697&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

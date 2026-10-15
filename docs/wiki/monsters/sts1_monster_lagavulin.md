@@ -58,4 +58,4 @@
 | `source.title_text` | 乐加维林 | `single_source` | [乐加维林](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421614&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Lagavulin<br>|Image  = LagavulinAwake.png<br>|HP     = 109-111<br>|AscHP  = 112-115<br>|Powers = {{BD|Metallicize}} 8 <br> {{KW|Block}} 8<br>|Debut  = Act 1<br>|Type   = Elite<br>}}<br>{{Power Infobox|Metallicize}}<br>Lagavulin is an [[Elite]] enemy found exclusively in [[Act 1]] or in the {{E|Dead Adventurer}} Event.<br>== Pattern ==<br>{{Intents Table/start|Lagavulin}}<br>{{Intents Table/row<br>|Name   = Sleep<br>|Intent = Sleep<br>|Effect = Does nothing.}}<br>{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

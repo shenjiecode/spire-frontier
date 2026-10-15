@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Common |
-| `effect_json` | {"description_en": "Gain 2 (4) Energy.", "description_zh": "稀有度：普通 角色：通用 获得2点能量。", "flavor": ""} |
+| `effect_json` | {"description_en": "Gain 2 (4) Energy.", "description_zh": "获得2点能量。", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.496906.5ba10c1d68ce887b", "flavor": ""} |
 
 ## 相关条目
 
@@ -35,7 +35,7 @@
 | `game.potion.descriptions` | ["Gain #b", " Energy."] | `verified_game` | [Game localization eng/potions.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/potions.json) |
 | `game.potion.descriptions` | ["获得 #b", " 点能量。"] | `verified_game` | [Game localization zhs/potions.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/potions.json) |
 | `potion.effect` | Gain 2 (4) Energy. | `provisional` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `potion.effect` | Gain 2 (4) Energy. | `provisional` | [能量药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496906&wiki_id=646570) |
+| `potion.effect` | Gain 2 (4) Energy. | `provisional` | [能量药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496906&wiki_id=646570#snapshot-5ba10c1d68ce887b) |
 | `source.article_text` | 能量药水<br>（图片未提供文字说明）<br>稀有度：普通<br>角色：通用<br>获得2点能量。 | `single_source` | [能量药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496906&wiki_id=646570) |
 | `source.image_urls` | ["/images/EnergyPotion.png?1b3b03"] | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.image_urls` | ["https://cdn.max-c.com/heybox/dailynews/img/dbbb9b359801df43a170a60d6f2bd9ce.png"] | `single_source` | [能量药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496906&wiki_id=646570) |
@@ -43,4 +43,4 @@
 | `source.title_text` | 能量药水 | `single_source` | [能量药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496906&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Energy Potion<br>|Sequel=		1<br>|Image=			EnergyPotion.png<br>|Rarity=		Common<br>|Description=	Gain (2;4) {{KW|Energy}}.<br>|Keywords    = Energy<br>}}<br>{{Keyword Infobox|Energy}}<br>{{P|Energy Potion}} is a {{QueryLink|Potions|rarity:Common|Common}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of '''Energy Potion'''.<br><!-- Inc... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew|Colorless_Potion|Potion_of_Capacity|Regen_Potion|Blood_Potion|Energy_Potion|Attack_Potion|Ghost_in_a_Jar|Power_Potion|Essence_of_Darkness|Elixir|Fear_Potion|Speed_Potion|Essence_of_Steel|Liquid_Bronze|Cunning_Potion|Duplication_Potion|Bottled_Miracle|Entropic_Brew|Liquid_Memories&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -50,4 +50,4 @@
 | `source.title_text` | 三机械 | `single_source` | [三机械](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408985&wiki_id=646570) |
 | `source.wikitext` | The Shapes are a group of enemies encountered in [[Act 3]].<br><br>== Exploder ==<br>{{Enemy Infobox<br>|Name   = Exploder<br>|Image  = Exploder.png<br>|HP     = 30<br>|AscHP  = 30-35<br>|Powers = {{BD|Explosive}} 3<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Explosive}}<br>Exploders explode. Profound knowledge.<br><br>=== Pattern ===<br>{{Intents Table/start|Exploder}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack2<br>|Effect = Deals (9;{{Asc|2|11}}) dama... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

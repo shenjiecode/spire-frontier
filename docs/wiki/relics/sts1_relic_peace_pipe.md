@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "You can now remove cards from your deck at Rest Sites.Clears the mind and cleanses the soul.", "description_zh": "现在你可以在休息处移除你牌组中的牌。", "flavor": "Clears the mind and cleanses the soul.", "flavor_en": "Clears the mind and cleanses the soul.", "flavor_zh": "放空心智，洁净灵魂。"} |
+| `effect_json` | {"description_en": "You can now remove cards from your deck at Rest Sites.", "description_zh": "现在你可以在休息处移除你牌组中的牌。", "flavor": "Clears the mind and cleanses the soul.", "flavor_en": "Clears the mind and cleanses the soul.", "flavor_zh": "放空心智，洁净灵魂。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 宁静烟斗 | `single_source` | [宁静烟斗](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515997&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Peace Pipe<br>|Image       = PeacePipe.png<br>|Rarity      = Rare<br>|Description = You can now remove cards from your deck at Rest Sites.<br>|Flavor      = Clears the mind and cleanses the soul.<br>|Keywords    = Deck<br>}}<br>{{R|Peace Pipe}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It adds a "Toke" option to [[Map Locations#Rest Sites|Rest Sites]], which allows the player to remove one card from their deck.<br><br>== Sources ==<br>* Can be dro... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

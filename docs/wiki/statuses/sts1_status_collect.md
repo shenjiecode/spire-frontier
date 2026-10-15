@@ -39,4 +39,4 @@
 | `status.description` | At the start of your next turn, put a Miracle+ into your hand. | `single_source` | [P3 wiki.gg API batch: status 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Dexterity|Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Minion|Debuffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 在你的下 X 个回合开始时，增加一张 奇迹+ 到你的手牌。 | `single_source` | [收集（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15445494&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

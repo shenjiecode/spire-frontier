@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "You can no longer become Weakened.A potent tool in many tonics.", "description_zh": "你不会再被 #y虚弱 。", "flavor": "A potent tool in many tonics.", "flavor_en": "A potent tool in many tonics.", "flavor_zh": "在许多补品中都能用上的好东西。"} |
+| `effect_json` | {"description_en": "You can no longer become Weakened.", "description_zh": "你不会再被虚弱", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.516066.84d9fabf6dc2e05f", "flavor": "A potent tool in many tonics.", "flavor_en": "A potent tool in many tonics.", "flavor_zh": "在许多补品中都能用上的好东西。"} |
 
 ## 相关条目
 
@@ -37,11 +37,11 @@
 | `game.relic.flavor` | A potent tool in many tonics. | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
 | `game.relic.flavor` | 在许多补品中都能用上的好东西。 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 | `relic.effect` | You can no longer become Weakened.A potent tool in many tonics. | `provisional` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `relic.effect` | You can no longer become Weakened.A potent tool in many tonics. | `provisional` | [生姜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516066&wiki_id=646570) |
+| `relic.effect` | You can no longer become Weakened.A potent tool in many tonics. | `provisional` | [生姜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516066&wiki_id=646570#snapshot-84d9fabf6dc2e05f) |
 | `source.article_text` | 生姜（Ginger）<br>（图片未提供文字说明）<br>稀有度<br>稀有<br>角色<br>通用<br>作用<br>你不会再被虚弱<br>说明<br>在许多补品中都能用上的好东西 | `single_source` | [生姜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516066&wiki_id=646570) |
 | `source.image_urls` | ["/images/thumb/Ginger.png/80px-Ginger.png?f09682"] | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.infobox.description` | You can no longer become Weakened. | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.title_text` | 生姜 | `single_source` | [生姜](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516066&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Ginger<br>|Image       = Ginger.png<br>|Rarity      = Rare<br>|Description = You can no longer become {{BD|Weak|Weakened}}.<br>|Flavor      = A potent tool in many tonics.<br>}}<br>{{Power Infobox|Weak}}{{R|Ginger}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br>== Sources ==<br>* Can be dropped by fighting [[Elites]], by buying from the [[Merchant]], or found in a [[Medium Chest]] or [[Large Chest]]. See Chest and non-Chest chance at [[Relics#R... | `single_source` | [P3 wiki.gg API batch: relic 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Champion_Belt|Gremlin_Visage|Ninja_Scroll|Centennial_Puzzle|Horn_Cleat|Red_Mask|Meat_on_the_Bone|Ink_Bottle|Bag_of_Preparation|Orichalcum|Vajra|Mercury_Hourglass|Ssserpent_Head|Thread_and_Needle|Runic_Cube|Bottled_Tornado|Sundial|Ginger|Toxic_Egg|Mutagenic_Strength&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

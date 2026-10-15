@@ -25,7 +25,7 @@
 | Reincarnate | Buff |  |  | {"text": "Revives with 50% HP."} |
 | Harden | Defend |  |  | {"text": "Gains 12 Block(.; and 2 Strength.)"} |
 | Regrowing... | Unknown |  |  | {"text": "Does nothing."} |
-| Nip | Attack2 | 7 |  | {"text": "Deals N damage. N = Number between (7-11;9-13), chosen at the start of combat."} |
+| Nip | Attack2 |  |  | {"text": "Deals N damage. N = Number between (7-11;9-13), chosen at the start of combat."} |
 | Chomp | Attack4 | 8 | 2 | {"text": "Deals (8×2;9×2) damage."} |
 
 ## 相关条目
@@ -61,4 +61,4 @@
 | `source.title_text` | 小黑 | `single_source` | [小黑](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438057&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Darkling<br>|Image  = Darkling.png<br>|HP     = 48-56<br>|AscHP  = 50-59<br>|Powers = {{BD|Life Link}}<br>|Debut  = Act 3<br>|Type   = Normal<br>}} <br>{{Power Infobox<br>|Name         = Life Link<br>|Image        = Icon LifeLink.png<br>|Description  = If other {{M|Darkling|Darklings}} are still alive, revives in 2 turns.<br>|Type         = Buff<br>|Stacks       = Does not stack<br>|BetweenTurns = <br>|Cap          = <br>}}<br>Darkling is a normal [[Monsters|Enemy... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

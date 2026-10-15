@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Cards containing \"Strike\" deal 3 additional damage.It's beat up.", "description_zh": "名字中有“打击”的卡牌造成 #b 点额外伤害。", "flavor": "It's beat up.", "flavor_en": "It's beat up.", "flavor_zh": "被打得破破烂烂的。"} |
+| `effect_json` | {"description_en": "Cards containing \"Strike\" deal 3 additional damage.", "description_zh": "名字中带有“打击”的卡牌造成3点额外伤害", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.9959086.315295fbfb5b6095", "flavor": "It's beat up.", "flavor_en": "It's beat up.", "flavor_zh": "被打得破破烂烂的。"} |
 
 ## 相关条目
 
@@ -37,11 +37,11 @@
 | `game.relic.flavor` | It's beat up. | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
 | `game.relic.flavor` | 被打得破破烂烂的。 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 | `relic.effect` | Cards containing "Strike" deal 3 additional damage.It's beat up. | `provisional` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `relic.effect` | Cards containing "Strike" deal 3 additional damage.It's beat up. | `provisional` | [打击木偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959086&wiki_id=646570) |
+| `relic.effect` | Cards containing "Strike" deal 3 additional damage.It's beat up. | `provisional` | [打击木偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959086&wiki_id=646570#snapshot-315295fbfb5b6095) |
 | `source.article_text` | 打击木偶<br>（图片未提供文字说明）<br>稀有度<br>罕见<br>角色<br>通用<br>作用<br>名字中带有“打击”的卡牌造成3点额外伤害<br>说明<br>被打得破破烂烂的。 | `single_source` | [打击木偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959086&wiki_id=646570) |
 | `source.image_urls` | ["/images/thumb/StrikeDummy.png/80px-StrikeDummy.png?8d3dda"] | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.infobox.description` | Cards containing "Strike" deal 3 additional damage. | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.title_text` | 打击木偶 | `single_source` | [打击木偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9959086&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Relic Infobox<br>|Name        = Strike Dummy<br>|Image       = StrikeDummy.png<br>|Rarity      = Uncommon<br>|Description = Cards containing "Strike" deal 3 additional damage.<br>|Flavor      = It's beat up.<br>}}<br>{{R|Strike Dummy}} is an {{QueryLink|Relics|rarity:Uncommon|Uncommon}} [[Relic]]. Any card that contains the word "Strike" in its name deals an additional 3 damage. See [[#Interactions]] for a list of cards this applies to.<br><br>== Sources ==<br>* Ca... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

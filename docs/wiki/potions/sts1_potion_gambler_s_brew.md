@@ -42,4 +42,4 @@
 | `source.title_text` | 赌徒特酿 | `single_source` | [赌徒特酿](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9953441&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}} {{Potion Infobox<br>|Name=			Gambler's Brew<br>|Image=			GamblersBrew.png<br>|Rarity=		Uncommon<br>|Character=		Any<br>|Description=	Discard any number of cards, then draw that many. <br>}}<br>{{P|Gambler's Brew}} is an {{QueryLink|Potions|rarity:Uncommon|Uncommon}} [[Potion]].<br><br>== Sources ==<br><br>== Interactions ==<br><br>=== Synergies ===<br><!-- Include any relevant synergies here, with bullet points. Otherwise delete this section entirely. --><br><!-- Whe... | `single_source` | [P3 wiki.gg API batch: potion 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Gambler's_Brew&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

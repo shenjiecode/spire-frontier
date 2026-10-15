@@ -57,4 +57,4 @@
 | `source.title_text` | 真菌兽 | `single_source` | [真菌兽](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15420669&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Fungi Beast<br>|Image  = FungiBeast.png<br>|HP     = 22-28<br>|AscHP  = 24-28<br>|Powers = {{BD|Spore Cloud}} 2<br>|Debut  = Act 1<br>|Type   = Normal<br>}}<br>{{Power Infobox|Spore Cloud}}<br>'''Fungi Beast''' is a normal [[Monsters|Enemy]] that appears in [[Act 1]] and [[Act 2]]. It also appears in the {{E|Hypnotizing Colored Mushrooms}} [[Event]] in groups of three.<br><br>== Pattern ==<br>{{Intents Table/start|Fungi Beast}}<br>{{Intents Table/row<br>|Name   = ... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

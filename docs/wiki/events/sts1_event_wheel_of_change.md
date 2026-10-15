@@ -47,4 +47,4 @@
 | `source.title_text` | 变化大转盘 | `single_source` | [变化大转盘](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408964&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=Wheel of Change<br>|Image=Event-SpinTheWheel.png<br>}}<br>{{E|Wheel of Change}} is a shrine [[Event]] found in all [[Acts]].<br><br>Shrine events appear less frequently than other acts.<br>{{Clear}}<br>== Options ==<br><div style="float:right; display:flex; flex-direction:row; gap:10px; margin:0 0 10px 10px;"><br>[[File:SpinButton.png|100px|thumb|Spin Button.]]<br>[[File:WheelArrow.png|100px|thumb|Wheel arrow.]]<br>[[File:Wheel.png|250px|thumb|Wheel.]]<br></div><br>{{... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

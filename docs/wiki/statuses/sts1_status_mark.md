@@ -39,4 +39,4 @@
 | `status.description` | Whenever you play Pressure Points, loses X HP. | `single_source` | [P3 wiki.gg API batch: status 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Dexterity|Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Minion|Debuffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 每当你打出 点穴 时，这名敌人失去 X 点生命。 | `single_source` | [印记](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460347&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

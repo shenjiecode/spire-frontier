@@ -42,4 +42,4 @@
 | `status.description` | At the end of this turn, lose X Strength. | `single_source/editorial_zh` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 | `status.description` | 在本回合结束时失去 X 点力量。 | `single_source/editorial_zh` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

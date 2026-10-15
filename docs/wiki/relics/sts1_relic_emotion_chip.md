@@ -14,7 +14,7 @@
 | --- | --- |
 | `rarity` | Rare |
 | `character_entity_id` | sts1.character.defect |
-| `effect_json` | {"description_en": "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn....<3...?", "description_zh": "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。", "flavor": "...<3...?", "flavor_en": "...<3...?", "flavor_zh": "……<3……？"} |
+| `effect_json` | {"description_en": "If you lost HP during the previous turn, trigger the passive ability of all Orbs at the start of your turn.", "description_zh": "在每回合开始时，如果你在之前回合受到过伤害，则触发所有充能球的被动效果。", "flavor": "...<3...?", "flavor_en": "...<3...?", "flavor_zh": "……<3……？"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 情感芯片 | `single_source` | [情感芯片](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516051&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>| Name        = Emotion Chip<br>| Image       = EmotionChip.png<br>| Rarity      = Rare<br>| Character   = Defect<br>| Description = If you lost HP during the previous turn, trigger the passive ability of all {{KW|Orb|Orbs}} at the start of your turn.<br>| Flavor      = ...<3...?<br>| InteractsWith = Orb<br>}}<br>{{R|Emotion Chip}} is a {{QueryLink|Relics|character:Defect|Defect-exclusive}} {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]].<br><br... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

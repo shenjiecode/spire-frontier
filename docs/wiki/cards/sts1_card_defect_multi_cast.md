@@ -20,8 +20,8 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `X` | Evoke your next Orb X times. | 激发你最右侧的充能球x次。 | 未保存 |
-| `Upgraded` | `X` | Evoke your next Orb X+1 times. | 激发你最右侧的充能球x+1次。 | 未保存 |
+| `Base` | `X` | Evoke your next Orb X times. | 激发你最右侧的充能球X次。 | 未保存 |
+| `Upgraded` | `X` | Evoke your next Orb X+1 times. | 激发你最右侧的充能球X+1次。 | 未保存 |
 
 ## 相关条目
 
@@ -40,12 +40,15 @@
 | `card.color` | Blue | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (base)` | X | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | X | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Evoke your next Orb X times. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Evoke your next Orb X times. | `provisional` | [多重释放](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495548&wiki_id=646570) |
-| `card.description (upgrade)` | Evoke your next Orb X+1 times. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (upgrade)` | Evoke your next Orb X+1 times. | `provisional` | [多重释放](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495548&wiki_id=646570) |
+| `card.description (base)` | Evoke your next Orb X times. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (base)` | Evoke your next Orb X times. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Evoke your next Orb X+1 times. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Evoke your next Orb X+1 times. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (base)` | {"class_name": "com/megacrit/cardcrawl/cards/blue/MultiCast.class", "class_sha256": "0cfcbfbe34eb73162aef9b1bd3c4ae736b7fc9cb9ad7546c80de9c94872b69b8", "constructor_offsets": {}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (upgrade)` | {"class_name": "com/megacrit/cardcrawl/cards/blue/MultiCast.class", "class_sha256": "0cfcbfbe34eb73162aef9b1bd3c4ae736b7fc9cb9ad7546c80de9c94872b69b8", "constructor_offsets": {}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.rarity` | Rare | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Evoke"] | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.target` | NONE | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.type` | Skill | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | Evoke your next Orb X times. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.card.description` | 激发 你最右侧的充能球X次。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
@@ -59,4 +62,4 @@
 | `source.title_text` | 多重释放 | `single_source` | [多重释放](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=495548&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Multi-Cast<br>|Image       = Blue-Multi-Cast.png<br>|Color       = Blue<br>|Type        = Skill<br>|Rarity      = Rare<br>|Cost        = -1<br>|Description = {{KW|Evoke}} your next Orb (X;X+1) times.<br>}}<br>{{C|Multi-Cast}} is an X {{Icon|BE}}-cost {{QueryLink|Cards|color:Blue|Defect}} {{QueryLink|Cards|rarity:Rare|Rare}} {{QueryLink|Cards|type:Skill|Skill}} Card.<br><br>== Interactions ==<br>=== Order ===<br>* If {{KW|Plasma|Pla... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:20+00:00
+页面生成时间：2026-09-18T14:55:06+00:00

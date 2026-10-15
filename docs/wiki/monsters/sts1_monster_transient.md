@@ -22,7 +22,7 @@
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Attack | Attack7 | 20 |  | {"text": "Deals (20+N; 30+N) damage. N = Current turn, multiplied by 10."} |
+| Attack | Attack7 |  |  | {"text": "Deals (20+N; 30+N) damage. N = Current turn, multiplied by 10."} |
 
 ## 相关条目
 
@@ -52,4 +52,4 @@
 | `source.title_text` | 倏忽魔 | `single_source` | [倏忽魔](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438060&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Transient<br>|Image  = Transient.png<br>|HP     = 999<br>|Powers = {{BD|Fading}} 5 ({{Asc|17|6}}) <br> {{BD|Shifting}}<br>|Debut  = Act 3<br>|Type   = Normal<br>}} {{Power Infobox|Fading}} {{Power Infobox|Shifting}}<br>The Transient is a normal [[Monsters|Enemy]] found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Transient}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack7<br>|Effect = Deals (20+N; {{Asc|2|30+N}}) damage. ... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

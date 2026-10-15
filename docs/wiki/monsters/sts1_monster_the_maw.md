@@ -58,4 +58,4 @@
 | `source.title_text` | 巨口 | `single_source` | [巨口](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15438054&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Maw<br>|Image  = Maw.png<br>|HP     = 300<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>The Maw is a normal [[Monsters|Enemy]] found exclusively in [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|The Maw}}<br>{{Intents Table/row<br>|Name   = Roar<br>|Intent = DebuffStrong<br>|Effect = Applies (3;{{Asc|17|5}}) {{BD|Weak}} and (3;{{Asc|17|5}}) {{BD|Frail}}.}}<br>{{Intents Table/row<br>|Name   = Slam<br>|Intent = Attack6<br>|Effect = Deals (25;{{Asc|2|... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

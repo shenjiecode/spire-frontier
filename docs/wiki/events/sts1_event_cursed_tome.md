@@ -59,4 +59,4 @@
 | `source.title_text` | 诅咒书本 | `single_source` | [诅咒书本](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408873&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=Cursed Tome<br>|Image=Event-CursedTome.png<br>}} {{Small Relic Infobox|Enchiridion}} {{Small Relic Infobox|Nilry's Codex}} {{Small Relic Infobox|Necronomicon}}<br>{{E|Cursed Tome}} is an [[Event]] found exclusively in [[Act 2]].<br><br>== Options ==<br>{{Frame|Read}}<br><blockquote><br>{{Frame|Continue}} {{TS|negative||Lose 1 HP.}}<br><blockquote><br>{{Frame|Continue}} {{TS|negative||Lose 2 HP.}}<br><blockquote><br>{{Frame|Continue}} {{TS|negative||Lose 3 HP.}}<br><bl... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

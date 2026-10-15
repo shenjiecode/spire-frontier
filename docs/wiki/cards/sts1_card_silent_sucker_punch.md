@@ -20,8 +20,8 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `1.0` | Deal 7 damage.Apply 1 Weak. | 给予7点伤害。给予1层虚弱。 | 未保存 |
-| `Upgraded` | `1.0` | Deal 9 damage.Apply 2 Weak. | 给予9点伤害。给予2层虚弱。 | 未保存 |
+| `Base` | `1.0` | Deal 7 damage. Apply 1 Weak. | 造成7点伤害。给予1层虚弱。 | 未保存 |
+| `Upgraded` | `1.0` | Deal 9 damage. Apply 2 Weak. | 造成9点伤害。给予2层虚弱。 | 未保存 |
 
 ## 相关条目
 
@@ -40,12 +40,15 @@
 | `card.color` | Green | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (base)` | 1 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (upgrade)` | 1 | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Deal 7 damage.Apply 1 Weak. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Deal 7 damage.Apply 1 Weak. | `provisional` | [突然一拳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494086&wiki_id=646570) |
-| `card.description (upgrade)` | Deal 9 damage.Apply 2 Weak. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (upgrade)` | Deal 9 damage.Apply 2 Weak. | `provisional` | [突然一拳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494086&wiki_id=646570) |
+| `card.description (base)` | Deal 7 damage.Apply 1 Weak. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (base)` | Deal 7 damage.Apply 1 Weak. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Deal 9 damage.Apply 2 Weak. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (upgrade)` | Deal 9 damage.Apply 2 Weak. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (base)` | {"class_name": "com/megacrit/cardcrawl/cards/green/SuckerPunch.class", "class_sha256": "7aea7c27577d41916e2db88c34f5b2aa6ac3d3a8505d090e8ecf96dd29c49d3c", "constructor_offsets": {"damage": 36, "magic_number": 41}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {"damage": 7, "magic_number": 1}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (upgrade)` | {"class_name": "com/megacrit/cardcrawl/cards/green/SuckerPunch.class", "class_sha256": "7aea7c27577d41916e2db88c34f5b2aa6ac3d3a8505d090e8ecf96dd29c49d3c", "constructor_offsets": {"damage": 36, "magic_number": 41}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {"damage": 9, "magic_number": 2}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.rarity` | Common | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Weak"] | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.target` | ENEMY | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.type` | Attack | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | Deal !D! damage. NL Apply !M! Weak. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.card.description` | 造成 !D! 点伤害。 NL 给予 !M! 层 虚弱 。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
@@ -59,4 +62,4 @@
 | `source.title_text` | 突然一拳 | `single_source` | [突然一拳](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494086&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>|Name        = Sucker Punch<br>|Image       = Green-SuckerPunch.png<br>|Color       = Green<br>|Type        = Attack<br>|Rarity      = Common<br>|Cost        = 1<br>|Description = Deal (7;9) damage.<br>Apply (1;2) {{BD|Weak}}.<br>}}<br>{{Power Infobox|Weak}}<br>{{C|Sucker Punch}} is a 1 {{Icon|GE}}-cost {{QueryLink|Cards|color:Green|Silent}} {{QueryLink|Cards|rarity:Common|Common}} {{QueryLink|Cards|type:Attack|Attack}} Card. It deals 7 (9 if upg... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:20+00:00
+页面生成时间：2026-09-18T14:55:07+00:00

@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "It's unpleasant.The charred remains of your offering to the spirits.", "description_zh": "不管怎么看都很不舒服。", "flavor": "The charred remains of your offering to the spirits.", "flavor_en": "The charred remains of your offering to the spirits.", "flavor_zh": "你向精灵献上的祭品被烧焦后的遗留物。"} |
+| `effect_json` | {"description_en": "It's unpleasant.", "description_zh": "不管怎么看都很不舒服。", "flavor": "The charred remains of your offering to the spirits.", "flavor_en": "The charred remains of your offering to the spirits.", "flavor_zh": "你向精灵献上的祭品被烧焦后的遗留物。"} |
 
 ## 相关条目
 
@@ -45,4 +45,4 @@
 | `source.title_text` | 精灵便便 | `single_source` | [精灵便便](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525846&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Spirit Poop<br>|Image       = SpiritPoop.png<br>|Rarity      = Event<br>|Source      = Bonfire Spirits<br>|Description = It's unpleasant.<br>|Flavor      = The charred remains of your offering to the spirits.<br>}}<br>{{R|Spirit Poop}} is an {{QueryLink|Relics|rarity:Event|Event}} [[Relic]]. It has no effect during the player's run and mostly exists as a joke. It grants the player a -1 [[Score|score]] penalty at the end of their run from an effect called "Poo... | `single_source` | [P3 wiki.gg API batch: relic 5](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Bottled_Lightning|Ring_of_the_Snake|Incense_Burner|Spirit_Poop|Gold-Plated_Cables|Golden_Eye|Bottled_Flame|Toolbox|Cursed_Key|Ring_of_the_Serpent|Lantern|Tingsha|Dead_Branch|Chemical_X|Face_of_Cleric|Magic_Flower|Self-Forming_Clay|Regal_Pillow|Tungsten_Rod|Emotion_Chip&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

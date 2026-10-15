@@ -40,4 +40,4 @@
 | `encounter.selection_rule` | {"alternatives": ["Red Louse", "Green Louse"], "mode": "independent_per_slot", "probability_each": 0.5, "raw": "3x Louse (each independently has a 50% chance of either color)", "slot_count": 3} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 | `encounter.weight` | {"phase": "Remaining Combat Encounters", "weight": 2} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

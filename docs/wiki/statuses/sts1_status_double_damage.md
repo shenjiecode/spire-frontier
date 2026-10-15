@@ -39,4 +39,4 @@
 | `status.description` | Attacks deal double damage for #Bx turn(s). | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 攻击 造成的伤害翻倍，生效 X 个回合。 | `single_source` | [双倍伤害](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15447026&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

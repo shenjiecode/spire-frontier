@@ -101,8 +101,8 @@ STATUS_FIXES: dict[str, dict[str, Any]] = {
     },
     "sts1.status.focus_negative": {
         "name_zh": "集中（负面）",
-        "description_en": "Reduces the potency of Orbs by X.",
-        "description_zh": "使充能球的效果降低 X 点。",
+        "description_en": "Reduces the potency of Orbs by X. Plasma is unaffected.",
+        "description_zh": "使充能球的效果降低 X 点（等离子充能球不受影响）。",
         "polarity": "negative",
         "affects": "Orbs",
         "stacking": "Intensity",
@@ -273,10 +273,10 @@ def _status_claim(
              WHEN notes IS NULL OR notes='' THEN 'superseded: explicit status variant correction'
              ELSE notes || '; superseded: explicit status variant correction' END
            WHERE subject_entity_id=? AND field_path='status.description'
-             AND language=? AND notes NOT LIKE '%superseded: explicit status variant correction%'""",
+             AND language=? AND COALESCE(notes,'') NOT LIKE '%superseded: explicit status variant correction%'""",
         (entity_id, language),
     )
-    add_claim(
+    chosen_id = add_claim(
         conn,
         entity_id,
         "status.description",
@@ -287,6 +287,10 @@ def _status_claim(
         status="single_source",
         notes="editorial_zh: explicit status variant correction from the captured game/Wiki evidence; the shared positive infobox is retained as superseded evidence.",
     )
+    # add_claim is INSERT OR IGNORE: on replay the chosen row may already
+    # exist and must be reactivated after older descriptions are superseded.
+    conn.execute("UPDATE claims SET notes=? WHERE id=?", (
+        "editorial_zh: explicit status variant correction from the captured game/Wiki evidence; the shared positive infobox is retained as superseded evidence.", chosen_id))
 
 
 def supplement(conn: sqlite3.Connection) -> dict[str, int]:

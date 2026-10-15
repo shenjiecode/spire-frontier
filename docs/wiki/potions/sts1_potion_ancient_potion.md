@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Uncommon |
-| `effect_json` | {"description_en": "Gain 1 (2) Artifact.", "description_zh": "稀有度：罕见 角色：通用 ​​​获得1层人工制品。", "flavor": ""} |
+| `effect_json` | {"description_en": "Gain 1 (2) Artifact.", "description_zh": "获得1层人工制品。", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.496916.6180e85b7a46600d", "flavor": ""} |
 
 ## 相关条目
 
@@ -35,7 +35,7 @@
 | `game.potion.descriptions` | ["Gain #b", " #yArtifact."] | `verified_game` | [Game localization eng/potions.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/potions.json) |
 | `game.potion.descriptions` | ["获得 #b", " 层 #y人工制品 。"] | `verified_game` | [Game localization zhs/potions.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/potions.json) |
 | `potion.effect` | Gain 1 (2) Artifact. | `provisional` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `potion.effect` | Gain 1 (2) Artifact. | `provisional` | [先古药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496916&wiki_id=646570) |
+| `potion.effect` | Gain 1 (2) Artifact. | `provisional` | [先古药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496916&wiki_id=646570#snapshot-6180e85b7a46600d) |
 | `source.article_text` | 先古药水<br>（图片未提供文字说明）<br>稀有度：罕见<br>角色：通用<br>​​​获得1层人工制品。 | `single_source` | [先古药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496916&wiki_id=646570) |
 | `source.image_urls` | ["/images/AncientPotion.png?fd6abd"] | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.image_urls` | ["https://cdn.max-c.com/heybox/dailynews/img/05e4fd2e54800cb6761b0076aea2a0c7.png"] | `single_source` | [先古药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496916&wiki_id=646570) |
@@ -43,4 +43,4 @@
 | `source.title_text` | 先古药水 | `single_source` | [先古药水](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=496916&wiki_id=646570) |
 | `source.wikitext` | {{Potion Infobox<br>|Name        = Ancient Potion<br>|Image       = AncientPotion.png<br>|Rarity      = Uncommon<br>|Description = Gain (1;2) {{BD|Artifact}}.<br>| GivesToPlayer = Artifact<br>}}<br>{{Power Infobox|Artifact}}<br>{{P|Ancient Potion}} is an {{QueryLink|Potions|rarity:Uncommon|Uncommon}} [[Potion]].<br><br>== Sources ==<br>{{Standard Potion Sources}}<br><br>== Interactions ==<br>=== Synergies ===<br>* {{R|Sacred Bark}} doubles the effect of Ancient Potion.<br><!-- Include any rel... | `single_source` | [P3 wiki.gg API batch: potion 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Explosive_Potion|Ancient_Potion|Flex_Potion|Snecko_Oil|Dexterity_Potion|Focus_Potion|Stance_Potion|Cultist_Potion|Fairy_in_a_Bottle|Swift_Potion|Blessing_of_the_Forge|Heart_of_Iron|Strength_Potion|Fruit_Juice|Weak_Potion|Block_Potion|Fire_Potion|Skill_Potion|Poison_Potion|Distilled_Chaos&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

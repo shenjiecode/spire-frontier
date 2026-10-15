@@ -48,4 +48,4 @@
 | `status.description.en` | Increases attack damage by #b. | `provisional` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 | `status.description.zh` | 攻击伤害提升 X 点。 | `provisional` | [力量](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=501526&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

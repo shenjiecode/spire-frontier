@@ -40,4 +40,4 @@
 | `status.description` | Whenever you draw a card, randomize its cost. | `single_source` | [P3 wiki.gg API batch: status 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Artifact|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 你抽到的每一张牌，耗能都会随机变化。 | `single_source` | [混乱](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9960358&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

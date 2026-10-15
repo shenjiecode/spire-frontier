@@ -23,9 +23,6 @@
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
 | HYPER BEAM | Attack7 | 45 |  | {"text": "Deals (45;50) damage."} |
-| Beam | Attack2 | 8 |  | {"text": "Deals 8 damage."} |
-| Support Beam | Defend |  |  | {"text": "Bronze Automaton gains 12 Block."} |
-| Stasis | DebuffStrong |  |  | {"text": "Steals a random card of the highest rarity from your draw pile (or discard pile, if the draw pile is empty). On death, returns the card to your hand."} |
 | Stunned | Unknown |  |  | {"text": "Does nothing."} |
 | Boost | DefendBuff |  |  | {"text": "Gains (3;4) Strength and (9;12) Block."} |
 | Spawn Orbs | Unknown |  |  | {"text": "Summons 2 Bronze Orbs."} |
@@ -67,4 +64,4 @@
 | `source.title_text` | 铜制机械人偶 | `single_source` | [铜制机械人偶](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421630&wiki_id=646570) |
 | `source.wikitext` | {{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br><br>{{Enemy Infobox<br>|Name   = Bronze Automaton<br>|Image  = BronzeAutomaton.png<br>|Icon   = Map-Automaton.png<br>|HP     = 300<br>|AscHP  = 320<br>|Powers = {{BD|Artifact}} 3<br>|Debut  = Act 2<br>|Type   = Boss<br>}}<br>'''Bronze Automaton''' is a [[Boss]] found at the end of [[Act 2]].<br><br>== Pattern ==<br>{{Int... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

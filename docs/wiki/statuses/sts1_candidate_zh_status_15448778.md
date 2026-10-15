@@ -34,4 +34,4 @@
 | `status.description` | At the start of your turn, draw #b additional card. | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
 | `status.description` | 在每回合开始时额外抽 X 张牌。 | `single_source` | [机器学习（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448778&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

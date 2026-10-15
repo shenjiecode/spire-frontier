@@ -23,8 +23,6 @@
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
 | Smoke Bomb | Defend |  |  | {"text": "Gains (11;17) Block."} |
-| Smoke Bomb | Defend |  |  | {"text": "Gains 6 Block."} |
-| Lunge | Attack3 | 12 |  | {"text": "Deals (12;14) damage."} |
 | Mug | Attack3 | 10 |  | {"text": "Deals (10;11) damage."} |
 | Escape | Escape |  |  | {"text": "Flees combat with your Gold]."} |
 | Lunge | Attack4 | 16 |  | {"text": "Deals (16;18) damage."} |
@@ -61,4 +59,4 @@
 | `source.title_text` | 打劫的 | `single_source` | [抢劫的](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421076&wiki_id=646570) |
 | `source.wikitext` | == Looter ==<br>{{Enemy Infobox<br>|Name   = Looter<br>|Image  = Looter.png<br>|HP     = 44-48<br>|AscHP  = 46-50<br>|Powers = {{BD|Thievery}} 15 ({{Asc|17|20}})<br>|Debut  = Act 1<br>|Type   = Normal<br>}}<br>{{Power Infobox|Thievery}}<br>'''Looter''' is a normal [[Monsters|Enemy]] that can show up in [[Act 1]] and [[Act 2]].<br><br>=== Pattern ===<br>{{Intents Table/start|Looter}}<br>{{Intents Table/row<br>|Name   = Mug<br>|Intent = Attack3<br>|Effect = Deals (10;{{Asc|2|11}}) damage.}}<br>... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

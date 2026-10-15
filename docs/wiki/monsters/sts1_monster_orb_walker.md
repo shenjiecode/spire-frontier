@@ -54,4 +54,4 @@
 | `source.title_text` | 圆球行者 | `single_source` | [圆球行者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15437647&wiki_id=646570) |
 | `source.wikitext` | {{Under Construction}}{{Enemy Infobox<br>|Name   = Orb Walker<br>|Image  = OrbWalker.png<br>|HP     = 90-96<br>|AscHP  = 92-102<br>|Powers = {{BD|Strength Up}} 3 ({{Asc|17|5}})<br>|Debut  = Act 3<br>|Type   = Normal<br>}} {{Power Infobox|Strength Up}}<br>'''Orb Walker''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 3]]. It can also be encountered in the {{E|Mysterious Sphere}} [[Event]].<br><br>== Pattern ==<br>{{Intents Table/start|Orb Walker}}<br>{{Intents Table/row<br>|N... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

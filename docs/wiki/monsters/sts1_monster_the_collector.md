@@ -24,7 +24,6 @@
 | --- | --- | ---: | ---: | --- |
 | Buff | DefendBuff |  |  | {"text": "All enemies gain (3;4 ; 5) Strength. Gains (15;18 ; 23) Block."} |
 | Mega Debuff | DebuffStrong |  |  | {"text": "Applies (3;5) Weak, (3;5) Vulnerable and (3;5) Frail."} |
-| Tackle | Attack2 | 7 |  | {"text": "Deals 7 damage."} |
 | Fireball | Attack4 | 18 |  | {"text": "Deals (18;21) damage."} |
 | Spawn | Unknown |  |  | {"text": "Summons up to 2 Torch Heads."} |
 
@@ -61,4 +60,4 @@
 | `source.title_text` | 收藏家 | `single_source` | [收藏家](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=532023&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Collector<br>|Image  = TheCollector.png<br>|Icon   = Map-Collector.png<br>|HP     = 282<br>|AscHP  = 300<br>|Debut  = Act 2<br>|Type   = Boss<br>}}<br>The Collector is a [[Boss]] found at the end of [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|The Collector}}<br>{{Intents Table/row<br>|Name   = Spawn<br>|Intent = Unknown<br>|Effect = Summons up to 2 {{M|Torch Head|Torch Heads}}.}}<br>{{Intents Table/row<br>|Name   = Fireball<br>|Intent = Attack4<br... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

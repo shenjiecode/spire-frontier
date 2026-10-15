@@ -24,7 +24,7 @@
 | --- | --- | ---: | ---: | --- |
 | Inferno | DebuffAttack5 | 2 | 6 | {"text": "Deals (2×6;3×6) damage. Adds 3 Burns+ into your discard pile. Upgrades all Burns. For the rest of combat, any Burn created by Sear will be upgraded."} |
 | Activate | Unknown |  |  | {"text": "Does nothing."} |
-| Divider | Attack7 | 1 | 6 | {"text": "Deals (N+1)×6 damage. N = Player's HP at the start of the turn, divided by 12 (rounded down)."} |
+| Divider | Attack7 |  | 6 | {"text": "Deals (N+1)×6 damage. N = Player's HP at the start of the turn, divided by 12 (rounded down)."} |
 | Inflame | DefendBuff |  |  | {"text": "Gains 12 Block and (2;3) Strength."} |
 | Sear | DebuffAttack2 | 6 |  | {"text": "Deals 6 damage. Adds (1;2) Burns into your discard pile."} |
 | Tackle | Attack3 | 5 | 2 | {"text": "Deals (5×2;6×2) damage."} |
@@ -61,4 +61,4 @@
 | `source.title_text` | 六火亡魂 | `single_source` | [六火亡魂](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421622&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Hexaghost<br>|Image  = Hexaghost.png<br>|Icon   = Map-Hexaghost.png<br>|HP     = 250<br>|AscHP  = 264<br>|Debut  = Act 1<br>|Type   = Boss<br>}} {{M|Hexaghost}} is a [[Boss]] that can appear at the end of [[Act 1]] or the [[Act 3]] event {{E|Mind Bloom}}.<br><br>== Pattern ==<br>{{Intents Table/start|Hexaghost}}<br>{{Intents Table/row<br>|Name   = Activate<br>|Intent = Unknown<br>|Effect = Does nothing.}}<br>{{Intents Table/row<br>|Name   = Divider<br>|Intent = At... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

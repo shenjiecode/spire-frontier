@@ -41,4 +41,4 @@
 | `encounter.selection_rule` | {"choose_count": 4, "mode": "sample_without_replacement", "pool": ["2x Repulsor", "2x Exploder", "2x Spiker"], "raw": "4 Shapes chosen from [2x Repulsor, 2x Exploder, 2x Spiker]"} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 | `encounter.weight` | {"phase": "Remaining Combat Encounters", "weight": 1} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

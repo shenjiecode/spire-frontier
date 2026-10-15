@@ -58,4 +58,4 @@
 | `source.title_text` | 神秘术士 | `single_source` | [神秘术士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436699&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Mystic<br>|Image  = Healer.png<br>|HP     = 48-56<br>|AscHP  = 50-58<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>'''Mystic''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Mystic}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = DebuffAttack2<br>|Effect = Deals (8;{{Asc|2|9}}) damage. Applies 2 {{BD|Frail}}.<br>|GivesToPlayer = Frail<br>}}<br>{{Intents Table/row<br>|Name   = Buff<br>|... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

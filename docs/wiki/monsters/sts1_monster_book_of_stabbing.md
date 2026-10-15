@@ -54,4 +54,4 @@
 | `source.title_text` | 扎人的书 | `single_source` | [扎人的书](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15432038&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Book of Stabbing<br>|Image  = BookOfStabbing.png<br>|HP     = 160-164<br>|AscHP  = 168-172<br>|Powers = {{BD|Painful Stabs}}<br>|Debut  = Act 2<br>|Type   = Elite<br>}} {{Power Infobox|Painful Stabs}}<br>Book of Stabbing is an [[Elite]] enemy found exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Book of Stabbing}}<br>{{Intents Table/row<br>|Name   = Multi Stab<br>|Intent = Attack3<br>|Effect = Deals (6×N;{{Asc|3|7×N}}) damage. (N = Number o... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

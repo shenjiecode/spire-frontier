@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Event |
-| `effect_json` | {"description_en": "Enemies drop 25% more Gold.Made of solid gold, you feel richer just holding it.", "description_zh": "敌人掉落的 #y金币 增加 #b25% 。", "flavor": "Made of solid gold, you feel richer just holding it.", "flavor_en": "Made of solid gold, you feel richer just holding it.", "flavor_zh": "用纯金制成，只是拿在手里就让你觉得自己有钱了。"} |
+| `effect_json` | {"description_en": "Enemies drop 25% more Gold.", "description_zh": "敌人掉落的金币增加25%", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.525844.02cd6d2aea824bc9", "flavor": "Made of solid gold, you feel richer just holding it.", "flavor_en": "Made of solid gold, you feel richer just holding it.", "flavor_zh": "用纯金制成，只是拿在手里就让你觉得自己有钱了。"} |
 
 ## 相关条目
 
@@ -37,10 +37,10 @@
 | `game.relic.flavor` | Made of solid gold, you feel richer just holding it. | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
 | `game.relic.flavor` | 用纯金制成，只是拿在手里就让你觉得自己有钱了。 | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 | `relic.effect` | Enemies drop 25% more Gold.Made of solid gold, you feel richer just holding it. | `provisional` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `relic.effect` | Enemies drop 25% more Gold.Made of solid gold, you feel richer just holding it. | `provisional` | [金神像](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525844&wiki_id=646570) |
+| `relic.effect` | Enemies drop 25% more Gold.Made of solid gold, you feel richer just holding it. | `provisional` | [金神像](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525844&wiki_id=646570#snapshot-02cd6d2aea824bc9) |
 | `source.article_text` | 金神像（Golden Idol）<br>（图片未提供文字说明）<br>稀有度<br>事件<br>角色<br>通用<br>作用<br>敌人掉落的金币增加25%<br>说明<br>用纯金制成，只是拿在手里就让你觉得自己有钱了 | `single_source` | [金神像](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525844&wiki_id=646570) |
 | `source.image_urls` | ["/images/thumb/GoldenIdol.png/80px-GoldenIdol.png?362b60"] | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.title_text` | 金神像 | `single_source` | [金神像](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=525844&wiki_id=646570) |
 | `source.wikitext` | ''This is a disambiguation page.''<br><br>----<br><br>There are two pages in this wiki named Golden Idol.<br><br>Go to {{R|Golden Idol|Golden Idol (Relic)}} for the Relic.<br><br>Go to {{E|Golden Idol}} [[Golden Idol (Event)|(Event)]] for the Event.<br><br>__DISAMBIG__<br><br>{{RelicNav}}<br>[[Category:Events]]<br>[[Category:Relics]] | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

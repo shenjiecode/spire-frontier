@@ -65,4 +65,4 @@
 | `source.title_text` | 守护者 | `single_source` | [守护者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421621&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Guardian<br>|Image  = TheGuardian.png<br>|Icon   = Map-Guardian.png<br>|HP     = 240<br>|AscHP  = 250<br>|Powers = {{BD|Mode Shift}} 30 ({{Asc|9|35}} {{!}} {{Asc|19|40}})<br>|Debut  = Act 1<br>|Type   = Boss<br>}} {{Power Infobox|Mode Shift}} {{Power Infobox|Sharp Hide}}<br>'''The Guardian''' is a [[Boss]] that can appear at the end of [[Act 1]] or the [[Act 3]] event {{E|Mind Bloom}}.<br><br>== Pattern ==<br>{{Intents Table/start|The Guardian}}<br>{{Intents T... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

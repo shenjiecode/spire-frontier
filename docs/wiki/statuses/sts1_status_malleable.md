@@ -39,4 +39,4 @@
 | `status.description` | Upon receiving attack damage, gains X Block. Block gain increases as is triggered. Resets to X at the start of your turn. | `single_source` | [P3 wiki.gg API batch: status 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Focus|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Strength|Buffs|Strength|Debuffs|Buffs|Plated_Armor|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 受到 攻击 时，获得 X 点 格挡 。 每触发一次，获得的 格挡 值都会增加。在你的回合开始时重新变回 X 点。 | `single_source` | [柔韧](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460302&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

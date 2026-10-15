@@ -46,4 +46,4 @@
 | `source.title_text` | 燃烧之血 | `single_source` | [燃烧之血](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=493025&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Burning Blood<br>|Image       = BurningBlood.png<br>|Rarity      = Starter<br>|Character   = Ironclad<br>|Description = At the end of combat, heal 6 HP.<br>|Flavor      = Your body's own blood burns with an undying rage.<br>}}<br>{{R|Burning Blood}} is the {{QueryLink|Relics|rarity:Starter|Starter}} [[Relic]] of the [[Ironclad]]; he will always start every new run with it in his possession and it can't be obtained by any other cha... | `single_source` | [P3 wiki.gg API batch: relic 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Coffee_Dripper|Darkstone_Periapt|Wing_Boots|Melange|Tough_Bandages|Burning_Blood|Strawberry|Akabeko|Mark_of_Pain|Potion_Belt|Data_Disk|Nilry's_Codex|Runic_Dome|Peace_Pipe|Nuclear_Battery|Gambling_Chip|Astrolabe|Captain's_Wheel|Violet_Lotus|Brimstone&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

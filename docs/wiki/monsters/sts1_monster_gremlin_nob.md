@@ -56,4 +56,4 @@
 | `source.title_text` | 地精大块头 | `single_source` | [地精大块头](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421612&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>| Name   = Gremlin Nob<br>| Image  = GremlinNob.png<br>| HP     = 82-86<br>| AscHP  = 85-90<br>| Debut  = Act 1<br>| Type   = Elite<br>}} <br>{{Power Infobox<br>| Name         = Enrage<br>| Image        = Icon Anger.png<br>| Description  = Whenever you play a {{QueryLink|Cards|type:Skill|Skill}} card, gains X {{BD|Strength}}.<br>| Type         = Buff<br>| Stacks       = Intensity<br>| BetweenTurns = <br>| Cap          = <br>| GivesToEnemy = Strength<br>}}<br>'''Gremlin Nob'... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

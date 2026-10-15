@@ -1,0 +1,50 @@
+{
+  "counts": {
+    "variants_with_literal_values": 584,
+    "variants_renderable": 714,
+    "descriptions_rendered": 3,
+    "english_descriptions_rendered": 3
+  },
+  "unresolved": [
+    {
+      "entity_id": "sts1.card.defect.genetic_algorithm",
+      "variant": "base",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.defect.genetic_algorithm",
+      "variant": "upgrade",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.colorless.ritual_dagger",
+      "variant": "base",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.colorless.ritual_dagger",
+      "variant": "upgrade",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.watcher.halt",
+      "variant": "base",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.watcher.halt",
+      "variant": "upgrade",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.ironclad.searing_blow",
+      "variant": "base",
+      "reason": "dynamic or unsupported placeholder"
+    },
+    {
+      "entity_id": "sts1.card.ironclad.searing_blow",
+      "variant": "upgrade",
+      "reason": "dynamic or unsupported placeholder"
+    }
+  ]
+}

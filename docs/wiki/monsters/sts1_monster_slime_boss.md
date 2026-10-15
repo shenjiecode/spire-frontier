@@ -23,14 +23,10 @@
 
 | 名称 | 意图 | 伤害 | 次数 | 效果 |
 | --- | --- | ---: | ---: | --- |
-| Slam | Attack7 | 35 |  | {"text": "Deals (35;38) damage."} |
-| Preparing | Unknown |  |  | {"text": "Does nothing."} |
-| Split | Unknown |  |  | {"text": "Disappears and spawns 1 Acid Slime (L) and 1 Spike Slime (L) with its current HP."} |
-| Goop Spray | DebuffStrong |  |  | {"text": "Adds (3;5) Slimed into your discard pile."} |
-| 准备 | buff |  |  | {} |
-| 史莱姆撞击 | attack | 35 | 1 | {"a4_plus_damage": 38} |
-| 黏液喷射 | debuff |  |  | {"a19_plus_count": 5, "add_to_discard": "Slimed", "count": 3} |
-| 分裂 | special |  |  | {"condition": "current_hp_below_half", "summons": ["Large Spike Slime", "Large Acid Slime"]} |
+| Slam | Attack7 | 35 | 1 | {"a4_plus_damage": 38, "name_zh": "史莱姆撞击", "text": "Deals (35;38) damage."} |
+| Preparing | Unknown |  |  | {"name_zh": "准备", "text": "Does nothing."} |
+| Split | Unknown |  |  | {"condition": "current_hp_below_half", "name_zh": "分裂", "summons": ["Large Spike Slime", "Large Acid Slime"], "text": "Disappears and spawns 1 Acid Slime (L) and 1 Spike Slime (L) with its current HP."} |
+| Goop Spray | DebuffStrong |  |  | {"a19_plus_count": 5, "add_to_discard": "Slimed", "count": 3, "name_zh": "黏液喷射", "text": "Adds (3;5) Slimed into your discard pile."} |
 
 ## 相关条目
 
@@ -71,4 +67,4 @@
 | `source.title_text` | 史莱姆老大 | `single_source` | [史莱姆老大](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=531529&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Slime Boss<br>|Image  = SlimeBoss.png<br>|Icon   = Map-SlimeBoss.png<br>|HP     = 140<br>|AscHP  = 150<br>|Powers = {{BD|Split}}<br>|Debut  = Act 1<br>|Type   = Boss<br>}} {{Power Infobox|Split}}{{Small Card Infobox|Slimed}}<br>'''Slime Boss''' is a [[Boss]] that can appear at the end of [[Act 1]] or the [[Act 3]] event {{E|Mind Bloom}}.<br><br>== Pattern ==<br>{{Intents Table/start|Slime Boss}}<br>{{Intents Table/row<br>|Name   = Goop Spray<br>|Intent = DebuffStr... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

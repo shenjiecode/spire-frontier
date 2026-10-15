@@ -51,4 +51,4 @@
 | `source.title_text` | 换脸商 | `single_source` | [换脸商](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15389469&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=Face Trader<br>|Image=Event-FaceTrader.png<br>}}<br>{{E|Face Trader}} is a {{QueryLink|Events|shrine:Yes|shrine Event}} found in  [[Act 1]] and [[Act 2]]. This Event is the only way to obtain {{R|Cultist Headpiece}}, {{R|Face of Cleric}}, {{R|Gremlin Visage}}, {{R|N'loth's Hungry Face}}, and {{R|Ssserpent Head}}. It is one of the events affected by {{Asc|15|Ascension}}.<br><br>== Options ==<br>{{Frame|Touch}} {{TS|negative||Lose X HP,}} {{TS|positive||gain 75 {{Asc|15... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

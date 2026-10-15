@@ -1,0 +1,132 @@
+{
+  "records": {
+    "card": 370,
+    "character": 4,
+    "encounter": 39,
+    "event": 51,
+    "keyword": 22,
+    "mechanic": 61,
+    "monster": 71,
+    "potion": 42,
+    "relic": 180,
+    "status": 134
+  },
+  "understanding_by_kind": [
+    {
+      "kind": "card",
+      "lifecycle": "active",
+      "total": 370,
+      "filled": 0
+    },
+    {
+      "kind": "card",
+      "lifecycle": "candidate",
+      "total": 52,
+      "filled": 0
+    },
+    {
+      "kind": "character",
+      "lifecycle": "active",
+      "total": 4,
+      "filled": 3
+    },
+    {
+      "kind": "concept",
+      "lifecycle": "candidate",
+      "total": 10,
+      "filled": 0
+    },
+    {
+      "kind": "encounter",
+      "lifecycle": "active",
+      "total": 39,
+      "filled": 0
+    },
+    {
+      "kind": "event",
+      "lifecycle": "active",
+      "total": 51,
+      "filled": 8
+    },
+    {
+      "kind": "event",
+      "lifecycle": "candidate",
+      "total": 4,
+      "filled": 0
+    },
+    {
+      "kind": "keyword",
+      "lifecycle": "active",
+      "total": 22,
+      "filled": 0
+    },
+    {
+      "kind": "keyword",
+      "lifecycle": "candidate",
+      "total": 33,
+      "filled": 0
+    },
+    {
+      "kind": "mechanic",
+      "lifecycle": "active",
+      "total": 61,
+      "filled": 0
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "active",
+      "total": 71,
+      "filled": 19
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "candidate",
+      "total": 10,
+      "filled": 0
+    },
+    {
+      "kind": "monster",
+      "lifecycle": "deprecated",
+      "total": 10,
+      "filled": 0
+    },
+    {
+      "kind": "potion",
+      "lifecycle": "active",
+      "total": 42,
+      "filled": 0
+    },
+    {
+      "kind": "potion",
+      "lifecycle": "candidate",
+      "total": 2,
+      "filled": 0
+    },
+    {
+      "kind": "relic",
+      "lifecycle": "active",
+      "total": 180,
+      "filled": 0
+    },
+    {
+      "kind": "relic",
+      "lifecycle": "candidate",
+      "total": 15,
+      "filled": 0
+    },
+    {
+      "kind": "status",
+      "lifecycle": "active",
+      "total": 134,
+      "filled": 5
+    },
+    {
+      "kind": "status",
+      "lifecycle": "candidate",
+      "total": 47,
+      "filled": 0
+    }
+  ],
+  "source_sections": 37,
+  "note": "Understanding is attributed source opinion, not a verified rule. Missing values are null. Images and independent guides are not read."
+}

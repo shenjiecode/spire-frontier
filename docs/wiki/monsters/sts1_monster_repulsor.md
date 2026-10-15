@@ -49,4 +49,4 @@
 | `monster.move.Daze` | {"effect": {"text": "Adds 2 Dazed into your draw pile."}, "intent": "Debuff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Repulsor<br>|Image  = Repulsor.png<br>|HP     = 29-35<br>|AscHP  = 31-38<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Small Card Infobox|Dazed}}<br>Repulsor repeatedly gives the player {{C|Dazed}}.<br><br>=== Pattern ===<br>{{Intents Table/start|Repulsor}}<br>{{Intents Table/row<br>|Name   = Daze<br>|Intent = Debuff<br>|Effect = Adds 2 {{C|Dazed}} into your draw pile.}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack3<br>|Effect = Deals (11;{{A... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

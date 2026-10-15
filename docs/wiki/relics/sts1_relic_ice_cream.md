@@ -44,4 +44,4 @@
 | `source.title_text` | 冰淇淋 | `single_source` | [冰淇淋](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=514519&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Ice Cream<br>|Image       = IceCream.png<br>|Rarity      = Rare<br>|Description = {{KW|Energy}} is now conserved between turns.<br>|Flavor      = Delicious!<br>|InteractsWith = Energy<br>}}<br>{{Keyword Infobox|Energy}}<br>{{R|Ice Cream}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It prevents the player's {{KW|Energy}} from being reset at the start of each turn, and instead adds the maximum energy limit (typically 3, bu... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

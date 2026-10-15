@@ -39,4 +39,4 @@
 | `status.description` | Whenever you play X cards, ends your turn and gains X Strength. | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 每当你打出 X 张牌，你的回合会强制结束，并且时间吞噬者获得 #b 点 力量 。 | `single_source` | [时间扭曲](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460327&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

@@ -49,4 +49,4 @@
 | `monster.move.Explode` | {"effect": {"text": "Deals 30 damage. Dies."}, "intent": "Unknown"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Exploder<br>|Image  = Exploder.png<br>|HP     = 30<br>|AscHP  = 30-35<br>|Powers = {{BD|Explosive}} 3<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Explosive}}<br>Exploders explode. Profound knowledge.<br><br>=== Pattern ===<br>{{Intents Table/start|Exploder}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack2<br>|Effect = Deals (9;{{Asc|2|11}}) damage.}}<br>{{Intents Table/row<br>|Name   = Explode<br>|Intent = Unknown<br>|Effect = D... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

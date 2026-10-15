@@ -39,4 +39,4 @@
 | `encounter.selection_rule` | {"mode": "fixed_details", "raw": "3x Jaw Worms (that start combat with the effects of Bellow) Bellow: On Ascension 0 onwards: Gain 3 Strength and 6 Block On Ascension 2 onwards: Gain 4 Strength and 6 Block On Ascension 17 onwards: Gain 5 Strength and 9 Block"} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 | `encounter.weight` | {"phase": "Remaining Combat Encounters", "weight": 1} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

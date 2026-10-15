@@ -49,4 +49,4 @@
 | `monster.move.Buff Thorns` | {"effect": {"text": "Gains 2 Thorns."}, "intent": "Buff"} | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Spiker<br>|Image  = Spiker.png<br>|HP     = 42-56<br>|AscHP  = 44-60<br>|Powers = {{BD|Thorns}} 3 ({{Asc|2|4}} {{!}} {{Asc|17|7}})<br>|Debut  = Act 3<br>|Type   = Normal<br>}}<br>{{Power Infobox|Thorns}}<br>Spikers focus on building up {{BD|Thorns}} to make them more dangerous to kill as the battle progresses.<br><br>=== Pattern ===<br>{{Intents Table/start|Spiker}}<br>{{Intents Table/row<br>|Name   = Attack<br>|Intent = Attack2<br>|Effect = Deals (7;{{Asc|2|9}}) ... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

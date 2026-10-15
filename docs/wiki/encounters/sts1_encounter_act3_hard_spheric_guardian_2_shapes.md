@@ -42,4 +42,4 @@
 | `encounter.selection_rule` | {"choose_count": 2, "mode": "independent_choices", "raw": "2 Shapes are independently chosen with equal probability and 1 Spheric Guardian"} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 | `encounter.weight` | {"phase": "Remaining Combat Encounters", "weight": 1} | `single_source` | [Monsters | Slay the Spire 1](https://slaythespire.wiki.gg/wiki/Monsters) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

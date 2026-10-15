@@ -34,4 +34,4 @@
 | `game.status.descriptions` | ["For the next #b ", "turns, do not discard your hand", "Do not discard your hand at the end of this turn."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | ["在你的回合结束时，不丢弃手牌。效果持续 #b", " 回合。", "在你的回合结束时，不丢弃手牌。"] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -48,4 +48,4 @@
 | `source.title_text` | 八体/甜圈 | `single_source` | [甜圈&八体](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15432032&wiki_id=646570) |
 | `source.wikitext` | Donu and Deca is a [[Bosses|Boss Encounter]] found at the end of [[Act 3]].<br><br>== Donu ==<br>{{Enemy Infobox<br>|Name   = Donu<br>|Image  = Donu.png<br>|Icon   = Map-DonuDeca.png<br>|HP     = 250<br>|AscHP  = 265<br>|Powers = {{BD|Artifact}} 2 ({{Asc|19|3}})<br>|Debut  = Act 3<br>|Type   = Boss<br>}}<br>{{Power Infobox|Artifact}}<br>=== Pattern ===<br>{{Intents Table/start|Donu}}<br>{{Intents Table/row<br>|Name   = Circle of Power<br>|Intent = Buff<br>|Effect = All enemies gain 3 {{BD|Str... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

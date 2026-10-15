@@ -39,4 +39,4 @@
 | `status.description` | The first X cards you play each turn are played twice. | `single_source` | [P3 wiki.gg API batch: status 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Artifact|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 你在每回合打出的前 X 张牌将被打出两次。 | `single_source` | [回响形态（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15447032&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

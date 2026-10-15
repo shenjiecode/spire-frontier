@@ -20,7 +20,7 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `未知` | Unplayable.While in hand, you cannot play more than 3 cards this turn. | 不能被打出。在手牌中时，你在此会合无法打出3张以上牌。 | 未保存 |
+| `Base` | `未知` | Unplayable. While in hand, you cannot play more than 3 cards this turn. | 不能被打出。在手牌中时，你在此回合无法打出3张以上牌。 | 未保存 |
 
 ## 相关条目
 
@@ -38,10 +38,12 @@
 | --- | --- | --- | --- |
 | `card.color` | Colorless | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (base)` | Unplayable | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Unplayable.While in hand, you cannot play more than 3 cards this turn. | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Unplayable.While in hand, you cannot play more than 3 cards this turn. | `provisional` | [凡庸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537285&wiki_id=646570) |
+| `card.description (base)` | Unplayable.While in hand, you cannot play more than 3 cards this turn. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (base)` | Unplayable.While in hand, you cannot play more than 3 cards this turn. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (base)` | {"class_name": "com/megacrit/cardcrawl/cards/curses/Normality.class", "class_sha256": "5d37dc529adc832cead0c15bcbbfb8b4296ecdec7f2c24de85d2d4ebe78bf2ec", "constructor_offsets": {}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.rarity` | Curse | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Unplayable"] | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.target` | NONE | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.type` | Curse | `provisional` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | Unplayable. NL While in hand, you cannot play more than 3 cards this turn. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.card.description` |  不能被打出 。 NL 在手牌中时，你在此回合无法打出3张以上牌。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
@@ -55,4 +57,4 @@
 | `source.title_text` | 凡庸 | `single_source` | [凡庸](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537285&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Normality<br>| Image       = Curse-Normality.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>While in hand, you cannot play more than 3 cards this turn.<br>| GivesToPlayer = Unplayable<br>}}<br>{{Keyword Infobox|Unplayable}}<br>{{C|Normality}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. While it is in your hand, ... | `single_source` | [P3 wiki.gg API batch: card 19](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Defect)|Normality|Survivor|Vault|Just_Lucky|Battle_Hymn|Terror|Multi-Cast|Live_Forever|Sucker_Punch&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:20+00:00
+页面生成时间：2026-09-18T14:55:06+00:00

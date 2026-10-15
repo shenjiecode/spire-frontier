@@ -39,4 +39,4 @@
 | `status.description` | Whenever a card is Exhausted, gain X Block. | `single_source` | [P3 wiki.gg API batch: status 4](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Debuffs|Buffs|Debuffs|Buffs|Dexterity|Vulnerable|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Weak|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 每当有一张牌被 消耗 ，获得 X 点 格挡 。 | `single_source` | [无惧疼痛（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15448741&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

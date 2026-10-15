@@ -63,4 +63,4 @@
 | `source.title_text` | 觉醒者 | `single_source` | [觉醒者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=9957006&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Awakened One<br>|Image  = AwakenedOne.png<br>|Icon   = Map-Awakened.png<br>|HP     = 300<br>|AscHP  = 320<br>|Powers = {{BD|Regenerate}} 10 ({{Asc|19|15}}) <br> {{BD|Curiosity}} 1 ({{Asc|19|2}}) <br> ({{BD|Strength}} 2 {{Asc|4}})<br>|Debut  = Act 3<br>|Type   = Boss<br>}} {{Power Infobox|Curiosity}} {{Power Infobox|Regenerate}} {{Power Infobox|Unawakened}}<br>The Awakened One is a [[Boss]] found at the end of [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/star... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

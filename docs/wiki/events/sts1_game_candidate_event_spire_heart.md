@@ -36,4 +36,4 @@
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "Spire Heart", "kind": "event", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/events.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/events.json) |
 | `mapping.cross_source.game_local` | {"english_wiki_entity": false, "game_entity_id": "sts1.game.candidate.event.spire_heart", "game_key": "Spire Heart", "kind": "event", "review": "source_text_and_installed_localization", "zh_article_id": "15408927", "zh_url": "https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408927&wiki_id=646570"} | `agreed` | [高塔之心](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408927&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

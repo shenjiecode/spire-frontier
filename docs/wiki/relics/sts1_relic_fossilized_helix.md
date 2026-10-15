@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Prevent the first time you would lose HP in combat.Seemingly indestructible, you wonder what kind of creature this belonged to.", "description_zh": "阻止你在每场战斗中第一次受到的生命值损伤。", "flavor": "Seemingly indestructible, you wonder what kind of creature this belonged to.", "flavor_en": "Seemingly indestructible, you wonder what kind of creature this belonged to.", "flavor_zh": "似乎坚不可摧，你很好奇究竟是何种生物曾拥有这样的部分。"} |
+| `effect_json` | {"description_en": "Prevent the first time you would lose HP in combat.", "description_zh": "阻止你在每场战斗中第一次受到的生命值损伤。", "flavor": "Seemingly indestructible, you wonder what kind of creature this belonged to.", "flavor_en": "Seemingly indestructible, you wonder what kind of creature this belonged to.", "flavor_zh": "似乎坚不可摧，你很好奇究竟是何种生物曾拥有这样的部分。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 螺旋化石 | `single_source` | [螺旋化石](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=515175&wiki_id=646570) |
 | `source.wikitext` | {{Relic Infobox<br>|Name        = Fossilized Helix<br>|Image       = FossilizedHelix.png<br>|Rarity      = Rare<br>|Description = Prevent the first time you would lose HP in combat.<br>|Flavor      = Seemingly indestructible, you wonder what kind of creature this belonged to.<br>|Keywords    = Buffer<br>}}<br>{{Power Infobox|Buffer}}<br>{{R|Fossilized Helix}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It gives the player 1 {{BD|Buffer}} at the start of each combat.<br><br>== Source... | `single_source` | [P3 wiki.gg API batch: relic 7](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Calling_Bell|Cauldron|Charon's_Ashes|Fossilized_Helix|Snecko_Eye|Art_of_War|Runic_Pyramid|Hovering_Kite|Juzu_Bracelet|Gremlin_Horn|Frozen_Core|Prismatic_Shard|Golden_Idol|Necronomicon|Ceramic_Fish|Velvet_Choker|Slaver's_Collar|Smiling_Mask|Empty_Cage|Tiny_Chest&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

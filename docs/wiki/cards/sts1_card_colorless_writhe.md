@@ -20,7 +20,7 @@
 
 | 变体 | 费用 | 英文效果 | 中文效果 | 图片 |
 | --- | --- | --- | --- | --- |
-| `Base` | `未知` | Unplayable.Innate. | 不能被打出。固有。 | 未保存 |
+| `Base` | `未知` | Unplayable. Innate. | 不能被打出。固有。 | 未保存 |
 
 ## 相关条目
 
@@ -38,10 +38,12 @@
 | --- | --- | --- | --- |
 | `card.color` | Colorless | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.cost (base)` | Unplayable | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Unplayable.Innate. | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `card.description (base)` | Unplayable.Innate. | `provisional` | [苦恼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537335&wiki_id=646570) |
+| `card.description (base)` | Unplayable.Innate. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.description (base)` | Unplayable.Innate. | `provisional` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
+| `card.game_values (base)` | {"class_name": "com/megacrit/cardcrawl/cards/curses/Writhe.class", "class_sha256": "57c67913325d0c8b5039263de8b8412362c2a18a4ee35deeba2322c9167dda2b", "constructor_offsets": {}, "dynamic_upgrade_fields": [], "scope": "unmodified static base values; conditions/multipliers are in descriptions", "source_page_id": "game.review.classes.22313d2c8d8b3741", "values": {}} | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.rarity` | Curse | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `card.tags` | ["Innate", "Unplayable"] | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
+| `card.target` | NONE | `verified_game` | [Installed game constructor/upgrade bytecode](game-local://cfad868ac8d65a88/review-class-evidence/22313d2c8d8b37414e828a97697d2be7b85232aa05e079275b1f83f08f4ab8a0) |
 | `card.type` | Curse | `provisional` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `game.card.description` | Unplayable. NL Innate. | `verified_game` | [Game localization eng/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/cards.json) |
 | `game.card.description` |  不能被打出 。 NL 固有 。 | `verified_game` | [Game localization zhs/cards.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/cards.json) |
@@ -55,4 +57,4 @@
 | `source.title_text` | 苦恼 | `single_source` | [苦恼](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=537335&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Card Infobox<br>| Name        = Writhe<br>| Image       = Curse-Writhe.png<br>| Color       = Colorless<br>| Type        = Curse<br>| Cost        = -2<br>| NoUpgrade   = true<br>| Description = {{KW|Unplayable}}.<br>{{KW|Innate}}.<br>| GivesToPlayer = Unplayable, Innate<br>}}<br>{{Keyword Infobox|Unplayable}} {{Keyword Infobox|Innate}}<br>{{C|Writhe}} is an {{KW|Unplayable}} {{QueryLink|Cards|type:Curse|Curse}} Card. It is {{KW|Innate}}.<br><br>== Obtaining Writ... | `single_source` | [P3 wiki.gg API batch: card 18](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_(Watcher)|Disarm|Nightmare|Flex|Coolheaded|Seeing_Red|Compile_Driver|Entrench|Bash|Defragment|Blizzard|Electrodynamics|Writhe|Protect|Self_Repair|Parasite|Sanctity|Bludgeon|Mayhem|Wild_Strike&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:20+00:00
+页面生成时间：2026-09-18T14:55:06+00:00

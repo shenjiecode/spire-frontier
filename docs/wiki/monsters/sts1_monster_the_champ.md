@@ -65,4 +65,4 @@
 | `source.title_text` | 第一勇士 | `single_source` | [第一勇士](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15421632&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = The Champ<br>|Image  = Champ.png<br>|Icon   = Map-Champ.png<br>|HP     = 420<br>|AscHP  = 440<br>|Debut  = Act 2<br>|Type   = Boss<br>}}<br>The Champ is a [[Boss]] found at the end of [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|The Champ}}<br>{{Intents Table/row<br>|Name   = Heavy Slash<br>|Intent = Attack4<br>|Effect = Deals (16;{{Asc|4|18}}) damage.}}<br>{{Intents Table/row<br>|Name   = Face Slap<br>|Intent = DebuffAttack3<br>|Effect = Deals (12;{{A... | `single_source` | [P3 wiki.gg API batch: monster 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=The_Maw|Fungi_Beast|Orb_Walker|Shapes|The_Champ&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

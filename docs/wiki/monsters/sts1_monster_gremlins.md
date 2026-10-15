@@ -55,4 +55,4 @@
 | `source.title_text` | 地精小队 | `single_source` | [小地精](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15411818&wiki_id=646570) |
 | `source.wikitext` | '''Gremlins''' are encountered as normal [[Monsters|Enemies]] in [[Act 1]]. In [[Act 2]], Gremlins appear only as {{BD|Minion|Minions}} in the {{M|Gremlin Leader|Gremlin Leader's}} [[Elite]] encounter.<br>{{TOC limit|2}}<br><br>== Fat Gremlin ==<br>{{Enemy Infobox<br>|Name   = Fat Gremlin<br>|Image  = GremlinFat.png<br>|HP     = 13-17<br>|AscHP  = 14-18<br>|Debut  = Act 1<br>|Type   = Normal<br>}}<br>'''Fat Gremlins''' focus on applying {{BD|Weak}}.<br><br>=== Pattern ===<br>{{Intents Table/s... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -60,4 +60,4 @@
 | `source.title_text` | 圆球守护者 | `single_source` | [圆球守护者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436694&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Spheric Guardian<br>|Image  = SphericGuardian.png<br>|HP     = 20<br>|Powers = {{BD|Artifact}} 3 <br> {{KW|Block}} 40 <br> {{BD|Barricade}}<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox|Barricade}}<br>'''Spheric Guardian''' is a normal [[Monsters|Enemy]] that appears in [[Act 2]] and [[Act 3]].<br><br>== Pattern ==<br>{{Intents Table/start|Spheric Guardian}}<br>{{Intents Table/row<br>|Name   = Activate<br>|Intent = Defend<br>|Effect = Gains (25;{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

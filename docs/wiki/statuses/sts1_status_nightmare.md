@@ -39,4 +39,4 @@
 | `status.description` | Add X cards into your hand next turn. | `single_source` | [P3 wiki.gg API batch: status 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Artifact|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 在你的下回合开始时，增加 X张 此牌的复制品到你的手牌中。 | `single_source` | [夜魇（能力）](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15454275&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

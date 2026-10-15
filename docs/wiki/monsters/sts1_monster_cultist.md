@@ -58,4 +58,4 @@
 | `source.title_text` | 邪教徒 | `single_source` | [邪教徒](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408976&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>| Name   = Cultist<br>| Image  = Cultist.png<br>| HP     = 48-54<br>| AscHP  = 50-56<br>| Debut  = Act 1<br>| Type   = Normal<br>}}'''The Cultist''' is a normal [[Monsters|Enemy]] that can show up in all 3 Acts.<br><br>== Pattern ==<br>{{Intents Table/start|Cultist}}<br>{{Intents Table/row<br>| Name   = Incantation<br>| Intent = Buff<br>| Effect = Gains (3;{{Asc|2|4}} ; {{Asc|17|5}}) {{BD|Ritual}}.<br>| GivesToEnemy = Ritual<br>}}<br>{{Intents Table/row<br>| Name   = Dark S... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

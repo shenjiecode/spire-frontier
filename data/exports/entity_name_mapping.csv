@@ -686,6 +686,42 @@ sts1.mechanic.hand_size_limit,mechanic,手牌上限,Hand Size Limit,confirmed
 sts1.mechanic.health,mechanic,生命,Health,confirmed
 sts1.mechanic.keys,mechanic,钥匙,Keys,confirmed
 sts1.mechanic.merchant,mechanic,商人,Merchant,confirmed
+sts1.mechanic.modifier.15460536,mechanic,选牌,Draft,confirmed
+sts1.mechanic.modifier.15460538,mechanic,现开套牌,Sealed Deck,confirmed
+sts1.mechanic.modifier.15460540,mechanic,囤积癖,Hoarder,confirmed
+sts1.mechanic.modifier.15460542,mechanic,精神错乱,Insanity,confirmed
+sts1.mechanic.modifier.15460544,mechanic,奇美拉,Chimera,confirmed
+sts1.mechanic.modifier.15460546,mechanic,金光闪闪,Shiny,confirmed
+sts1.mechanic.modifier.15460548,mechanic,专精,Specialized,confirmed
+sts1.mechanic.modifier.15460550,mechanic,上等好货,Vintage,confirmed
+sts1.mechanic.modifier.15460552,mechanic,乱中有序,Controlled Chaos,confirmed
+sts1.mechanic.modifier.15460554,mechanic,全明星,All Star,confirmed
+sts1.mechanic.modifier.15460556,mechanic,涉猎广泛,Diverse,confirmed
+sts1.mechanic.modifier.15460558,mechanic,红色牌,Red Cards,confirmed
+sts1.mechanic.modifier.15460560,mechanic,绿色牌,Green Cards,confirmed
+sts1.mechanic.modifier.15460562,mechanic,蓝色牌,Blue Cards,confirmed
+sts1.mechanic.modifier.15460564,mechanic,紫色牌,Purple Cards,confirmed
+sts1.mechanic.modifier.15460566,mechanic,无色牌,Colorless Cards,confirmed
+sts1.mechanic.modifier.15460568,mechanic,传家宝,Heirloom,confirmed
+sts1.mechanic.modifier.15460570,mechanic,时间膨胀,Time Dilation,confirmed
+sts1.mechanic.modifier.15460573,mechanic,致命事件,Deadly Events,confirmed
+sts1.mechanic.modifier.15460575,mechanic,两者择一,Binary,confirmed
+sts1.mechanic.modifier.15460577,mechanic,诅咒局,Cursed Run,confirmed
+sts1.mechanic.modifier.15460579,mechanic,精英猎手,Big Game Hunter,confirmed
+sts1.mechanic.modifier.15460581,mechanic,死斗,Lethality,confirmed
+sts1.mechanic.modifier.15460583,mechanic,点金手,Midas,confirmed
+sts1.mechanic.modifier.15460585,mechanic,暗夜惊魂,Night Terrors,confirmed
+sts1.mechanic.modifier.15460587,mechanic,身患绝症,Terminal,confirmed
+sts1.mechanic.modifier.15460589,mechanic,前路已定,Certain Future,confirmed
+sts1.mechanic.modifier.15627169,mechanic,飞行,Flight,confirmed
+sts1.mechanic.modifier.15762210,mechanic,日常特效,Daily Mods,confirmed
+sts1.mechanic.modifier.15762212,mechanic,终幕,The Ending,confirmed
+sts1.mechanic.modifier.15762214,mechanic,荒疫箱,Blight Chests,confirmed
+sts1.mechanic.modifier.15762216,mechanic,赞美异蛇,Praise Snecko,confirmed
+sts1.mechanic.modifier.15762218,mechanic,盗梦空间,Inception,confirmed
+sts1.mechanic.modifier.15762220,mechanic,完美形态,My True Form,confirmed
+sts1.mechanic.modifier.15762222,mechanic,一血传奇,One Hit Wonder,confirmed
+sts1.mechanic.modifier.15762224,mechanic,初始牌组,Starter Deck,confirmed
 sts1.mechanic.monsters,mechanic,怪物介绍,Monsters,confirmed
 sts1.mechanic.player_turn,mechanic,玩家回合,Player Turn,confirmed
 sts1.mechanic.potions,mechanic,药水,Potions,confirmed

@@ -39,4 +39,4 @@
 | `status.description` | Whenever you play a Power card, gains X Strength. | `single_source` | [P3 wiki.gg API batch: status 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Dexterity|Strength|Buffs|Buffs|Buffs|Buffs|Debuffs|Debuffs|Buffs|Debuffs|Buffs|Debuffs|Debuffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 你每打出一张 能力牌 ，其便获得 X 点 力量 。 | `single_source` | [好奇](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460286&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

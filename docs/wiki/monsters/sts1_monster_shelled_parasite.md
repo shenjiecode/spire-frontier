@@ -59,4 +59,4 @@
 | `source.title_text` | 带壳寄生怪 | `single_source` | [带壳寄生怪](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15436702&wiki_id=646570) |
 | `source.wikitext` | {{Enemy Infobox<br>|Name   = Shelled Parasite<br>|Image  = ShelledParasite.png<br>|HP     = 68-72<br>|AscHP  = 70-75<br>|Powers = {{BD|Plated Armor}} 14<br>|Debut  = Act 2<br>|Type   = Normal<br>}} {{Power Infobox|Plated Armor}}<br>'''Shelled Parasite''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Shelled Parasite}}<br>{{Intents Table/row<br>|Name   = Double Strike<br>|Intent = Attack3<br>|Effect = Deals (6×2;{{Asc|2|7×2}}... | `single_source` | [P3 wiki.gg API batch: monster 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Sentry|Giant_Head|Bronze_Automaton|The_Collector|Shelled_Parasite|Jaw_Worm|Slime_Boss|Gremlin_Leader|Louses|Taskmaster|Darkling|Byrd|Slimes|Sentry|Slavers|Awakened_One|Hexaghost|Snecko|Spire_Growth|Gremlin_Nob&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

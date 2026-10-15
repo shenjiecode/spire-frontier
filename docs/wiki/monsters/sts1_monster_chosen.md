@@ -62,4 +62,4 @@
 | `source.title_text` | 被拣选者 | `single_source` | [被拣选者](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15408980&wiki_id=646570) |
 | `source.wikitext` | {{Ambox<br>| title = WARNING!<br>| color = red<br>| icon = GremlinNob.png<br>| message = ''This page is under construction. Information may be wrong or incomplete.''<br>}}<br><br><br>{{Enemy Infobox<br>|Name   = Chosen<br>|Image  = Chosen.png<br>|HP     = 95-99<br>|AscHP  = 98-103<br>|Debut  = Act 2<br>|Type   = Normal<br>}}<br>{{Power Infobox|Hex}}'''The Chosen''' is a normal [[Monsters|Enemy]] encountered exclusively in [[Act 2]].<br><br>== Pattern ==<br>{{Intents Table/start|Chosen}}<br>{{... | `single_source` | [P3 wiki.gg API batch: monster 1](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Slimes|Corrupt_Heart|Thieves|Thieves|Time_Eater|Snake_Plant|Chosen|Donu_and_Deca|Lagavulin|Nemesis|Centurion_and_Mystic|Spire_Shield_and_Spire_Spear|Gremlins|Spheric_Guardian|The_Guardian|Cultist|Writhing_Mass|Transient|Book_of_Stabbing|Reptomancer&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

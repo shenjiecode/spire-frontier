@@ -37,4 +37,4 @@
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "WEAK", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `keyword.definition` | {"definition_en": "Weakened creatures deal #b25% less damage with Attacks.", "definition_zh": "有虚弱效果的生物用攻击造成的伤害减少 #b25% 。", "wiki_sections": []} | `single_source` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

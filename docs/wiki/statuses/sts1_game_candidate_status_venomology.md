@@ -34,4 +34,4 @@
 | `game.status.descriptions` | ["#yPoison grows stronger by #b", " instead of lowering each turn."] | `verified_game` | [Game localization eng/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/powers.json) |
 | `game.status.descriptions` | [" #y中毒 状态不再每回合减少，而是每回合增加 #b", " 层。"] | `verified_game` | [Game localization zhs/powers.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/powers.json) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

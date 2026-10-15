@@ -31,4 +31,4 @@
 | `mechanic.definition` | {"definition_en": "Until next turn, prevents damage."} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `mechanic.definition.zh` | 持续到下回合开始前，阻挡伤害。 | `verified_game` | [Game localization zhs/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/keywords.json) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

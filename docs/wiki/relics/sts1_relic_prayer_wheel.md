@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Rare |
-| `effect_json` | {"description_en": "Normal enemies drop an additional card reward.The wheel continues to spin, never stopping.", "description_zh": "普通敌人多掉落一次卡牌奖励。", "flavor": "The wheel continues to spin, never stopping.", "flavor_en": "The wheel continues to spin, never stopping.", "flavor_zh": "经轮一直转动，永远不停。"} |
+| `effect_json` | {"description_en": "Normal enemies drop an additional card reward.", "description_zh": "普通敌人多掉落一次卡牌奖励。", "flavor": "The wheel continues to spin, never stopping.", "flavor_en": "The wheel continues to spin, never stopping.", "flavor_zh": "经轮一直转动，永远不停。"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 转经轮 | `single_source` | [转经轮](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=516695&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Prayer Wheel<br>|Image       = PrayerWheel.png<br>|Rarity      = Rare<br>|Description = Normal enemies drop an additional card reward.<br>|Flavor      = The wheel continues to spin, never stopping.<br>}}<br>{{R|Prayer Wheel}} is a {{QueryLink|Relics|rarity:Rare|Rare}} [[Relic]]. It makes [[Monsters|''normal'' enemies]] offer an additional card reward in the end of combat rewards. This effect does '''not''' apply to [[Elite]] comba... | `single_source` | [P3 wiki.gg API batch: relic 2](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Strike_Dummy|Damaru|Du-Vu_Doll|Omamori|Shuriken|Nunchaku|Fusion_Hammer|Bronze_Scales|Pear|Bird-Faced_Urn|Snecko_Skull|Dream_Catcher|Frozen_Egg|Black_Star|Blue_Candle|Dolly's_Mirror|Ectoplasm|Membership_Card|Tiny_House|Prayer_Wheel&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

@@ -37,4 +37,4 @@
 | `game.localization_key` | {"jar_sha256": "cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673", "key": "CONFUSED", "kind": "keyword", "steam_build_id": "10180494"} | `verified_game` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 | `keyword.definition` | {"definition_en": "Whenever you draw a card, randomize its cost.", "definition_zh": "你每抽到一张牌，就将其耗能随机变化。", "wiki_sections": []} | `single_source` | [Game localization eng/keywords.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/keywords.json) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

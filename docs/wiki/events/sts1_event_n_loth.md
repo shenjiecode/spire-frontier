@@ -51,4 +51,4 @@
 | `source.title_text` | 恩洛斯 | `single_source` | [恩洛斯](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15389480&wiki_id=646570) |
 | `source.wikitext` | {{Event Infobox<br>|Name=N'loth<br>|Image=Event-Nloth.png<br>}} {{Small Relic Infobox|N'loth's Gift}}<br>{{E|N'loth}} is a {{QueryLink|Events|shrine:Yes|shrine Event}} found exclusively in [[Act 2]]. It will only appear if the player has at least 2 [[Relics]]. This Event is the only way to obtain {{R|N'loth's Gift}}.<br><br>== Options ==<br>'''Note:''' "Relic A" and "Relic B" will be randomly chosen from the player's currently held [[Relics]].<br><br><br><br>{{Frame|Offer: Relic A}} {{TS|nega... | `single_source` | [P3 wiki.gg API batch: event 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Cursed_Tome|Living_Wall|Face_Trader|Winding_Halls|N'loth|The_Cleric|Masked_Bandits|Knowing_Skull|Mysterious_Sphere|Wheel_of_Change|Ominous_Forge&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:08+00:00

@@ -39,4 +39,4 @@
 | `status.description` | Whenever you receive attack damage from this enemy, add a Wound into your discard pile | `single_source` | [P3 wiki.gg API batch: status 3](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Buffs|Debuffs|Buffs|Buffs|Buffs|Buffs|Buffs&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `status.description` | 每当这个敌人对你造成伤害时，在你的弃牌堆里增加一张 伤口 。 | `single_source` | [疼痛戳刺](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=15460331&wiki_id=646570) |
 
-页面生成时间：2026-09-18T11:10:22+00:00
+页面生成时间：2026-09-18T14:55:10+00:00

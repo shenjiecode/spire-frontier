@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Shop |
-| `effect_json` | {"description_en": "Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous.", "description_zh": "手钻\n稀有度\n商店\n作用\n每当你突破敌人的格挡时，给予2层易伤。\n说明\n螺旋超危险的啊。", "flavor": "Spirals are dangerous.", "flavor_en": "\"Spirals are dangerous.\"", "flavor_zh": "“螺旋超危险的啊。”"} |
+| `effect_json` | {"description_en": "Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous.", "description_zh": "每当你突破敌人的格挡时，给予2层易伤。", "description_zh_origin": "xiaoheihe_effect_cell", "description_zh_source_page_id": "xiao.review.494899.792e689bca012e5f", "flavor": "Spirals are dangerous.", "flavor_en": "\"Spirals are dangerous.\"", "flavor_zh": "“螺旋超危险的啊。”"} |
 
 ## 相关条目
 
@@ -37,11 +37,11 @@
 | `game.relic.flavor` | "Spirals are dangerous." | `verified_game` | [Game localization eng/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/eng/relics.json) |
 | `game.relic.flavor` | “螺旋超危险的啊。” | `verified_game` | [Game localization zhs/relics.json](game://desktop-1.0.jar/cfad868ac8d65a88e71a0bf096fb09f78811e553effe0787c5309a655e081673/localization/zhs/relics.json) |
 | `relic.effect` | Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous. | `provisional` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
-| `relic.effect` | Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous. | `provisional` | [手钻](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494899&wiki_id=646570) |
+| `relic.effect` | Whenever you break an enemy's Block, apply 2 Vulnerable.Spirals are dangerous. | `provisional` | [手钻](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494899&wiki_id=646570#snapshot-792e689bca012e5f) |
 | `source.article_text` | 手钻<br>稀有度<br>商店<br>作用<br>每当你突破敌人的格挡时，给予2层易伤。<br>说明<br>螺旋超危险的啊。 | `single_source` | [手钻](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494899&wiki_id=646570) |
 | `source.image_urls` | ["/images/thumb/HandDrill.png/80px-HandDrill.png?99b253"] | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.infobox.description` | Whenever you break an enemy's Block, apply 2 Vulnerable. | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 | `source.title_text` | 手钻 | `single_source` | [手钻](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=494899&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Hand Drill<br>|Image       = HandDrill.png<br>|Rarity      = Shop<br>|Description = Whenever you break an enemy's {{KW|Block}}, apply 2 {{BD|Vulnerable}}.<br>|Flavor      = Spirals are dangerous.<br>}}<br>{{Keyword Infobox|Block}} {{Power Infobox|Vulnerable}}<br>{{R|Hand Drill}} is a {{QueryLink|Relics|rarity:Shop|Shop}} [[Relic]].<br><br>== Sources ==<br>* Can only be bought from the [[Merchant]]. Only 1 {{QueryLink|Relics|rarity... | `single_source` | [P3 wiki.gg API batch: relic 8](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Hand_Drill|Ice_Cream|Unceasing_Top|Frozen_Eye|Maw_Bank|Enchiridion|Blood_Vial|Red_Circlet|War_Paint|Singing_Bowl|Eternal_Feather|Meal_Ticket|Toy_Ornithopter|Mango|Turnip|Stone_Calendar|Red_Skull|Clockwork_Souvenir|Torii|Pure_Water&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00

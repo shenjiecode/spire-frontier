@@ -13,7 +13,7 @@
 | 字段 | 值 |
 | --- | --- |
 | `rarity` | Special |
-| `effect_json` | {"description_en": "Collect as many as you can.You ran out of relics to find. Impressive!", "description_zh": "多多益善。", "flavor": "You ran out of relics to find. Impressive!", "flavor_en": "You ran out of relics to find. Impressive!", "flavor_zh": "你已经没有更多遗物可以拿了。厉害！"} |
+| `effect_json` | {"description_en": "Collect as many as you can.", "description_zh": "多多益善。", "flavor": "You ran out of relics to find. Impressive!", "flavor_en": "You ran out of relics to find. Impressive!", "flavor_zh": "你已经没有更多遗物可以拿了。厉害！"} |
 
 ## 相关条目
 
@@ -44,4 +44,4 @@
 | `source.title_text` | 头环 | `single_source` | [头环](https://api.xiaoheihe.cn/wiki/get_article_for_app/?article_id=526677&wiki_id=646570) |
 | `source.wikitext` | {{Sequel Disambiguation}}<br>{{Relic Infobox<br>|Name        = Circlet<br>|Image       = Circlet.png<br>|Rarity      = Special<br>|Description = Collect as many as you can.<br>|Flavor      = You ran out of relics to find. Impressive!<br>}}<br>{{R|Circlet}} is a {{QueryLink|Relics|rarity:Special|Special}} [[Relic]] that is obtained once all other [[Relics]] have been collected. {{R|Circlet}} will stack in your relics list.<br><br>== Trivia ==<br>* The {{R|Red Circlet}} is a relic meant to be o... | `single_source` | [P3 wiki.gg API batch: relic 6](https://slaythespire.wiki.gg/api.php?action=query&format=json&formatversion=1&titles=Old_Coin|Mummified_Hand|Inserter|Busted_Crown|Paper_Phrog|Sacred_Bark|Medical_Kit|Calipers|Question_Card|Pantograph|Ancient_Tea_Set|Lizard_Tail|Molten_Egg|Cracked_Core|Whetstone|Circlet|Symbiotic_Virus|Orrery|Letter_Opener|Kunai&prop=revisions&rvprop=content|ids&rvslots=main) |
 
-页面生成时间：2026-09-18T11:10:21+00:00
+页面生成时间：2026-09-18T14:55:09+00:00
